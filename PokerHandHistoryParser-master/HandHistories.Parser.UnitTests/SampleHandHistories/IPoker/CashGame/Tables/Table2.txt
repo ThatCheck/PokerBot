@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="0">
+  <general>
+    <mode>real</mode>
+    <gametype>Holdem NL €0.05/€0.10</gametype>
+    <tablename>Akcakent, 817034504</tablename>
+    <tablecurrency>EUR</tablecurrency>
+    <duration>N/A</duration>
+    <gamecount>N/A</gamecount>
+    <startdate>2014-01-06 11:29:26</startdate>
+    <currency>EUR</currency>
+    <nickname>N/A</nickname>
+    <bets>N/A</bets>
+    <wins>N/A</wins>
+    <chipsin>N/A</chipsin>
+    <chipsout>N/A</chipsout>
+    <ipoints>N/A</ipoints>
+    <statuspoints>N/A</statuspoints>
+    <awardpoints>N/A</awardpoints>
+  </general>
+  <game gamecode="5383457868">
+    <general>
+      <startdate>2014-01-06 11:29:36</startdate>
+      <players>
+        <player seat="3" name="heeizzsster" chips="€6.82" dealer="1" win="€0" bet="€0.07" rebuy="0" addon="0" reg_code="-" />
+        <player seat="8" name="SlavNi666" chips="€12.89" dealer="0" win="€0.19" bet="€0.12" rebuy="0" addon="0" reg_code="-" />
+      </players>
+    </general>
+    <round no="0">
+      <action no="1" player="heeizzsster" type="15" sum="€0.02" cards="[cards]" />
+      <action no="3" player="heeizzsster" type="1" sum="€0.05" cards="[cards]" />
+      <action no="2" player="SlavNi666" type="15" sum="€0.02" cards="[cards]" />
+      <action no="4" player="SlavNi666" type="2" sum="€0.10" cards="[cards]" />
+    </round>
+    <round no="1">
+      <cards type="Pocket" player="heeizzsster">X X</cards>
+      <action no="5" player="heeizzsster" type="0" sum="€0" cards="" />
+      <cards type="Pocket" player="SlavNi666">X X</cards>
+    </round>
+  </game>
+</session>

@@ -1,0 +1,22 @@
+﻿Full Tilt Poker Game #33730060070: Table Iowa (heads up) - NL Hold'em - $5/$10 - 12:28:01 ET - 2014/01/06
+Seat 1: jobetzu ($1,020)
+Seat 2: theking881 ($1,151.70)
+jobetzu posts the small blind of $5
+theking881 posts the big blind of $10
+The button is in seat #1
+*** HOLE CARDS ***
+jobetzu raises to $20
+theking881 raises to $50
+jobetzu calls $30
+*** FLOP *** [Qc 2s 7h] (Total Pot: $100, 2 Players)
+theking881 bets $30
+jobetzu folds
+jobetzu adds $30
+Uncalled bet of $30 returned to theking881
+theking881 mucks
+theking881 wins the pot ($99.50)
+*** SUMMARY ***
+Total pot $100 | Rake $0.50
+Board: [Qc 2s 7h]
+Seat 1: jobetzu (small blind) folded on the Flop
+Seat 2: theking881 (big blind) collected ($99.50), mucked

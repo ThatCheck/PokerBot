@@ -1,0 +1,30 @@
+﻿Full Tilt Poker Game #33728217123: Table Brit (New to the Game) - NL Hold'em - $0.05/$0.10 - 22:56:02 ET - 2014/01/05
+Seat 1: Tvankaat ($7.53)
+Seat 7: bonniebbb9 ($12.61)
+bonniebbb9 posts the small blind of $0.05
+Tvankaat posts the big blind of $0.10
+The button is in seat #7
+*** HOLE CARDS ***
+bonniebbb9 calls $0.05
+Tvankaat checks
+*** FLOP *** [Tc 6c 6h] (Total Pot: $0.20, 2 Players)
+Tvankaat checks
+bonniebbb9 bets $0.10
+Tvankaat calls $0.10
+*** TURN *** [Tc 6c 6h] [8c] (Total Pot: $0.40, 2 Players)
+Tvankaat checks
+bonniebbb9 bets $0.10
+Tvankaat calls $0.10
+*** RIVER *** [Tc 6c 6h 8c] [Kc] (Total Pot: $0.60, 2 Players)
+Tvankaat checks
+bonniebbb9 bets $1.20
+Tvankaat calls $1.20
+*** SHOW DOWN ***
+bonniebbb9 shows [9c Jd] a flush, King high
+Tvankaat mucks
+bonniebbb9 wins the pot ($2.85) with a flush, King high
+*** SUMMARY ***
+Total pot $3 | Rake $0.15
+Board: [Tc 6c 6h 8c Kc]
+Seat 1: Tvankaat (big blind) mucked
+Seat 7: bonniebbb9 (small blind) collected ($2.85)

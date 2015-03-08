@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{48734DD1-0DF4-441B-8E0B-D529C3C585F4}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PokerBot</RootNamespace>
+    <AssemblyName>PokerBot</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publier\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.WindowsAPICodePack">
+      <HintPath>..\packages\WindowsAPICodePack-Core.1.1.1\lib\Microsoft.WindowsAPICodePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.WindowsAPICodePack.Shell">
+      <HintPath>..\packages\WindowsAPICodePack-Shell.1.1.1\lib\Microsoft.WindowsAPICodePack.Shell.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>..\packages\Npgsql.2.2.3\lib\net45\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="NLog">
+      <HintPath>..\packages\NLog.3.2.0.0\lib\net45\NLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\packages\Npgsql.2.2.3\lib\net45\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="smilenet, Version=1.1.4431.20499, Culture=neutral">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\smilenet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BayesianNetwork\BaseSmileDefinition.cs" />
+    <Compile Include="BayesianNetwork\ISmileInterface.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\Action.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\ActionEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\ActionEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\ActionFlop.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\ActionRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\ActionTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\Action\BaseAction.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BaseBoard.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BoardEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BoardEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BoardFlop.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BoardChangeRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\Board\BoardChangeTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\BornedValue.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\BaseDrawingHand.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\BaseStraightFlush.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\DrawingHand.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\DrawingHandEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\DrawingHandEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\DrawingHandTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\FlushChangeRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\FlushChangeTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\StateFlushStraightEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\StateFlushStraightEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\Flush.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\Straight.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\StraightChangeRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\DrawingHand\StraightChangeTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\HandGroup\HandGroup.cs" />
+    <Compile Include="BayesianNetwork\V1\HandGroup\HandGroupEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\HandGroup\HandGroupEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\BaseHandType.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\HandType.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\HandTypeEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\HandTypeEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\HandTypeRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\HandType\HandTypeTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\Network.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\BaseNumberPlayerSitIn.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\FlopNumberPlayerSitIn.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\NumberPlayerSitIn.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\NumberPlayerSitInEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\NumberPlayerSitInEnumTypeExtension.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\RiverNumberPlayerSitIn.cs" />
+    <Compile Include="BayesianNetwork\V1\NumberPlayerSitIn\TurnNumberPlayerSitIn.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\BasePositionPlayer.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\Position.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\PositionEnumType.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\PositionEnumTypeExtensions.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\PositionFlop.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\PositionRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\Position\PositionTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\PotOdds\BasePotOdds.cs" />
+    <Compile Include="BayesianNetwork\V1\PotOdds\PotOdds.cs" />
+    <Compile Include="BayesianNetwork\V1\PotOdds\PotOddsFlop.cs" />
+    <Compile Include="BayesianNetwork\V1\PotOdds\PotOddsRiver.cs" />
+    <Compile Include="BayesianNetwork\V1\PotOdds\PotOddsTurn.cs" />
+    <Compile Include="BayesianNetwork\V1\Stats\FoldToThreeBet.cs" />
+    <Compile Include="BayesianNetwork\V1\Stats\PFR.cs" />
+    <Compile Include="BayesianNetwork\V1\Stats\ThreeBet.cs" />
+    <Compile Include="BayesianNetwork\V1\Stats\VPIP.cs" />
+    <Compile Include="CaseBased\Base\CaseBase.cs" />
+    <Compile Include="CaseBased\Base\QBRBase.cs" />
+    <Compile Include="CaseBased\Evaluator\ICaseEvaluator.cs" />
+    <Compile Include="CaseBased\Evaluator\ProfitEvaluator.cs" />
+    <Compile Include="CaseBased\PreFlop\PreflopCase.cs" />
+    <Compile Include="Comparer\PlayingCardNominalValueComparer.cs" />
+    <Compile Include="CustomForm\Event\ProgressEventArgs.cs" />
+    <Compile Include="CustomForm\LoggerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm\LoggerForm.Designer.cs">
+      <DependentUpon>LoggerForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomForm\TableForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm\TableForm.Designer.cs">
+      <DependentUpon>TableForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CustomForm\Training\ExtractDataForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CustomForm\Training\ExtractDataForm.Designer.cs">
+      <DependentUpon>ExtractDataForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Entity\Card\CardConverter.cs" />
+    <Compile Include="Entity\Enum\ActionEnum.cs" />
+    <Compile Include="Entity\Enum\ActionEnumConverter.cs" />
+    <Compile Include="Entity\Enum\Currency.cs" />
+    <Compile Include="Entity\Enum\Step.cs" />
+    <Compile Include="Entity\Event\DecodedErrorHandEventArgs.cs" />
+    <Compile Include="Entity\Event\DecodedHandEventArgs.cs" />
+    <Compile Include="Entity\Hand\Hand.cs" />
+    <Compile Include="Entity\Player\Stats.cs" />
+    <Compile Include="Entity\Player\StatSingleton.cs" />
+    <Compile Include="Entity\Table\Board.cs" />
+    <Compile Include="Entity\Card\CardSuit.cs" />
+    <Compile Include="Entity\Card\PlayingCard.cs" />
+    <Compile Include="Entity\Card\PlayingCardNominalValue.cs" />
+    <Compile Include="Entity\Hand\PokerHand.cs" />
+    <Compile Include="Entity\Table\HeroPlayer.cs" />
+    <Compile Include="Entity\Table\Player.cs" />
+    <Compile Include="Entity\Table\Table.cs" />
+    <Compile Include="Entity\Table\Position.cs" />
+    <Compile Include="Entity\Window\WindowSupervisor.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hand\PokerEvaluator.cs" />
+    <Compile Include="Hand\PokerHandEvaluationResult.cs" />
+    <Compile Include="Hand\PokerHandEvaluator.cs" />
+    <Compile Include="Hand\HandOdd.cs" />
+    <Compile Include="Hand\IPokerHandEvaluator.cs" />
+    <Compile Include="Hand\TwoPlusTwoHandEvaluator.cs" />
+    <Compile Include="MemoryReader\MemoryReader.cs" />
+    <Compile Include="Postgres\PostgresConnector.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Trainer\Trainer.cs" />
+    <Compile Include="Utils\CardSuitConverter.cs" />
+    <Compile Include="Utils\EmptyModelInitializer.cs" />
+    <Compile Include="Utils\Image.cs" />
+    <Compile Include="Utils\NominalValueConverter.cs" />
+    <Compile Include="Utils\ObservableDictionary.cs" />
+    <Compile Include="Utils\Range.cs" />
+    <Compile Include="Utils\WindowHandle.cs" />
+    <Content Include="lib\smilenet.dll" />
+    <Content Include="Trainer\Data\party_fr_1752_1419401754_2-4_NL-Holdem-0-part22-1669355688.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\cards_53.png" />
+    <None Include="Resources\cards_52.png" />
+    <None Include="Resources\cards_51.png" />
+    <None Include="Resources\cards_50.png" />
+    <None Include="Resources\cards_49.png" />
+    <None Include="Resources\cards_48.png" />
+    <None Include="Resources\cards_47.png" />
+    <None Include="Resources\cards_46.png" />
+    <None Include="Resources\cards_45.png" />
+    <None Include="Resources\cards_44.png" />
+    <None Include="Resources\cards_43.png" />
+    <None Include="Resources\cards_42.png" />
+    <None Include="Resources\cards_41.png" />
+    <None Include="Resources\cards_40.png" />
+    <None Include="Resources\cards_39.png" />
+    <None Include="Resources\cards_38.png" />
+    <None Include="Resources\cards_37.png" />
+    <None Include="Resources\cards_36.png" />
+    <None Include="Resources\cards_35.png" />
+    <None Include="Resources\cards_34.png" />
+    <None Include="Resources\cards_33.png" />
+    <None Include="Resources\cards_32.png" />
+    <None Include="Resources\cards_31.png" />
+    <None Include="Resources\cards_30.png" />
+    <None Include="Resources\cards_29.png" />
+    <None Include="Resources\cards_28.png" />
+    <None Include="Resources\cards_27.png" />
+    <None Include="Resources\cards_26.png" />
+    <None Include="Resources\cards_25.png" />
+    <None Include="Resources\cards_24.png" />
+    <None Include="Resources\cards_23.png" />
+    <None Include="Resources\cards_22.png" />
+    <None Include="Resources\cards_21.png" />
+    <None Include="Resources\cards_20.png" />
+    <None Include="Resources\cards_19.png" />
+    <None Include="Resources\cards_18.png" />
+    <None Include="Resources\cards_17.png" />
+    <None Include="Resources\cards_16.png" />
+    <None Include="Resources\cards_15.png" />
+    <None Include="Resources\cards_14.png" />
+    <None Include="Resources\cards_13.png" />
+    <None Include="Resources\cards_12.png" />
+    <None Include="Resources\cards_11.png" />
+    <None Include="Resources\cards_10.png" />
+    <None Include="Resources\cards_09.png" />
+    <None Include="Resources\cards_08.png" />
+    <None Include="Resources\cards_07.png" />
+    <None Include="Resources\cards_06.png" />
+    <None Include="Resources\cards_05.png" />
+    <None Include="Resources\cards_04.png" />
+    <None Include="Resources\cards_03.png" />
+    <None Include="Resources\cards_02.png" />
+    <None Include="Resources\cards_01.png" />
+    <EmbeddedResource Include="CustomForm\LoggerForm.resx">
+      <DependentUpon>LoggerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomForm\TableForm.resx">
+      <DependentUpon>TableForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CustomForm\Training\ExtractDataForm.resx">
+      <DependentUpon>ExtractDataForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Content Include="NLog.config">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="NLog.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Resources\HandRanks.dat" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Trainer\NetworkData\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PokerHandHistoryParser-master\HandHistories.Objects\HandHistories.Objects.csproj">
+      <Project>{d5c61a3a-2725-47d9-a828-f5ce4ec19a4a}</Project>
+      <Name>HandHistories.Objects</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PokerHandHistoryParser-master\HandHistories.Parser\HandHistories.Parser.csproj">
+      <Project>{0f131db6-4891-4a24-a529-87f4816b9923}</Project>
+      <Name>HandHistories.Parser</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

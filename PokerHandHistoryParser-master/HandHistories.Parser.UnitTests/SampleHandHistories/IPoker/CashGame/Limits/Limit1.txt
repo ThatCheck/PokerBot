@@ -1,0 +1,46 @@
+﻿<session sessioncode="0">
+  <general>
+    <mode>real</mode>
+    <gametype>Holdem NL €0.05/€0.10</gametype>
+    <tablename>Agiasos, 817034507</tablename>
+    <tablecurrency>EUR</tablecurrency>
+    <duration>N/A</duration>
+    <gamecount>N/A</gamecount>
+    <startdate>2014-01-06 09:24:24</startdate>
+    <currency>EUR</currency>
+    <nickname>N/A</nickname>
+    <bets>N/A</bets>
+    <wins>N/A</wins>
+    <chipsin>N/A</chipsin>
+    <chipsout>N/A</chipsout>
+    <ipoints>N/A</ipoints>
+    <statuspoints>N/A</statuspoints>
+    <awardpoints>N/A</awardpoints>
+  </general>
+  <game gamecode="5383301708">
+    <general>
+      <startdate>2014-01-06 09:24:56</startdate>
+      <players>
+        <player seat="1" name="vinwillispoker" chips="€6.62" dealer="0" win="€0" bet="€0" rebuy="0" addon="0" reg_code="-" />
+        <player seat="3" name="bjonlyking" chips="€12.14" dealer="0" win="€0" bet="€0.05" rebuy="0" addon="0" reg_code="-" />
+        <player seat="5" name="fintiney" chips="€1.73" dealer="0" win="€0.15" bet="€0.10" rebuy="0" addon="0" reg_code="-" />
+        <player seat="6" name="drukinas" chips="€13.62" dealer="0" win="€0" bet="€0" rebuy="0" addon="0" reg_code="-" />
+        <player seat="8" name="Luchangquan" chips="€0" dealer="0" win="€0" bet="€0" rebuy="0" addon="0" reg_code="-" />
+        <player seat="10" name="BrookeCN" chips="€3.85" dealer="1" win="€0" bet="€0" rebuy="0" addon="0" reg_code="-" />
+      </players>
+    </general>
+    <round no="0">
+      <action no="1" player="bjonlyking" type="1" sum="€0.05" cards="[cards]" />
+      <action no="2" player="fintiney" type="2" sum="€0.10" cards="[cards]" />
+    </round>
+    <round no="1">
+      <cards type="Pocket" player="bjonlyking">X X</cards>
+      <action no="5" player="bjonlyking" type="0" sum="€0" cards="" />
+      <cards type="Pocket" player="fintiney">X X</cards>
+      <cards type="Pocket" player="drukinas">X X</cards>
+      <action no="3" player="drukinas" type="0" sum="€0" cards="" />
+      <cards type="Pocket" player="BrookeCN">X X</cards>
+      <action no="4" player="BrookeCN" type="0" sum="€0" cards="" />
+    </round>
+  </game>
+</session>

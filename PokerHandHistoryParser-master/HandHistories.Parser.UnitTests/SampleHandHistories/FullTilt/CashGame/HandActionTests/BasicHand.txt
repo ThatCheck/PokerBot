@@ -1,0 +1,21 @@
+﻿Full Tilt Poker Game #33727950903: Table Goldring (heads up) - NL Hold'em - $5/$10 - 21:11:15 ET - 2014/01/05
+Seat 1: Rene Lacoste ($1,000)
+Seat 2: ElkY ($1,044.50)
+Rene Lacoste posts the small blind of $5
+ElkY posts the big blind of $10
+The button is in seat #1
+*** HOLE CARDS ***
+Rene Lacoste raises to $20
+ElkY calls $10
+*** FLOP *** [3s 6d 8h] (Total Pot: $40, 2 Players)
+ElkY checks
+Rene Lacoste bets $20
+ElkY folds
+Uncalled bet of $20 returned to Rene Lacoste
+Rene Lacoste mucks
+Rene Lacoste wins the pot ($39.50)
+*** SUMMARY ***
+Total pot $40 | Rake $0.50
+Board: [3s 6d 8h]
+Seat 1: Rene Lacoste (small blind) collected ($39.50), mucked
+Seat 2: ElkY (big blind) folded on the Flop

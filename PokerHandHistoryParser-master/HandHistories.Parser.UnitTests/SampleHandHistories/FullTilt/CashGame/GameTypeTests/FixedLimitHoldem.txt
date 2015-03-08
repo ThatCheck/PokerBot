@@ -1,0 +1,22 @@
+﻿Full Tilt Poker Game #33729180182: Table Narit (6 max) - FL Hold'em - $0.05/$0.10 - 08:01:08 ET - 2014/01/06
+Seat 2: miezemuis ($12.98)
+Seat 3: kerberi ($2.72)
+miezemuis posts the small blind of $0.02
+kerberi posts the big blind of $0.05
+The button is in seat #2
+*** HOLE CARDS ***
+miezemuis raises to $0.10
+kerberi calls $0.05
+*** FLOP *** [5c Qc 2d] (Total Pot: $0.20, 2 Players)
+kerberi checks
+miezemuis bets $0.05
+kerberi raises to $0.10
+miezemuis folds
+Uncalled bet of $0.05 returned to kerberi
+kerberi mucks
+kerberi wins the pot ($0.29)
+*** SUMMARY ***
+Total pot $0.30 | Rake $0.01
+Board: [5c Qc 2d]
+Seat 2: miezemuis (small blind) folded on the Flop
+Seat 3: kerberi (big blind) collected ($0.29), mucked

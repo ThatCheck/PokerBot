@@ -1,0 +1,41 @@
+﻿***** Hand History for Game 13551202139 *****
+$0.50/$1 USD NL Texas Hold'em - Monday, January 06, 12:47:30 EST 2014
+Table Likhoslavl (Real Money)
+Seat 2 is the button
+Total number of players : 9/9 
+Seat 2: AllUNeedIsBluff ( $100 USD )
+Seat 7: BKS1945 ( $100 USD )
+Seat 8: Owller ( $100 USD )
+Seat 4: Roycey1992 ( $100 USD )
+Seat 3: RunnerLucker ( $100 USD )
+Seat 9: buyasta ( $44.50 USD )
+Seat 5: crapprotectd ( $177.97 USD )
+Seat 6: lukyanchuk83 ( $61.23 USD )
+Seat 1: to8zen ( $51.03 USD )
+RunnerLucker posts small blind [$0.50 USD].
+Roycey1992 posts big blind [$1 USD].
+** Dealing down cards **
+crapprotectd folds
+lukyanchuk83 folds
+BKS1945 folds
+Owller folds
+buyasta calls [$1 USD]
+to8zen folds
+AllUNeedIsBluff calls [$1 USD]
+RunnerLucker folds
+Roycey1992 checks
+** Dealing Flop ** [ 2h, 4s, 6c ]
+Roycey1992 checks
+buyasta bets [$4 USD]
+Roycey1992: always play ur opponent
+AllUNeedIsBluff calls [$4 USD]
+Roycey1992 folds
+** Dealing Turn ** [ Tc ]
+buyasta bets [$8 USD]
+AllUNeedIsBluff calls [$8 USD]
+** Dealing River ** [ 4h ]
+buyasta is all-In  [$31.50 USD]
+AllUNeedIsBluff will be using his time bank for this hand.
+AllUNeedIsBluff folds
+buyasta shows [ 6s, Kc ]two pairs, Sixes and Fours.
+buyasta wins $57.63 USD from the main pot with two pairs, Sixes and Fours.

@@ -1,0 +1,26 @@
+﻿***** Hand History for Game 13551390421 *****
+$10 USD PL Omaha Hi-Lo - Monday, January 06, 13:54:31 EST 2014
+Table Mecca (Real Money)
+Seat 1 is the button
+Total number of players : 2/6 
+Seat 2: DrunkSon88 ( $10 USD )
+Seat 1: Spuel2 ( $3.59 USD )
+Spuel2 posts small blind [$0.05 USD].
+DrunkSon88 posts big blind [$0.10 USD].
+** Dealing down cards **
+Spuel2 calls [$0.05 USD]
+DrunkSon88 checks
+** Dealing Flop ** [ 4d, 6d, 5s ]
+DrunkSon88 checks
+Spuel2 checks
+** Dealing Turn ** [ 9h ]
+DrunkSon88 checks
+Spuel2 checks
+** Dealing River ** [ 5c ]
+DrunkSon88 checks
+Spuel2 checks
+DrunkSon88 shows [ 2c, Qs, 8s, Kd ]a pair of Fives.
+DrunkSon88 shows8,6,5,4,2  for low.
+Spuel2 shows [ Jd, Ts, 8h, 5d ]three of a kind, Fives.
+Spuel2 wins $0.10 USD from the main pot with three of a kind, Fives.
+DrunkSon88 wins Lo ($0.09 USD) from the main pot with 8,6,5,4,2.

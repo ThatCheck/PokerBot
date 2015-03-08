@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<session sessioncode="0">
+  <general>
+    <mode>real</mode>
+    <gametype>Holdem NL €0.05/€0.10</gametype>
+    <tablename>Akkent, 817751639</tablename>
+    <tablecurrency>EUR</tablecurrency>
+    <duration>N/A</duration>
+    <gamecount>N/A</gamecount>
+    <startdate>2014-01-06 13:03:40</startdate>
+    <currency>EUR</currency>
+    <nickname>N/A</nickname>
+    <bets>N/A</bets>
+    <wins>N/A</wins>
+    <chipsin>N/A</chipsin>
+    <chipsout>N/A</chipsout>
+    <ipoints>N/A</ipoints>
+    <statuspoints>N/A</statuspoints>
+    <awardpoints>N/A</awardpoints>
+  </general>
+  <game gamecode="5383799416">
+    <general>
+      <startdate>2014-01-06 14:26:38</startdate>
+      <players>
+        <player seat="3" name="Amalfitano1" chips="€10.10" dealer="1" win="€0" bet="€0.05" rebuy="0" addon="0" reg_code="-" />
+        <player seat="8" name="Tanyasha1993" chips="€4.43" dealer="0" win="€0.15" bet="€0.10" rebuy="0" addon="0" reg_code="-" />
+      </players>
+    </general>
+    <round no="0">
+      <action no="1" player="Amalfitano1" type="1" sum="€0.05" cards="[cards]" />
+      <action no="2" player="Tanyasha1993" type="2" sum="€0.10" cards="[cards]" />
+    </round>
+    <round no="1">
+      <cards type="Pocket" player="Amalfitano1">X X</cards>
+      <action no="3" player="Amalfitano1" type="0" sum="€0" cards="" />
+      <cards type="Pocket" player="Tanyasha1993">X X</cards>
+    </round>
+  </game>
+  </session>

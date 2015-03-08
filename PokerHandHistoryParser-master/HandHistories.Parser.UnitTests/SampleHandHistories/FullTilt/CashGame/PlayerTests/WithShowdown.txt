@@ -1,0 +1,53 @@
+﻿Full Tilt Poker Game #33727524963: Table Dear - NL Hold'em - $0.05/$0.10 - 19:01:12 ET - 2014/01/05
+Seat 1: burjennio ($30.06)
+Seat 2: Haklot ($17.32)
+Seat 3: 14grant ($10.15)
+Seat 4: Caribou0 ($9.78)
+Seat 5: Corvus81 ($10)
+Seat 6: MUFTI76 ($16.67)
+Seat 7: luka-poker ($15.58), is sitting out
+Seat 8: ilya1681 ($10)
+Seat 9: OMGStoneAiken ($35.75)
+ilya1681 posts the small blind of $0.05
+OMGStoneAiken posts the big blind of $0.10
+The button is in seat #6
+*** HOLE CARDS ***
+burjennio raises to $0.40
+Haklot folds
+14grant calls $0.40
+Caribou0 folds
+Corvus81 has 15 seconds left to act
+Corvus81 folds
+MUFTI76 folds
+ilya1681 folds
+ilya1681 adds $0.05
+OMGStoneAiken folds
+*** FLOP *** [4h Jc 3c] (Total Pot: $0.95, 2 Players)
+burjennio has 15 seconds left to act
+burjennio bets $0.80
+14grant calls $0.80
+*** TURN *** [4h Jc 3c] [6h] (Total Pot: $2.55, 2 Players)
+burjennio has 15 seconds left to act
+burjennio has timed out
+burjennio checks
+14grant bets $1.70
+burjennio calls $1.70
+*** RIVER *** [4h Jc 3c 6h] [2h] (Total Pot: $5.95, 2 Players)
+burjennio checks
+14grant checks
+*** SHOW DOWN ***
+14grant shows [Kh Ks] a pair of Kings
+burjennio mucks
+14grant wins the pot ($5.66) with a pair of Kings
+*** SUMMARY ***
+Total pot $5.95 | Rake $0.29
+Board: [4h Jc 3c 6h 2h]
+Seat 1: burjennio mucked
+Seat 2: Haklot didn't bet (folded)
+Seat 3: 14grant collected ($5.66)
+Seat 4: Caribou0 didn't bet (folded)
+Seat 5: Corvus81 didn't bet (folded)
+Seat 6: MUFTI76 (button) didn't bet (folded)
+Seat 7: luka-poker is sitting out
+Seat 8: ilya1681 (small blind) folded before the Flop
+Seat 9: OMGStoneAiken (big blind) folded before the Flop
