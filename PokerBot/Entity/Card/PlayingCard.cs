@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PokerBot.Utils;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -18,6 +19,12 @@ namespace PokerBot.Entity.Card
             NominalValue = nominalValue;
         }
 
+        public PlayingCard(string card)
+        {
+            Suit = CardSuitConverter.getCardSuit(card[1].ToString());
+            NominalValue = NominalValueConverter.getPlayingCardNominalValue(card[0].ToString());
+        }
+
         public bool Equals(PlayingCard other)
         {
             //Check whether the compared object is null. 
@@ -34,10 +41,14 @@ namespace PokerBot.Entity.Card
             return Suit.GetHashCode() ^ NominalValue.GetHashCode();
         }
 
-
         public int CompareTo(PlayingCard other)
         {
             return this.NominalValue.CompareTo(other.NominalValue);
+        }
+
+        public string getStringCard()
+        {
+            return (NominalValueConverter.NormalizeFormat(this.NominalValue).ToUpper() + CardSuitConverter.NormalizeFormat(this.Suit).ToLower());
         }
     }
 }

@@ -29,7 +29,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 }
 
                 var allEvaluator = Range.getAllCombinaisonOneCardWithoutCardsSelectedForTwoPlusTwo(boardIntValue);
-                possible = false;
+                /*possible = false;
                 Parallel.ForEach(allEvaluator, (evaluated, state) =>
                 {
                     if (TwoPlusTwoHandEvaluator.Instance.LookupHand6(boardIntValue.Union(new int[] { evaluated }).ToArray()).hand == Entity.Hand.PokerHand.Straight)
@@ -43,7 +43,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 {
                     this.Value = StateFlushStraightEnumType.Draw_Likely;
                     return;
-                }
+                }*/
 
                 var allEvaluatorTwo = Range.getAllCombinaisonWithoutCardsSelectedForTwoPlusTwo(boardIntValue);
                 possible = false;
@@ -97,7 +97,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.None_Possible;
                     return;
                 }
-                this.Value = StateFlushStraightEnumType.None_None;
+                this.Value = StateFlushStraightEnumType.None_Draw;
                 return;
             }
             else if (boardTurn.Value == StateFlushStraightEnumType.Draw_Possible
@@ -149,17 +149,17 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
             StateFlushStraightEnumType[] enumArray = new StateFlushStraightEnumType[]
             {
                 StateFlushStraightEnumType.Draw_Draw,
-                StateFlushStraightEnumType.Draw_Likely,
+                //StateFlushStraightEnumType.Draw_Likely,
                 StateFlushStraightEnumType.Draw_Possible,
-                StateFlushStraightEnumType.Draw_Straight,
+                //StateFlushStraightEnumType.Draw_Straight,
                 StateFlushStraightEnumType.Likely_Likely,
                 StateFlushStraightEnumType.Likely_Straight,
                 StateFlushStraightEnumType.None_None,
                 StateFlushStraightEnumType.None_Draw,
-                StateFlushStraightEnumType.None_Possible,
+                //StateFlushStraightEnumType.None_Possible,
                 StateFlushStraightEnumType.Possible_Possible,
                 StateFlushStraightEnumType.Possible_Likely,
-                StateFlushStraightEnumType.Possible_Straight
+                //StateFlushStraightEnumType.Possible_Straight
             };
             foreach (StateFlushStraightEnumType enumValue in enumArray)
             {

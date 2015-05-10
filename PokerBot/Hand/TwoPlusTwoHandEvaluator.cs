@@ -4,13 +4,14 @@ using PokerBot.Utils;
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 namespace PokerBot.Hand
 {
-    public struct TwoPlusTwoHandEvaluatorResult
+    public struct TwoPlusTwoHandEvaluatorResult : IComparable 
     {
         public PokerHand hand;
         public int handType;
@@ -23,6 +24,68 @@ namespace PokerBot.Hand
             this.handType = handType;
             this.handRank = handRank;
             this.value = value;
+        }
+
+        public int CompareTo(object obj)
+        {
+            TwoPlusTwoHandEvaluatorResult hand = (TwoPlusTwoHandEvaluatorResult)obj;
+
+            if (hand.handType == this.handType)
+            {
+                if (this.handRank < hand.handRank)
+                {
+                    return -1;
+                }
+                else if (this.handRank > hand.handRank)
+                {
+                    return 1;
+                }
+                else
+                {
+                    return 0;
+                }
+            }
+            else
+            {
+                if (this.handType < hand.handType)
+                {
+                    return -1;
+                }
+                else
+                {
+                    return 1;
+                }
+            }
+        }
+
+        public static bool operator <(TwoPlusTwoHandEvaluatorResult e1, TwoPlusTwoHandEvaluatorResult e2)
+        {
+            return e1.CompareTo(e2) < 0;
+        }
+
+        public static bool operator >(TwoPlusTwoHandEvaluatorResult e1, TwoPlusTwoHandEvaluatorResult e2)
+        {
+            return e1.CompareTo(e2) > 0;
+        }
+
+        public static bool operator ==(TwoPlusTwoHandEvaluatorResult e1, TwoPlusTwoHandEvaluatorResult e2)
+        {
+            return e1.CompareTo(e2) == 0;
+        }
+
+        public static bool operator !=(TwoPlusTwoHandEvaluatorResult e1, TwoPlusTwoHandEvaluatorResult e2)
+        {
+            return e1.CompareTo(e2) != 0;
+        }
+
+        public override bool Equals(Object obj)
+        {
+            return this.CompareTo(obj) == 0;
+        }
+
+        public override int GetHashCode()
+        {
+            return this.value.GetHashCode();
         }
     }
 
@@ -96,8 +159,17 @@ namespace PokerBot.Hand
 
         private TwoPlusTwoHandEvaluator() 
         {
-
-            BinaryReader reader = new BinaryReader(new MemoryStream(PokerBot.Properties.Resources.HandRanks));
+            if (!File.Exists("./OnTheFly/HandRanks.dat"))
+            {
+                Stream data = new MemoryStream(PokerBot.Properties.Resources.HandRanks);
+                Directory.CreateDirectory("./OnTheFly");
+                ZipArchive archive = new ZipArchive(data);
+                foreach (ZipArchiveEntry entry in archive.Entries)
+                {
+                    entry.ExtractToFile("./OnTheFly/HandRanks.dat"); // .Open will return a stream
+                }
+            }
+            BinaryReader reader = new BinaryReader(File.OpenRead("./OnTheFly/HandRanks.dat"));
             try
             {
                 _lut = new int[maxSize];
@@ -110,6 +182,10 @@ namespace PokerBot.Hand
             }
         }
 
+        public void init()
+        {
+
+        }
         public static TwoPlusTwoHandEvaluator Instance
         {
             get 
@@ -124,6 +200,18 @@ namespace PokerBot.Hand
                 }
                 return instance;
             }
+        }
+
+        public TwoPlusTwoHandEvaluatorResult Lookup(int[] cards) // to get a hand strength
+        {
+            if (cards.Length == 7)
+                return LookupHand7(cards);
+            else if (cards.Length == 6)
+                return LookupHand6(cards);
+            else if (cards.Length == 5)
+                return LookupHand5(cards);
+
+            throw new ArgumentException("Unable to choose a lookup table with : " +cards.Length + " cards");
         }
 
         public TwoPlusTwoHandEvaluatorResult LookupHand7(int[] cards) // to get a hand strength

@@ -27,8 +27,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.Draw_Draw;
                 }
             }
-
-            if (this._flushTurn.Value == StateFlushStraightEnumType.Draw_Possible)
+            else if (this._flushTurn.Value == StateFlushStraightEnumType.Draw_Possible)
             {
                 if (riverBoard.Where(g => g.Count() >= 4).Any())
                 {
@@ -39,8 +38,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.Draw_Possible;
                 }
             }
-
-            if (this._flushTurn.Value == StateFlushStraightEnumType.None_Draw)
+            else if (this._flushTurn.Value == StateFlushStraightEnumType.None_Draw)
             {
                 if (riverBoard.Where(g => g.Count() == 3).Any())
                 {
@@ -51,13 +49,11 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.Draw_Draw;
                 }
             }
-
-            if (this._flushTurn.Value == StateFlushStraightEnumType.None_None)
+            else if (this._flushTurn.Value == StateFlushStraightEnumType.None_None)
             {
                     this.Value = StateFlushStraightEnumType.None_Draw;
             }
-
-            if (this._flushTurn.Value == StateFlushStraightEnumType.Possible_Likely)
+            else if (this._flushTurn.Value == StateFlushStraightEnumType.Possible_Likely)
             {
                 if (riverBoard.Where(g => g.Count() == 5).Any())
                 {
@@ -68,8 +64,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.Likely_Likely;
                 }
             }
-
-            if (this._flushTurn.Value == StateFlushStraightEnumType.Possible_Possible)
+            else if (this._flushTurn.Value == StateFlushStraightEnumType.Possible_Possible)
             {
                 if (riverBoard.Where(g => g.Count() == 4).Any())
                 {
@@ -94,7 +89,6 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
             {
                 StateFlushStraightEnumType.Draw_Draw,
                 StateFlushStraightEnumType.None_Draw,
-                StateFlushStraightEnumType.None_None,
                 StateFlushStraightEnumType.Draw_Possible,
                 StateFlushStraightEnumType.Likely_Flush,
                 StateFlushStraightEnumType.Likely_Likely,

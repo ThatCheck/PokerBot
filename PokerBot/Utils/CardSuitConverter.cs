@@ -24,5 +24,22 @@ namespace PokerBot.Utils
                     throw new ArgumentException("Suit unknown");
             }
         }
+
+        public static CardSuit getCardSuit(string card)
+        {
+            switch (card)
+            {
+                case "c":
+                    return CardSuit.Clubs;
+                case "d":
+                    return CardSuit.Diamonds;
+                case "h":
+                    return CardSuit.Hearts;
+                case "s":
+                    return CardSuit.Spades;
+                default:
+                    throw new ArgumentException("Suit unknown");
+            }
+        }
     }
 }

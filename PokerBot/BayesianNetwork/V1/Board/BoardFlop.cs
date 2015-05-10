@@ -55,6 +55,10 @@ namespace PokerBot.BayesianNetwork.V1.Board
                 {
                     this.BoardEnumType = V1.Board.BoardEnumType.JLow;
                 }
+                else
+                {
+                    this._boardEnumType = V1.Board.BoardEnumType.Low;
+                }
             }
             else if (result.Result == Entity.Hand.PokerHand.Pair)
             {

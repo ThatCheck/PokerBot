@@ -23,7 +23,7 @@ namespace PokerBot.BayesianNetwork.V1.Action
             {
                 ActionEnumType lastAction = ActionEnumType.Check;
                 if (hand.HandActionType == HandActionType.FOLD
-                    && hand.HandActionType == HandActionType.SITTING_OUT)
+                    || hand.HandActionType == HandActionType.SITTING_OUT)
                 {
                     dictionnaryHand.Remove(hand.PlayerName);
                     continue;
@@ -34,7 +34,8 @@ namespace PokerBot.BayesianNetwork.V1.Action
                     int numberRaise = 0;
                     foreach (var handOfPlayer in dictionnaryHand)
                     {
-                        if (handOfPlayer.Value == ActionEnumType.ThreeBet ||
+                        if (handOfPlayer.Value == ActionEnumType.Raise ||
+                            handOfPlayer.Value == ActionEnumType.ThreeBet ||
                             handOfPlayer.Value == ActionEnumType.FourBet ||
                             handOfPlayer.Value == ActionEnumType.FiveBet)
                         {
@@ -60,7 +61,7 @@ namespace PokerBot.BayesianNetwork.V1.Action
                     int numberRaise = 0;
                     foreach (var handOfPlayer in dictionnaryHand)
                     {
-                        if (handOfPlayer.Value == ActionEnumType.Raise ||
+                        if (handOfPlayer.Value == ActionEnumType.Bet || handOfPlayer.Value == ActionEnumType.Raise ||
                             handOfPlayer.Value == ActionEnumType.ThreeBet ||
                             handOfPlayer.Value == ActionEnumType.FourBet ||
                             handOfPlayer.Value == ActionEnumType.FiveBet)

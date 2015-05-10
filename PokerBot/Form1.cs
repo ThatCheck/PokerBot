@@ -1,7 +1,9 @@
-﻿using PokerBot.CustomForm;
+﻿using PokerBot.CaseBased.Base;
+using PokerBot.CustomForm;
 using PokerBot.CustomForm.Training;
 using PokerBot.Entity.Table;
 using PokerBot.Entity.Window;
+using PokerBot.Hand;
 using PokerBot.Utils;
 using System;
 using System.Collections.Generic;
@@ -26,9 +28,12 @@ namespace PokerBot
         private MemoryReader.MemoryReader _memoryReader;
         LoggerForm _loggerForm;
         Trainer.Trainer _trainer;
+        QBRBase _qbr;
         public Form1()
         {
             InitializeComponent();
+            PokerBot.Entity.Player.StatSingleton.Instance.initFromFile(@"./Trainer/PlayerData/extractValuePlayer.txt");
+            TwoPlusTwoHandEvaluator.Instance.init();
         }
 
         void TableList_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
@@ -126,6 +131,52 @@ namespace PokerBot
         {
             await Task.Factory.StartNew(() => this._trainer.train("./network.xdsl", "./training.txt"));
             MessageBox.Show("Fiin de l'entrainement s", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private async void testNetworkAccuracyToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.testTrain(@"./network.xdsl", Directory.GetFiles(@"./Trainer/DataTester")[0], HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fiin du test !", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private async void generateDataPlayerToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.extractDataPlayer(@"./Trainer/PlayerData/ListPlayer.txt", @"./Trainer/PlayerData/extractValuePlayer.txt"));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fin de l'extraction des données", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private async void extractToPreFlopcaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.generateCBRPreFlopRange(Directory.GetFiles(@"./Trainer/Data"), "./preflopCase.dat", HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private void loadCBRPreFlopToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            this._qbr.unserialize("./preflopCase.dat");
+            MessageBox.Show("Fin du chargement des données.", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private async void generateDecisionCBRPreFlopToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.generateCBRPreFlopDecision(Directory.GetFiles(@"./Trainer/Data"), "./preflopCaseDecision.dat", HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);
         }
     }
 }

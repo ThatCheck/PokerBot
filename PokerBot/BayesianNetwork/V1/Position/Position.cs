@@ -11,32 +11,20 @@ namespace PokerBot.BayesianNetwork.V1.Position
 
         public Position(List<HandHistories.Objects.Actions.HandAction> list, String player, HandHistories.Objects.Cards.Street street = HandHistories.Objects.Cards.Street.Preflop)
         {
-            var listHand = list.Where(p => p.Street == street).OrderByDescending(p => p.ActionNumber);
-            int position = 0;
             int cpt = 0;
-            String firstPlayerIntercept = null;
-            foreach (var hand in listHand)
+            
+            foreach(var currHand in list.Where(p => p.Street == street 
+                && p.HandActionType != HandHistories.Objects.Actions.HandActionType.POSTS 
+                && p.HandActionType != HandHistories.Objects.Actions.HandActionType.BIG_BLIND
+                && p.HandActionType != HandHistories.Objects.Actions.HandActionType.SMALL_BLIND))
             {
-                if (firstPlayerIntercept == null)
+                if (currHand.PlayerName == player)
                 {
-                    firstPlayerIntercept = hand.PlayerName;
-                }
-                if (firstPlayerIntercept == hand.PlayerName)
-                {
-                    if (hand.HandActionType == HandHistories.Objects.Actions.HandActionType.FOLD || hand.HandActionType == HandHistories.Objects.Actions.HandActionType.SITTING_OUT)
-                    {
-                        firstPlayerIntercept = null;
-                    }
-                    cpt = 0;
-                }
-                if (hand.PlayerName == player)
-                {
-                    position = cpt;
+                    this.PositionPlayer = (PositionEnumType)cpt;
+                    break;
                 }
                 cpt++;
             }
-
-            this.PositionPlayer = (PositionEnumType)position;
         }
 
         public new static string getCaseName()

@@ -35,7 +35,7 @@ namespace PokerBot.BayesianNetwork.V1.Action
             {
                 ActionEnumType lastAction = ActionEnumType.Call;
                 if (hand.HandActionType == HandActionType.FOLD
-                   && hand.HandActionType == HandActionType.SITTING_OUT)
+                   || hand.HandActionType == HandActionType.SITTING_OUT)
                 {
                     dictionnaryHand.Remove(hand.PlayerName);
                     continue;
@@ -61,65 +61,47 @@ namespace PokerBot.BayesianNetwork.V1.Action
                     }
 
                 }
-
                 if (hand.HandActionType == HandActionType.RAISE)
                 {
-                    int numberRaise = 0;
-                    foreach (var handOfPlayer in dictionnaryHand)
-                    {
-                        if (handOfPlayer.Value == ActionEnumType.ThreeBet ||
-                            handOfPlayer.Value == ActionEnumType.FourBet ||
-                            handOfPlayer.Value == ActionEnumType.FiveBet)
-                        {
-                            numberRaise++;
-                        }
-                    }
-                    lastAction = ActionEnumType.Raise;
-                    if (numberRaise == 1)
-                    {
-                        lastAction = ActionEnumType.ThreeBet;
-                    }
-                    else if (numberRaise == 2)
-                    {
-                        lastAction = ActionEnumType.FourBet;
-                    }
-                    else if (numberRaise == 3)
+                    lastAction = ActionEnumType.Bet;
+                    if (dictionnaryHand.Any(p => p.Value == ActionEnumType.FourBet))
                     {
                         lastAction = ActionEnumType.FiveBet;
                     }
+                    else if (dictionnaryHand.Any(p => p.Value == ActionEnumType.ThreeBet))
+                    {
+                        lastAction = ActionEnumType.FourBet;
+                    }
+                    else if (dictionnaryHand.Any(p => p.Value == ActionEnumType.Raise))
+                    {
+                        lastAction = ActionEnumType.ThreeBet;
+                    }
+                    else if (dictionnaryHand.Any( p => p.Value == ActionEnumType.Bet || p.Value == ActionEnumType.ContinuationBet || p.Value == ActionEnumType.DonkBet))
+                    {
+                        lastAction = ActionEnumType.Raise;
+                    }
                 }
-                if (hand.HandActionType == HandActionType.CALL)
+                else if (hand.HandActionType == HandActionType.CALL)
                 {
-                    int numberRaise = 0;
-                    foreach (var handOfPlayer in dictionnaryHand)
-                    {
-                        if (handOfPlayer.Value == ActionEnumType.Raise || 
-                            handOfPlayer.Value == ActionEnumType.ThreeBet ||
-                            handOfPlayer.Value == ActionEnumType.FourBet ||
-                            handOfPlayer.Value == ActionEnumType.FiveBet)
-                        {
-                            numberRaise++;
-                        }
-                    }
                     lastAction = ActionEnumType.Call;
-                    if (numberRaise == 1)
-                    {
-                        lastAction = ActionEnumType.CallRaise;
-                    }
-                    else if (numberRaise == 2)
-                    {
-                        lastAction = ActionEnumType.CallThreeBet;
-                    }
-                    else if (numberRaise == 3)
-                    {
-                        lastAction = ActionEnumType.CallFourBet;
-                    }
-                    else if (numberRaise == 4)
+                    if (dictionnaryHand.Any(p => p.Value == ActionEnumType.FiveBet))
                     {
                         lastAction = ActionEnumType.CallFiveBet;
                     }
+                    else if (dictionnaryHand.Any(p => p.Value == ActionEnumType.FourBet))
+                    {
+                        lastAction = ActionEnumType.CallFourBet;
+                    }
+                    else if (dictionnaryHand.Any(p => p.Value == ActionEnumType.ThreeBet))
+                    {
+                        lastAction = ActionEnumType.CallThreeBet;
+                    }
+                    else if (dictionnaryHand.Any(p => p.Value == ActionEnumType.Raise))
+                    {
+                        lastAction = ActionEnumType.CallRaise;
+                    }
                 }
-                if (hand.HandActionType == HandActionType.CHECK)
+                else if (hand.HandActionType == HandActionType.CHECK)
                 {
                     lastAction = ActionEnumType.Check;
                 }
@@ -143,13 +125,13 @@ namespace PokerBot.BayesianNetwork.V1.Action
             List<String> data = new List<string>();
             ActionEnumType[] actionEnumArray = new ActionEnumType[]
             {
-                ActionEnumType.Bet,
                 ActionEnumType.Call,
                 ActionEnumType.CallFiveBet,
                 ActionEnumType.CallFourBet,
                 ActionEnumType.CallRaise,
                 ActionEnumType.CallThreeBet,
                 ActionEnumType.Check,
+                ActionEnumType.Bet,
                 ActionEnumType.FiveBet,
                 ActionEnumType.FourBet,
                 ActionEnumType.Raise,

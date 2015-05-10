@@ -34,13 +34,22 @@
             this.créerLeNetworkToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.generateDataTrainingToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.trainToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateDataPlayerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.testToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.testNetworkAccuracyToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.preToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.extractToPreFlopcaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.loadCBRPreFlopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generateDecisionCBRPreFlopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.trainerToolStripMenuItem});
+            this.trainerToolStripMenuItem,
+            this.testToolStripMenuItem,
+            this.preToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(784, 24);
@@ -53,7 +62,8 @@
             this.get100WinningPersonToolStripMenuItem,
             this.créerLeNetworkToolStripMenuItem,
             this.generateDataTrainingToolStripMenuItem,
-            this.trainToolStripMenuItem});
+            this.trainToolStripMenuItem,
+            this.generateDataPlayerToolStripMenuItem});
             this.trainerToolStripMenuItem.Name = "trainerToolStripMenuItem";
             this.trainerToolStripMenuItem.Size = new System.Drawing.Size(56, 20);
             this.trainerToolStripMenuItem.Text = "Trainer";
@@ -86,6 +96,59 @@
             this.trainToolStripMenuItem.Text = "Train";
             this.trainToolStripMenuItem.Click += new System.EventHandler(this.trainToolStripMenuItem_Click);
             // 
+            // generateDataPlayerToolStripMenuItem
+            // 
+            this.generateDataPlayerToolStripMenuItem.Name = "generateDataPlayerToolStripMenuItem";
+            this.generateDataPlayerToolStripMenuItem.Size = new System.Drawing.Size(208, 22);
+            this.generateDataPlayerToolStripMenuItem.Text = "Generate data player";
+            this.generateDataPlayerToolStripMenuItem.Click += new System.EventHandler(this.generateDataPlayerToolStripMenuItem_Click);
+            // 
+            // testToolStripMenuItem
+            // 
+            this.testToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.testNetworkAccuracyToolStripMenuItem});
+            this.testToolStripMenuItem.Name = "testToolStripMenuItem";
+            this.testToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
+            this.testToolStripMenuItem.Text = "Test";
+            // 
+            // testNetworkAccuracyToolStripMenuItem
+            // 
+            this.testNetworkAccuracyToolStripMenuItem.Name = "testNetworkAccuracyToolStripMenuItem";
+            this.testNetworkAccuracyToolStripMenuItem.Size = new System.Drawing.Size(196, 22);
+            this.testNetworkAccuracyToolStripMenuItem.Text = "Test Network Accuracy";
+            this.testNetworkAccuracyToolStripMenuItem.Click += new System.EventHandler(this.testNetworkAccuracyToolStripMenuItem_Click);
+            // 
+            // preToolStripMenuItem
+            // 
+            this.preToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.extractToPreFlopcaseToolStripMenuItem,
+            this.loadCBRPreFlopToolStripMenuItem,
+            this.generateDecisionCBRPreFlopToolStripMenuItem});
+            this.preToolStripMenuItem.Name = "preToolStripMenuItem";
+            this.preToolStripMenuItem.Size = new System.Drawing.Size(59, 20);
+            this.preToolStripMenuItem.Text = "PreFlop";
+            // 
+            // extractToPreFlopcaseToolStripMenuItem
+            // 
+            this.extractToPreFlopcaseToolStripMenuItem.Name = "extractToPreFlopcaseToolStripMenuItem";
+            this.extractToPreFlopcaseToolStripMenuItem.Size = new System.Drawing.Size(233, 22);
+            this.extractToPreFlopcaseToolStripMenuItem.Text = "Extract to PreFlopcase";
+            this.extractToPreFlopcaseToolStripMenuItem.Click += new System.EventHandler(this.extractToPreFlopcaseToolStripMenuItem_Click);
+            // 
+            // loadCBRPreFlopToolStripMenuItem
+            // 
+            this.loadCBRPreFlopToolStripMenuItem.Name = "loadCBRPreFlopToolStripMenuItem";
+            this.loadCBRPreFlopToolStripMenuItem.Size = new System.Drawing.Size(233, 22);
+            this.loadCBRPreFlopToolStripMenuItem.Text = "Load CBRPreFlop";
+            this.loadCBRPreFlopToolStripMenuItem.Click += new System.EventHandler(this.loadCBRPreFlopToolStripMenuItem_Click);
+            // 
+            // generateDecisionCBRPreFlopToolStripMenuItem
+            // 
+            this.generateDecisionCBRPreFlopToolStripMenuItem.Name = "generateDecisionCBRPreFlopToolStripMenuItem";
+            this.generateDecisionCBRPreFlopToolStripMenuItem.Size = new System.Drawing.Size(233, 22);
+            this.generateDecisionCBRPreFlopToolStripMenuItem.Text = "Generate decision CBRPreFlop";
+            this.generateDecisionCBRPreFlopToolStripMenuItem.Click += new System.EventHandler(this.generateDecisionCBRPreFlopToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -112,6 +175,13 @@
         private System.Windows.Forms.ToolStripMenuItem créerLeNetworkToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem generateDataTrainingToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem trainToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem testToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem testNetworkAccuracyToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateDataPlayerToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem preToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem extractToPreFlopcaseToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem loadCBRPreFlopToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generateDecisionCBRPreFlopToolStripMenuItem;
 
     }
 }

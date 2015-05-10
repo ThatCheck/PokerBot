@@ -24,50 +24,19 @@ namespace PokerBot.BayesianNetwork.V1.PotOdds
 
         public BasePotOdds(List<HandHistories.Objects.Actions.HandAction> list, String player, HandHistories.Objects.Cards.Street street) : base(0,false)
         {
-            decimal pot = 0;
-            decimal playerStack = 0;
-            HandHistories.Objects.Cards.Street currentStreet = HandHistories.Objects.Cards.Street.Null;
-            IEnumerable<HandHistories.Objects.Actions.HandAction> listHand = null;
-            if (street == HandHistories.Objects.Cards.Street.Preflop)
+            try
             {
-                listHand = list.Where(p => p.Street == HandHistories.Objects.Cards.Street.Preflop).OrderByDescending(p => p.ActionNumber);
-            }
-            else if (street == HandHistories.Objects.Cards.Street.Flop)
-            {
-                listHand = list.Where(p => p.Street == HandHistories.Objects.Cards.Street.Preflop || p.Street == HandHistories.Objects.Cards.Street.Flop).OrderByDescending(p => p.ActionNumber);
-            }
-            else if (street == HandHistories.Objects.Cards.Street.Turn)
-            {
-                listHand = list.Where(p => p.Street == HandHistories.Objects.Cards.Street.Preflop
-                    || p.Street == HandHistories.Objects.Cards.Street.Flop
-                    || p.Street == HandHistories.Objects.Cards.Street.Turn
-                    ).OrderByDescending(p => p.ActionNumber);
-            }
-            else if (street == HandHistories.Objects.Cards.Street.River)
-            {
-                listHand = list.Where(p => p.Street == HandHistories.Objects.Cards.Street.Preflop
-                    || p.Street == HandHistories.Objects.Cards.Street.Flop
-                    || p.Street == HandHistories.Objects.Cards.Street.Turn
-                    || p.Street == HandHistories.Objects.Cards.Street.River
-                    ).OrderByDescending(p => p.ActionNumber);
-            }
-            foreach (HandHistories.Objects.Actions.HandAction hand in listHand)
-            {
-                if (currentStreet != hand.Street)
-                {
-                    currentStreet = hand.Street;
-                    playerStack = 0;
-                }
-                pot += Math.Abs(hand.Amount);
+                var lastActionOfPlayerInStreet = list.Where(p => p.Street == street && p.PlayerName == player).OrderBy(p => p.ActionNumber).Last();
+                decimal potSize = list.Where(p => p.Street <= street && p.ActionNumber < lastActionOfPlayerInStreet.ActionNumber).Sum(p => Math.Abs(p.Amount));
 
-                if (hand.PlayerName == player)
-                {
-                    playerStack += Math.Abs(hand.Amount);
-                }
+                decimal playerStack = Math.Abs(lastActionOfPlayerInStreet.Amount);
+                this.PotOdds = playerStack / potSize;
+                this.Value = this.PotOdds * 100;
             }
+            catch (Exception ex)
+            {
 
-            this.PotOdds = playerStack / pot;
-            this.Value = this.PotOdds * 100;
+            }
         }
 
         public new static string getCaseName()

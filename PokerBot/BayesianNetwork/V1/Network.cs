@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace PokerBot.BayesianNetwork.V1
 {
-    public class Network
+    public class Network : IDisposable
     {
         #region Action
         private Action.Action _pfAction;
@@ -277,6 +277,9 @@ namespace PokerBot.BayesianNetwork.V1
             set { _foldToThreeBet = value; }
         }
         #endregion
+        #region Network
+        Smile.Network _network;
+        #endregion
 
         public Network()
         {
@@ -284,6 +287,182 @@ namespace PokerBot.BayesianNetwork.V1
             EmptyModelInitializer.EmptyModel<Network>(this);
         }
 
+        public Network(String networkFile) : base()
+        {
+            try
+            {
+                this._network = new Smile.Network();
+                this._network.ReadFile(networkFile);
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
+        private void clearAllEvidence()
+        {
+            this._network.ClearAllEvidence();
+        }
+
+        public IOrderedEnumerable<KeyValuePair<String,double>> getValueForHandType(Table table, Player player, HandHistories.Objects.Cards.Street forceStreet = HandHistories.Objects.Cards.Street.Null )
+        {
+            List<HandHistories.Objects.Actions.HandAction> handAction = table.HandHistory.HandActions;
+            HandHistories.Objects.Cards.Street maxStreet = HandHistories.Objects.Cards.Street.Null;
+            try
+            {
+                this.clearAllEvidence();
+                if (forceStreet == HandHistories.Objects.Cards.Street.Null)
+                {
+                    if (handAction.Any(p => p.Street == HandHistories.Objects.Cards.Street.Showdown))
+                    {
+                        maxStreet = HandHistories.Objects.Cards.Street.Showdown;
+                    }
+                    else if (handAction.Any(p => p.Street == HandHistories.Objects.Cards.Street.River))
+                    {
+                        maxStreet = HandHistories.Objects.Cards.Street.River;
+                    }
+                    else if (handAction.Any(p => p.Street == HandHistories.Objects.Cards.Street.Turn))
+                    {
+                        maxStreet = HandHistories.Objects.Cards.Street.Turn;
+                    }
+                    else if (handAction.Any(p => p.Street == HandHistories.Objects.Cards.Street.Flop))
+                    {
+                        maxStreet = HandHistories.Objects.Cards.Street.Flop;
+                    }
+                    else if (handAction.Any(p => p.Street == HandHistories.Objects.Cards.Street.Preflop))
+                    {
+                        maxStreet = HandHistories.Objects.Cards.Street.Preflop;
+                    }
+                }
+                else
+                {
+                    maxStreet = forceStreet;
+                }
+                //INIT STAT PLAYER
+                String name = player.Name;
+                Entity.Player.Stats stats = player.Stats;
+                this._pfr = new Stats.PFR(stats.Pfr);
+                this._vpip = new Stats.VPIP(stats.Vpip);
+                this._foldToThreeBet = new Stats.FoldToThreeBet(stats.FoldToThreeBet);
+                this._threeBet = new Stats.ThreeBet(stats.ThreeBetPF);
+
+                this._network.SetEvidence(typeof(Stats.PFR).Name, this._pfr.ToString());
+                this._network.SetEvidence(typeof(Stats.VPIP).Name, this._vpip.ToString());
+                this._network.SetEvidence(typeof(Stats.FoldToThreeBet).Name, this._foldToThreeBet.ToString());
+                this._network.SetEvidence(typeof(Stats.ThreeBet).Name, this._threeBet.ToString());
+
+                //Init PREFLOP ACTION
+                if (maxStreet >= HandHistories.Objects.Cards.Street.Preflop)
+                {
+                    this._pfAction = new Action.Action(handAction, name);
+                    this._pfNumberPlayer = new NumberPlayerSitIn.NumberPlayerSitIn(handAction);
+                    this._pfPosition = new Position.Position(handAction, name);
+                    this._pfPotOdds = new PotOdds.PotOdds(handAction, name);
+                    //this._handGroup = new HandGroup.HandGroup(player.Hand);
+
+                    this._network.SetEvidence(typeof(Action.Action).Name, this._pfAction.ToString());
+                    this._network.SetEvidence(typeof(NumberPlayerSitIn.NumberPlayerSitIn).Name, this._pfNumberPlayer.ToString());
+                    this._network.SetEvidence(typeof(Position.Position).Name, this._pfPosition.ToString());
+                    this._network.SetEvidence(typeof(PotOdds.PotOdds).Name, this._pfPotOdds.ToString());
+                }
+                if (maxStreet >= HandHistories.Objects.Cards.Street.Flop)
+                {
+                    this._flopAction = new Action.ActionFlop(handAction, name);
+                    this._flopBoard = new Board.BoardFlop(table.Board);
+                    //this._flopDrawingHand = new DrawingHand.DrawingHand(table.Board, player.Hand);
+                    //this._flopHandType = new HandType.HandType(table.Board, player.Hand);
+                    this._flopNumberPlayer = new NumberPlayerSitIn.FlopNumberPlayerSitIn(handAction);
+                    this._flopPosition = new Position.PositionFlop(handAction, name);
+                    this._flopPotOdds = new PotOdds.PotOddsFlop(handAction, name);
+                    this._flushFlopHand = new DrawingHand.Flush(table.Board);
+                    this._straightFlopHand = new DrawingHand.Straight(table.Board);
+
+                    this._network.SetEvidence(typeof(Action.ActionFlop).Name, this._flopAction.ToString());
+                    this._network.SetEvidence(typeof(Board.BoardFlop).Name, this._flopBoard.ToString());
+                    this._network.SetEvidence(typeof(NumberPlayerSitIn.FlopNumberPlayerSitIn).Name, this._flopNumberPlayer.ToString());
+                    this._network.SetEvidence(typeof(Position.PositionFlop).Name, this._flopPosition.ToString());
+                    this._network.SetEvidence(typeof(PotOdds.PotOddsFlop).Name, this._flopPotOdds.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.Flush).Name, this._flushFlopHand.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.Straight).Name, this._straightFlopHand.ToString());
+                }
+                if (maxStreet >= HandHistories.Objects.Cards.Street.Turn)
+                {
+                    this._turnAction = new Action.ActionTurn(handAction, name);
+                    this._turnBoard = new Board.BoardChangeTurn(table.Board);
+                    //this._turnDrawingHand = new DrawingHand.DrawingHandTurn(table.Board, player.Hand);
+                    //this._turnHandType = new HandType.HandTypeTurn(table.Board, player.Hand);
+                    this._turnNumberPlayer = new NumberPlayerSitIn.TurnNumberPlayerSitIn(handAction);
+                    this._turnPosition = new Position.PositionTurn(handAction, name);
+                    this._turnPotOdds = new PotOdds.PotOddsTurn(handAction, name);
+                    this._flushTurnHand = new DrawingHand.FlushChangeTurn(table.Board);
+                    this._straightTurnHand = new DrawingHand.StraightChangeTurn(table.Board);
+
+                    this._network.SetEvidence(typeof(Action.ActionTurn).Name, this._turnAction.ToString());
+                    this._network.SetEvidence(typeof(Board.BoardChangeTurn).Name, this._turnBoard.ToString());
+                    this._network.SetEvidence(typeof(NumberPlayerSitIn.TurnNumberPlayerSitIn).Name, this._turnNumberPlayer.ToString());
+                    this._network.SetEvidence(typeof(Position.PositionTurn).Name, this._turnPosition.ToString());
+                    this._network.SetEvidence(typeof(PotOdds.PotOddsTurn).Name, this._turnPotOdds.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.FlushChangeTurn).Name, this._flushTurnHand.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.StraightChangeTurn).Name, this._straightTurnHand.ToString());
+                }
+                if (maxStreet >= HandHistories.Objects.Cards.Street.River)
+                {
+                    this._riverAction = new Action.ActionRiver(handAction, name);
+                    this._riverBoard = new Board.BoardChangeRiver(table.Board);
+                    //this._riverHandType = new HandType.HandTypeRiver(table.Board, player.Hand);
+                    this._riverNumberPlayer = new NumberPlayerSitIn.RiverNumberPlayerSitIn(handAction);
+                    this._riverPosition = new Position.PositionRiver(handAction, name);
+                    this._riverPotOdds = new PotOdds.PotOddsRiver(handAction, name);
+                    this._flushRiverHand = new DrawingHand.FlushChangeRiver(table.Board);
+                    this._straightRiverHand = new DrawingHand.StraightChangeRiver(table.Board);
+
+
+                    this._network.SetEvidence(typeof(Action.ActionRiver).Name, this._riverAction.ToString());
+                    this._network.SetEvidence(typeof(Board.BoardChangeRiver).Name, this._riverBoard.ToString());
+                    this._network.SetEvidence(typeof(NumberPlayerSitIn.RiverNumberPlayerSitIn).Name, this._riverNumberPlayer.ToString());
+                    this._network.SetEvidence(typeof(Position.PositionRiver).Name, this._riverPosition.ToString());
+                    this._network.SetEvidence(typeof(PotOdds.PotOddsRiver).Name, this._riverPotOdds.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.FlushChangeRiver).Name, this._flushRiverHand.ToString());
+                    this._network.SetEvidence(typeof(DrawingHand.StraightChangeRiver).Name, this._straightRiverHand.ToString());
+                }
+
+                this._network.UpdateBeliefs();
+                double[] result = null;
+                Dictionary<String, double> returnValue = new Dictionary<string, double>();
+                String toAnalyze = null;
+                if (maxStreet == HandHistories.Objects.Cards.Street.Preflop)
+                {
+                    toAnalyze = typeof(HandGroup.HandGroup).Name;
+                } 
+                else if (maxStreet == HandHistories.Objects.Cards.Street.Flop)
+                {
+                    toAnalyze = typeof(HandType.HandType).Name;
+                } 
+                else if (maxStreet == HandHistories.Objects.Cards.Street.Turn)
+                {
+                    toAnalyze = typeof(HandType.HandTypeTurn).Name;
+                } 
+                else if (maxStreet >= HandHistories.Objects.Cards.Street.River)
+                {
+                    toAnalyze = typeof(HandType.HandTypeRiver).Name;
+                }
+
+                result = this._network.GetNodeValue(toAnalyze);
+                String[] aSuccessOutcomeIds = this._network.GetOutcomeIds(toAnalyze);
+                for (int outcomeIndex = 0; outcomeIndex < aSuccessOutcomeIds.Length; outcomeIndex++)
+                {
+                    returnValue.Add(aSuccessOutcomeIds[outcomeIndex], result[outcomeIndex]);
+                }
+
+                return returnValue.OrderByDescending(p => p.Value);
+
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
         public void setTableForTraining(Table table,Player player)
         {
             List<HandHistories.Objects.Actions.HandAction> handAction = table.HandHistory.HandActions;
@@ -423,13 +602,13 @@ namespace PokerBot.BayesianNetwork.V1
                 typeof(Action.ActionRiver),
                 typeof(Action.ActionTurn),
                 typeof(Board.BoardFlop),
-                typeof(Board.BoardChangeRiver),
                 typeof(Board.BoardChangeTurn),
+                typeof(Board.BoardChangeRiver),
                 typeof(DrawingHand.DrawingHand),
                 typeof(DrawingHand.DrawingHandTurn),
                 typeof(DrawingHand.Flush),
-                typeof(DrawingHand.FlushChangeRiver),
                 typeof(DrawingHand.FlushChangeTurn),
+                typeof(DrawingHand.FlushChangeRiver),
                 typeof(DrawingHand.Straight),
                 typeof(DrawingHand.StraightChangeTurn),
                 typeof(DrawingHand.StraightChangeRiver),
@@ -454,6 +633,14 @@ namespace PokerBot.BayesianNetwork.V1
                 typeof(Stats.ThreeBet),
                 typeof(Stats.FoldToThreeBet),
             };
+        }
+
+        public void Dispose()
+        {
+            if (this._network != null)
+            {
+                this._network.Dispose();
+            }
         }
     }
 }

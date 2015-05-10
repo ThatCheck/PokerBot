@@ -19,7 +19,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 int[] boardIntValue = this._board.getTwoPlusTwoHandEvaluatorEquivalent();
                 var allEvaluator = Range.getAllCombinaisonOneCardWithoutCardsSelectedForTwoPlusTwo(boardIntValue);
                 bool possible = false;
-                Parallel.ForEach(allEvaluator, (evaluated, state) =>
+                /*Parallel.ForEach(allEvaluator, (evaluated, state) =>
                 {
                     if (TwoPlusTwoHandEvaluator.Instance.LookupHand5(boardIntValue.Union(new int[] {evaluated}).ToArray()).hand == Entity.Hand.PokerHand.Straight)
                     {
@@ -32,7 +32,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 {
                     this.Value = StateFlushStraightEnumType.Draw_Likely;
                     return;
-                }
+                }*/
 
                 var allEvaluatorTwo = Range.getAllCombinaisonWithoutCardsSelectedForTwoPlusTwo(boardIntValue);
                 possible = false;
@@ -84,7 +84,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 this.Value = StateFlushStraightEnumType.None;
 
                 bool possible = false;
-                Parallel.ForEach(allEvaluator, (evaluated, state) =>
+                /*Parallel.ForEach(allEvaluator, (evaluated, state) =>
                 {
                     if (TwoPlusTwoHandEvaluator.Instance.LookupHand6(boardIntValue.Union(new int[] { evaluated.Item1, evaluated.Item2 }).ToArray()).hand == Entity.Hand.PokerHand.Straight)
                     {
@@ -97,7 +97,7 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 {
                     this.Value = StateFlushStraightEnumType.None_Possible;
                     return;
-                }
+                }*/
 
                 bool draw = false;
                 var allEvaluatorThree = Range.getAllCombinaisonThreeCardsWithoutCardsSelectedForTwoPlusTwo(boardIntValue);
@@ -130,11 +130,11 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
             StateFlushStraightEnumType[] enumArray = new StateFlushStraightEnumType[]
             {
                 StateFlushStraightEnumType.Draw_Draw,
-                StateFlushStraightEnumType.Draw_Likely,
+                //StateFlushStraightEnumType.Draw_Likely,
                 StateFlushStraightEnumType.Draw_Possible,
                 StateFlushStraightEnumType.None_None,
                 StateFlushStraightEnumType.None_Draw,
-                StateFlushStraightEnumType.None_Possible,
+                //StateFlushStraightEnumType.None_Possible,
                 StateFlushStraightEnumType.Possible_Possible,
                 StateFlushStraightEnumType.Possible_Likely
             };

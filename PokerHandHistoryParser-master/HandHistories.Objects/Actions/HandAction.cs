@@ -22,7 +22,7 @@ namespace HandHistories.Objects.Actions
         public Street Street { get; private set; }
 
         [DataMember]
-        public int ActionNumber { get; private set; }
+        public int ActionNumber { get; set; }
         
         public HandAction(string playerName, 
                           HandActionType handActionType,                           

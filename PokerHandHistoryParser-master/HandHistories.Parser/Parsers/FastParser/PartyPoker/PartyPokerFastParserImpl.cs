@@ -369,6 +369,11 @@ namespace HandHistories.Parser.Parsers.FastParser.PartyPoker
                 }
             }
 
+            int index = 0;
+            foreach (HandAction hand in handActions)
+            {
+                hand.ActionNumber = index++;
+            }
             return handActions;
         }
 
@@ -386,7 +391,7 @@ namespace HandHistories.Parser.Parsers.FastParser.PartyPoker
             //So we must check for chatlines first
             char lastChar = line[line.Length - 1];
             HandAction action = null;
-            if (line.Contains("show") && !line.EndsWith("."))
+            if (!line.Split(' ')[0].Contains("show") && line.Contains("show") && !line.EndsWith("."))
             {
                 action = ParseDotAction(line, currentStreet);
                 return false;

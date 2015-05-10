@@ -1,5 +1,7 @@
-﻿using PokerBot.Entity.Card;
+﻿using PokerBot.BayesianNetwork.V1.HandType;
+using PokerBot.Entity.Card;
 using PokerBot.Hand;
+using PokerBot.Utils.Extensions;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +12,27 @@ namespace PokerBot.Utils
 {
     public class Range
     {
+        public static HashSet<Tuple<PlayingCard,PlayingCard>> getRangeEstimator(IEnumerable<HandTypeEnumType> handType, IEnumerable<PlayingCard> board, IEnumerable<PlayingCard> notIn)
+        {
+            HashSet<Tuple<PlayingCard, PlayingCard>> rangeResult = new HashSet<Tuple<PlayingCard, PlayingCard>>();
+            List<int> boardvalue = HandUtility.getHandIntValue(board);
+            int[] notInRange = HandUtility.getHandIntValue(board).Concat(HandUtility.getHandIntValue(notIn)).ToArray();
+            var rangeClearTwoPlusTwo = getAllCombinaisonWithoutCardsSelectedForTwoPlusTwo(notInRange);
+            var rangeList = getAllCombinaisonFromTwoPlusTwo(rangeClearTwoPlusTwo);
+            foreach (var range in rangeList)
+            {
+                IEnumerable<PlayingCard> data = board.Concat(range.ToCollection());
+                PokerEvaluator pokerEvaluator = new PokerEvaluator(new PokerHandEvaluator());
+                PokerHandEvaluationResult result = pokerEvaluator.EvaluateHand(data);
+                HandTypeEnumType resultHandType = HandUtility.GetHandTypeEnum(data,result);
+                if (handType.Contains(resultHandType))
+                {
+                    rangeResult.Add(range);
+                }
+            }
+            return rangeResult;
+        }
+
         public static HashSet<PlayingCard> getAllCombinaison()
         {
             HashSet<PlayingCard> returnListCard = new HashSet<PlayingCard>();
@@ -21,6 +44,17 @@ namespace PokerBot.Utils
                 }
             }
             return returnListCard;
+        }
+
+        public static HashSet<Tuple<PlayingCard,PlayingCard>> getAllCombinaisonFromTwoPlusTwo(HashSet<Tuple<int,int>> toConvert)
+        {
+            var reversed = TwoPlusTwoHandEvaluator.HandEquivalentList.ToDictionary(kp => kp.Value, kp => kp.Key);
+            HashSet<Tuple<PlayingCard,PlayingCard>> newList = new HashSet<Tuple<PlayingCard,PlayingCard>>();
+            foreach(var p in toConvert)
+            {
+                newList.Add(Tuple.Create<PlayingCard,PlayingCard>(new PlayingCard(reversed[p.Item1]),new PlayingCard(reversed[p.Item2])));
+            }
+            return newList;
         }
 
         public static HashSet<PlayingCard> getAllCombinaisonWithoutCardsSelected(IEnumerable<PlayingCard> cards)

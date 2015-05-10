@@ -38,7 +38,7 @@ namespace PokerBot.BayesianNetwork.V1
             int[] boundary = typeof(T).InvokeMember("getBoundary", BindingFlags.Public | BindingFlags.Static | BindingFlags.InvokeMethod, null, null, null) as int[];
             for (int i = 0; i < boundary.Count() - 1; i++)
             {
-                if (boundary[i] >= valueToString && (valueToString < boundary[i + 1] || (i == boundary.Count() - 2 && valueToString <= boundary[i + 1]) ))
+                if (boundary[i] >= valueToString && valueToString < boundary[i + 1])
                 {
                     return "a" + boundary[i].ToString() + "_" + boundary[i + 1].ToString();
                 }

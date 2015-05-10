@@ -48,7 +48,10 @@ namespace PokerBot.BayesianNetwork.V1.Board
                 {
                     this.BoardEnumType = V1.Board.BoardEnumType.MidPair;
                 }
-                this.BoardEnumType = V1.Board.BoardEnumType.LowPair;
+                else
+                {
+                    this.BoardEnumType = V1.Board.BoardEnumType.LowPair;
+                }
             }
             else if (result.Result == Entity.Hand.PokerHand.ThreeOfKind)
             {

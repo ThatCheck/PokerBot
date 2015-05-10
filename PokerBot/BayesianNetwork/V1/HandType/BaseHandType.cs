@@ -2,6 +2,7 @@
 using PokerBot.Entity.Card;
 using PokerBot.Entity.Table;
 using PokerBot.Hand;
+using PokerBot.Utils;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -42,90 +43,10 @@ namespace PokerBot.BayesianNetwork.V1.HandType
             cards.UnionWith(this._board.getEvaluator());
             PokerEvaluator pokerEvaluator = new PokerEvaluator(new PokerHandEvaluator());
             PokerHandEvaluationResult result = pokerEvaluator.EvaluateHand(cards);
-            if (result.Result == Entity.Hand.PokerHand.Flush)
-            {
-                this.HandTypeEnum = HandTypeEnumType.Flush;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.FourOfKind)
-            {
-                this.HandTypeEnum = HandTypeEnumType.FourOfAKind;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.FullHouse)
-            {
-                this.HandTypeEnum = HandTypeEnumType.FullHouse;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.RoyalFlush)
-            {
-                this.HandTypeEnum = HandTypeEnumType.StraightFlush;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.Straight)
-            {
-                this.HandTypeEnum = HandTypeEnumType.Straight;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.StraightFlush)
-            {
-                this.HandTypeEnum = HandTypeEnumType.StraightFlush;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.ThreeOfKind)
-            {
-                this.HandTypeEnum = HandTypeEnumType.ThreeOfAKind;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.TwoPair)
-            {
-                this.HandTypeEnum = HandTypeEnumType.TwoPair;
-            }
-            else if (result.Result == Entity.Hand.PokerHand.Pair)
-            {
-                var kicker = cards.Distinct(new PlayingCardNominalValueComparer()).OrderByDescending(p => p.NominalValue).ElementAt(1);
-                if (result.ResultCards.Any(p => p.NominalValue == PlayingCardNominalValue.Ace))
-                {
-                    if (kicker.NominalValue == PlayingCardNominalValue.King ||
-                        kicker.NominalValue == PlayingCardNominalValue.Queen ||
-                        kicker.NominalValue == PlayingCardNominalValue.Jack ||
-                        kicker.NominalValue == PlayingCardNominalValue.Ten)
-                    {
-                        this.HandTypeEnum = HandTypeEnumType.AcePairStrong;
-                    }
-                    else
-                    {
-                        this.HandTypeEnum = HandTypeEnumType.AcePairWeak;
-                    }
-                }
-                else if (result.ResultCards.Any(p => p.NominalValue == PlayingCardNominalValue.King))
-                {
-                    if (kicker.NominalValue == PlayingCardNominalValue.Queen ||
-                        kicker.NominalValue == PlayingCardNominalValue.Jack ||
-                        kicker.NominalValue == PlayingCardNominalValue.Ten)
-                    {
-                        this.HandTypeEnum = HandTypeEnumType.KingPairStrong;
-                    }
-                    else
-                    {
-                        this.HandTypeEnum = HandTypeEnumType.KingPairWeak;
-                    }
-                }
-                else if (result.ResultCards.Any(p => p.NominalValue == PlayingCardNominalValue.Queen))
-                {
-                    this.HandTypeEnum = HandTypeEnumType.QueenPair;
-                }
-                else if (result.ResultCards.Any(p => p.NominalValue == PlayingCardNominalValue.Jack))
-                {
-                    this.HandTypeEnum = HandTypeEnumType.Flush;
-                }
-                else if (result.ResultCards.Any(p => p.NominalValue == PlayingCardNominalValue.Ten || p.NominalValue == PlayingCardNominalValue.Nine || p.NominalValue == PlayingCardNominalValue.Eight))
-                {
-                    this.HandTypeEnum = HandTypeEnumType.MidPair;
-                }
-                else
-                {
-                    this.HandTypeEnum = HandTypeEnumType.LowPair;
-                }
-            }
-            else 
-            {
-                this.HandTypeEnum = HandTypeEnumType.Busted;
-            }
+            this.HandTypeEnum = HandUtility.GetHandTypeEnum(cards, result);
         }
+
+       
 
         public override String ToString()
         {

@@ -9,7 +9,8 @@ namespace PokerBot.BayesianNetwork.V1.NumberPlayerSitIn
 {
     public class NumberPlayerSitIn : BaseNumberPlayerSitIn
     {
-        public NumberPlayerSitIn(List<HandAction> listHand) : base(listHand.GroupBy(p => p.PlayerName).Count() - listHand.Where( p => p.Street == HandHistories.Objects.Cards.Street.Preflop && p.HandActionType == HandActionType.FOLD).Count())
+        public NumberPlayerSitIn(List<HandAction> listHand)
+            : base(listHand.Where(p => p.Street == HandHistories.Objects.Cards.Street.Preflop).GroupBy(p => p.PlayerName).Count())
         {
         }
 

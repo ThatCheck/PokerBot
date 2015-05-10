@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace PokerBot.Entity.Player
 {
+    [Serializable]
     public class Stats
     {
         private decimal _vpip;
@@ -48,6 +49,23 @@ namespace PokerBot.Entity.Player
         {
             get { return _vpip; }
             set { _vpip = value; }
+        }
+
+        public Stats()
+        {
+
+        }
+
+        public static Stats loadFromString(String line)
+        {
+            Stats returnStat = new Stats();
+            String[] value = line.Split(';');
+            returnStat.Name = value[0];
+            returnStat.Vpip = decimal.Parse(value[1]);
+            returnStat.Pfr = decimal.Parse(value[2]);
+            returnStat.ThreeBetPF = decimal.Parse(value[3]);
+            returnStat.FoldToThreeBet = decimal.Parse(value[4]);
+            return returnStat;
         }
 
         public Stats(String name)

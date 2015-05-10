@@ -1,4 +1,5 @@
-﻿using PokerBot.Entity.Enum;
+﻿using HandHistories.Objects.Hand;
+using PokerBot.Entity.Enum;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,10 +8,9 @@ using System.Threading.Tasks;
 
 namespace PokerBot.CaseBased.Base
 {
-    public class CaseBase
+    [Serializable]
+    public abstract class CaseBase
     {
-        private ActionEnum _action;
-        private Double _quality;
         private int _numberOfPlayer;
         private double _relativePosition;
         private int _playerInCurrentHand;
@@ -18,13 +18,8 @@ namespace PokerBot.CaseBased.Base
         private double _betCommitted;
         private double _betToCall;
         private double _potOdds;
-        private double _handStrengh;
-
-        public double HandStrengh
-        {
-            get { return _handStrengh; }
-            set { _handStrengh = value; }
-        }
+        private double _commitedStack;
+        private string _betPattern;
 
         public double PotOdds
         {
@@ -67,20 +62,23 @@ namespace PokerBot.CaseBased.Base
             set { _numberOfPlayer = value; }
         }
 
-        public Double Quality
+        public double CommittedStack
         {
-            get { return _quality; }
+            get { return _commitedStack; }
+            set { _commitedStack = value; }
         }
 
-        public ActionEnum Action
+        public String BetPattern
         {
-            get { return _action; }
+            get { return _betPattern; }
+            set { _betPattern = value; }
         }
 
-        public CaseBase(ActionEnum action, Double quality)
+        public CaseBase() : base()
         {
-            this._action = action;
-            this._quality = quality;
+
         }
+
+        abstract public double similarityTo(CaseBase pfCase);
     }
 }

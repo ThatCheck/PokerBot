@@ -25,13 +25,13 @@ namespace PokerBot.BayesianNetwork.V1.Action
             List<String> data = new List<string>();
             ActionEnumType[] actionEnumArray = new ActionEnumType[]
             {
-                ActionEnumType.Bet,
                 ActionEnumType.Call,
                 ActionEnumType.CallFiveBet,
                 ActionEnumType.CallFourBet,
                 ActionEnumType.CallRaise,
                 ActionEnumType.CallThreeBet,
                 ActionEnumType.Check,
+                ActionEnumType.Bet,
                 ActionEnumType.FiveBet,
                 ActionEnumType.FourBet,
                 ActionEnumType.Raise,

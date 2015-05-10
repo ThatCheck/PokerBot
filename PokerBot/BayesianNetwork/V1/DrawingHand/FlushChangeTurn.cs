@@ -36,7 +36,6 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                     this.Value = StateFlushStraightEnumType.Draw_Draw;
                 }
             }
-
             else if (this._flushFlop.Value == StateFlushStraightEnumType.Possible)
             {
                 if (flopBoard.Where(g => g.Count() == 4).Any())
@@ -67,8 +66,6 @@ namespace PokerBot.BayesianNetwork.V1.DrawingHand
                 StateFlushStraightEnumType.None_None,
                 StateFlushStraightEnumType.Possible_Likely,
                 StateFlushStraightEnumType.Possible_Possible,
-                StateFlushStraightEnumType.Likely_Flush,
-                StateFlushStraightEnumType.Likely_Likely
             };
             foreach (StateFlushStraightEnumType enumValue in enumArray)
             {

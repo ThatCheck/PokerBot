@@ -22,7 +22,7 @@ namespace PokerBot.CustomForm.Training
 
         void _trainer_ProgressEvent(object sender, Event.ProgressEventArgs data)
         {
-            int value = (int)Math.Round(((double)data.Progress / (double)data.Max) * 100);
+            int value = Math.Min((int)Math.Round(((double)data.Progress / (double)data.Max) * 100), 100);
             MethodInvoker action = () => this.progressBar1.Value = value;
             this.BeginInvoke(action);
             MethodInvoker action2 = () => this.label1.Text = data.Progress + "/" + data.Max;
