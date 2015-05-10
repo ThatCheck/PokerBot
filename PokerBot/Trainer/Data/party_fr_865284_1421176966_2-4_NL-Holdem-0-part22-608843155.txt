@@ -1,0 +1,3716 @@
+#Game No : 14337459965
+***** Hand History for Game 14337459965 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 18:34:28 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: cactusgeant ( €3.63 EUR )
+Seat 2: Benpops 83 ( €2.60 EUR )
+Seat 4: brepok56 ( €3.74 EUR )
+Seat 5: HCL99 ( €4.19 EUR )
+Seat 9: djabe ( €1.57 EUR )
+Benpops 83 posts small blind [€0.02 EUR].
+brepok56 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HCL99 calls [€0.04 EUR]
+djabe calls [€0.04 EUR]
+cactusgeant folds
+Benpops 83 calls [€0.02 EUR]
+brepok56 checks
+** Dealing Flop ** [ Ks, Ad, Qc ]
+Benpops 83 folds
+brepok56 checks
+HCL99 checks
+djabe checks
+** Dealing Turn ** [ Qs ]
+brepok56 bets [€0.15 EUR]
+HCL99 calls [€0.15 EUR]
+djabe folds
+** Dealing River ** [ Jh ]
+brepok56 checks
+HCL99 checks
+HCL99 doesn't show [ 7d, 7c ]
+brepok56 shows [ Js, 6d ]
+brepok56 wins €0.43 EUR from the main pot.
+Game #14337460228 starts.
+
+
+
+#Game No : 14337461916
+***** Hand History for Game 14337461916 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 18:35:16 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: cactusgeant ( €3.63 EUR )
+Seat 2: Benpops 83 ( €2.56 EUR )
+Seat 4: brepok56 ( €3.98 EUR )
+Seat 5: HCL99 ( €4 EUR )
+Seat 9: djabe ( €1.53 EUR )
+brepok56 posts small blind [€0.02 EUR].
+HCL99 posts big blind [€0.04 EUR].
+** Dealing down cards **
+djabe folds
+cactusgeant folds
+Benpops 83 calls [€0.04 EUR]
+brepok56 calls [€0.02 EUR]
+HCL99 checks
+** Dealing Flop ** [ 3d, Qh, Td ]
+brepok56 bets [€0.12 EUR]
+HCL99 calls [€0.12 EUR]
+Benpops 83 calls [€0.12 EUR]
+** Dealing Turn ** [ 3s ]
+brepok56 checks
+HCL99 bets [€0.22 EUR]
+Benpops 83 folds
+brepok56 calls [€0.22 EUR]
+** Dealing River ** [ 9s ]
+brepok56 checks
+HCL99 bets [€0.64 EUR]
+brepok56 calls [€0.64 EUR]
+brepok56 doesn't show [ Qc, 5h ]
+HCL99 shows [ 3c, Kc ]
+HCL99 wins €2.06 EUR from the main pot.
+Game #14337462760 starts.
+
+
+
+#Game No : 14337464010
+***** Hand History for Game 14337464010 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 18:36:38 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: cactusgeant ( €3.63 EUR )
+Seat 2: Benpops 83 ( €2.40 EUR )
+Seat 4: brepok56 ( €2.96 EUR )
+Seat 5: HCL99 ( €5.04 EUR )
+Seat 9: djabe ( €1.53 EUR )
+HCL99 posts small blind [€0.02 EUR].
+djabe posts big blind [€0.04 EUR].
+** Dealing down cards **
+cactusgeant folds
+Benpops 83 calls [€0.04 EUR]
+brepok56 calls [€0.04 EUR]
+HCL99 calls [€0.02 EUR]
+djabe checks
+** Dealing Flop ** [ 7s, 5d, Qs ]
+HCL99 checks
+djabe checks
+Benpops 83 checks
+brepok56 checks
+** Dealing Turn ** [ 3c ]
+HCL99 bets [€0.15 EUR]
+djabe folds
+Benpops 83 calls [€0.15 EUR]
+brepok56 folds
+** Dealing River ** [ 7h ]
+HCL99 bets [€0.43 EUR]
+Benpops 83 calls [€0.43 EUR]
+Benpops 83 doesn't show [ Js, Ac ]
+HCL99 shows [ 4s, 6d ]
+HCL99 wins €1.24 EUR from the main pot.
+Game #14337465364 starts.
+
+
+
+#Game No : 14337521518
+***** Hand History for Game 14337521518 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:02:50 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: cactusgeant ( €3.11 EUR )
+Seat 2: kobelco63 ( €4.50 EUR )
+Seat 5: HCL99 ( €2.59 EUR )
+Seat 6: bylare ( €7.76 EUR )
+Seat 7: Roi-Heenok ( €4 EUR )
+Seat 8: stobu36 ( €3.80 EUR )
+Seat 9: djabe ( €0.80 EUR )
+stobu36 posts small blind [€0.02 EUR].
+djabe posts big blind [€0.04 EUR].
+** Dealing down cards **
+cactusgeant folds
+kobelco63 calls [€0.04 EUR]
+HCL99 folds
+stobu36 calls [€0.02 EUR]
+djabe checks
+** Dealing Flop ** [ Ts, 5c, 7h ]
+stobu36 bets [€0.12 EUR]
+djabe calls [€0.12 EUR]
+kobelco63 calls [€0.12 EUR]
+** Dealing Turn ** [ 2h ]
+stobu36 checks
+djabe checks
+kobelco63 checks
+** Dealing River ** [ Ac ]
+stobu36 checks
+djabe checks
+kobelco63 checks
+djabe doesn't show [ 8c, Jd ]
+kobelco63 doesn't show [ Js, Kh ]
+stobu36 shows [ Jh, 5d ]
+stobu36 wins €0.45 EUR from the main pot.
+Game #14337523670 starts.
+
+
+
+#Game No : 14337868963
+***** Hand History for Game 14337868963 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 21:14:09 CEST 2015
+Table Suresnes (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: Pro-online ( €4 EUR )
+Seat 2: philbor ( €2.80 EUR )
+Seat 3: superbot76 ( €1.57 EUR )
+Seat 4: oufaissa ( €2.09 EUR )
+Seat 5: tchitcholino77 ( €7.30 EUR )
+Seat 6: ocbocb54 ( €2.12 EUR )
+Seat 8: DarkVadresse ( €4 EUR )
+Seat 9: Dremdrem ( €9.87 EUR )
+philbor posts small blind [€0.02 EUR].
+superbot76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+tchitcholino77 folds
+ocbocb54 calls [€0.04 EUR]
+Dremdrem folds
+philbor calls [€0.02 EUR]
+superbot76 checks
+** Dealing Flop ** [ 9s, 4s, 7s ]
+philbor checks
+superbot76 checks
+ocbocb54 bets [€0.06 EUR]
+philbor folds
+superbot76 folds
+ocbocb54 does not show cards.
+ocbocb54 wins €0.18 EUR from the main pot.
+Game #14337868939 starts.
+
+
+
+#Game No : 14337631558
+***** Hand History for Game 14337631558 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:48:06 CEST 2015
+Table Suresnes (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: MAUDFISH13 ( €3.74 EUR )
+Seat 2: Pat0678 ( €8.46 EUR )
+Seat 3: maxflight ( €3.78 EUR )
+Seat 5: PAPI95 ( €3.36 EUR )
+Seat 6: pepinou13 ( €1.40 EUR )
+PAPI95 posts small blind [€0.02 EUR].
+pepinou13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MAUDFISH13 folds
+Pat0678 folds
+maxflight calls [€0.04 EUR]
+PAPI95 calls [€0.02 EUR]
+pepinou13 checks
+** Dealing Flop ** [ 3c, 7c, Qs ]
+PAPI95 checks
+pepinou13 checks
+maxflight checks
+** Dealing Turn ** [ 3h ]
+PAPI95 checks
+pepinou13 checks
+maxflight checks
+** Dealing River ** [ Kc ]
+PAPI95 checks
+pepinou13 checks
+maxflight bets [€0.12 EUR]
+PAPI95 folds
+pepinou13 folds
+maxflight does not show cards.
+maxflight wins €0.24 EUR from the main pot.
+Game #14337634809 starts.
+
+
+
+#Game No : 14337635293
+***** Hand History for Game 14337635293 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:48:55 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: MAUDFISH13 ( €3.74 EUR )
+Seat 2: Pat0678 ( €8.46 EUR )
+Seat 3: maxflight ( €3.86 EUR )
+Seat 5: PAPI95 ( €3.32 EUR )
+Seat 6: pepinou13 ( €1.36 EUR )
+pepinou13 posts small blind [€0.02 EUR].
+MAUDFISH13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+maxflight folds
+PAPI95 folds
+pepinou13 calls [€0.02 EUR]
+MAUDFISH13 checks
+** Dealing Flop ** [ 5d, As, 6h ]
+pepinou13 bets [€0.04 EUR]
+MAUDFISH13 folds
+pepinou13 does not show cards.
+pepinou13 wins €0.12 EUR from the main pot.
+Game #14337635671 starts.
+
+
+
+#Game No : 14337644404
+***** Hand History for Game 14337644404 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:53:00 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 7/9
+Seat 1: MAUDFISH13 ( €3.68 EUR )
+Seat 2: Pat0678 ( €8.42 EUR )
+Seat 3: maxflight ( €3.78 EUR )
+Seat 4: hahaha69 ( €3.92 EUR )
+Seat 5: PAPI95 ( €3.28 EUR )
+Seat 6: pepinou13 ( €1.64 EUR )
+Seat 9: jacou555 ( €2.22 EUR )
+maxflight posts small blind [€0.02 EUR].
+hahaha69 posts big blind [€0.04 EUR].
+** Dealing down cards **
+PAPI95 folds
+pepinou13 folds
+MAUDFISH13 folds
+maxflight calls [€0.02 EUR]
+hahaha69 checks
+** Dealing Flop ** [ 8h, Ad, Jd ]
+maxflight checks
+hahaha69 checks
+** Dealing Turn ** [ 3h ]
+maxflight checks
+hahaha69 checks
+** Dealing River ** [ 6h ]
+maxflight bets [€0.04 EUR]
+hahaha69 calls [€0.04 EUR]
+hahaha69 doesn't show [ 5d, 6d ]
+maxflight shows [ 6c, Td ]
+maxflight wins €0.15 EUR from the main pot.
+Game #14337648012 starts.
+
+
+
+#Game No : 14337663249
+***** Hand History for Game 14337663249 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 20:00:51 CEST 2015
+Table Suresnes (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: MAUDFISH13 ( €3.60 EUR )
+Seat 2: Pat0678 ( €8.36 EUR )
+Seat 3: maxflight ( €4.19 EUR )
+Seat 4: hahaha69 ( €3.92 EUR )
+Seat 6: pepinou13 ( €1.54 EUR )
+Seat 9: jacou555 ( €1.98 EUR )
+hahaha69 posts small blind [€0.02 EUR].
+pepinou13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MAUDFISH13 folds
+Pat0678 calls [€0.04 EUR]
+maxflight folds
+hahaha69 raises [€0.06 EUR]
+pepinou13 calls [€0.04 EUR]
+Pat0678 calls [€0.04 EUR]
+** Dealing Flop ** [ Qh, 9h, 6c ]
+hahaha69 bets [€0.11 EUR]
+pepinou13 folds
+Pat0678 raises [€0.28 EUR]
+hahaha69 calls [€0.17 EUR]
+** Dealing Turn ** [ 9s ]
+hahaha69 checks
+Pat0678 bets [€0.37 EUR]
+hahaha69 folds
+Pat0678 does not show cards.
+Pat0678 wins €1.12 EUR from the main pot.
+Game #14337664652 starts.
+
+
+
+#Game No : 14337666088
+***** Hand History for Game 14337666088 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 20:02:10 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: MAUDFISH13 ( €3.60 EUR )
+Seat 2: Pat0678 ( €8.75 EUR )
+Seat 3: maxflight ( €4.19 EUR )
+Seat 4: hahaha69 ( €3.56 EUR )
+Seat 6: pepinou13 ( €1.46 EUR )
+Seat 9: jacou555 ( €1.98 EUR )
+pepinou13 posts small blind [€0.02 EUR].
+MAUDFISH13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+maxflight calls [€0.04 EUR]
+hahaha69 calls [€0.04 EUR]
+pepinou13 calls [€0.02 EUR]
+MAUDFISH13 checks
+** Dealing Flop ** [ 6d, Kh, Jh ]
+pepinou13 checks
+MAUDFISH13 checks
+maxflight checks
+hahaha69 checks
+** Dealing Turn ** [ 4d ]
+pepinou13 checks
+MAUDFISH13 checks
+maxflight checks
+hahaha69 checks
+** Dealing River ** [ Kd ]
+pepinou13 bets [€0.15 EUR]
+MAUDFISH13 folds
+maxflight folds
+hahaha69 folds
+pepinou13 does not show cards.
+pepinou13 wins €0.30 EUR from the main pot.
+Game #14337667459 starts.
+
+
+
+#Game No : 14337668456
+***** Hand History for Game 14337668456 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 20:04:07 CEST 2015
+Table Suresnes (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: MAUDFISH13 ( €3.56 EUR )
+Seat 2: Pat0678 ( €8.75 EUR )
+Seat 3: maxflight ( €4.15 EUR )
+Seat 4: hahaha69 ( €3.52 EUR )
+Seat 6: pepinou13 ( €1.57 EUR )
+Seat 9: jacou555 ( €1.98 EUR )
+MAUDFISH13 posts small blind [€0.02 EUR].
+Pat0678 posts big blind [€0.04 EUR].
+** Dealing down cards **
+maxflight calls [€0.04 EUR]
+hahaha69 calls [€0.04 EUR]
+pepinou13 folds
+MAUDFISH13 folds
+Pat0678 checks
+** Dealing Flop ** [ 4d, Jc, 5d ]
+Pat0678 checks
+maxflight bets [€0.04 EUR]
+hahaha69 calls [€0.04 EUR]
+Pat0678 calls [€0.04 EUR]
+** Dealing Turn ** [ As ]
+Pat0678 checks
+maxflight bets [€0.04 EUR]
+hahaha69 calls [€0.04 EUR]
+Pat0678 calls [€0.04 EUR]
+** Dealing River ** [ 3s ]
+Pat0678 checks
+maxflight bets [€0.60 EUR]
+hahaha69 folds
+Pat0678 folds
+maxflight does not show cards.
+maxflight wins €0.96 EUR from the main pot.
+Game #14337671741 starts.
+
+
+
+#Game No : 14337603035
+***** Hand History for Game 14337603035 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:36:14 CEST 2015
+Table Suresnes (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: MAUDFISH13 ( €3.87 EUR )
+Seat 2: Pat0678 ( €8.18 EUR )
+Seat 3: maxflight ( €3.65 EUR )
+Seat 4: millesdu69 ( €3.88 EUR )
+Seat 5: PAPI95 ( €4 EUR )
+millesdu69 posts small blind [€0.02 EUR].
+PAPI95 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MAUDFISH13 calls [€0.04 EUR]
+Pat0678 folds
+maxflight calls [€0.04 EUR]
+millesdu69 calls [€0.02 EUR]
+PAPI95 checks
+** Dealing Flop ** [ 9d, 9h, 3s ]
+millesdu69 checks
+PAPI95 checks
+MAUDFISH13 checks
+maxflight bets [€0.04 EUR]
+millesdu69 folds
+PAPI95 calls [€0.04 EUR]
+MAUDFISH13 folds
+** Dealing Turn ** [ 8s ]
+PAPI95 checks
+maxflight bets [€0.04 EUR]
+PAPI95 folds
+maxflight does not show cards.
+maxflight wins €0.27 EUR from the main pot.
+Game #14337603888 starts.
+
+
+
+#Game No : 14337605791
+***** Hand History for Game 14337605791 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 19:37:13 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: MAUDFISH13 ( €3.83 EUR )
+Seat 2: Pat0678 ( €8.18 EUR )
+Seat 3: maxflight ( €3.80 EUR )
+Seat 4: millesdu69 ( €3.84 EUR )
+Seat 5: PAPI95 ( €3.92 EUR )
+PAPI95 posts small blind [€0.02 EUR].
+MAUDFISH13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 raises [€0.20 EUR]
+maxflight folds
+millesdu69 folds
+PAPI95 calls [€0.18 EUR]
+MAUDFISH13 folds
+** Dealing Flop ** [ 3s, Kd, 5d ]
+PAPI95 checks
+Pat0678 bets [€0.31 EUR]
+PAPI95 calls [€0.31 EUR]
+** Dealing Turn ** [ 2s ]
+PAPI95 checks
+Pat0678 bets [€0.49 EUR]
+PAPI95 calls [€0.49 EUR]
+** Dealing River ** [ 2h ]
+PAPI95 checks
+Pat0678 checks
+Pat0678 doesn't show [ Ac, 5c ]
+PAPI95 shows [ Ks, Jc ]
+PAPI95 wins €1.91 EUR from the main pot.
+Game #14337608210 starts.
+
+
+
+#Game No : 14338538228
+***** Hand History for Game 14338538228 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:38:34 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 2: lecollectioneur ( €0.82 EUR )
+Seat 3: Pro-online ( €6.17 EUR )
+Seat 4: sheme62 ( €2.66 EUR )
+Seat 5: STALDERS ( €7.93 EUR )
+Seat 6: mimir62000 ( €6.97 EUR )
+Seat 7: WINAMORE ( €0 EUR )
+Seat 9: wintops49 ( €4 EUR )
+lecollectioneur posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+STALDERS folds
+mimir62000 folds
+wintops49 raises [€0.12 EUR]
+lecollectioneur calls [€0.10 EUR]
+Pro-online folds
+** Dealing Flop ** [ 7d, 7s, Ks ]
+lecollectioneur checks
+wintops49 bets [€0.13 EUR]
+lecollectioneur raises [€0.66 EUR]
+wintops49 folds
+lecollectioneur does not show cards.
+lecollectioneur wins €1.04 EUR from the main pot.
+Game #14338539682 starts.
+
+
+
+#Game No : 14338539682
+***** Hand History for Game 14338539682 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:39:40 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: lecollectioneur ( €1.08 EUR )
+Seat 3: Pro-online ( €6.13 EUR )
+Seat 4: sheme62 ( €2.66 EUR )
+Seat 5: STALDERS ( €7.93 EUR )
+Seat 6: mimir62000 ( €6.97 EUR )
+Seat 9: wintops49 ( €4 EUR )
+Pro-online posts small blind [€0.02 EUR].
+STALDERS posts big blind [€0.04 EUR].
+** Dealing down cards **
+mimir62000 calls [€0.04 EUR]
+wintops49 folds
+lecollectioneur calls [€0.04 EUR]
+Pro-online calls [€0.02 EUR]
+STALDERS checks
+** Dealing Flop ** [ 7s, 5c, Td ]
+Pro-online checks
+STALDERS checks
+mimir62000 checks
+lecollectioneur folds
+** Dealing Turn ** [ Kd ]
+Pro-online checks
+STALDERS checks
+mimir62000 checks
+** Dealing River ** [ 3h ]
+Pro-online checks
+STALDERS checks
+mimir62000 checks
+STALDERS doesn't show [ Qc, 8s ]
+Pro-online shows [ Qd, Jh ]
+mimir62000 shows [ Js, Qh ]
+Pro-online wins €0.08 EUR from the main pot.
+mimir62000 wins €0.07 EUR from the main pot.
+Game #14338540503 starts.
+
+
+
+#Game No : 14338186422
+***** Hand History for Game 14338186422 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 23:07:03 CEST 2015
+Table Suresnes (Real Money)
+Seat 3 is the button
+Total number of players : 8/9
+Seat 1: Pro-online ( €3.20 EUR )
+Seat 2: zingalo ( €0.69 EUR )
+Seat 3: TheUngarShow ( €3.90 EUR )
+Seat 5: Giuseppe06 ( €4 EUR )
+Seat 6: ocbocb54 ( €5.36 EUR )
+Seat 7: Majmod35 ( €2.65 EUR )
+Seat 8: steuf99 ( €10.46 EUR )
+Seat 9: elkador ( €0 EUR )
+ocbocb54 posts small blind [€0.02 EUR].
+steuf99 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online folds
+zingalo calls [€0.04 EUR]
+TheUngarShow calls [€0.04 EUR]
+ocbocb54 calls [€0.02 EUR]
+steuf99 checks
+** Dealing Flop ** [ Js, Jd, Qd ]
+ocbocb54 checks
+steuf99 checks
+zingalo checks
+TheUngarShow checks
+** Dealing Turn ** [ 6h ]
+ocbocb54 checks
+steuf99 checks
+zingalo checks
+TheUngarShow bets [€0.04 EUR]
+ocbocb54 folds
+steuf99 folds
+zingalo calls [€0.04 EUR]
+** Dealing River ** [ 6s ]
+zingalo bets [€0.08 EUR]
+TheUngarShow calls [€0.08 EUR]
+zingalo shows [ 3s, Kc ]
+TheUngarShow shows [ 9d, 9s ]
+TheUngarShow wins €0.38 EUR from the main pot.
+Game #14338188172 starts.
+
+
+
+#Game No : 14338194815
+***** Hand History for Game 14338194815 *****
+€4 EUR NL Texas Hold'em - Tuesday, January 13, 23:10:48 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €3.16 EUR )
+Seat 2: zingalo ( €0.75 EUR )
+Seat 3: TheUngarShow ( €4.08 EUR )
+Seat 5: Giuseppe06 ( €3.96 EUR )
+Seat 6: ocbocb54 ( €5.32 EUR )
+Seat 8: steuf99 ( €10.30 EUR )
+zingalo posts small blind [€0.02 EUR].
+TheUngarShow posts big blind [€0.04 EUR].
+** Dealing down cards **
+Giuseppe06 calls [€0.04 EUR]
+ocbocb54 calls [€0.04 EUR]
+steuf99 calls [€0.04 EUR]
+zingalo calls [€0.02 EUR]
+TheUngarShow checks
+** Dealing Flop ** [ 5h, Kh, 7s ]
+zingalo checks
+TheUngarShow checks
+Giuseppe06 checks
+ocbocb54 bets [€0.04 EUR]
+steuf99 calls [€0.04 EUR]
+zingalo calls [€0.04 EUR]
+TheUngarShow calls [€0.04 EUR]
+Giuseppe06 calls [€0.04 EUR]
+** Dealing Turn ** [ 3d ]
+zingalo checks
+TheUngarShow checks
+Giuseppe06 checks
+ocbocb54 checks
+steuf99 bets [€0.12 EUR]
+zingalo folds
+TheUngarShow folds
+Giuseppe06 folds
+ocbocb54 folds
+steuf99 does not show cards.
+steuf99 wins €0.50 EUR from the main pot.
+Game #14338198663 starts.
+
+
+
+#Game No : 14338473213
+***** Hand History for Game 14338473213 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 01:36:29 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €8.74 EUR )
+Seat 2: raptor73100 ( €2.82 EUR )
+Seat 4: maelle59 ( €0 EUR )
+Seat 5: Dinna75 ( €8.10 EUR )
+Seat 7: Mickamailys76 ( €2.86 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Mickamailys76 posts small blind [€0.02 EUR].
+wintops49 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online calls [€0.04 EUR]
+raptor73100 calls [€0.04 EUR]
+Dinna75 calls [€0.04 EUR]
+Mickamailys76 calls [€0.02 EUR]
+wintops49 checks
+** Dealing Flop ** [ Qs, Jd, 2h ]
+Mickamailys76 checks
+wintops49 checks
+Pro-online bets [€0.08 EUR]
+raptor73100 folds
+Dinna75 folds
+Mickamailys76 calls [€0.08 EUR]
+wintops49 folds
+** Dealing Turn ** [ 3h ]
+Mickamailys76 checks
+Pro-online bets [€0.08 EUR]
+Mickamailys76 calls [€0.08 EUR]
+** Dealing River ** [ 2d ]
+Mickamailys76 checks
+Pro-online bets [€0.08 EUR]
+Mickamailys76 calls [€0.08 EUR]
+Pro-online shows [ Ad, Qh ]
+Mickamailys76 shows [ 7d, 7s ]
+Pro-online wins €0.64 EUR from the main pot.
+Game #14338475454 starts.
+
+
+
+#Game No : 14338498008
+***** Hand History for Game 14338498008 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 01:56:29 CEST 2015
+Table Suresnes (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.70 EUR )
+Seat 4: maelle59 ( €3.64 EUR )
+Seat 5: Dinna75 ( €8.19 EUR )
+Seat 7: Mickamailys76 ( €2.84 EUR )
+Seat 8: wintops49 ( €4.40 EUR )
+wintops49 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 folds
+Dinna75 calls [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+wintops49 folds
+Pro-online checks
+** Dealing Flop ** [ Jc, 7s, Qd ]
+Pro-online checks
+Dinna75 bets [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+Pro-online folds
+** Dealing Turn ** [ 5h ]
+Dinna75 bets [€0.16 EUR]
+Mickamailys76 calls [€0.16 EUR]
+** Dealing River ** [ Jh ]
+Dinna75 bets [€0.24 EUR]
+Mickamailys76 folds
+Dinna75 does not show cards.
+Dinna75 wins €0.75 EUR from the main pot.
+Game #14338499281 starts.
+
+
+
+#Game No : 14338499281
+***** Hand History for Game 14338499281 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 01:57:26 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.66 EUR )
+Seat 4: maelle59 ( €3.64 EUR )
+Seat 5: Dinna75 ( €8.46 EUR )
+Seat 7: Mickamailys76 ( €2.60 EUR )
+Seat 8: wintops49 ( €4.38 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dinna75 folds
+Mickamailys76 calls [€0.04 EUR]
+wintops49 folds
+Pro-online calls [€0.02 EUR]
+maelle59 checks
+** Dealing Flop ** [ Ad, Ac, 6c ]
+Pro-online checks
+maelle59 checks
+Mickamailys76 checks
+** Dealing Turn ** [ Ks ]
+Pro-online bets [€0.04 EUR]
+maelle59 folds
+Mickamailys76 folds
+Pro-online does not show cards.
+Pro-online wins €0.16 EUR from the main pot.
+Game #14338499947 starts.
+
+
+
+#Game No : 14338499947
+***** Hand History for Game 14338499947 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 01:58:09 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.74 EUR )
+Seat 4: maelle59 ( €3.60 EUR )
+Seat 5: Dinna75 ( €8.46 EUR )
+Seat 7: Mickamailys76 ( €2.56 EUR )
+Seat 8: wintops49 ( €4.38 EUR )
+maelle59 posts small blind [€0.02 EUR].
+Dinna75 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+wintops49 raises [€0.12 EUR]
+Pro-online folds
+maelle59 folds
+Dinna75 folds
+wintops49 does not show cards.
+wintops49 wins €0.18 EUR from the main pot.
+Game #14338500470 starts.
+
+
+
+#Game No : 14338500470
+***** Hand History for Game 14338500470 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 01:59:18 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.74 EUR )
+Seat 4: maelle59 ( €3.58 EUR )
+Seat 5: Dinna75 ( €8.42 EUR )
+Seat 7: Mickamailys76 ( €2.56 EUR )
+Seat 8: wintops49 ( €4.44 EUR )
+Dinna75 posts small blind [€0.02 EUR].
+Mickamailys76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+wintops49 raises [€0.12 EUR]
+Pro-online folds
+maelle59 folds
+Dinna75 calls [€0.10 EUR]
+Mickamailys76 calls [€0.08 EUR]
+** Dealing Flop ** [ 6s, Qh, Kd ]
+Dinna75 bets [€0.04 EUR]
+Mickamailys76 folds
+wintops49 folds
+Dinna75 does not show cards.
+Dinna75 wins €0.38 EUR from the main pot.
+Game #14338502288 starts.
+
+
+
+#Game No : 14338502288
+***** Hand History for Game 14338502288 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:00:13 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.74 EUR )
+Seat 4: maelle59 ( €3.58 EUR )
+Seat 5: Dinna75 ( €8.64 EUR )
+Seat 7: Mickamailys76 ( €2.44 EUR )
+Seat 8: wintops49 ( €4.32 EUR )
+Mickamailys76 posts small blind [€0.02 EUR].
+wintops49 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online folds
+maelle59 folds
+Dinna75 raises [€0.08 EUR]
+Mickamailys76 calls [€0.06 EUR]
+wintops49 folds
+** Dealing Flop ** [ Qc, Ts, Ac ]
+Mickamailys76 checks
+Dinna75 bets [€0.16 EUR]
+Mickamailys76 folds
+Dinna75 does not show cards.
+Dinna75 wins €0.35 EUR from the main pot.
+Game #14338502920 starts.
+
+
+
+#Game No : 14338502920
+***** Hand History for Game 14338502920 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:01:06 CEST 2015
+Table Suresnes (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.74 EUR )
+Seat 4: maelle59 ( €3.58 EUR )
+Seat 5: Dinna75 ( €8.75 EUR )
+Seat 7: Mickamailys76 ( €2.36 EUR )
+Seat 8: wintops49 ( €4.28 EUR )
+wintops49 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 folds
+Dinna75 folds
+Mickamailys76 raises [€0.08 EUR]
+wintops49 folds
+Pro-online folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €0.14 EUR from the main pot.
+Game #14338503589 starts.
+
+
+
+#Game No : 14338503589
+***** Hand History for Game 14338503589 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:02:41 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.70 EUR )
+Seat 4: maelle59 ( €3.58 EUR )
+Seat 5: Dinna75 ( €8.75 EUR )
+Seat 7: Mickamailys76 ( €2.42 EUR )
+Seat 8: wintops49 ( €4.26 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dinna75 folds
+Mickamailys76 calls [€0.04 EUR]
+wintops49 folds
+Pro-online calls [€0.02 EUR]
+maelle59 checks
+** Dealing Flop ** [ Ac, 6c, Qd ]
+Pro-online checks
+maelle59 checks
+Mickamailys76 checks
+** Dealing Turn ** [ 7s ]
+Pro-online bets [€0.08 EUR]
+maelle59 calls [€0.08 EUR]
+Mickamailys76 folds
+** Dealing River ** [ Qc ]
+Pro-online bets [€0.27 EUR]
+maelle59 raises [€0.54 EUR]
+Pro-online folds
+maelle59 does not show cards.
+maelle59 wins €1.04 EUR from the main pot.
+Game #14338504876 starts.
+
+
+
+#Game No : 14338504876
+***** Hand History for Game 14338504876 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:03:34 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.31 EUR )
+Seat 4: maelle59 ( €3.96 EUR )
+Seat 5: Dinna75 ( €8.75 EUR )
+Seat 7: Mickamailys76 ( €2.38 EUR )
+Seat 8: wintops49 ( €4.26 EUR )
+maelle59 posts small blind [€0.02 EUR].
+Dinna75 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+wintops49 folds
+Pro-online folds
+maelle59 calls [€0.02 EUR]
+Dinna75 checks
+** Dealing Flop ** [ Qc, 3c, 8d ]
+maelle59 bets [€0.04 EUR]
+Dinna75 calls [€0.04 EUR]
+** Dealing Turn ** [ 8s ]
+maelle59 bets [€0.04 EUR]
+Dinna75 calls [€0.04 EUR]
+** Dealing River ** [ 2d ]
+maelle59 checks
+Dinna75 checks
+maelle59 shows [ Tc, Jc ]
+Dinna75 shows [ 6h, Kd ]
+Dinna75 wins €0.23 EUR from the main pot.
+Game #14338506144 starts.
+
+
+
+#Game No : 14338506144
+***** Hand History for Game 14338506144 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:04:14 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.31 EUR )
+Seat 4: maelle59 ( €3.84 EUR )
+Seat 5: Dinna75 ( €8.86 EUR )
+Seat 7: Mickamailys76 ( €2.38 EUR )
+Seat 8: wintops49 ( €4.26 EUR )
+Dinna75 posts small blind [€0.02 EUR].
+Mickamailys76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+wintops49 folds
+Pro-online folds
+maelle59 calls [€0.04 EUR]
+Dinna75 folds
+Mickamailys76 checks
+** Dealing Flop ** [ Ks, 3s, Jh ]
+Mickamailys76 checks
+maelle59 checks
+** Dealing Turn ** [ Js ]
+Mickamailys76 checks
+maelle59 checks
+** Dealing River ** [ 5s ]
+Mickamailys76 checks
+maelle59 checks
+Mickamailys76 shows [ 2c, 3d ]
+maelle59 shows [ Ac, Ad ]
+maelle59 wins €0.10 EUR from the main pot.
+Game #14338506730 starts.
+
+
+
+#Game No : 14338506730
+***** Hand History for Game 14338506730 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:05:37 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.31 EUR )
+Seat 4: maelle59 ( €3.90 EUR )
+Seat 5: Dinna75 ( €8.84 EUR )
+Seat 7: Mickamailys76 ( €2.34 EUR )
+Seat 8: wintops49 ( €4.26 EUR )
+Mickamailys76 posts small blind [€0.02 EUR].
+wintops49 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online folds
+maelle59 calls [€0.04 EUR]
+Dinna75 folds
+Mickamailys76 calls [€0.02 EUR]
+wintops49 checks
+** Dealing Flop ** [ 8h, Qs, 9s ]
+Mickamailys76 checks
+wintops49 checks
+maelle59 checks
+** Dealing Turn ** [ 8d ]
+Mickamailys76 checks
+wintops49 bets [€0.08 EUR]
+maelle59 folds
+Mickamailys76 calls [€0.08 EUR]
+** Dealing River ** [ Js ]
+Mickamailys76 checks
+wintops49 checks
+wintops49 doesn't show [ Qd, 5c ]
+Mickamailys76 shows [ Tc, 6s ]
+Mickamailys76 wins €0.27 EUR from the main pot.
+Game #14338508442 starts.
+
+
+
+#Game No : 14338508442
+***** Hand History for Game 14338508442 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:06:34 CEST 2015
+Table Suresnes (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.31 EUR )
+Seat 4: maelle59 ( €3.86 EUR )
+Seat 5: Dinna75 ( €8.84 EUR )
+Seat 7: Mickamailys76 ( €2.49 EUR )
+Seat 8: wintops49 ( €4.14 EUR )
+wintops49 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 folds
+Dinna75 folds
+Mickamailys76 folds
+wintops49 raises [€0.10 EUR]
+Pro-online calls [€0.08 EUR]
+** Dealing Flop ** [ Jc, 6c, Js ]
+wintops49 bets [€0.11 EUR]
+Pro-online calls [€0.11 EUR]
+** Dealing Turn ** [ 4c ]
+wintops49 checks
+Pro-online checks
+** Dealing River ** [ 6s ]
+wintops49 checks
+Pro-online checks
+wintops49 shows [ Td, Ah ]
+Pro-online shows [ Ts, Tc ]
+Pro-online wins €0.43 EUR from the main pot.
+Game #14338509263 starts.
+
+
+
+#Game No : 14338509263
+***** Hand History for Game 14338509263 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:07:35 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.51 EUR )
+Seat 4: maelle59 ( €3.86 EUR )
+Seat 5: Dinna75 ( €8.84 EUR )
+Seat 7: Mickamailys76 ( €2.49 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dinna75 raises [€0.08 EUR]
+Mickamailys76 is all-In [€2.49 EUR]
+wintops49 folds
+Pro-online folds
+maelle59 folds
+Dinna75 folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €2.63 EUR from the main pot.
+Game #14338510138 starts.
+
+
+
+#Game No : 14338510138
+***** Hand History for Game 14338510138 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:08:50 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.49 EUR )
+Seat 4: maelle59 ( €3.82 EUR )
+Seat 5: Dinna75 ( €8.76 EUR )
+Seat 7: Mickamailys76 ( €2.63 EUR )
+Seat 8: wintops49 ( €4 EUR )
+maelle59 posts small blind [€0.02 EUR].
+Dinna75 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+wintops49 folds
+Pro-online calls [€0.04 EUR]
+maelle59 calls [€0.02 EUR]
+Dinna75 checks
+** Dealing Flop ** [ 3s, Qs, Qd ]
+maelle59 checks
+Dinna75 checks
+Pro-online checks
+** Dealing Turn ** [ 3h ]
+maelle59 bets [€0.04 EUR]
+Dinna75 folds
+Pro-online calls [€0.04 EUR]
+** Dealing River ** [ Jc ]
+maelle59 bets [€0.04 EUR]
+Pro-online calls [€0.04 EUR]
+maelle59 shows [ Ah, 2d ]
+Pro-online shows [ 7s, As ]
+Pro-online wins €0.13 EUR from the main pot.
+maelle59 wins €0.14 EUR from the main pot.
+Game #14338511711 starts.
+
+
+
+#Game No : 14338511711
+***** Hand History for Game 14338511711 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:10:18 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €8.50 EUR )
+Seat 4: maelle59 ( €3.84 EUR )
+Seat 5: Dinna75 ( €8.72 EUR )
+Seat 7: Mickamailys76 ( €2.63 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Seat 9: jgor31 ( €2 EUR )
+Dinna75 posts small blind [€0.02 EUR].
+Mickamailys76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+wintops49 folds
+Pro-online calls [€0.04 EUR]
+maelle59 folds
+Dinna75 calls [€0.02 EUR]
+Mickamailys76 checks
+** Dealing Flop ** [ 6s, 4s, 2c ]
+Dinna75 bets [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+Pro-online calls [€0.04 EUR]
+** Dealing Turn ** [ Jc ]
+Dinna75 bets [€0.12 EUR]
+Mickamailys76 calls [€0.12 EUR]
+Pro-online calls [€0.12 EUR]
+** Dealing River ** [ Qs ]
+Dinna75 bets [€0.28 EUR]
+Mickamailys76 folds
+Pro-online calls [€0.28 EUR]
+Dinna75 shows [ Qc, Jd ]
+Pro-online shows [ Ts, 8s ]
+Pro-online wins €1.09 EUR from the main pot.
+Game #14338513422 starts.
+
+
+
+#Game No : 14338513422
+***** Hand History for Game 14338513422 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:11:19 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €9.11 EUR )
+Seat 4: maelle59 ( €3.84 EUR )
+Seat 5: Dinna75 ( €8.24 EUR )
+Seat 7: Mickamailys76 ( €2.43 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Mickamailys76 posts small blind [€0.02 EUR].
+wintops49 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online calls [€0.04 EUR]
+maelle59 folds
+Dinna75 folds
+Mickamailys76 raises [€0.22 EUR]
+wintops49 folds
+Pro-online folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €0.32 EUR from the main pot.
+Game #14338514765 starts.
+
+
+
+#Game No : 14338514765
+***** Hand History for Game 14338514765 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:12:27 CEST 2015
+Table Suresnes (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €9.07 EUR )
+Seat 4: maelle59 ( €3.84 EUR )
+Seat 5: Dinna75 ( €8.24 EUR )
+Seat 7: Mickamailys76 ( €2.51 EUR )
+Seat 8: wintops49 ( €4 EUR )
+wintops49 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 calls [€0.04 EUR]
+Dinna75 calls [€0.04 EUR]
+Mickamailys76 folds
+wintops49 folds
+Pro-online checks
+** Dealing Flop ** [ Qs, 3d, Ts ]
+Pro-online checks
+maelle59 bets [€0.08 EUR]
+Dinna75 folds
+Pro-online folds
+maelle59 does not show cards.
+maelle59 wins €0.22 EUR from the main pot.
+Game #14338515695 starts.
+
+
+
+#Game No : 14338515695
+***** Hand History for Game 14338515695 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:13:17 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €9.03 EUR )
+Seat 4: maelle59 ( €3.94 EUR )
+Seat 5: Dinna75 ( €8.20 EUR )
+Seat 7: Mickamailys76 ( €2.51 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dinna75 folds
+Mickamailys76 folds
+wintops49 raises [€0.12 EUR]
+Pro-online folds
+maelle59 calls [€0.08 EUR]
+** Dealing Flop ** [ 2s, 8h, Ks ]
+maelle59 checks
+wintops49 bets [€0.12 EUR]
+maelle59 folds
+wintops49 does not show cards.
+wintops49 wins €0.37 EUR from the main pot.
+Game #14338516827 starts.
+
+
+
+#Game No : 14338516827
+***** Hand History for Game 14338516827 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:14:29 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €9.01 EUR )
+Seat 4: maelle59 ( €3.82 EUR )
+Seat 5: Dinna75 ( €8.20 EUR )
+Seat 7: Mickamailys76 ( €2.51 EUR )
+Seat 8: wintops49 ( €4.13 EUR )
+maelle59 posts small blind [€0.02 EUR].
+Dinna75 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+wintops49 folds
+Pro-online folds
+maelle59 calls [€0.02 EUR]
+Dinna75 raises [€0.04 EUR]
+maelle59 calls [€0.04 EUR]
+** Dealing Flop ** [ 5h, 6c, Jd ]
+maelle59 checks
+Dinna75 bets [€0.12 EUR]
+maelle59 folds
+Dinna75 does not show cards.
+Dinna75 wins €0.27 EUR from the main pot.
+Game #14338517741 starts.
+
+
+
+#Game No : 14338547863
+***** Hand History for Game 14338547863 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:50:11 CEST 2015
+Table Suresnes (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.53 EUR )
+Seat 4: maelle59 ( €2.08 EUR )
+Seat 6: DOUDOU222 ( €4.77 EUR )
+Seat 7: Mickamailys76 ( €3.13 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DOUDOU222 folds
+Mickamailys76 calls [€0.04 EUR]
+wintops49 folds
+Pro-online folds
+maelle59 checks
+** Dealing Flop ** [ 6c, 9h, Th ]
+maelle59 checks
+Mickamailys76 checks
+** Dealing Turn ** [ 8h ]
+maelle59 checks
+Mickamailys76 checks
+** Dealing River ** [ 2d ]
+maelle59 checks
+Mickamailys76 checks
+maelle59 shows [ 2h, 7h ]
+Mickamailys76 shows [ Qs, 9s ]
+maelle59 wins €0.10 EUR from the main pot.
+Game #14338548823 starts.
+
+
+
+#Game No : 14338548950
+***** Hand History for Game 14338548950 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:51:15 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.51 EUR )
+Seat 4: maelle59 ( €2.14 EUR )
+Seat 6: DOUDOU222 ( €4.77 EUR )
+Seat 7: Mickamailys76 ( €3.09 EUR )
+Seat 8: wintops49 ( €4 EUR )
+maelle59 posts small blind [€0.02 EUR].
+DOUDOU222 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+wintops49 folds
+Pro-online folds
+maelle59 calls [€0.02 EUR]
+DOUDOU222 checks
+** Dealing Flop ** [ 6s, Qc, Jh ]
+maelle59 checks
+DOUDOU222 checks
+** Dealing Turn ** [ Ac ]
+maelle59 bets [€0.08 EUR]
+DOUDOU222 folds
+maelle59 does not show cards.
+maelle59 wins €0.16 EUR from the main pot.
+Game #14338550684 starts.
+
+
+
+#Game No : 14338550715
+***** Hand History for Game 14338550715 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:52:28 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €8.51 EUR )
+Seat 4: maelle59 ( €2.18 EUR )
+Seat 5: etoile8519 ( €2.45 EUR )
+Seat 6: DOUDOU222 ( €4.73 EUR )
+Seat 7: Mickamailys76 ( €3.09 EUR )
+Seat 8: wintops49 ( €4 EUR )
+DOUDOU222 posts small blind [€0.02 EUR].
+Mickamailys76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+wintops49 folds
+Pro-online folds
+maelle59 folds
+DOUDOU222 raises [€0.06 EUR]
+Mickamailys76 calls [€0.04 EUR]
+** Dealing Flop ** [ 5d, 7d, Ks ]
+DOUDOU222 checks
+Mickamailys76 checks
+** Dealing Turn ** [ 3c ]
+DOUDOU222 checks
+Mickamailys76 checks
+** Dealing River ** [ 4s ]
+DOUDOU222 checks
+Mickamailys76 bets [€0.15 EUR]
+DOUDOU222 folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €0.30 EUR from the main pot.
+Game #14338551554 starts.
+
+
+
+#Game No : 14338551554
+***** Hand History for Game 14338551554 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:52:52 CEST 2015
+Table Suresnes (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €8.51 EUR )
+Seat 4: maelle59 ( €2.18 EUR )
+Seat 5: etoile8519 ( €2.45 EUR )
+Seat 6: DOUDOU222 ( €4.65 EUR )
+Seat 7: Mickamailys76 ( €3.16 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Mickamailys76 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+etoile8519 posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 folds
+etoile8519 raises [€0.08 EUR]
+DOUDOU222 folds
+Mickamailys76 folds
+Pro-online folds
+etoile8519 does not show cards.
+etoile8519 wins €0.18 EUR from the main pot.
+Game #14338551353 starts.
+
+
+
+#Game No : 14338551813
+***** Hand History for Game 14338551813 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:54:15 CEST 2015
+Table Suresnes (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: Pro-online ( €8.47 EUR )
+Seat 4: maelle59 ( €2.18 EUR )
+Seat 5: etoile8519 ( €2.51 EUR )
+Seat 6: DOUDOU222 ( €4.65 EUR )
+Seat 7: Mickamailys76 ( €3.14 EUR )
+Seat 8: wintops49 ( €4 EUR )
+Pro-online posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+etoile8519 folds
+DOUDOU222 calls [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+Pro-online calls [€0.02 EUR]
+maelle59 checks
+** Dealing Flop ** [ Ks, 5h, Qs ]
+Pro-online bets [€0.15 EUR]
+maelle59 folds
+DOUDOU222 folds
+Mickamailys76 calls [€0.15 EUR]
+** Dealing Turn ** [ 4s ]
+Pro-online checks
+Mickamailys76 checks
+** Dealing River ** [ 5c ]
+Pro-online checks
+Mickamailys76 bets [€0.43 EUR]
+Pro-online folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €0.86 EUR from the main pot.
+Game #14338553033 starts.
+
+
+
+#Game No : 14338553256
+***** Hand History for Game 14338553256 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:55:45 CEST 2015
+Table Suresnes (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.28 EUR )
+Seat 4: maelle59 ( €2.14 EUR )
+Seat 5: etoile8519 ( €2.51 EUR )
+Seat 6: DOUDOU222 ( €4.61 EUR )
+Seat 7: Mickamailys76 ( €3.38 EUR )
+maelle59 posts small blind [€0.02 EUR].
+etoile8519 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DOUDOU222 calls [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+Pro-online folds
+maelle59 calls [€0.02 EUR]
+etoile8519 checks
+** Dealing Flop ** [ 6c, 6d, 2d ]
+maelle59 checks
+etoile8519 checks
+DOUDOU222 checks
+Mickamailys76 checks
+** Dealing Turn ** [ 4d ]
+maelle59 checks
+etoile8519 checks
+DOUDOU222 checks
+Mickamailys76 bets [€0.15 EUR]
+maelle59 folds
+etoile8519 folds
+DOUDOU222 folds
+Mickamailys76 does not show cards.
+Mickamailys76 wins €0.30 EUR from the main pot.
+Game #14338554218 starts.
+
+
+
+#Game No : 14338554218
+***** Hand History for Game 14338554218 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 02:56:52 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Pro-online ( €8.28 EUR )
+Seat 4: maelle59 ( €2.10 EUR )
+Seat 5: etoile8519 ( €2.47 EUR )
+Seat 6: DOUDOU222 ( €4.57 EUR )
+Seat 7: Mickamailys76 ( €3.49 EUR )
+etoile8519 posts small blind [€0.02 EUR].
+DOUDOU222 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 calls [€0.04 EUR]
+Pro-online folds
+maelle59 folds
+etoile8519 calls [€0.02 EUR]
+DOUDOU222 raises [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+etoile8519 calls [€0.04 EUR]
+** Dealing Flop ** [ Ad, 4d, 2h ]
+etoile8519 checks
+DOUDOU222 bets [€0.04 EUR]
+Mickamailys76 folds
+etoile8519 calls [€0.04 EUR]
+** Dealing Turn ** [ 9c ]
+etoile8519 checks
+DOUDOU222 bets [€0.04 EUR]
+etoile8519 raises [€0.16 EUR]
+DOUDOU222 calls [€0.12 EUR]
+** Dealing River ** [ Qd ]
+etoile8519 checks
+DOUDOU222 bets [€0.48 EUR]
+etoile8519 calls [€0.48 EUR]
+DOUDOU222 shows [ Ac, 8s ]
+etoile8519 shows [ 9s, 2d ]
+etoile8519 wins €1.50 EUR from the main pot.
+Game #14338554833 starts.
+
+
+
+#Game No : 14338561900
+***** Hand History for Game 14338561900 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 03:07:04 CEST 2015
+Table Suresnes (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 2: jerome333 ( €4.72 EUR )
+Seat 4: maelle59 ( €1.97 EUR )
+Seat 5: etoile8519 ( €3.46 EUR )
+Seat 6: DOUDOU222 ( €3.93 EUR )
+Seat 7: Mickamailys76 ( €0 EUR )
+Seat 9: sheme62 ( €4.22 EUR )
+jerome333 posts small blind [€0.02 EUR].
+maelle59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+etoile8519 folds
+DOUDOU222 calls [€0.04 EUR]
+sheme62 folds
+jerome333 folds
+maelle59 checks
+** Dealing Flop ** [ 2c, 3c, 6h ]
+maelle59 checks
+DOUDOU222 is all-In [€3.89 EUR]
+maelle59 folds
+DOUDOU222 does not show cards.
+DOUDOU222 wins €3.99 EUR from the main pot.
+Game #14338562244 starts.
+
+
+
+#Game No : 14338562244
+***** Hand History for Game 14338562244 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 03:07:46 CEST 2015
+Table Suresnes (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 2: jerome333 ( €4.70 EUR )
+Seat 4: maelle59 ( €1.93 EUR )
+Seat 5: etoile8519 ( €3.46 EUR )
+Seat 6: DOUDOU222 ( €3.99 EUR )
+Seat 9: sheme62 ( €4.22 EUR )
+maelle59 posts small blind [€0.02 EUR].
+etoile8519 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DOUDOU222 folds
+sheme62 folds
+jerome333 raises [€0.08 EUR]
+maelle59 calls [€0.06 EUR]
+etoile8519 calls [€0.04 EUR]
+** Dealing Flop ** [ 2s, Ac, 7s ]
+maelle59 checks
+etoile8519 checks
+jerome333 checks
+** Dealing Turn ** [ Js ]
+maelle59 checks
+etoile8519 bets [€0.17 EUR]
+jerome333 folds
+maelle59 folds
+etoile8519 does not show cards.
+etoile8519 wins €0.40 EUR from the main pot.
+Game #14338563173 starts.
+
+
+
+#Game No : 14338563173
+***** Hand History for Game 14338563173 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 03:08:18 CEST 2015
+Table Suresnes (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 2: jerome333 ( €4.62 EUR )
+Seat 4: maelle59 ( €1.85 EUR )
+Seat 5: etoile8519 ( €3.61 EUR )
+Seat 6: DOUDOU222 ( €3.99 EUR )
+Seat 9: sheme62 ( €4.22 EUR )
+etoile8519 posts small blind [€0.02 EUR].
+DOUDOU222 posts big blind [€0.04 EUR].
+** Dealing down cards **
+sheme62 folds
+jerome333 folds
+maelle59 folds
+etoile8519 calls [€0.02 EUR]
+DOUDOU222 checks
+** Dealing Flop ** [ Qs, Kh, Qh ]
+etoile8519 checks
+DOUDOU222 checks
+** Dealing Turn ** [ 3s ]
+etoile8519 checks
+DOUDOU222 checks
+** Dealing River ** [ 4c ]
+etoile8519 bets [€0.08 EUR]
+DOUDOU222 folds
+etoile8519 does not show cards.
+etoile8519 wins €0.16 EUR from the main pot.
+Game #14338563522 starts.
+
+
+
+#Game No : 14338563522
+***** Hand History for Game 14338563522 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 03:08:49 CEST 2015
+Table Suresnes (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 2: jerome333 ( €4.62 EUR )
+Seat 4: maelle59 ( €1.85 EUR )
+Seat 5: etoile8519 ( €3.65 EUR )
+Seat 6: DOUDOU222 ( €3.95 EUR )
+Seat 9: sheme62 ( €4.22 EUR )
+DOUDOU222 posts small blind [€0.02 EUR].
+sheme62 posts big blind [€0.04 EUR].
+** Dealing down cards **
+jerome333 folds
+maelle59 calls [€0.04 EUR]
+etoile8519 raises [€0.12 EUR]
+DOUDOU222 calls [€0.10 EUR]
+sheme62 folds
+maelle59 is all-In [€1.81 EUR]
+etoile8519 folds
+DOUDOU222 folds
+maelle59 does not show cards.
+maelle59 wins €2.13 EUR from the main pot.
+Game #14338563834 starts.
+
+
+
+#Game No : 14338563834
+***** Hand History for Game 14338563834 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 03:09:55 CEST 2015
+Table Suresnes (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 2: jerome333 ( €4.62 EUR )
+Seat 4: maelle59 ( €2.13 EUR )
+Seat 5: etoile8519 ( €3.53 EUR )
+Seat 6: DOUDOU222 ( €3.83 EUR )
+Seat 9: sheme62 ( €4.18 EUR )
+sheme62 posts small blind [€0.02 EUR].
+jerome333 posts big blind [€0.04 EUR].
+** Dealing down cards **
+maelle59 calls [€0.04 EUR]
+etoile8519 raises [€0.08 EUR]
+DOUDOU222 folds
+sheme62 calls [€0.06 EUR]
+jerome333 calls [€0.04 EUR]
+maelle59 raises [€0.08 EUR]
+etoile8519 calls [€0.04 EUR]
+sheme62 calls [€0.04 EUR]
+jerome333 calls [€0.04 EUR]
+** Dealing Flop ** [ Kh, 9s, Td ]
+sheme62 checks
+jerome333 checks
+maelle59 bets [€0.12 EUR]
+etoile8519 folds
+sheme62 folds
+jerome333 folds
+maelle59 does not show cards.
+maelle59 wins €0.57 EUR from the main pot.
+Game #14338431242 starts.
+
+
+
+#Game No : 14338913967
+***** Hand History for Game 14338913967 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:01:12 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: Rmn6912 ( €0 EUR )
+Seat 2: king198788 ( €0 EUR )
+Seat 3: Dremdrem ( €4 EUR )
+Seat 5: raptor73100 ( €7.71 EUR )
+Seat 6: STALDERS ( €4.40 EUR )
+Seat 7: Foard ( €0 EUR )
+Seat 8: TOIETMOI99 ( €5.33 EUR )
+Seat 9: starydji ( €3.79 EUR )
+TOIETMOI99 posts small blind [€0.02 EUR].
+starydji posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem folds
+raptor73100 folds
+STALDERS calls [€0.04 EUR]
+TOIETMOI99 folds
+starydji checks
+** Dealing Flop ** [ Jh, 6s, 7d ]
+starydji checks
+STALDERS checks
+** Dealing Turn ** [ 5c ]
+starydji checks
+STALDERS bets [€0.04 EUR]
+starydji calls [€0.04 EUR]
+** Dealing River ** [ 3c ]
+starydji checks
+STALDERS bets [€0.04 EUR]
+starydji folds
+STALDERS does not show cards.
+STALDERS wins €0.21 EUR from the main pot.
+Game #14338914626 starts.
+
+
+
+#Game No : 14338916061
+***** Hand History for Game 14338916061 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:03:27 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: Rmn6912 ( €0 EUR )
+Seat 2: tompouce78 ( €4 EUR )
+Seat 5: raptor73100 ( €7.67 EUR )
+Seat 6: STALDERS ( €4.60 EUR )
+Seat 7: Foard ( €1.40 EUR )
+Seat 8: TOIETMOI99 ( €5.27 EUR )
+Seat 9: starydji ( €3.67 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+STALDERS posts big blind [€0.04 EUR].
+Foard posts big blind + dead [€0.06 EUR].
+** Dealing down cards **
+Foard checks
+TOIETMOI99 folds
+starydji folds
+raptor73100 raises [€0.82 EUR]
+STALDERS folds
+Foard calls [€0.80 EUR]
+** Dealing Flop ** [ 2d, 7s, 8c ]
+raptor73100 is all-In [€6.83 EUR]
+Foard is all-In [€0.54 EUR]
+** Dealing Turn ** [ Tc ]
+** Dealing River ** [ Qc ]
+Foard doesn't show [ Qd, 5d ]
+raptor73100 shows [ Ac, Ah ]
+raptor73100 wins €6.29 EUR from the side pot 1.
+raptor73100 wins €2.64 EUR from the main pot.
+Game #14338917171 starts.
+
+
+
+#Game No : 14338917171
+***** Hand History for Game 14338917171 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:03:59 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Rmn6912 ( €0 EUR )
+Seat 2: tompouce78 ( €4 EUR )
+Seat 5: raptor73100 ( €8.93 EUR )
+Seat 6: STALDERS ( €4.56 EUR )
+Seat 7: Foard ( €0 EUR )
+Seat 8: TOIETMOI99 ( €5.27 EUR )
+Seat 9: starydji ( €3.67 EUR )
+STALDERS posts small blind [€0.02 EUR].
+TOIETMOI99 posts big blind [€0.04 EUR].
+tompouce78 posts big blind [€0.04 EUR].
+** Dealing down cards **
+starydji folds
+tompouce78 checks
+raptor73100 calls [€0.04 EUR]
+STALDERS folds
+TOIETMOI99 checks
+** Dealing Flop ** [ 7c, 9c, 2s ]
+TOIETMOI99 checks
+tompouce78 bets [€0.04 EUR]
+raptor73100 folds
+TOIETMOI99 folds
+tompouce78 does not show cards.
+tompouce78 wins €0.18 EUR from the main pot.
+Game #14338917650 starts.
+
+
+
+#Game No : 14338917650
+***** Hand History for Game 14338917650 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:04:33 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 1: Rmn6912 ( €0 EUR )
+Seat 2: tompouce78 ( €4.10 EUR )
+Seat 5: raptor73100 ( €8.89 EUR )
+Seat 6: STALDERS ( €4.54 EUR )
+Seat 7: Foard ( €1.65 EUR )
+Seat 8: TOIETMOI99 ( €5.23 EUR )
+Seat 9: starydji ( €3.67 EUR )
+TOIETMOI99 posts small blind [€0.02 EUR].
+starydji posts big blind [€0.04 EUR].
+** Dealing down cards **
+tompouce78 folds
+raptor73100 calls [€0.04 EUR]
+STALDERS folds
+TOIETMOI99 calls [€0.02 EUR]
+starydji checks
+** Dealing Flop ** [ 2c, 2s, 6s ]
+TOIETMOI99 checks
+starydji checks
+raptor73100 checks
+** Dealing Turn ** [ 7c ]
+TOIETMOI99 checks
+starydji checks
+raptor73100 checks
+** Dealing River ** [ 8c ]
+TOIETMOI99 checks
+starydji checks
+raptor73100 checks
+TOIETMOI99 shows [ 5d, Js ]
+starydji shows [ Qd, Td ]
+raptor73100 shows [ 4h, Kd ]
+raptor73100 wins €0.12 EUR from the main pot.
+Game #14338918676 starts.
+
+
+
+#Game No : 14338920674
+***** Hand History for Game 14338920674 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:06:35 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 2: tompouce78 ( €4.23 EUR )
+Seat 5: raptor73100 ( €8.91 EUR )
+Seat 6: STALDERS ( €4.46 EUR )
+Seat 7: Foard ( €1.67 EUR )
+Seat 8: TOIETMOI99 ( €5.19 EUR )
+Seat 9: starydji ( €3.61 EUR )
+Foard posts small blind [€0.02 EUR].
+TOIETMOI99 posts big blind [€0.04 EUR].
+** Dealing down cards **
+starydji folds
+tompouce78 calls [€0.04 EUR]
+raptor73100 calls [€0.04 EUR]
+Foard is all-In [€1.65 EUR]
+TOIETMOI99 folds
+tompouce78 calls [€1.63 EUR]
+raptor73100 folds
+** Dealing Flop ** [ Qd, 8h, 5h ]
+** Dealing Turn ** [ 3s ]
+** Dealing River ** [ Qh ]
+Foard shows [ 7c, Qc ]
+tompouce78 shows [ Kd, 9s ]
+Foard wins €3.20 EUR from the main pot.
+Game #14338921137 starts.
+
+
+
+#Game No : 14338761534
+***** Hand History for Game 14338761534 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 10:20:10 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 9/9
+Seat 1: Kenmariechico ( €14.99 EUR )
+Seat 2: darkstorm69 ( €0 EUR )
+Seat 3: sendres ( €0 EUR )
+Seat 4: T292001 ( €9.75 EUR )
+Seat 5: STALDERS ( €4 EUR )
+Seat 6: fets21 ( €7.42 EUR )
+Seat 7: fishinthesee ( €4 EUR )
+Seat 8: Booooy59 ( €3.59 EUR )
+Seat 9: cn83340 ( €0 EUR )
+Booooy59 posts small blind [€0.02 EUR].
+Kenmariechico posts big blind [€0.04 EUR].
+** Dealing down cards **
+T292001 raises [€0.08 EUR]
+fets21 calls [€0.08 EUR]
+fishinthesee folds
+Booooy59 calls [€0.06 EUR]
+Kenmariechico calls [€0.04 EUR]
+** Dealing Flop ** [ 6h, Qs, 4s ]
+Booooy59 checks
+Kenmariechico checks
+T292001 bets [€0.12 EUR]
+fets21 folds
+Booooy59 calls [€0.12 EUR]
+Kenmariechico folds
+** Dealing Turn ** [ 4d ]
+Booooy59 checks
+T292001 bets [€0.24 EUR]
+Booooy59 calls [€0.24 EUR]
+** Dealing River ** [ 2c ]
+Booooy59 checks
+T292001 checks
+T292001 doesn't show [ Kh, 8d ]
+Booooy59 shows [ Ks, 2s ]
+Booooy59 wins €0.98 EUR from the main pot.
+Game #14338763005 starts.
+
+
+
+#Game No : 14338979229
+***** Hand History for Game 14338979229 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 13:53:59 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 9/9
+Seat 1: bylare ( €7.02 EUR )
+Seat 2: grandbleu57 ( €4.26 EUR )
+Seat 3: Alienne60 ( €3.74 EUR )
+Seat 4: lafleche1313 ( €1.90 EUR )
+Seat 5: raptor73100 ( €11.55 EUR )
+Seat 6: STALDERS ( €4.13 EUR )
+Seat 7: Foard ( €2.30 EUR )
+Seat 8: whynot1989 ( €4 EUR )
+Seat 9: Aksal4 ( €4 EUR )
+bylare posts small blind [€0.02 EUR].
+grandbleu57 posts big blind [€0.04 EUR].
+** Dealing down cards **
+lafleche1313 calls [€0.04 EUR]
+raptor73100 calls [€0.04 EUR]
+STALDERS calls [€0.04 EUR]
+bylare calls [€0.02 EUR]
+grandbleu57 raises [€0.28 EUR]
+lafleche1313 calls [€0.28 EUR]
+raptor73100 folds
+STALDERS folds
+bylare calls [€0.28 EUR]
+** Dealing Flop ** [ 2h, 6s, Th ]
+bylare checks
+grandbleu57 bets [€0.49 EUR]
+lafleche1313 is all-In [€1.58 EUR]
+bylare folds
+grandbleu57 calls [€1.09 EUR]
+** Dealing Turn ** [ 9s ]
+** Dealing River ** [ 4c ]
+grandbleu57 shows [ Ac, Jd ]
+lafleche1313 shows [ Ts, 9h ]
+lafleche1313 wins €3.92 EUR from the main pot.
+Game #14338981270 starts.
+
+
+
+#Game No : 14339164678
+***** Hand History for Game 14339164678 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:07:05 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: killer1tox ( €3.96 EUR )
+Seat 3: akalambert ( €1.62 EUR )
+Seat 4: whynot1989 ( €5 EUR )
+Seat 5: DILDU50 ( €3.86 EUR )
+Seat 6: Aksal4 ( €4 EUR )
+Seat 8: Dremdrem ( €16.86 EUR )
+Seat 9: raptor73100 ( €2.69 EUR )
+akalambert posts small blind [€0.02 EUR].
+whynot1989 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 calls [€0.04 EUR]
+Dremdrem folds
+raptor73100 folds
+akalambert folds
+whynot1989 checks
+** Dealing Flop ** [ Kd, Td, 5s ]
+whynot1989 checks
+DILDU50 checks
+** Dealing Turn ** [ 4d ]
+whynot1989 checks
+DILDU50 checks
+** Dealing River ** [ Ad ]
+whynot1989 checks
+DILDU50 checks
+DILDU50 doesn't show [ Jh, 8h ]
+whynot1989 shows [ Qs, 7s ]
+whynot1989 wins €0.10 EUR from the main pot.
+Game #14339164115 starts.
+
+
+
+#Game No : 14339113150
+***** Hand History for Game 14339113150 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:32:34 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €3.67 EUR )
+Seat 2: ristret ( €1.50 EUR )
+Seat 3: akalambert ( €2.60 EUR )
+Seat 5: DILDU50 ( €3.66 EUR )
+Seat 6: chevaux ( €4 EUR )
+Seat 8: Dremdrem ( €10.43 EUR )
+mediman59 posts small blind [€0.02 EUR].
+ristret posts big blind [€0.04 EUR].
+DILDU50 posts big blind + dead [€0.06 EUR].
+** Dealing down cards **
+akalambert folds
+DILDU50 checks
+Dremdrem folds
+mediman59 folds
+ristret checks
+** Dealing Flop ** [ As, Js, 9d ]
+ristret checks
+DILDU50 checks
+** Dealing Turn ** [ 3c ]
+ristret checks
+DILDU50 bets [€0.12 EUR]
+ristret folds
+DILDU50 does not show cards.
+DILDU50 wins €0.24 EUR from the main pot.
+Game #14339113146 starts.
+
+
+
+#Game No : 14339166321
+***** Hand History for Game 14339166321 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:08:18 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 3: akalambert ( €1.60 EUR )
+Seat 4: whynot1989 ( €5.06 EUR )
+Seat 5: DILDU50 ( €3.82 EUR )
+Seat 6: Aksal4 ( €4 EUR )
+Seat 8: Dremdrem ( €16.86 EUR )
+Seat 9: raptor73100 ( €2.69 EUR )
+whynot1989 posts small blind [€0.02 EUR].
+DILDU50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem folds
+raptor73100 folds
+akalambert folds
+whynot1989 calls [€0.02 EUR]
+DILDU50 checks
+** Dealing Flop ** [ 3h, 5c, Ac ]
+whynot1989 checks
+DILDU50 checks
+** Dealing Turn ** [ Jh ]
+whynot1989 checks
+DILDU50 checks
+** Dealing River ** [ Td ]
+whynot1989 checks
+DILDU50 checks
+DILDU50 doesn't show [ 9h, Qd ]
+whynot1989 shows [ 4d, 4c ]
+whynot1989 wins €0.08 EUR from the main pot.
+Game #14339167496 starts.
+
+
+
+#Game No : 14339168432
+***** Hand History for Game 14339168432 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:09:35 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 3: akalambert ( €1.60 EUR )
+Seat 4: whynot1989 ( €5.10 EUR )
+Seat 5: DILDU50 ( €3.78 EUR )
+Seat 6: Aksal4 ( €4 EUR )
+Seat 8: Dremdrem ( €16.86 EUR )
+Seat 9: raptor73100 ( €2.69 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+Aksal4 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem folds
+akalambert calls [€0.04 EUR]
+whynot1989 raises [€0.24 EUR]
+DILDU50 folds
+Aksal4 folds
+akalambert calls [€0.20 EUR]
+** Dealing Flop ** [ Jh, 7s, 8c ]
+akalambert checks
+whynot1989 checks
+** Dealing Turn ** [ 4s ]
+akalambert checks
+whynot1989 checks
+** Dealing River ** [ 2s ]
+akalambert checks
+whynot1989 checks
+akalambert shows [ 3d, Td ]
+whynot1989 shows [ Ks, Qc ]
+whynot1989 wins €0.51 EUR from the main pot.
+Game #14339169484 starts.
+
+
+
+#Game No : 14339170642
+***** Hand History for Game 14339170642 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:10:27 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 3: akalambert ( €1.36 EUR )
+Seat 4: whynot1989 ( €5.37 EUR )
+Seat 5: DILDU50 ( €3.76 EUR )
+Seat 6: Aksal4 ( €4 EUR )
+Seat 8: Dremdrem ( €16.86 EUR )
+Seat 9: raptor73100 ( €2.69 EUR )
+Aksal4 posts small blind [€0.02 EUR].
+Dremdrem posts big blind [€0.04 EUR].
+** Dealing down cards **
+akalambert folds
+whynot1989 folds
+DILDU50 calls [€0.04 EUR]
+Aksal4 calls [€0.02 EUR]
+Dremdrem checks
+** Dealing Flop ** [ 4c, 8d, 5h ]
+Aksal4 checks
+Dremdrem checks
+DILDU50 bets [€0.08 EUR]
+Aksal4 calls [€0.08 EUR]
+Dremdrem folds
+** Dealing Turn ** [ 4d ]
+Aksal4 checks
+DILDU50 bets [€0.08 EUR]
+Aksal4 folds
+DILDU50 does not show cards.
+DILDU50 wins €0.35 EUR from the main pot.
+Game #14339171231 starts.
+
+
+
+#Game No : 14339128782
+***** Hand History for Game 14339128782 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:42:51 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €4.77 EUR )
+Seat 2: Madame.I ( €4 EUR )
+Seat 3: akalambert ( €2.24 EUR )
+Seat 4: whynot1989 ( €4 EUR )
+Seat 5: DILDU50 ( €3.07 EUR )
+Seat 8: Dremdrem ( €10.15 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+Dremdrem posts big blind [€0.04 EUR].
+Madame.I posts big blind [€0.04 EUR].
+** Dealing down cards **
+mediman59 folds
+Madame.I checks
+akalambert calls [€0.04 EUR]
+DILDU50 folds
+Dremdrem checks
+** Dealing Flop ** [ 2c, 8h, Kd ]
+Dremdrem checks
+Madame.I bets [€0.04 EUR]
+akalambert folds
+Dremdrem folds
+Madame.I does not show cards.
+Madame.I wins €0.18 EUR from the main pot.
+Game #14339128983 starts.
+
+
+
+#Game No : 14339133310
+***** Hand History for Game 14339133310 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:46:14 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €1.96 EUR )
+Seat 2: Madame.I ( €4.57 EUR )
+Seat 3: akalambert ( €2.08 EUR )
+Seat 4: whynot1989 ( €3.96 EUR )
+Seat 5: DILDU50 ( €0 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+akalambert posts small blind [€0.02 EUR].
+whynot1989 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem folds
+mediman59 is all-In [€1.96 EUR]
+Madame.I raises [€3.88 EUR]
+akalambert folds
+whynot1989 folds
+** Dealing Flop ** [ 2d, Ts, Tc ]
+** Dealing Turn ** [ Ah ]
+** Dealing River ** [ Ad ]
+mediman59 doesn't show [ Jh, Js ]
+Madame.I shows [ Qh, Qd ]
+Madame.I wins €1.92 EUR from the side pot 1.
+Madame.I wins €3.72 EUR from the main pot.
+Game #14339134145 starts.
+
+
+
+#Game No : 14339134145
+***** Hand History for Game 14339134145 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:47:06 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €0 EUR )
+Seat 2: Madame.I ( €6.33 EUR )
+Seat 3: akalambert ( €2.06 EUR )
+Seat 4: whynot1989 ( €3.92 EUR )
+Seat 5: DILDU50 ( €4 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+whynot1989 posts small blind [€0.02 EUR].
+DILDU50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem folds
+Madame.I calls [€0.04 EUR]
+akalambert folds
+whynot1989 folds
+DILDU50 checks
+** Dealing Flop ** [ 7s, 4c, Qs ]
+DILDU50 checks
+Madame.I bets [€0.04 EUR]
+DILDU50 folds
+Madame.I does not show cards.
+Madame.I wins €0.14 EUR from the main pot.
+Game #14339133582 starts.
+
+
+
+#Game No : 14339136223
+***** Hand History for Game 14339136223 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:48:07 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €4 EUR )
+Seat 2: Madame.I ( €6.39 EUR )
+Seat 3: akalambert ( €2.06 EUR )
+Seat 4: whynot1989 ( €3.90 EUR )
+Seat 5: DILDU50 ( €3.96 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+mediman59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Madame.I folds
+akalambert calls [€0.04 EUR]
+whynot1989 folds
+DILDU50 raises [€0.14 EUR]
+mediman59 calls [€0.12 EUR]
+akalambert folds
+** Dealing Flop ** [ 2c, 2s, 4d ]
+DILDU50 checks
+mediman59 checks
+** Dealing Turn ** [ 7d ]
+DILDU50 checks
+mediman59 checks
+** Dealing River ** [ 2d ]
+DILDU50 checks
+mediman59 checks
+DILDU50 shows [ Ts, Kd ]
+mediman59 shows [ Jc, Ah ]
+mediman59 wins €0.34 EUR from the main pot.
+Game #14339137541 starts.
+
+
+
+#Game No : 14339138276
+***** Hand History for Game 14339138276 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:49:49 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €4.18 EUR )
+Seat 2: Madame.I ( €6.31 EUR )
+Seat 3: akalambert ( €2.10 EUR )
+Seat 4: whynot1989 ( €3.90 EUR )
+Seat 5: DILDU50 ( €3.80 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+akalambert posts small blind [€0.02 EUR].
+whynot1989 posts big blind [€0.04 EUR].
+mediman59 posts small blind [€0.02 EUR].
+** Dealing down cards **
+DILDU50 calls [€0.04 EUR]
+mediman59 folds
+Madame.I folds
+akalambert calls [€0.02 EUR]
+whynot1989 checks
+** Dealing Flop ** [ 9c, 7d, 3s ]
+akalambert bets [€0.04 EUR]
+whynot1989 folds
+DILDU50 calls [€0.04 EUR]
+** Dealing Turn ** [ 8s ]
+akalambert checks
+DILDU50 checks
+** Dealing River ** [ 8h ]
+akalambert checks
+DILDU50 checks
+akalambert shows [ 7h, Ts ]
+DILDU50 shows [ Qd, 7c ]
+DILDU50 wins €0.21 EUR from the main pot.
+Game #14339138693 starts.
+
+
+
+#Game No : 14339140157
+***** Hand History for Game 14339140157 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:50:49 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €4.16 EUR )
+Seat 2: Madame.I ( €6.31 EUR )
+Seat 3: akalambert ( €2.02 EUR )
+Seat 4: whynot1989 ( €3.86 EUR )
+Seat 5: DILDU50 ( €3.93 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+whynot1989 posts small blind [€0.02 EUR].
+DILDU50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+mediman59 calls [€0.04 EUR]
+Madame.I folds
+akalambert folds
+whynot1989 folds
+DILDU50 checks
+** Dealing Flop ** [ Kh, Ah, 3h ]
+DILDU50 checks
+mediman59 bets [€0.04 EUR]
+DILDU50 raises [€0.16 EUR]
+mediman59 folds
+DILDU50 does not show cards.
+DILDU50 wins €0.29 EUR from the main pot.
+Game #14339141925 starts.
+
+
+
+#Game No : 14339141925
+***** Hand History for Game 14339141925 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:51:24 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: mediman59 ( €4.08 EUR )
+Seat 2: Madame.I ( €6.31 EUR )
+Seat 3: akalambert ( €2.02 EUR )
+Seat 4: whynot1989 ( €3.84 EUR )
+Seat 5: DILDU50 ( €4.02 EUR )
+Seat 8: Dremdrem ( €15.06 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+mediman59 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Madame.I folds
+akalambert folds
+whynot1989 folds
+DILDU50 calls [€0.02 EUR]
+mediman59 checks
+** Dealing Flop ** [ Qs, 4s, 6d ]
+DILDU50 checks
+mediman59 checks
+** Dealing Turn ** [ 4d ]
+DILDU50 checks
+mediman59 bets [€0.04 EUR]
+DILDU50 folds
+mediman59 does not show cards.
+mediman59 wins €0.12 EUR from the main pot.
+Game #14339141628 starts.
+
+
+
+#Game No : 14339152701
+***** Hand History for Game 14339152701 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:58:50 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €1.70 EUR )
+Seat 4: whynot1989 ( €4.61 EUR )
+Seat 5: DILDU50 ( €4.08 EUR )
+Seat 8: Dremdrem ( €16.90 EUR )
+Seat 9: raptor73100 ( €2.73 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+akalambert posts big blind [€0.04 EUR].
+** Dealing down cards **
+whynot1989 folds
+DILDU50 folds
+Dremdrem folds
+raptor73100 calls [€0.02 EUR]
+akalambert checks
+** Dealing Flop ** [ 5h, Js, 4s ]
+raptor73100 bets [€0.12 EUR]
+akalambert folds
+raptor73100 does not show cards.
+raptor73100 wins €0.20 EUR from the main pot.
+Game #14339153364 starts.
+
+
+
+#Game No : 14339153617
+***** Hand History for Game 14339153617 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:59:42 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €1.66 EUR )
+Seat 4: whynot1989 ( €4.61 EUR )
+Seat 5: DILDU50 ( €4.08 EUR )
+Seat 8: Dremdrem ( €16.90 EUR )
+Seat 9: raptor73100 ( €2.77 EUR )
+akalambert posts small blind [€0.02 EUR].
+whynot1989 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 calls [€0.04 EUR]
+Dremdrem folds
+raptor73100 folds
+akalambert folds
+whynot1989 checks
+** Dealing Flop ** [ 8d, 8s, Tc ]
+whynot1989 checks
+DILDU50 checks
+** Dealing Turn ** [ 2s ]
+whynot1989 checks
+DILDU50 checks
+** Dealing River ** [ 3d ]
+whynot1989 checks
+DILDU50 checks
+DILDU50 doesn't show [ 5d, 4c ]
+whynot1989 shows [ Jc, 4d ]
+whynot1989 wins €0.10 EUR from the main pot.
+Game #14339153883 starts.
+
+
+
+#Game No : 14339211915
+***** Hand History for Game 14339211915 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:34:45 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: Phlims ( €0 EUR )
+Seat 3: akalambert ( €0.42 EUR )
+Seat 5: DILDU50 ( €5.70 EUR )
+Seat 6: Aksal4 ( €4 EUR )
+Seat 7: ZEW12 ( €4.22 EUR )
+Seat 9: raptor73100 ( €8.53 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+akalambert posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 calls [€0.04 EUR]
+Aksal4 folds
+ZEW12 raises [€0.08 EUR]
+raptor73100 calls [€0.06 EUR]
+akalambert calls [€0.04 EUR]
+DILDU50 calls [€0.04 EUR]
+** Dealing Flop ** [ 3h, 7s, 4h ]
+raptor73100 checks
+akalambert checks
+DILDU50 checks
+ZEW12 checks
+** Dealing Turn ** [ 6d ]
+raptor73100 checks
+akalambert checks
+DILDU50 checks
+ZEW12 bets [€0.30 EUR]
+raptor73100 folds
+akalambert folds
+DILDU50 folds
+ZEW12 does not show cards.
+ZEW12 wins €0.60 EUR from the main pot.
+Game #14339212125 starts.
+
+
+
+#Game No : 14339155085
+***** Hand History for Game 14339155085 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:00:36 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €1.64 EUR )
+Seat 4: whynot1989 ( €4.67 EUR )
+Seat 5: DILDU50 ( €4.04 EUR )
+Seat 8: Dremdrem ( €16.90 EUR )
+Seat 9: raptor73100 ( €2.77 EUR )
+whynot1989 posts small blind [€0.02 EUR].
+DILDU50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Dremdrem raises [€0.12 EUR]
+raptor73100 folds
+akalambert folds
+whynot1989 calls [€0.10 EUR]
+DILDU50 calls [€0.08 EUR]
+** Dealing Flop ** [ Td, Jc, 4d ]
+whynot1989 checks
+DILDU50 checks
+Dremdrem checks
+** Dealing Turn ** [ Kc ]
+whynot1989 checks
+DILDU50 checks
+Dremdrem checks
+** Dealing River ** [ 8d ]
+whynot1989 checks
+DILDU50 checks
+Dremdrem checks
+DILDU50 doesn't show [ 7h, Qh ]
+Dremdrem doesn't show [ Ad, 9h ]
+whynot1989 shows [ Qc, Tc ]
+whynot1989 wins €0.34 EUR from the main pot.
+Game #14339155770 starts.
+
+
+
+#Game No : 14339156118
+***** Hand History for Game 14339156118 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:01:25 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €1.64 EUR )
+Seat 4: whynot1989 ( €4.89 EUR )
+Seat 5: DILDU50 ( €3.92 EUR )
+Seat 8: Dremdrem ( €16.78 EUR )
+Seat 9: raptor73100 ( €2.77 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+Dremdrem posts big blind [€0.04 EUR].
+** Dealing down cards **
+raptor73100 folds
+akalambert calls [€0.04 EUR]
+whynot1989 folds
+DILDU50 folds
+Dremdrem checks
+** Dealing Flop ** [ Ts, Jh, As ]
+Dremdrem checks
+akalambert checks
+** Dealing Turn ** [ 8c ]
+Dremdrem checks
+akalambert checks
+** Dealing River ** [ 6s ]
+Dremdrem checks
+akalambert checks
+Dremdrem shows [ 6c, Kh ]
+akalambert shows [ 5d, Jd ]
+akalambert wins €0.10 EUR from the main pot.
+Game #14339156348 starts.
+
+
+
+#Game No : 14339157081
+***** Hand History for Game 14339157081 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:02:10 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €1.70 EUR )
+Seat 4: whynot1989 ( €4.89 EUR )
+Seat 5: DILDU50 ( €3.90 EUR )
+Seat 8: Dremdrem ( €16.74 EUR )
+Seat 9: raptor73100 ( €2.77 EUR )
+Dremdrem posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+akalambert calls [€0.04 EUR]
+whynot1989 folds
+DILDU50 calls [€0.04 EUR]
+Dremdrem raises [€0.30 EUR]
+raptor73100 folds
+akalambert folds
+DILDU50 folds
+Dremdrem does not show cards.
+Dremdrem wins €0.44 EUR from the main pot.
+Game #14339157079 starts.
+
+
+
+#Game No : 14339217396
+***** Hand History for Game 14339217396 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:37:37 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €0.83 EUR )
+Seat 4: SLIMLIVE59460 ( €1.40 EUR )
+Seat 5: DILDU50 ( €5.54 EUR )
+Seat 7: ZEW12 ( €4.32 EUR )
+Seat 9: raptor73100 ( €8.10 EUR )
+akalambert posts small blind [€0.02 EUR].
+SLIMLIVE59460 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 folds
+ZEW12 folds
+raptor73100 calls [€0.04 EUR]
+akalambert folds
+SLIMLIVE59460 is all-In [€1.36 EUR]
+raptor73100 folds
+SLIMLIVE59460 does not show cards.
+SLIMLIVE59460 wins €1.46 EUR from the main pot.
+Game #14339217040 starts.
+
+
+
+#Game No : 14339217924
+***** Hand History for Game 14339217924 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:38:25 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 3: akalambert ( €0.81 EUR )
+Seat 4: SLIMLIVE59460 ( €1.46 EUR )
+Seat 5: DILDU50 ( €5.54 EUR )
+Seat 7: ZEW12 ( €4.32 EUR )
+Seat 9: raptor73100 ( €8.06 EUR )
+SLIMLIVE59460 posts small blind [€0.02 EUR].
+DILDU50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+ZEW12 calls [€0.04 EUR]
+raptor73100 folds
+akalambert folds
+SLIMLIVE59460 calls [€0.02 EUR]
+DILDU50 checks
+** Dealing Flop ** [ 9s, 3h, 2h ]
+SLIMLIVE59460 bets [€0.08 EUR]
+DILDU50 folds
+ZEW12 folds
+SLIMLIVE59460 does not show cards.
+SLIMLIVE59460 wins €0.20 EUR from the main pot.
+Game #14339217908 starts.
+
+
+
+#Game No : 14339238162
+***** Hand History for Game 14339238162 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:49:05 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Famose32 ( €3.80 EUR )
+Seat 4: SLIMLIVE59460 ( €1.20 EUR )
+Seat 5: DILDU50 ( €4.91 EUR )
+Seat 7: ZEW12 ( €5.06 EUR )
+Seat 9: raptor73100 ( €9.92 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+ZEW12 posts big blind [€0.04 EUR].
+** Dealing down cards **
+raptor73100 folds
+Famose32 folds
+SLIMLIVE59460 is all-In [€1.20 EUR]
+DILDU50 folds
+ZEW12 folds
+SLIMLIVE59460 does not show cards.
+SLIMLIVE59460 wins €1.26 EUR from the main pot.
+Game #14339237773 starts.
+
+
+
+#Game No : 14339238657
+***** Hand History for Game 14339238657 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:49:46 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: Famose32 ( €3.80 EUR )
+Seat 4: SLIMLIVE59460 ( €1.26 EUR )
+Seat 5: DILDU50 ( €4.89 EUR )
+Seat 7: ZEW12 ( €5.02 EUR )
+Seat 9: raptor73100 ( €9.92 EUR )
+ZEW12 posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Famose32 raises [€0.08 EUR]
+SLIMLIVE59460 calls [€0.08 EUR]
+DILDU50 folds
+ZEW12 folds
+raptor73100 calls [€0.04 EUR]
+** Dealing Flop ** [ 2c, 3s, Qc ]
+raptor73100 checks
+Famose32 bets [€0.04 EUR]
+SLIMLIVE59460 is all-In [€1.18 EUR]
+raptor73100 folds
+Famose32 calls [€1.14 EUR]
+** Dealing Turn ** [ Ks ]
+** Dealing River ** [ Qh ]
+Famose32 shows [ As, Js ]
+SLIMLIVE59460 shows [ 8c, Qs ]
+SLIMLIVE59460 wins €2.45 EUR from the main pot.
+Game #14339239639 starts.
+
+
+
+#Game No : 14339347861
+***** Hand History for Game 14339347861 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:49:45 CEST 2015
+Table Wattrelos (Real Money)
+Seat 8 is the button
+Total number of players : 7/9
+Seat 1: lafleche1313 ( €0 EUR )
+Seat 2: Majmod35 ( €4.86 EUR )
+Seat 3: OLIVTER ( €0.78 EUR )
+Seat 4: SNOOP_x ( €6.53 EUR )
+Seat 7: menche67 ( €1.88 EUR )
+Seat 8: raptor73100 ( €5.48 EUR )
+Seat 9: STALDERS ( €3.60 EUR )
+STALDERS posts small blind [€0.02 EUR].
+OLIVTER posts big blind [€0.04 EUR].
+** Dealing down cards **
+SNOOP_x calls [€0.04 EUR]
+menche67 calls [€0.04 EUR]
+raptor73100 folds
+STALDERS folds
+OLIVTER checks
+** Dealing Flop ** [ 9d, Kc, 5h ]
+OLIVTER checks
+SNOOP_x bets [€0.04 EUR]
+menche67 calls [€0.04 EUR]
+OLIVTER raises [€0.30 EUR]
+SNOOP_x folds
+menche67 folds
+OLIVTER does not show cards.
+OLIVTER wins €0.51 EUR from the main pot.
+Game #14339350325 starts.
+
+
+
+#Game No : 14339350325
+***** Hand History for Game 14339350325 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:50:14 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: lafleche1313 ( €2.20 EUR )
+Seat 2: Majmod35 ( €4.86 EUR )
+Seat 3: OLIVTER ( €0.95 EUR )
+Seat 4: SNOOP_x ( €6.45 EUR )
+Seat 7: menche67 ( €1.80 EUR )
+Seat 8: raptor73100 ( €5.48 EUR )
+Seat 9: STALDERS ( €3.58 EUR )
+OLIVTER posts small blind [€0.02 EUR].
+SNOOP_x posts big blind [€0.04 EUR].
+** Dealing down cards **
+menche67 folds
+raptor73100 folds
+STALDERS folds
+OLIVTER calls [€0.02 EUR]
+SNOOP_x checks
+** Dealing Flop ** [ Tc, Ad, 8s ]
+OLIVTER checks
+SNOOP_x checks
+** Dealing Turn ** [ Kd ]
+OLIVTER bets [€0.08 EUR]
+SNOOP_x folds
+OLIVTER does not show cards.
+OLIVTER wins €0.16 EUR from the main pot.
+Game #14339350172 starts.
+
+
+
+#Game No : 14339356718
+***** Hand History for Game 14339356718 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:54:19 CEST 2015
+Table Wattrelos (Real Money)
+Seat 8 is the button
+Total number of players : 7/9
+Seat 2: Majmod35 ( €4.86 EUR )
+Seat 3: OLIVTER ( €4.84 EUR )
+Seat 4: SNOOP_x ( €5.45 EUR )
+Seat 5: Mickamailys76 ( €4 EUR )
+Seat 7: menche67 ( €4 EUR )
+Seat 8: raptor73100 ( €7.96 EUR )
+Seat 9: STALDERS ( €3.58 EUR )
+OLIVTER posts small blind [€0.02 EUR].
+SNOOP_x posts big blind [€0.04 EUR].
+menche67 posts big blind + dead [€0.06 EUR].
+** Dealing down cards **
+Mickamailys76 folds
+menche67 checks
+raptor73100 calls [€0.04 EUR]
+OLIVTER calls [€0.02 EUR]
+SNOOP_x checks
+** Dealing Flop ** [ 8h, 7d, 4s ]
+OLIVTER checks
+SNOOP_x bets [€0.04 EUR]
+menche67 calls [€0.04 EUR]
+raptor73100 folds
+OLIVTER calls [€0.04 EUR]
+** Dealing Turn ** [ 8d ]
+OLIVTER checks
+SNOOP_x bets [€0.08 EUR]
+menche67 folds
+OLIVTER calls [€0.08 EUR]
+** Dealing River ** [ 5s ]
+OLIVTER checks
+SNOOP_x checks
+OLIVTER shows [ 9h, Js ]
+SNOOP_x shows [ Jc, 8c ]
+SNOOP_x wins €0.43 EUR from the main pot.
+Game #14339357569 starts.
+
+
+
+#Game No : 14339132463
+***** Hand History for Game 14339132463 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 15:46:15 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: vydoo ( €5.01 EUR )
+Seat 4: whynot1989 ( €3.98 EUR )
+Seat 5: akalambert ( €2.82 EUR )
+Seat 6: STALDERS ( €2.41 EUR )
+Seat 7: polemploi ( €5.50 EUR )
+whynot1989 posts small blind [€0.02 EUR].
+akalambert posts big blind [€0.04 EUR].
+** Dealing down cards **
+STALDERS calls [€0.04 EUR]
+polemploi folds
+vydoo folds
+whynot1989 folds
+akalambert checks
+** Dealing Flop ** [ Ac, 9h, 3d ]
+akalambert checks
+STALDERS checks
+** Dealing Turn ** [ Qc ]
+akalambert checks
+STALDERS bets [€0.10 EUR]
+akalambert calls [€0.10 EUR]
+** Dealing River ** [ 8h ]
+akalambert checks
+STALDERS bets [€0.28 EUR]
+akalambert folds
+STALDERS does not show cards.
+STALDERS wins €0.56 EUR from the main pot.
+Game #14339133798 starts.
+
+
+
+#Game No : 14339195501
+***** Hand History for Game 14339195501 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:24:55 CEST 2015
+Table Wattrelos (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: Dremdrem ( €1.29 EUR )
+Seat 2: spoutnik62 ( €3.97 EUR )
+Seat 3: memed62 ( €3.47 EUR )
+Seat 5: DILDU50 ( €13.48 EUR )
+Seat 6: boulledog ( €3.79 EUR )
+Seat 8: raptor73100 ( €2.91 EUR )
+Seat 9: zaratoustra94 ( €3.92 EUR )
+DILDU50 posts small blind [€0.02 EUR].
+boulledog posts big blind [€0.04 EUR].
+** Dealing down cards **
+zaratoustra94 folds
+spoutnik62 calls [€0.04 EUR]
+memed62 folds
+DILDU50 folds
+boulledog checks
+** Dealing Flop ** [ 7d, 4d, Qc ]
+boulledog checks
+spoutnik62 bets [€0.04 EUR]
+boulledog calls [€0.04 EUR]
+** Dealing Turn ** [ Kd ]
+boulledog checks
+spoutnik62 bets [€0.04 EUR]
+boulledog folds
+spoutnik62 does not show cards.
+spoutnik62 wins €0.21 EUR from the main pot.
+Game #14339194344 starts.
+
+
+
+#Game No : 14339241744
+***** Hand History for Game 14339241744 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:51:18 CEST 2015
+Table Wattrelos (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 2: TheStiggy ( €3.81 EUR )
+Seat 3: memed62 ( €7.26 EUR )
+Seat 4: king198788 ( €0 EUR )
+Seat 5: DILDU50 ( €11.98 EUR )
+Seat 7: Maceofunk ( €3.96 EUR )
+Seat 8: raptor73100 ( €5.59 EUR )
+Seat 9: zaratoustra94 ( €3.93 EUR )
+Maceofunk posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+TheStiggy calls [€0.04 EUR]
+memed62 folds
+DILDU50 folds
+Maceofunk folds
+raptor73100 raises [€0.04 EUR]
+TheStiggy calls [€0.04 EUR]
+** Dealing Flop ** [ 2s, 6c, 9h ]
+raptor73100 bets [€0.12 EUR]
+TheStiggy folds
+raptor73100 does not show cards.
+raptor73100 wins €0.29 EUR from the main pot.
+Game #14339242295 starts.
+
+
+
+#Game No : 14339242295
+***** Hand History for Game 14339242295 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:51:39 CEST 2015
+Table Wattrelos (Real Money)
+Seat 7 is the button
+Total number of players : 7/9
+Seat 2: TheStiggy ( €3.73 EUR )
+Seat 3: memed62 ( €7.26 EUR )
+Seat 4: king198788 ( €2 EUR )
+Seat 5: DILDU50 ( €11.98 EUR )
+Seat 7: Maceofunk ( €3.94 EUR )
+Seat 8: raptor73100 ( €5.68 EUR )
+Seat 9: zaratoustra94 ( €3.93 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+TheStiggy posts big blind [€0.04 EUR].
+** Dealing down cards **
+memed62 folds
+DILDU50 folds
+Maceofunk raises [€0.08 EUR]
+raptor73100 folds
+TheStiggy folds
+Maceofunk does not show cards.
+Maceofunk wins €0.14 EUR from the main pot.
+Game #14339240731 starts.
+
+
+
+#Game No : 14339242791
+***** Hand History for Game 14339242791 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 16:52:19 CEST 2015
+Table Wattrelos (Real Money)
+Seat 8 is the button
+Total number of players : 7/9
+Seat 2: TheStiggy ( €3.69 EUR )
+Seat 3: memed62 ( €7.26 EUR )
+Seat 4: king198788 ( €2 EUR )
+Seat 5: DILDU50 ( €11.98 EUR )
+Seat 7: Maceofunk ( €4 EUR )
+Seat 8: raptor73100 ( €5.66 EUR )
+Seat 9: zaratoustra94 ( €3.93 EUR )
+TheStiggy posts small blind [€0.02 EUR].
+memed62 posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 folds
+Maceofunk raises [€0.08 EUR]
+raptor73100 folds
+TheStiggy folds
+memed62 calls [€0.04 EUR]
+** Dealing Flop ** [ 9s, Qh, 4s ]
+memed62 checks
+Maceofunk bets [€0.17 EUR]
+memed62 folds
+Maceofunk does not show cards.
+Maceofunk wins €0.34 EUR from the main pot.
+Game #14339243195 starts.
+
+
+
+#Game No : 14339267971
+***** Hand History for Game 14339267971 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:07:10 CEST 2015
+Table Wattrelos (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 3: tshenko ( €4 EUR )
+Seat 5: DILDU50 ( €11.55 EUR )
+Seat 6: whynot1989 ( €8.29 EUR )
+Seat 7: Maceofunk ( €3.24 EUR )
+Seat 8: raptor73100 ( €5.46 EUR )
+Seat 9: zaratoustra94 ( €4.47 EUR )
+Maceofunk posts small blind [€0.02 EUR].
+zaratoustra94 posts big blind [€0.04 EUR].
+tshenko posts big blind [€0.04 EUR].
+** Dealing down cards **
+tshenko checks
+DILDU50 folds
+whynot1989 calls [€0.04 EUR]
+Maceofunk raises [€0.30 EUR]
+zaratoustra94 folds
+tshenko folds
+whynot1989 folds
+Maceofunk does not show cards.
+Maceofunk wins €0.44 EUR from the main pot.
+Game #14339268352 starts.
+
+
+
+#Game No : 14339270053
+***** Hand History for Game 14339270053 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:08:26 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 1 is the button
+Total number of players : 7/9
+Seat 1: Nophe ( €2.10 EUR )
+Seat 2: Rabiche ( €1.62 EUR )
+Seat 3: ChokoRPZ ( €5.57 EUR )
+Seat 5: DILDU50 ( €4.34 EUR )
+Seat 6: Aksal4 ( €4.54 EUR )
+Seat 7: ZEW12 ( €4.94 EUR )
+Seat 9: bullbarbu ( €2.28 EUR )
+Rabiche posts small blind [€0.02 EUR].
+ChokoRPZ posts big blind [€0.04 EUR].
+** Dealing down cards **
+DILDU50 calls [€0.04 EUR]
+Aksal4 folds
+Nophe calls [€0.04 EUR]
+Rabiche calls [€0.02 EUR]
+ChokoRPZ raises [€0.08 EUR]
+DILDU50 folds
+Nophe folds
+Rabiche folds
+ChokoRPZ does not show cards.
+ChokoRPZ wins €0.24 EUR from the main pot.
+Game #14339271100 starts.
+
+
+
+#Game No : 14339354784
+***** Hand History for Game 14339354784 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:52:38 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 8 is the button
+Total number of players : 8/9
+Seat 1: starydji ( €5.38 EUR )
+Seat 2: Rabiche ( €5.56 EUR )
+Seat 3: ChokoRPZ ( €7.41 EUR )
+Seat 4: reda1208 ( €0 EUR )
+Seat 6: Aksal4 ( €11.02 EUR )
+Seat 7: ZEW12 ( €4.06 EUR )
+Seat 8: king198788 ( €2.25 EUR )
+Seat 9: bullbarbu ( €0 EUR )
+Rabiche posts small blind [€0.02 EUR].
+ChokoRPZ posts big blind [€0.04 EUR].
+** Dealing down cards **
+Aksal4 folds
+ZEW12 folds
+king198788 calls [€0.04 EUR]
+Rabiche raises [€0.30 EUR]
+ChokoRPZ calls [€0.28 EUR]
+king198788 calls [€0.28 EUR]
+** Dealing Flop ** [ 4c, 2c, Tc ]
+Rabiche bets [€0.90 EUR]
+ChokoRPZ folds
+king198788 folds
+Rabiche does not show cards.
+Rabiche wins €1.80 EUR from the main pot.
+Game #14339355441 starts.
+
+
+
+#Game No : 14339364350
+***** Hand History for Game 14339364350 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 17:58:30 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: starydji ( €5.28 EUR )
+Seat 2: Rabiche ( €5.51 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €1.76 EUR )
+Seat 6: Aksal4 ( €11.60 EUR )
+Seat 8: king198788 ( €1.94 EUR )
+Rabiche posts small blind [€0.02 EUR].
+ghostus posts big blind [€0.04 EUR].
+** Dealing down cards **
+Aksal4 folds
+king198788 calls [€0.04 EUR]
+starydji folds
+Rabiche calls [€0.02 EUR]
+ghostus checks
+** Dealing Flop ** [ Ad, 9d, Jc ]
+Rabiche checks
+ghostus checks
+king198788 checks
+** Dealing Turn ** [ 3d ]
+Rabiche checks
+ghostus checks
+king198788 checks
+** Dealing River ** [ 8d ]
+Rabiche checks
+ghostus bets [€0.06 EUR]
+king198788 folds
+Rabiche folds
+ghostus does not show cards.
+ghostus wins €0.18 EUR from the main pot.
+Game #14339363649 starts.
+
+
+
+#Game No : 14339365859
+***** Hand History for Game 14339365859 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 18:00:01 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: starydji ( €5.28 EUR )
+Seat 2: Rabiche ( €5.47 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €1.84 EUR )
+Seat 6: Aksal4 ( €11.60 EUR )
+Seat 8: king198788 ( €1.90 EUR )
+ghostus posts small blind [€0.02 EUR].
+Aksal4 posts big blind [€0.04 EUR].
+** Dealing down cards **
+king198788 calls [€0.04 EUR]
+starydji folds
+Rabiche calls [€0.04 EUR]
+ghostus raises [€0.06 EUR]
+Aksal4 folds
+king198788 calls [€0.04 EUR]
+Rabiche calls [€0.04 EUR]
+** Dealing Flop ** [ Qs, 7c, 2c ]
+ghostus checks
+king198788 bets [€0.27 EUR]
+Rabiche calls [€0.27 EUR]
+ghostus calls [€0.27 EUR]
+** Dealing Turn ** [ 6h ]
+ghostus checks
+king198788 checks
+Rabiche checks
+** Dealing River ** [ 4h ]
+ghostus is all-In [€1.49 EUR]
+king198788 folds
+Rabiche folds
+ghostus does not show cards.
+ghostus wins €2.51 EUR from the main pot.
+Game #14339367396 starts.
+
+
+
+#Game No : 14339368571
+***** Hand History for Game 14339368571 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 18:00:34 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: starydji ( €5.28 EUR )
+Seat 2: Rabiche ( €5.12 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €2.51 EUR )
+Seat 6: Aksal4 ( €11.56 EUR )
+Seat 8: king198788 ( €1.55 EUR )
+Aksal4 posts small blind [€0.02 EUR].
+king198788 posts big blind [€0.04 EUR].
+** Dealing down cards **
+starydji calls [€0.04 EUR]
+Rabiche raises [€0.32 EUR]
+ghostus folds
+Aksal4 folds
+king198788 calls [€0.28 EUR]
+starydji folds
+** Dealing Flop ** [ 7s, 8d, 2h ]
+king198788 checks
+Rabiche bets [€0.66 EUR]
+king198788 folds
+Rabiche does not show cards.
+Rabiche wins €1.32 EUR from the main pot.
+Game #14339368305 starts.
+
+
+
+#Game No : 14339369257
+***** Hand History for Game 14339369257 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 18:01:20 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: starydji ( €5.24 EUR )
+Seat 2: Rabiche ( €5.46 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €2.51 EUR )
+Seat 6: Aksal4 ( €11.54 EUR )
+Seat 8: king198788 ( €1.23 EUR )
+king198788 posts small blind [€0.02 EUR].
+starydji posts big blind [€0.04 EUR].
+** Dealing down cards **
+Rabiche calls [€0.04 EUR]
+ghostus calls [€0.04 EUR]
+Aksal4 folds
+king198788 calls [€0.02 EUR]
+starydji checks
+** Dealing Flop ** [ 9h, Kh, 3c ]
+king198788 bets [€0.15 EUR]
+starydji calls [€0.15 EUR]
+Rabiche folds
+ghostus folds
+** Dealing Turn ** [ 3s ]
+king198788 bets [€0.43 EUR]
+starydji folds
+king198788 does not show cards.
+king198788 wins €0.86 EUR from the main pot.
+Game #14339370050 starts.
+
+
+
+#Game No : 14339370150
+***** Hand History for Game 14339370150 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 18:03:25 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: starydji ( €5.05 EUR )
+Seat 2: Rabiche ( €5.42 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €2.47 EUR )
+Seat 6: Aksal4 ( €11.54 EUR )
+Seat 8: king198788 ( €1.47 EUR )
+starydji posts small blind [€0.02 EUR].
+Rabiche posts big blind [€0.04 EUR].
+** Dealing down cards **
+ghostus calls [€0.04 EUR]
+Aksal4 folds
+king198788 folds
+starydji calls [€0.02 EUR]
+Rabiche checks
+** Dealing Flop ** [ 7h, 9c, Tc ]
+starydji checks
+Rabiche checks
+ghostus bets [€0.04 EUR]
+starydji calls [€0.04 EUR]
+Rabiche calls [€0.04 EUR]
+** Dealing Turn ** [ 6h ]
+starydji checks
+Rabiche bets [€0.23 EUR]
+ghostus calls [€0.23 EUR]
+starydji folds
+** Dealing River ** [ 5s ]
+Rabiche checks
+ghostus bets [€0.66 EUR]
+Rabiche calls [€0.66 EUR]
+Rabiche doesn't show [ 7d, 6s ]
+ghostus shows [ Ts, 8c ]
+ghostus wins €1.89 EUR from the main pot.
+Game #14339371940 starts.
+
+
+
+#Game No : 14339373820
+***** Hand History for Game 14339373820 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 18:04:26 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: Rabiche ( €4.45 EUR )
+Seat 3: ChokoRPZ ( €7.21 EUR )
+Seat 5: ghostus ( €3.39 EUR )
+Seat 6: Aksal4 ( €11.54 EUR )
+Seat 8: king198788 ( €1.47 EUR )
+Seat 9: menche67 ( €2 EUR )
+ghostus posts small blind [€0.02 EUR].
+Aksal4 posts big blind [€0.04 EUR].
+menche67 posts big blind [€0.04 EUR].
+** Dealing down cards **
+king198788 calls [€0.04 EUR]
+menche67 checks
+Rabiche folds
+ghostus calls [€0.02 EUR]
+Aksal4 checks
+** Dealing Flop ** [ Qc, 6s, As ]
+ghostus checks
+Aksal4 checks
+king198788 checks
+menche67 checks
+** Dealing Turn ** [ 7h ]
+ghostus checks
+Aksal4 checks
+king198788 checks
+menche67 checks
+** Dealing River ** [ 4c ]
+ghostus checks
+Aksal4 checks
+king198788 checks
+menche67 checks
+Aksal4 doesn't show [ 8s, 3s ]
+menche67 doesn't show [ 2c, 5d ]
+ghostus shows [ 9h, Jh ]
+king198788 shows [ 3h, 3c ]
+king198788 wins €0.15 EUR from the main pot.
+Game #14339374198 starts.
+
+
+
+#Game No : 14339643368
+***** Hand History for Game 14339643368 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 20:06:06 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: toucoo13 ( €3.94 EUR )
+Seat 2: Majmod35 ( €8.60 EUR )
+Seat 3: Thatcher67 ( €2.61 EUR )
+Seat 4: raptor73100 ( €6.43 EUR )
+Seat 5: Mickamailys76 ( €15.57 EUR )
+Seat 6: Pat0678 ( €5.86 EUR )
+Seat 8: memed62 ( €2.84 EUR )
+Seat 9: coumcoum28 ( €4.08 EUR )
+toucoo13 posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 calls [€0.04 EUR]
+memed62 raises [€0.08 EUR]
+coumcoum28 calls [€0.08 EUR]
+toucoo13 folds
+raptor73100 calls [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+** Dealing Flop ** [ 4d, Js, 5c ]
+raptor73100 bets [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+memed62 calls [€0.04 EUR]
+coumcoum28 raises [€0.16 EUR]
+raptor73100 calls [€0.12 EUR]
+Mickamailys76 folds
+memed62 calls [€0.12 EUR]
+** Dealing Turn ** [ 7h ]
+raptor73100 bets [€0.04 EUR]
+memed62 folds
+coumcoum28 calls [€0.04 EUR]
+** Dealing River ** [ 5d ]
+raptor73100 bets [€0.04 EUR]
+coumcoum28 folds
+raptor73100 does not show cards.
+raptor73100 wins €0.92 EUR from the main pot.
+Game #14339647067 starts.
+
+
+
+#Game No : 14339647367
+***** Hand History for Game 14339647367 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 20:07:42 CEST 2015
+Table Wattrelos (Real Money)
+Seat 1 is the button
+Total number of players : 7/9
+Seat 1: toucoo13 ( €3.92 EUR )
+Seat 2: Majmod35 ( €8.60 EUR )
+Seat 4: raptor73100 ( €7.03 EUR )
+Seat 5: Mickamailys76 ( €15.45 EUR )
+Seat 6: Pat0678 ( €5.86 EUR )
+Seat 8: memed62 ( €2.60 EUR )
+Seat 9: coumcoum28 ( €3.80 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+Mickamailys76 posts big blind [€0.04 EUR].
+** Dealing down cards **
+memed62 folds
+coumcoum28 calls [€0.04 EUR]
+toucoo13 calls [€0.04 EUR]
+raptor73100 calls [€0.02 EUR]
+Mickamailys76 checks
+** Dealing Flop ** [ Kh, 4s, Qs ]
+raptor73100 checks
+Mickamailys76 checks
+coumcoum28 bets [€0.04 EUR]
+toucoo13 calls [€0.04 EUR]
+raptor73100 folds
+Mickamailys76 folds
+** Dealing Turn ** [ Th ]
+coumcoum28 bets [€0.11 EUR]
+toucoo13 calls [€0.11 EUR]
+** Dealing River ** [ Jd ]
+coumcoum28 bets [€0.43 EUR]
+toucoo13 calls [€0.43 EUR]
+coumcoum28 shows [ Kc, 3s ]
+toucoo13 shows [ 7h, Kd ]
+toucoo13 wins €0.62 EUR from the main pot.
+coumcoum28 wins €0.62 EUR from the main pot.
+Game #14339650328 starts.
+
+
+
+#Game No : 14339983851
+***** Hand History for Game 14339983851 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 22:05:02 CEST 2015
+Table Wattrelos (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 2: akalambert ( €4.04 EUR )
+Seat 3: reda1208 ( €2.02 EUR )
+Seat 5: Mickamailys76 ( €18.70 EUR )
+Seat 6: Pro-online ( €10.40 EUR )
+Seat 8: memed62 ( €1.77 EUR )
+akalambert posts small blind [€0.02 EUR].
+reda1208 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Mickamailys76 calls [€0.04 EUR]
+Pro-online folds
+memed62 raises [€0.08 EUR]
+akalambert folds
+reda1208 calls [€0.04 EUR]
+Mickamailys76 calls [€0.04 EUR]
+** Dealing Flop ** [ 7c, Jc, 4d ]
+reda1208 checks
+Mickamailys76 checks
+memed62 bets [€0.18 EUR]
+reda1208 calls [€0.18 EUR]
+Mickamailys76 folds
+** Dealing Turn ** [ 7s ]
+reda1208 checks
+memed62 checks
+** Dealing River ** [ Qd ]
+reda1208 checks
+memed62 checks
+memed62 doesn't show [ Kh, Ah ]
+reda1208 shows [ Js, 6s ]
+reda1208 wins €0.58 EUR from the main pot.
+Game #14339985908 starts.
+
+
+
+#Game No : 14340340135
+***** Hand History for Game 14340340135 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:37:49 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 1: sheme62 ( €4.47 EUR )
+Seat 2: MESKA_x ( €2.15 EUR )
+Seat 3: raptor73100 ( €3.77 EUR )
+Seat 4: tyrex57 ( €4.60 EUR )
+Seat 5: Hmidou29 ( €0 EUR )
+Seat 6: pepinou13 ( €1.28 EUR )
+Seat 7: Pro-online ( €1.35 EUR )
+Pro-online posts small blind [€0.02 EUR].
+MESKA_x posts big blind [€0.04 EUR].
+** Dealing down cards **
+raptor73100 raises [€0.08 EUR]
+tyrex57 calls [€0.08 EUR]
+pepinou13 folds
+Pro-online folds
+MESKA_x calls [€0.04 EUR]
+** Dealing Flop ** [ 2h, 7c, Ac ]
+MESKA_x checks
+raptor73100 bets [€0.08 EUR]
+tyrex57 raises [€0.16 EUR]
+MESKA_x folds
+raptor73100 calls [€0.08 EUR]
+** Dealing Turn ** [ Qd ]
+raptor73100 checks
+tyrex57 bets [€0.27 EUR]
+raptor73100 folds
+tyrex57 does not show cards.
+tyrex57 wins €0.82 EUR from the main pot.
+Game #14340343628 starts.
+
+
+
+#Game No : 14340343674
+***** Hand History for Game 14340343674 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:39:02 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: sheme62 ( €4.47 EUR )
+Seat 2: MESKA_x ( €2.07 EUR )
+Seat 3: raptor73100 ( €3.53 EUR )
+Seat 4: tyrex57 ( €4.91 EUR )
+Seat 6: pepinou13 ( €1.28 EUR )
+Seat 7: Pro-online ( €1.33 EUR )
+MESKA_x posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+tyrex57 folds
+pepinou13 folds
+Pro-online folds
+MESKA_x calls [€0.02 EUR]
+raptor73100 checks
+** Dealing Flop ** [ 4d, 9d, Kd ]
+MESKA_x bets [€0.04 EUR]
+raptor73100 raises [€0.20 EUR]
+MESKA_x folds
+raptor73100 does not show cards.
+raptor73100 wins €0.31 EUR from the main pot.
+Game #14340344665 starts.
+
+
+
+#Game No : 14340345337
+***** Hand History for Game 14340345337 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:40:46 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: sheme62 ( €4.47 EUR )
+Seat 2: MESKA_x ( €1.99 EUR )
+Seat 3: raptor73100 ( €3.60 EUR )
+Seat 4: tyrex57 ( €4.91 EUR )
+Seat 6: pepinou13 ( €1.28 EUR )
+Seat 7: Pro-online ( €1.33 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+tyrex57 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pepinou13 folds
+Pro-online calls [€0.04 EUR]
+MESKA_x folds
+raptor73100 calls [€0.02 EUR]
+tyrex57 checks
+** Dealing Flop ** [ 9d, 3h, Td ]
+raptor73100 checks
+tyrex57 checks
+Pro-online checks
+** Dealing Turn ** [ 2d ]
+raptor73100 checks
+tyrex57 checks
+Pro-online checks
+** Dealing River ** [ 2c ]
+raptor73100 checks
+tyrex57 checks
+Pro-online checks
+tyrex57 doesn't show [ 7s, 4h ]
+raptor73100 shows [ 5c, 8h ]
+Pro-online shows [ Qd, Kc ]
+Pro-online wins €0.12 EUR from the main pot.
+Game #14340348559 starts.
+
+
+
+#Game No : 14340349262
+***** Hand History for Game 14340349262 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:43:03 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: sheme62 ( €4.47 EUR )
+Seat 2: MESKA_x ( €1.99 EUR )
+Seat 3: raptor73100 ( €3.56 EUR )
+Seat 4: tyrex57 ( €4.87 EUR )
+Seat 6: pepinou13 ( €1.28 EUR )
+Seat 7: Pro-online ( €1.41 EUR )
+tyrex57 posts small blind [€0.02 EUR].
+pepinou13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pro-online calls [€0.04 EUR]
+MESKA_x folds
+raptor73100 calls [€0.04 EUR]
+tyrex57 calls [€0.02 EUR]
+pepinou13 checks
+** Dealing Flop ** [ 7d, 7c, Jc ]
+tyrex57 checks
+pepinou13 checks
+Pro-online checks
+raptor73100 checks
+** Dealing Turn ** [ 3c ]
+tyrex57 checks
+pepinou13 checks
+Pro-online checks
+raptor73100 checks
+** Dealing River ** [ 7h ]
+tyrex57 checks
+pepinou13 checks
+Pro-online checks
+raptor73100 checks
+pepinou13 doesn't show [ 4c, 5d ]
+raptor73100 doesn't show [ Qd, Td ]
+tyrex57 shows [ 5h, Th ]
+Pro-online shows [ Ah, Tc ]
+Pro-online wins €0.15 EUR from the main pot.
+Game #14340351872 starts.
+
+
+
+#Game No : 14340352426
+***** Hand History for Game 14340352426 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:43:55 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 8/9
+Seat 1: sheme62 ( €4.47 EUR )
+Seat 2: MESKA_x ( €1.99 EUR )
+Seat 3: raptor73100 ( €3.52 EUR )
+Seat 4: tyrex57 ( €4.83 EUR )
+Seat 5: yoyop77 ( €4 EUR )
+Seat 6: pepinou13 ( €1.24 EUR )
+Seat 7: Pro-online ( €1.52 EUR )
+Seat 9: jgor31 ( €4 EUR )
+pepinou13 posts small blind [€0.02 EUR].
+Pro-online posts big blind [€0.04 EUR].
+** Dealing down cards **
+MESKA_x folds
+raptor73100 calls [€0.04 EUR]
+tyrex57 folds
+pepinou13 calls [€0.02 EUR]
+Pro-online checks
+** Dealing Flop ** [ 5c, 9h, 3c ]
+pepinou13 checks
+Pro-online checks
+raptor73100 checks
+** Dealing Turn ** [ Js ]
+pepinou13 bets [€0.09 EUR]
+Pro-online calls [€0.09 EUR]
+raptor73100 folds
+** Dealing River ** [ Ac ]
+pepinou13 checks
+Pro-online checks
+Pro-online doesn't show [ Kh, Td ]
+pepinou13 shows [ Ts, Jd ]
+pepinou13 wins €0.28 EUR from the main pot.
+Game #14340353331 starts.
+
+
+
+#Game No : 14340197605
+***** Hand History for Game 14340197605 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 23:26:36 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: sheme62 ( €2.36 EUR )
+Seat 3: RogerD21 ( €4.27 EUR )
+Seat 6: pepinou13 ( €1.93 EUR )
+Seat 8: lolodu974 ( €10.39 EUR )
+Seat 9: fishinthesee ( €3.78 EUR )
+RogerD21 posts small blind [€0.02 EUR].
+pepinou13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+lolodu974 folds
+fishinthesee folds
+sheme62 calls [€0.04 EUR]
+RogerD21 folds
+pepinou13 checks
+** Dealing Flop ** [ Ts, 9c, 7s ]
+pepinou13 bets [€0.07 EUR]
+sheme62 calls [€0.07 EUR]
+** Dealing Turn ** [ 5d ]
+pepinou13 checks
+sheme62 bets [€0.16 EUR]
+pepinou13 folds
+sheme62 does not show cards.
+sheme62 wins €0.39 EUR from the main pot.
+Game #14340200964 starts.
+
+
+
+#Game No : 14340216926
+***** Hand History for Game 14340216926 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 23:33:48 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 1: sheme62 ( €2.70 EUR )
+Seat 3: RogerD21 ( €3.82 EUR )
+Seat 5: chouk99 ( €2.15 EUR )
+Seat 6: pepinou13 ( €1.76 EUR )
+Seat 9: fishinthesee ( €4.10 EUR )
+fishinthesee posts small blind [€0.02 EUR].
+sheme62 posts big blind [€0.04 EUR].
+** Dealing down cards **
+RogerD21 folds
+chouk99 folds
+pepinou13 folds
+fishinthesee raises [€0.10 EUR]
+sheme62 folds
+fishinthesee does not show cards.
+fishinthesee wins €0.16 EUR from the main pot.
+Game #14340217004 starts.
+
+
+
+#Game No : 14340071928
+***** Hand History for Game 14340071928 *****
+€4 EUR NL Texas Hold'em - Wednesday, January 14, 22:35:28 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: hiero83 ( €3.85 EUR )
+Seat 2: Beatitude972 ( €1.81 EUR )
+Seat 3: wally1766 ( €4 EUR )
+Seat 5: talya45 ( €4.35 EUR )
+Seat 7: steuf99 ( €1.76 EUR )
+Beatitude972 posts small blind [€0.02 EUR].
+wally1766 posts big blind [€0.04 EUR].
+** Dealing down cards **
+talya45 calls [€0.04 EUR]
+steuf99 folds
+hiero83 raises [€0.12 EUR]
+Beatitude972 calls [€0.10 EUR]
+wally1766 folds
+talya45 calls [€0.08 EUR]
+** Dealing Flop ** [ Ks, Qh, Jc ]
+Beatitude972 bets [€0.04 EUR]
+talya45 calls [€0.04 EUR]
+hiero83 calls [€0.04 EUR]
+** Dealing Turn ** [ 3d ]
+Beatitude972 bets [€0.49 EUR]
+talya45 folds
+hiero83 raises [€0.98 EUR]
+Beatitude972 calls [€0.49 EUR]
+** Dealing River ** [ 8c ]
+Beatitude972 bets [€0.04 EUR]
+hiero83 calls [€0.04 EUR]
+Beatitude972 shows [ 2d, Kd ]
+hiero83 shows [ Kc, Ad ]
+hiero83 wins €2.39 EUR from the main pot.
+Game #14340072098 starts.
+
+
+
+#Game No : 14340338431
+***** Hand History for Game 14340338431 *****
+€4 EUR NL Texas Hold'em - Thursday, January 15, 00:36:38 CEST 2015
+Table Livry-Gargan (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: Teddyboy ( €2.94 EUR )
+Seat 2: raptor73100 ( €15.56 EUR )
+Seat 4: stephane554 ( €1.11 EUR )
+Seat 5: maelle59 ( €4.77 EUR )
+Seat 6: Tintizbar ( €3.65 EUR )
+Seat 7: enzatessa03 ( €2.51 EUR )
+enzatessa03 posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+stephane554 calls [€0.04 EUR]
+maelle59 folds
+Tintizbar raises [€0.08 EUR]
+enzatessa03 folds
+raptor73100 raises [€0.16 EUR]
+stephane554 folds
+Tintizbar calls [€0.12 EUR]
+** Dealing Flop ** [ 4d, 7h, 9d ]
+raptor73100 bets [€0.12 EUR]
+Tintizbar calls [€0.12 EUR]
+** Dealing Turn ** [ 2d ]
+raptor73100 bets [€0.08 EUR]
+Tintizbar raises [€0.45 EUR]
+raptor73100 folds
+Tintizbar does not show cards.
+Tintizbar wins €1.18 EUR from the main pot.
+Game #14340341819 starts.
+
+
+

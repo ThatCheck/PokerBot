@@ -1,0 +1,3120 @@
+#Game No : 14312820169
+***** Hand History for Game 14312820169 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:15:44 CEST 2015
+Table Colombes (Real Money)
+Seat 8 is the button
+Total number of players : 4/9
+Seat 3: Thatcher67 ( €1.23 EUR )
+Seat 6: yoo30 ( €6.30 EUR )
+Seat 8: raptor73100 ( €1.28 EUR )
+Seat 9: HARIBOT13 ( €14.05 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+yoo30 posts big blind [€0.04 EUR].
+** Dealing down cards **
+raptor73100 folds
+HARIBOT13 folds
+yoo30 does not show cards.
+yoo30 wins €0.06 EUR from the main pot.
+Game #14312820156 starts.
+
+
+
+#Game No : 14312820737
+***** Hand History for Game 14312820737 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:16:20 CEST 2015
+Table Colombes (Real Money)
+Seat 9 is the button
+Total number of players : 4/9
+Seat 3: Thatcher67 ( €1.23 EUR )
+Seat 6: yoo30 ( €6.32 EUR )
+Seat 8: raptor73100 ( €1.28 EUR )
+Seat 9: HARIBOT13 ( €14.03 EUR )
+yoo30 posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+yoo30 raises [€0.06 EUR]
+raptor73100 calls [€0.04 EUR]
+** Dealing Flop ** [ 5s, Js, Ts ]
+yoo30 bets [€0.07 EUR]
+raptor73100 folds
+yoo30 does not show cards.
+yoo30 wins €0.22 EUR from the main pot.
+Game #14312821087 starts.
+
+
+
+#Game No : 14312822205
+***** Hand History for Game 14312822205 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:16:38 CEST 2015
+Table Colombes (Real Money)
+Seat 6 is the button
+Total number of players : 4/9
+Seat 3: Thatcher67 ( €1.23 EUR )
+Seat 6: yoo30 ( €6.39 EUR )
+Seat 8: raptor73100 ( €1.20 EUR )
+Seat 9: HARIBOT13 ( €14.03 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+yoo30 folds
+raptor73100 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.06 EUR from the main pot.
+Game #14312822406 starts.
+
+
+
+#Game No : 14312848179
+***** Hand History for Game 14312848179 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:31:20 CEST 2015
+Table Colombes (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 1: dravgor ( €2 EUR )
+Seat 3: Thatcher67 ( €1.52 EUR )
+Seat 5: mokajune ( €2.87 EUR )
+Seat 9: HARIBOT13 ( €12.67 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+dravgor posts big blind [€0.04 EUR].
+** Dealing down cards **
+mokajune calls [€0.04 EUR]
+HARIBOT13 calls [€0.02 EUR]
+dravgor checks
+** Dealing Flop ** [ 4d, 3d, Ad ]
+HARIBOT13 checks
+dravgor bets [€0.04 EUR]
+mokajune raises [€0.08 EUR]
+HARIBOT13 folds
+dravgor calls [€0.04 EUR]
+** Dealing Turn ** [ 9c ]
+dravgor checks
+mokajune bets [€0.04 EUR]
+dravgor calls [€0.04 EUR]
+** Dealing River ** [ 7c ]
+dravgor checks
+mokajune bets [€0.34 EUR]
+dravgor folds
+mokajune does not show cards.
+mokajune wins €0.68 EUR from the main pot.
+Game #14312849022 starts.
+
+
+
+#Game No : 14312849242
+***** Hand History for Game 14312849242 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:32:00 CEST 2015
+Table Colombes (Real Money)
+Seat 9 is the button
+Total number of players : 4/9
+Seat 1: dravgor ( €1.84 EUR )
+Seat 3: Thatcher67 ( €1.52 EUR )
+Seat 5: mokajune ( €3.05 EUR )
+Seat 9: HARIBOT13 ( €12.63 EUR )
+dravgor posts small blind [€0.02 EUR].
+mokajune posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+dravgor calls [€0.02 EUR]
+mokajune checks
+** Dealing Flop ** [ 2d, Ts, 9c ]
+dravgor checks
+mokajune checks
+** Dealing Turn ** [ 3c ]
+dravgor bets [€0.04 EUR]
+mokajune calls [€0.04 EUR]
+** Dealing River ** [ 6c ]
+dravgor bets [€0.07 EUR]
+mokajune folds
+dravgor does not show cards.
+dravgor wins €0.22 EUR from the main pot.
+Game #14312850698 starts.
+
+
+
+#Game No : 14312850698
+***** Hand History for Game 14312850698 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:32:45 CEST 2015
+Table Colombes (Real Money)
+Seat 1 is the button
+Total number of players : 4/9
+Seat 1: dravgor ( €1.91 EUR )
+Seat 3: Thatcher67 ( €1.52 EUR )
+Seat 5: mokajune ( €2.97 EUR )
+Seat 9: HARIBOT13 ( €12.63 EUR )
+mokajune posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+dravgor calls [€0.04 EUR]
+mokajune calls [€0.02 EUR]
+HARIBOT13 checks
+** Dealing Flop ** [ 8h, 7s, 9d ]
+mokajune checks
+HARIBOT13 bets [€0.08 EUR]
+dravgor calls [€0.08 EUR]
+mokajune calls [€0.08 EUR]
+** Dealing Turn ** [ 6d ]
+mokajune bets [€0.34 EUR]
+HARIBOT13 folds
+dravgor folds
+mokajune does not show cards.
+mokajune wins €0.68 EUR from the main pot.
+Game #14312850305 starts.
+
+
+
+#Game No : 14312851751
+***** Hand History for Game 14312851751 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:33:02 CEST 2015
+Table Colombes (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 1: dravgor ( €1.79 EUR )
+Seat 3: Thatcher67 ( €1.52 EUR )
+Seat 5: mokajune ( €3.19 EUR )
+Seat 9: HARIBOT13 ( €12.51 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+dravgor posts big blind [€0.04 EUR].
+** Dealing down cards **
+mokajune folds
+HARIBOT13 calls [€0.02 EUR]
+dravgor raises [€0.08 EUR]
+HARIBOT13 folds
+dravgor does not show cards.
+dravgor wins €0.16 EUR from the main pot.
+Game #14312852097 starts.
+
+
+
+#Game No : 14312867802
+***** Hand History for Game 14312867802 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:42:43 CEST 2015
+Table Colombes (Real Money)
+Seat 2 is the button
+Total number of players : 3/9
+Seat 2: canedode ( €2.07 EUR )
+Seat 5: mokajune ( €3.02 EUR )
+Seat 9: HARIBOT13 ( €13.69 EUR )
+mokajune posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+canedode raises [€0.32 EUR]
+mokajune calls [€0.30 EUR]
+HARIBOT13 folds
+** Dealing Flop ** [ Kh, 3c, As ]
+mokajune bets [€0.04 EUR]
+canedode calls [€0.04 EUR]
+** Dealing Turn ** [ Ts ]
+mokajune checks
+canedode bets [€0.71 EUR]
+mokajune raises [€1.42 EUR]
+canedode folds
+mokajune does not show cards.
+mokajune wins €2.75 EUR from the main pot.
+Game #14312868631 starts.
+
+
+
+#Game No : 14312868798
+***** Hand History for Game 14312868798 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:43:09 CEST 2015
+Table Colombes (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 2: canedode ( €1 EUR )
+Seat 5: mokajune ( €3.99 EUR )
+Seat 9: HARIBOT13 ( €13.65 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+canedode posts big blind [€0.04 EUR].
+** Dealing down cards **
+mokajune folds
+HARIBOT13 raises [€0.14 EUR]
+canedode is all-In [€0.96 EUR]
+HARIBOT13 calls [€0.84 EUR]
+** Dealing Flop ** [ 8s, 2c, 7c ]
+** Dealing Turn ** [ 5s ]
+** Dealing River ** [ 6s ]
+HARIBOT13 shows [ Ac, Qc ]
+canedode shows [ Qs, 9h ]
+canedode wins €1.87 EUR from the main pot.
+Game #14312868938 starts.
+
+
+
+#Game No : 14312869386
+***** Hand History for Game 14312869386 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:43:34 CEST 2015
+Table Colombes (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 2: canedode ( €1.87 EUR )
+Seat 5: mokajune ( €3.99 EUR )
+Seat 9: HARIBOT13 ( €12.65 EUR )
+canedode posts small blind [€0.02 EUR].
+mokajune posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+canedode calls [€0.02 EUR]
+mokajune checks
+** Dealing Flop ** [ Jh, Qs, 2h ]
+canedode checks
+mokajune checks
+** Dealing Turn ** [ 9s ]
+canedode checks
+mokajune checks
+** Dealing River ** [ 5h ]
+canedode checks
+mokajune checks
+mokajune doesn't show [ 3d, 4c ]
+canedode shows [ Ts, 5s ]
+canedode wins €0.08 EUR from the main pot.
+Game #14312870149 starts.
+
+
+
+#Game No : 14312870476
+***** Hand History for Game 14312870476 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:43:53 CEST 2015
+Table Colombes (Real Money)
+Seat 2 is the button
+Total number of players : 3/9
+Seat 2: canedode ( €1.91 EUR )
+Seat 5: mokajune ( €3.95 EUR )
+Seat 9: HARIBOT13 ( €12.65 EUR )
+mokajune posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+canedode calls [€0.04 EUR]
+mokajune folds
+HARIBOT13 checks
+** Dealing Flop ** [ Qd, 2h, 2d ]
+HARIBOT13 checks
+canedode checks
+** Dealing Turn ** [ Ad ]
+HARIBOT13 checks
+canedode checks
+** Dealing River ** [ Tc ]
+HARIBOT13 checks
+canedode checks
+canedode doesn't show [ 9d, 3h ]
+HARIBOT13 shows [ Js, 3d ]
+HARIBOT13 wins €0.10 EUR from the main pot.
+Game #14312870775 starts.
+
+
+
+#Game No : 14312872099
+***** Hand History for Game 14312872099 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 00:45:43 CEST 2015
+Table Colombes (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 2: canedode ( €1.96 EUR )
+Seat 5: mokajune ( €3.93 EUR )
+Seat 9: HARIBOT13 ( €12.61 EUR )
+canedode posts small blind [€0.02 EUR].
+mokajune posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 calls [€0.04 EUR]
+canedode calls [€0.02 EUR]
+mokajune raises [€0.04 EUR]
+HARIBOT13 calls [€0.04 EUR]
+canedode calls [€0.04 EUR]
+** Dealing Flop ** [ 6d, 7h, 4s ]
+canedode checks
+mokajune bets [€0.04 EUR]
+HARIBOT13 calls [€0.04 EUR]
+canedode raises [€0.08 EUR]
+mokajune raises [€0.08 EUR]
+HARIBOT13 folds
+canedode calls [€0.04 EUR]
+** Dealing Turn ** [ 8c ]
+canedode bets [€0.49 EUR]
+mokajune raises [€0.98 EUR]
+canedode raises [€0.98 EUR]
+mokajune raises [€0.98 EUR]
+canedode is all-In [€0.29 EUR]
+** Dealing River ** [ 8h ]
+canedode doesn't show [ Jd, Jh ]
+mokajune shows [ Ks, Kd ]
+mokajune wins €0.20 EUR from the side pot 1.
+mokajune wins €3.78 EUR from the main pot.
+Game #14312873698 starts.
+
+
+
+#Game No : 14313402363
+***** Hand History for Game 14313402363 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 12:41:17 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: Petitmario_971 ( €1.42 EUR )
+Seat 3: raptor73100 ( €4.31 EUR )
+Seat 5: le marseillais1 ( €6.63 EUR )
+Seat 7: INDIEN89 ( €0 EUR )
+Seat 9: 97alwbyad ( €4.07 EUR )
+raptor73100 posts small blind [€0.02 EUR].
+le marseillais1 posts big blind [€0.04 EUR].
+** Dealing down cards **
+97alwbyad calls [€0.04 EUR]
+raptor73100 calls [€0.02 EUR]
+le marseillais1 checks
+** Dealing Flop ** [ Qd, Ac, 8d ]
+raptor73100 bets [€0.04 EUR]
+le marseillais1 folds
+97alwbyad folds
+raptor73100 does not show cards.
+raptor73100 wins €0.16 EUR from the main pot.
+Game #14313402673 starts.
+
+
+
+#Game No : 14313402673
+***** Hand History for Game 14313402673 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 12:41:55 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 4/9
+Seat 1: Petitmario_971 ( €1.42 EUR )
+Seat 3: raptor73100 ( €4.39 EUR )
+Seat 5: le marseillais1 ( €6.59 EUR )
+Seat 9: 97alwbyad ( €4.03 EUR )
+le marseillais1 posts small blind [€0.02 EUR].
+97alwbyad posts big blind [€0.04 EUR].
+** Dealing down cards **
+raptor73100 calls [€0.04 EUR]
+le marseillais1 calls [€0.02 EUR]
+97alwbyad checks
+** Dealing Flop ** [ 5d, 9c, Jh ]
+le marseillais1 checks
+97alwbyad checks
+raptor73100 checks
+** Dealing Turn ** [ 9s ]
+le marseillais1 checks
+97alwbyad checks
+raptor73100 checks
+** Dealing River ** [ Td ]
+le marseillais1 bets [€0.12 EUR]
+97alwbyad calls [€0.12 EUR]
+raptor73100 folds
+97alwbyad doesn't show [ 6s, Tc ]
+le marseillais1 shows [ 8d, 7d ]
+le marseillais1 wins €0.34 EUR from the main pot.
+Game #14313403330 starts.
+
+
+
+#Game No : 14313403330
+***** Hand History for Game 14313403330 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 12:42:17 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 1: Petitmario_971 ( €1.42 EUR )
+Seat 3: raptor73100 ( €4.35 EUR )
+Seat 5: le marseillais1 ( €6.77 EUR )
+Seat 9: 97alwbyad ( €3.87 EUR )
+97alwbyad posts small blind [€0.02 EUR].
+raptor73100 posts big blind [€0.04 EUR].
+** Dealing down cards **
+le marseillais1 folds
+97alwbyad calls [€0.02 EUR]
+raptor73100 checks
+** Dealing Flop ** [ Js, Jh, Qd ]
+97alwbyad bets [€0.04 EUR]
+raptor73100 folds
+97alwbyad does not show cards.
+97alwbyad wins €0.12 EUR from the main pot.
+Game #14313403414 starts.
+
+
+
+#Game No : 14313736971
+***** Hand History for Game 14313736971 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:59:29 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Morax7 ( €7.50 EUR )
+Seat 2: Giogeno 93 ( €0 EUR )
+Seat 3: sebast62 ( €3.85 EUR )
+Seat 4: jolapince ( €1.53 EUR )
+Seat 5: dur59888 ( €0 EUR )
+sebast62 posts small blind [€0.02 EUR].
+jolapince posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+sebast62 calls [€0.02 EUR]
+jolapince raises [€0.04 EUR]
+sebast62 calls [€0.04 EUR]
+** Dealing Flop ** [ Ac, 2h, Kh ]
+sebast62 checks
+jolapince bets [€0.04 EUR]
+sebast62 calls [€0.04 EUR]
+** Dealing Turn ** [ Jd ]
+sebast62 checks
+jolapince bets [€0.04 EUR]
+sebast62 folds
+jolapince does not show cards.
+jolapince wins €0.27 EUR from the main pot.
+Game #14313737907 starts.
+
+
+
+#Game No : 14313721942
+***** Hand History for Game 14313721942 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:51:15 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 1: Morax7 ( €4.13 EUR )
+Seat 2: Giogeno 93 ( €4 EUR )
+Seat 3: sebast62 ( €2.59 EUR )
+Morax7 posts small blind [€0.02 EUR].
+Giogeno 93 posts big blind [€0.04 EUR].
+** Dealing down cards **
+sebast62 calls [€0.04 EUR]
+Morax7 folds
+Giogeno 93 checks
+** Dealing Flop ** [ 4d, 3c, Kd ]
+Giogeno 93 checks
+sebast62 checks
+** Dealing Turn ** [ Kh ]
+Giogeno 93 checks
+sebast62 bets [€0.04 EUR]
+Giogeno 93 calls [€0.04 EUR]
+** Dealing River ** [ 5s ]
+Giogeno 93 checks
+sebast62 bets [€0.04 EUR]
+Giogeno 93 calls [€0.04 EUR]
+sebast62 shows [ Tc, 9s ]
+Giogeno 93 shows [ 3h, As ]
+Giogeno 93 wins €0.25 EUR from the main pot.
+Game #14313722606 starts.
+
+
+
+#Game No : 14313722645
+***** Hand History for Game 14313722645 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:51:37 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 1 is the button
+Total number of players : 3/9
+Seat 1: Morax7 ( €4.11 EUR )
+Seat 2: Giogeno 93 ( €4.13 EUR )
+Seat 3: sebast62 ( €2.47 EUR )
+Giogeno 93 posts small blind [€0.02 EUR].
+sebast62 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+Giogeno 93 calls [€0.02 EUR]
+sebast62 checks
+** Dealing Flop ** [ 9s, 4h, 3h ]
+Giogeno 93 checks
+sebast62 bets [€0.12 EUR]
+Giogeno 93 folds
+sebast62 does not show cards.
+sebast62 wins €0.20 EUR from the main pot.
+Game #14313722122 starts.
+
+
+
+#Game No : 14313723214
+***** Hand History for Game 14313723214 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:51:59 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 2 is the button
+Total number of players : 3/9
+Seat 1: Morax7 ( €4.11 EUR )
+Seat 2: Giogeno 93 ( €4.09 EUR )
+Seat 3: sebast62 ( €2.51 EUR )
+sebast62 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Giogeno 93 calls [€0.04 EUR]
+sebast62 calls [€0.02 EUR]
+Morax7 checks
+** Dealing Flop ** [ As, 4d, 3c ]
+sebast62 checks
+Morax7 checks
+Giogeno 93 checks
+** Dealing Turn ** [ 8s ]
+sebast62 bets [€0.04 EUR]
+Morax7 folds
+Giogeno 93 folds
+sebast62 does not show cards.
+sebast62 wins €0.16 EUR from the main pot.
+Game #14313724300 starts.
+
+
+
+#Game No : 14313724300
+***** Hand History for Game 14313724300 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:52:27 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 1: Morax7 ( €4.07 EUR )
+Seat 2: Giogeno 93 ( €4.05 EUR )
+Seat 3: sebast62 ( €2.59 EUR )
+Morax7 posts small blind [€0.02 EUR].
+Giogeno 93 posts big blind [€0.04 EUR].
+** Dealing down cards **
+sebast62 calls [€0.04 EUR]
+Morax7 raises [€0.10 EUR]
+Giogeno 93 calls [€0.08 EUR]
+sebast62 calls [€0.08 EUR]
+** Dealing Flop ** [ 3d, 4d, Qd ]
+Morax7 bets [€0.12 EUR]
+Giogeno 93 folds
+sebast62 folds
+Morax7 does not show cards.
+Morax7 wins €0.46 EUR from the main pot.
+Game #14313724037 starts.
+
+
+
+#Game No : 14313652375
+***** Hand History for Game 14313652375 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:15:17 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 1: Acrofil ( €3.98 EUR )
+Seat 2: bodysam12 ( €2 EUR )
+Seat 3: Morax7 ( €3.02 EUR )
+Acrofil posts small blind [€0.02 EUR].
+bodysam12 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+Acrofil calls [€0.02 EUR]
+bodysam12 raises [€0.04 EUR]
+Acrofil calls [€0.04 EUR]
+** Dealing Flop ** [ 7h, Jh, Th ]
+Acrofil bets [€0.04 EUR]
+bodysam12 calls [€0.04 EUR]
+** Dealing Turn ** [ 2d ]
+Acrofil bets [€0.04 EUR]
+bodysam12 calls [€0.04 EUR]
+** Dealing River ** [ Tc ]
+Acrofil bets [€0.04 EUR]
+bodysam12 calls [€0.04 EUR]
+Acrofil shows [ 6d, 9d ]
+bodysam12 shows [ 7c, 8h ]
+bodysam12 wins €0.38 EUR from the main pot.
+Game #14313652588 starts.
+
+
+
+#Game No : 14313653087
+***** Hand History for Game 14313653087 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 15:15:31 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 3/9
+Seat 1: Acrofil ( €3.78 EUR )
+Seat 2: bodysam12 ( €2.18 EUR )
+Seat 3: Morax7 ( €3.02 EUR )
+bodysam12 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Acrofil folds
+bodysam12 raises [€0.06 EUR]
+Morax7 folds
+bodysam12 does not show cards.
+bodysam12 wins €0.12 EUR from the main pot.
+Game #14313653323 starts.
+
+
+
+#Game No : 14313876735
+***** Hand History for Game 14313876735 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 17:04:17 CEST 2015
+Table Saint-Louis (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €2.82 EUR )
+Seat 4: LABRILLE ( €2.16 EUR )
+Seat 5: chevaux ( €4 EUR )
+LABRILLE posts small blind [€0.02 EUR].
+chevaux posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+LABRILLE calls [€0.02 EUR]
+chevaux checks
+** Dealing Flop ** [ 9s, Ts, Ad ]
+LABRILLE checks
+chevaux checks
+** Dealing Turn ** [ Qs ]
+LABRILLE checks
+chevaux checks
+** Dealing River ** [ 3c ]
+LABRILLE bets [€0.04 EUR]
+chevaux folds
+LABRILLE does not show cards.
+LABRILLE wins €0.12 EUR from the main pot.
+Game #14313876629 starts.
+
+
+
+#Game No : 14314309152
+***** Hand History for Game 14314309152 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:04:38 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 3/9
+Seat 4: carte50 ( €2.14 EUR )
+Seat 5: ben41 ( €1.68 EUR )
+Seat 7: Pat0678 ( €5.71 EUR )
+carte50 posts small blind [€0.02 EUR].
+ben41 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+carte50 calls [€0.02 EUR]
+ben41 checks
+** Dealing Flop ** [ 3d, Jc, Tc ]
+carte50 checks
+ben41 checks
+** Dealing Turn ** [ 5s ]
+carte50 checks
+ben41 checks
+** Dealing River ** [ 9c ]
+carte50 bets [€0.08 EUR]
+ben41 calls [€0.08 EUR]
+ben41 doesn't show [ 2c, 2d ]
+carte50 shows [ Th, 3h ]
+carte50 wins €0.23 EUR from the main pot.
+Game #14314309398 starts.
+
+
+
+#Game No : 14314317087
+***** Hand History for Game 14314317087 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:07:53 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 4: carte50 ( €2.51 EUR )
+Seat 5: ben41 ( €1.40 EUR )
+Seat 7: Pat0678 ( €8.17 EUR )
+ben41 posts small blind [€0.02 EUR].
+Pat0678 posts big blind [€0.04 EUR].
+** Dealing down cards **
+carte50 folds
+ben41 calls [€0.02 EUR]
+Pat0678 checks
+** Dealing Flop ** [ Td, Ks, 9c ]
+ben41 checks
+Pat0678 checks
+** Dealing Turn ** [ 4h ]
+ben41 bets [€0.08 EUR]
+Pat0678 folds
+ben41 does not show cards.
+ben41 wins €0.16 EUR from the main pot.
+Game #14314317411 starts.
+
+
+
+#Game No : 14314318635
+***** Hand History for Game 14314318635 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:08:26 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 4: carte50 ( €2.51 EUR )
+Seat 5: ben41 ( €1.44 EUR )
+Seat 7: Pat0678 ( €8.13 EUR )
+Pat0678 posts small blind [€0.02 EUR].
+carte50 posts big blind [€0.04 EUR].
+** Dealing down cards **
+ben41 calls [€0.04 EUR]
+Pat0678 folds
+carte50 checks
+** Dealing Flop ** [ Ks, 6c, 2c ]
+carte50 checks
+ben41 checks
+** Dealing Turn ** [ 3h ]
+carte50 checks
+ben41 checks
+** Dealing River ** [ Qs ]
+carte50 checks
+ben41 checks
+carte50 shows [ 4d, 9h ]
+ben41 shows [ 4h, Td ]
+ben41 wins €0.10 EUR from the main pot.
+Game #14314318883 starts.
+
+
+
+#Game No : 14314319868
+***** Hand History for Game 14314319868 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:10:01 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 3/9
+Seat 4: carte50 ( €2.47 EUR )
+Seat 5: ben41 ( €1.50 EUR )
+Seat 7: Pat0678 ( €8.11 EUR )
+carte50 posts small blind [€0.02 EUR].
+ben41 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 raises [€0.20 EUR]
+carte50 calls [€0.18 EUR]
+ben41 calls [€0.16 EUR]
+** Dealing Flop ** [ Kh, Ks, 6c ]
+carte50 checks
+ben41 checks
+Pat0678 bets [€0.28 EUR]
+carte50 calls [€0.28 EUR]
+ben41 folds
+** Dealing Turn ** [ 2s ]
+carte50 checks
+Pat0678 checks
+** Dealing River ** [ Th ]
+carte50 is all-In [€1.99 EUR]
+Pat0678 calls [€1.99 EUR]
+carte50 shows [ Js, Kd ]
+Pat0678 shows [ Qh, Kc ]
+Pat0678 wins €4.80 EUR from the main pot.
+Game #14314323040 starts.
+
+
+
+#Game No : 14314333733
+***** Hand History for Game 14314333733 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:14:18 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.06 EUR )
+Seat 5: pierrot131399 ( €4 EUR )
+Seat 7: Pat0678 ( €10.38 EUR )
+MDRRPTDRR69 posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 raises [€0.20 EUR]
+MDRRPTDRR69 folds
+pierrot131399 calls [€0.16 EUR]
+** Dealing Flop ** [ 2d, Kc, Td ]
+pierrot131399 checks
+Pat0678 bets [€0.20 EUR]
+pierrot131399 calls [€0.20 EUR]
+** Dealing Turn ** [ Kd ]
+pierrot131399 bets [€1.36 EUR]
+Pat0678 folds
+pierrot131399 does not show cards.
+pierrot131399 wins €2.13 EUR from the main pot.
+Game #14314334898 starts.
+
+
+
+#Game No : 14314335402
+***** Hand History for Game 14314335402 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:14:52 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.04 EUR )
+Seat 5: pierrot131399 ( €4.37 EUR )
+Seat 7: Pat0678 ( €9.98 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Pat0678 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MDRRPTDRR69 folds
+pierrot131399 calls [€0.02 EUR]
+Pat0678 checks
+** Dealing Flop ** [ Kh, 3d, 3h ]
+pierrot131399 checks
+Pat0678 bets [€0.06 EUR]
+pierrot131399 calls [€0.06 EUR]
+** Dealing Turn ** [ Ac ]
+pierrot131399 checks
+Pat0678 bets [€0.09 EUR]
+pierrot131399 folds
+Pat0678 does not show cards.
+Pat0678 wins €0.28 EUR from the main pot.
+Game #14314335671 starts.
+
+
+
+#Game No : 14314336566
+***** Hand History for Game 14314336566 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:15:07 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.04 EUR )
+Seat 5: pierrot131399 ( €4.27 EUR )
+Seat 7: Pat0678 ( €10.07 EUR )
+Pat0678 posts small blind [€0.02 EUR].
+MDRRPTDRR69 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 folds
+Pat0678 folds
+MDRRPTDRR69 does not show cards.
+MDRRPTDRR69 wins €0.06 EUR from the main pot.
+Game #14314337620 starts.
+
+
+
+#Game No : 14314337620
+***** Hand History for Game 14314337620 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:15:27 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.06 EUR )
+Seat 5: pierrot131399 ( €4.27 EUR )
+Seat 7: Pat0678 ( €10.05 EUR )
+MDRRPTDRR69 posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+MDRRPTDRR69 raises [€0.06 EUR]
+pierrot131399 folds
+MDRRPTDRR69 shows [ 4d, 2c ]
+MDRRPTDRR69 wins €0.12 EUR from the main pot.
+Game #14314338341 starts.
+
+
+
+#Game No : 14314338341
+***** Hand History for Game 14314338341 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:15:36 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.10 EUR )
+Seat 5: pierrot131399 ( €4.23 EUR )
+Seat 7: Pat0678 ( €10.05 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Pat0678 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MDRRPTDRR69 folds
+pierrot131399 folds
+Pat0678 does not show cards.
+Pat0678 wins €0.06 EUR from the main pot.
+Game #14314336456 starts.
+
+
+
+#Game No : 14314338659
+***** Hand History for Game 14314338659 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:16:12 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.10 EUR )
+Seat 5: pierrot131399 ( €4.21 EUR )
+Seat 7: Pat0678 ( €10.07 EUR )
+Pat0678 posts small blind [€0.02 EUR].
+MDRRPTDRR69 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 calls [€0.04 EUR]
+Pat0678 calls [€0.02 EUR]
+MDRRPTDRR69 checks
+** Dealing Flop ** [ 3c, 7d, Tc ]
+Pat0678 checks
+MDRRPTDRR69 bets [€0.12 EUR]
+pierrot131399 folds
+Pat0678 folds
+MDRRPTDRR69 does not show cards.
+MDRRPTDRR69 wins €0.24 EUR from the main pot.
+Game #14314338997 starts.
+
+
+
+#Game No : 14314340460
+***** Hand History for Game 14314340460 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:16:34 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.18 EUR )
+Seat 5: pierrot131399 ( €4.17 EUR )
+Seat 7: Pat0678 ( €10.03 EUR )
+MDRRPTDRR69 posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+MDRRPTDRR69 raises [€0.06 EUR]
+pierrot131399 raises [€0.08 EUR]
+MDRRPTDRR69 calls [€0.04 EUR]
+** Dealing Flop ** [ Kd, 3d, 4s ]
+MDRRPTDRR69 checks
+pierrot131399 bets [€0.23 EUR]
+MDRRPTDRR69 folds
+pierrot131399 does not show cards.
+pierrot131399 wins €0.46 EUR from the main pot.
+Game #14314340750 starts.
+
+
+
+#Game No : 14314341260
+***** Hand History for Game 14314341260 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:16:52 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.06 EUR )
+Seat 5: pierrot131399 ( €4.28 EUR )
+Seat 7: Pat0678 ( €10.03 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Pat0678 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MDRRPTDRR69 raises [€0.08 EUR]
+pierrot131399 folds
+Pat0678 folds
+MDRRPTDRR69 shows [ 6h, 8d ]
+MDRRPTDRR69 wins €0.14 EUR from the main pot.
+Game #14314340556 starts.
+
+
+
+#Game No : 14314341898
+***** Hand History for Game 14314341898 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:17:34 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 4: MDRRPTDRR69 ( €4.12 EUR )
+Seat 5: pierrot131399 ( €4.26 EUR )
+Seat 7: Pat0678 ( €9.99 EUR )
+Pat0678 posts small blind [€0.02 EUR].
+MDRRPTDRR69 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 calls [€0.04 EUR]
+Pat0678 folds
+MDRRPTDRR69 raises [€0.04 EUR]
+pierrot131399 calls [€0.04 EUR]
+** Dealing Flop ** [ Qs, 5d, 3c ]
+MDRRPTDRR69 checks
+pierrot131399 checks
+** Dealing Turn ** [ 6c ]
+MDRRPTDRR69 bets [€0.04 EUR]
+pierrot131399 calls [€0.04 EUR]
+** Dealing River ** [ 7d ]
+MDRRPTDRR69 bets [€0.25 EUR]
+pierrot131399 folds
+MDRRPTDRR69 does not show cards.
+MDRRPTDRR69 wins €0.50 EUR from the main pot.
+Game #14314343490 starts.
+
+
+
+#Game No : 14314343987
+***** Hand History for Game 14314343987 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:18:06 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 4/9
+Seat 3: alain1306 ( €4 EUR )
+Seat 4: MDRRPTDRR69 ( €4.25 EUR )
+Seat 5: pierrot131399 ( €4.14 EUR )
+Seat 7: Pat0678 ( €9.97 EUR )
+MDRRPTDRR69 posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Pat0678 folds
+MDRRPTDRR69 calls [€0.02 EUR]
+pierrot131399 checks
+** Dealing Flop ** [ Ah, 8d, 8s ]
+MDRRPTDRR69 checks
+pierrot131399 checks
+** Dealing Turn ** [ 4h ]
+MDRRPTDRR69 folds
+pierrot131399 does not show cards.
+pierrot131399 wins €0.08 EUR from the main pot.
+Game #14314343478 starts.
+
+
+
+#Game No : 14314345122
+***** Hand History for Game 14314345122 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:18:45 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 3: alain1306 ( €4 EUR )
+Seat 5: pierrot131399 ( €4.18 EUR )
+Seat 6: bibilou2011 ( €4 EUR )
+Seat 7: Pat0678 ( €9.97 EUR )
+Pat0678 posts small blind [€0.02 EUR].
+alain1306 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 calls [€0.04 EUR]
+Pat0678 folds
+alain1306 checks
+** Dealing Flop ** [ 3c, 6c, Jd ]
+alain1306 checks
+pierrot131399 checks
+** Dealing Turn ** [ Kd ]
+alain1306 checks
+pierrot131399 checks
+** Dealing River ** [ 3h ]
+alain1306 checks
+pierrot131399 checks
+pierrot131399 doesn't show [ Ts, 8h ]
+alain1306 shows [ As, 4c ]
+alain1306 wins €0.10 EUR from the main pot.
+Game #14314345706 starts.
+
+
+
+#Game No : 14315072753
+***** Hand History for Game 14315072753 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:51:15 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 4/9
+Seat 5: HARIBOT13 ( €15.85 EUR )
+Seat 6: Spica Taurus ( €3.99 EUR )
+Seat 7: saluda ( €8.08 EUR )
+Seat 9: fishinthesee ( €4 EUR )
+saluda posts small blind [€0.02 EUR].
+fishinthesee posts big blind [€0.04 EUR].
+** Dealing down cards **
+Spica Taurus raises [€0.16 EUR]
+saluda calls [€0.14 EUR]
+fishinthesee calls [€0.12 EUR]
+** Dealing Flop ** [ Ah, Ac, 9d ]
+saluda checks
+fishinthesee checks
+Spica Taurus bets [€0.22 EUR]
+saluda folds
+fishinthesee folds
+Spica Taurus does not show cards.
+Spica Taurus wins €0.67 EUR from the main pot.
+Game #14315071610 starts.
+
+
+
+#Game No : 14314353262
+***** Hand History for Game 14314353262 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 20:22:23 CEST 2015
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 3: alain1306 ( €3.94 EUR )
+Seat 5: pierrot131399 ( €4.18 EUR )
+Seat 6: bibilou2011 ( €4.07 EUR )
+Seat 7: Pat0678 ( €9.95 EUR )
+bibilou2011 posts small blind [€0.02 EUR].
+alain1306 posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 calls [€0.04 EUR]
+bibilou2011 folds
+alain1306 checks
+** Dealing Flop ** [ Td, 7s, Qh ]
+alain1306 checks
+pierrot131399 checks
+** Dealing Turn ** [ Jd ]
+alain1306 checks
+pierrot131399 bets [€0.04 EUR]
+alain1306 calls [€0.04 EUR]
+** Dealing River ** [ 2c ]
+alain1306 checks
+pierrot131399 bets [€0.04 EUR]
+alain1306 raises [€0.29 EUR]
+pierrot131399 calls [€0.25 EUR]
+pierrot131399 doesn't show [ 6c, Qc ]
+alain1306 shows [ 2h, Ts ]
+alain1306 wins €0.71 EUR from the main pot.
+Game #14314356071 starts.
+
+
+
+Game #14314952501 starts.
+
+#Game No : 14314952501
+***** Hand History for Game 14314952501 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:56:43 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.98 EUR )
+Seat 5: GOGOLITO ( €4.63 EUR )
+Seat 6: Your name ( €6.19 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.24 EUR]
+Your name folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.30 EUR from the main pot.
+Game #14314950837 starts.
+
+
+
+#Game No : 14314952943
+***** Hand History for Game 14314952943 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:57:30 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.94 EUR )
+Seat 5: GOGOLITO ( €4.69 EUR )
+Seat 6: Your name ( €6.17 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+GOGOLITO calls [€0.08 EUR]
+** Dealing Flop ** [ 3c, 4c, 7c ]
+GOGOLITO checks
+Your name bets [€0.18 EUR]
+GOGOLITO calls [€0.18 EUR]
+** Dealing Turn ** [ Ts ]
+GOGOLITO checks
+Your name checks
+** Dealing River ** [ Ah ]
+GOGOLITO bets [€0.29 EUR]
+Your name calls [€0.29 EUR]
+GOGOLITO shows [ 9d, Qc ]
+Your name shows [ 9h, Td ]
+Your name wins €1.12 EUR from the main pot.
+Game #14314952502 starts.
+
+
+
+#Game No : 14314955195
+***** Hand History for Game 14314955195 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:57:47 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.92 EUR )
+Seat 5: GOGOLITO ( €4.10 EUR )
+Seat 6: Your name ( €6.70 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.30 EUR]
+Your name folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.36 EUR from the main pot.
+Game #14314955384 starts.
+
+
+
+#Game No : 14314956130
+***** Hand History for Game 14314956130 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:58:07 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.92 EUR )
+Seat 5: GOGOLITO ( €4.14 EUR )
+Seat 6: Your name ( €6.66 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+Your name folds
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ 7h, Ad, 2s ]
+Morax7 checks
+GOGOLITO checks
+** Dealing Turn ** [ 8c ]
+Morax7 checks
+GOGOLITO checks
+** Dealing River ** [ Jh ]
+Morax7 bets [€0.46 EUR]
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €1.08 EUR from the main pot.
+Game #14314956597 starts.
+
+
+
+#Game No : 14314956647
+***** Hand History for Game 14314956647 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:58:52 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.22 EUR )
+Seat 5: GOGOLITO ( €3.82 EUR )
+Seat 6: Your name ( €6.64 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 calls [€0.10 EUR]
+GOGOLITO raises [€0.56 EUR]
+Your name folds
+Morax7 calls [€0.48 EUR]
+** Dealing Flop ** [ Jd, Th, 8c ]
+Morax7 checks
+GOGOLITO checks
+** Dealing Turn ** [ Jc ]
+Morax7 checks
+GOGOLITO bets [€0.62 EUR]
+Morax7 calls [€0.62 EUR]
+** Dealing River ** [ 6s ]
+Morax7 checks
+GOGOLITO checks
+Morax7 shows [ As, Qc ]
+GOGOLITO shows [ 7h, 7d ]
+GOGOLITO wins €2.39 EUR from the main pot.
+Game #14314956612 starts.
+
+
+
+#Game No : 14314957859
+***** Hand History for Game 14314957859 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:59:17 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3 EUR )
+Seat 5: GOGOLITO ( €4.99 EUR )
+Seat 6: Your name ( €6.52 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.06 EUR]
+Your name calls [€0.04 EUR]
+** Dealing Flop ** [ 8h, 5d, 5h ]
+GOGOLITO bets [€0.04 EUR]
+Your name calls [€0.04 EUR]
+** Dealing Turn ** [ Ah ]
+GOGOLITO bets [€0.04 EUR]
+Your name raises [€0.17 EUR]
+GOGOLITO folds
+Your name does not show cards.
+Your name wins €0.43 EUR from the main pot.
+Game #14314958072 starts.
+
+
+
+#Game No : 14314958480
+***** Hand History for Game 14314958480 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:59:31 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3 EUR )
+Seat 5: GOGOLITO ( €4.83 EUR )
+Seat 6: Your name ( €6.66 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.24 EUR]
+Your name folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.30 EUR from the main pot.
+Game #14314957578 starts.
+
+
+
+#Game No : 14314958851
+***** Hand History for Game 14314958851 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:00:16 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €2.96 EUR )
+Seat 5: GOGOLITO ( €4.89 EUR )
+Seat 6: Your name ( €6.64 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 calls [€0.10 EUR]
+GOGOLITO calls [€0.08 EUR]
+** Dealing Flop ** [ Ks, 4s, 9d ]
+Morax7 checks
+GOGOLITO bets [€0.04 EUR]
+Your name raises [€0.23 EUR]
+Morax7 folds
+GOGOLITO calls [€0.19 EUR]
+** Dealing Turn ** [ 3d ]
+GOGOLITO checks
+Your name bets [€0.38 EUR]
+GOGOLITO calls [€0.38 EUR]
+** Dealing River ** [ Qs ]
+GOGOLITO checks
+Your name bets [€1.84 EUR]
+GOGOLITO folds
+Your name does not show cards.
+Your name wins €3.32 EUR from the main pot.
+Game #14314958970 starts.
+
+
+
+#Game No : 14315010257
+***** Hand History for Game 14315010257 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:22:36 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.17 EUR )
+Seat 4: HMONGSAOLING ( €4.35 EUR )
+Seat 5: GOGOLITO ( €11.98 EUR )
+Morax7 posts small blind [€0.02 EUR].
+HMONGSAOLING posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+Morax7 calls [€0.30 EUR]
+HMONGSAOLING folds
+** Dealing Flop ** [ Js, 9d, 2d ]
+Morax7 checks
+GOGOLITO checks
+** Dealing Turn ** [ Td ]
+Morax7 checks
+GOGOLITO checks
+** Dealing River ** [ 9s ]
+Morax7 checks
+GOGOLITO is all-In [€11.66 EUR]
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €12.30 EUR from the main pot.
+Game #14315011671 starts.
+
+
+
+#Game No : 14315011671
+***** Hand History for Game 14315011671 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:22:51 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.85 EUR )
+Seat 4: HMONGSAOLING ( €4.31 EUR )
+Seat 5: GOGOLITO ( €12.30 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+HMONGSAOLING calls [€0.02 EUR]
+GOGOLITO raises [€0.28 EUR]
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.36 EUR from the main pot.
+Game #14315011331 starts.
+
+
+
+#Game No : 14315012650
+***** Hand History for Game 14315012650 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:23:12 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.85 EUR )
+Seat 4: HMONGSAOLING ( €4.27 EUR )
+Seat 5: GOGOLITO ( €12.34 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING folds
+GOGOLITO raises [€0.30 EUR]
+Morax7 raises [€1.76 EUR]
+GOGOLITO calls [€1.48 EUR]
+** Dealing Flop ** [ Qs, 9s, 4h ]
+GOGOLITO checks
+Morax7 is all-In [€2.05 EUR]
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €5.41 EUR from the main pot.
+Game #14315012813 starts.
+
+
+
+#Game No : 14315020576
+***** Hand History for Game 14315020576 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:26:32 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.70 EUR )
+Seat 4: HMONGSAOLING ( €4.07 EUR )
+Seat 5: GOGOLITO ( €8.10 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+HMONGSAOLING calls [€0.02 EUR]
+GOGOLITO raises [€0.20 EUR]
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.28 EUR from the main pot.
+Game #14315017768 starts.
+
+
+
+#Game No : 14315021072
+***** Hand History for Game 14315021072 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:26:51 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.70 EUR )
+Seat 4: HMONGSAOLING ( €4.03 EUR )
+Seat 5: GOGOLITO ( €8.14 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING folds
+GOGOLITO calls [€0.02 EUR]
+Morax7 checks
+** Dealing Flop ** [ Td, 9h, 4s ]
+GOGOLITO checks
+Morax7 checks
+** Dealing Turn ** [ 3d ]
+GOGOLITO bets [€0.04 EUR]
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.12 EUR from the main pot.
+Game #14315021631 starts.
+
+
+
+#Game No : 14315021631
+***** Hand History for Game 14315021631 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:26:58 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.66 EUR )
+Seat 4: HMONGSAOLING ( €4.03 EUR )
+Seat 5: GOGOLITO ( €8.18 EUR )
+Morax7 posts small blind [€0.02 EUR].
+HMONGSAOLING posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO folds
+Morax7 folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins €0.06 EUR from the main pot.
+Game #14315021853 starts.
+
+
+
+#Game No : 14315021853
+***** Hand History for Game 14315021853 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:27:10 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.64 EUR )
+Seat 4: HMONGSAOLING ( €4.05 EUR )
+Seat 5: GOGOLITO ( €8.18 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.06 EUR from the main pot.
+Game #14315021615 starts.
+
+
+
+#Game No : 14315022216
+***** Hand History for Game 14315022216 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:27:32 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.64 EUR )
+Seat 4: HMONGSAOLING ( €4.03 EUR )
+Seat 5: GOGOLITO ( €8.20 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING calls [€0.04 EUR]
+GOGOLITO raises [€0.30 EUR]
+Morax7 folds
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.40 EUR from the main pot.
+Game #14315022329 starts.
+
+
+
+#Game No : 14315022893
+***** Hand History for Game 14315022893 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:27:44 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.60 EUR )
+Seat 4: HMONGSAOLING ( €3.99 EUR )
+Seat 5: GOGOLITO ( €8.28 EUR )
+Morax7 posts small blind [€0.02 EUR].
+HMONGSAOLING posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+Morax7 folds
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.38 EUR from the main pot.
+Game #14315020090 starts.
+
+
+
+#Game No : 14315023258
+***** Hand History for Game 14315023258 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:28:17 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.58 EUR )
+Seat 4: HMONGSAOLING ( €3.95 EUR )
+Seat 5: GOGOLITO ( €8.34 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+HMONGSAOLING calls [€0.02 EUR]
+GOGOLITO raises [€0.20 EUR]
+HMONGSAOLING calls [€0.20 EUR]
+** Dealing Flop ** [ 2h, Js, 4s ]
+HMONGSAOLING bets [€0.04 EUR]
+GOGOLITO raises [€0.57 EUR]
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €1.06 EUR from the main pot.
+Game #14315023001 starts.
+
+
+
+#Game No : 14315024751
+***** Hand History for Game 14315024751 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:28:53 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.58 EUR )
+Seat 4: HMONGSAOLING ( €3.67 EUR )
+Seat 5: GOGOLITO ( €8.59 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING calls [€0.04 EUR]
+GOGOLITO raises [€0.22 EUR]
+Morax7 folds
+HMONGSAOLING calls [€0.20 EUR]
+** Dealing Flop ** [ 3c, Js, 8c ]
+GOGOLITO checks
+HMONGSAOLING checks
+** Dealing Turn ** [ 2h ]
+GOGOLITO bets [€0.04 EUR]
+HMONGSAOLING calls [€0.04 EUR]
+** Dealing River ** [ Qc ]
+GOGOLITO bets [€0.04 EUR]
+HMONGSAOLING calls [€0.04 EUR]
+HMONGSAOLING doesn't show [ Kd, Ts ]
+GOGOLITO shows [ Qs, 9d ]
+GOGOLITO wins €0.64 EUR from the main pot.
+Game #14315024871 starts.
+
+
+
+#Game No : 14315025876
+***** Hand History for Game 14315025876 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:29:06 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.54 EUR )
+Seat 4: HMONGSAOLING ( €3.35 EUR )
+Seat 5: GOGOLITO ( €8.91 EUR )
+Morax7 posts small blind [€0.02 EUR].
+HMONGSAOLING posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.24 EUR]
+Morax7 folds
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.30 EUR from the main pot.
+Game #14315026306 starts.
+
+
+
+#Game No : 14315026306
+***** Hand History for Game 14315026306 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:29:17 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.52 EUR )
+Seat 4: HMONGSAOLING ( €3.31 EUR )
+Seat 5: GOGOLITO ( €8.97 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+HMONGSAOLING folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.06 EUR from the main pot.
+Game #14315026204 starts.
+
+
+
+#Game No : 14315026648
+***** Hand History for Game 14315026648 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:29:35 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.52 EUR )
+Seat 4: HMONGSAOLING ( €3.29 EUR )
+Seat 5: GOGOLITO ( €8.99 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING folds
+GOGOLITO raises [€0.30 EUR]
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ 7d, Td, Ah ]
+GOGOLITO checks
+Morax7 bets [€0.45 EUR]
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €1.05 EUR from the main pot.
+Game #14315027716 starts.
+
+
+
+#Game No : 14315027716
+***** Hand History for Game 14315027716 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:29:43 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.80 EUR )
+Seat 4: HMONGSAOLING ( €3.29 EUR )
+Seat 5: GOGOLITO ( €8.67 EUR )
+Morax7 posts small blind [€0.02 EUR].
+HMONGSAOLING posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO folds
+Morax7 folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins €0.06 EUR from the main pot.
+Game #14315026955 starts.
+
+
+
+#Game No : 14315027932
+***** Hand History for Game 14315027932 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:30:51 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €7.78 EUR )
+Seat 4: HMONGSAOLING ( €3.31 EUR )
+Seat 5: GOGOLITO ( €8.67 EUR )
+HMONGSAOLING posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+HMONGSAOLING raises [€0.06 EUR]
+GOGOLITO raises [€0.44 EUR]
+Morax7 calls [€0.44 EUR]
+HMONGSAOLING calls [€0.40 EUR]
+** Dealing Flop ** [ Qd, Td, 2s ]
+HMONGSAOLING checks
+GOGOLITO checks
+Morax7 checks
+** Dealing Turn ** [ Kh ]
+HMONGSAOLING bets [€0.12 EUR]
+GOGOLITO calls [€0.12 EUR]
+Morax7 raises [€0.91 EUR]
+HMONGSAOLING calls [€0.79 EUR]
+GOGOLITO calls [€0.79 EUR]
+** Dealing River ** [ 6h ]
+HMONGSAOLING checks
+GOGOLITO checks
+Morax7 bets [€2.92 EUR]
+HMONGSAOLING folds
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €6.82 EUR from the main pot.
+Game #14315029058 starts.
+
+
+
+#Game No : 14315054503
+***** Hand History for Game 14315054503 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:42:49 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 2: gringos33 ( €4 EUR )
+Seat 3: Morax7 ( €4.59 EUR )
+Seat 5: GOGOLITO ( €10.21 EUR )
+gringos33 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO folds
+gringos33 calls [€0.02 EUR]
+Morax7 checks
+** Dealing Flop ** [ Tc, 2c, 4d ]
+gringos33 bets [€0.06 EUR]
+Morax7 raises [€0.12 EUR]
+gringos33 raises [€0.12 EUR]
+Morax7 calls [€0.06 EUR]
+** Dealing Turn ** [ 9h ]
+gringos33 bets [€0.04 EUR]
+Morax7 calls [€0.04 EUR]
+** Dealing River ** [ 8h ]
+gringos33 bets [€0.49 EUR]
+Morax7 folds
+gringos33 does not show cards.
+gringos33 wins €0.98 EUR from the main pot.
+Game #14315055670 starts.
+
+
+
+#Game No : 14315056512
+***** Hand History for Game 14315056512 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:43:42 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 2 is the button
+Total number of players : 3/9
+Seat 2: gringos33 ( €4.23 EUR )
+Seat 3: Morax7 ( €4.33 EUR )
+Seat 5: GOGOLITO ( €10.21 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+gringos33 raises [€0.32 EUR]
+Morax7 calls [€0.30 EUR]
+GOGOLITO calls [€0.28 EUR]
+** Dealing Flop ** [ 8h, Kc, As ]
+Morax7 checks
+GOGOLITO checks
+gringos33 bets [€0.67 EUR]
+Morax7 folds
+GOGOLITO calls [€0.67 EUR]
+** Dealing Turn ** [ 5c ]
+GOGOLITO checks
+gringos33 bets [€1.61 EUR]
+GOGOLITO is all-In [€9.22 EUR]
+gringos33 is all-In [€1.63 EUR]
+** Dealing River ** [ 7d ]
+gringos33 shows [ Jc, Ad ]
+GOGOLITO shows [ 8s, 5s ]
+GOGOLITO wins €5.98 EUR from the side pot 1.
+GOGOLITO wins €8.20 EUR from the main pot.
+Game #14315057849 starts.
+
+
+
+#Game No : 14315035897
+***** Hand History for Game 14315035897 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:34:36 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 1: AnthoVR46 ( €7.81 EUR )
+Seat 3: Morax7 ( €5.97 EUR )
+Seat 5: GOGOLITO ( €6.85 EUR )
+AnthoVR46 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO calls [€0.04 EUR]
+AnthoVR46 calls [€0.02 EUR]
+Morax7 checks
+** Dealing Flop ** [ Kh, 4c, 2c ]
+AnthoVR46 checks
+Morax7 checks
+GOGOLITO bets [€0.04 EUR]
+AnthoVR46 folds
+Morax7 calls [€0.04 EUR]
+** Dealing Turn ** [ 2s ]
+Morax7 checks
+GOGOLITO bets [€0.14 EUR]
+Morax7 calls [€0.14 EUR]
+** Dealing River ** [ Ks ]
+Morax7 is all-In [€5.75 EUR]
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €6.20 EUR from the main pot.
+Game #14315039124 starts.
+
+
+
+#Game No : 14315039124
+***** Hand History for Game 14315039124 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:35:05 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 1 is the button
+Total number of players : 4/9
+Seat 1: AnthoVR46 ( €7.77 EUR )
+Seat 2: gringos33 ( €4 EUR )
+Seat 3: Morax7 ( €6.20 EUR )
+Seat 5: GOGOLITO ( €6.63 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+AnthoVR46 raises [€0.08 EUR]
+Morax7 folds
+GOGOLITO raises [€0.32 EUR]
+AnthoVR46 raises [€0.56 EUR]
+GOGOLITO calls [€0.28 EUR]
+** Dealing Flop ** [ 7h, Jd, 9h ]
+GOGOLITO checks
+AnthoVR46 checks
+** Dealing Turn ** [ 8h ]
+GOGOLITO checks
+AnthoVR46 bets [€1.22 EUR]
+GOGOLITO folds
+AnthoVR46 does not show cards.
+AnthoVR46 wins €2.44 EUR from the main pot.
+Game #14315036836 starts.
+
+
+
+#Game No : 14315064141
+***** Hand History for Game 14315064141 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:46:40 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €6.56 EUR )
+Seat 5: GOGOLITO ( €11.24 EUR )
+Seat 9: pierrot131399 ( €4 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+GOGOLITO raises [€0.22 EUR]
+pierrot131399 folds
+Morax7 calls [€0.20 EUR]
+** Dealing Flop ** [ Td, Jd, 6s ]
+GOGOLITO checks
+Morax7 bets [€0.36 EUR]
+GOGOLITO calls [€0.36 EUR]
+** Dealing Turn ** [ Jc ]
+GOGOLITO checks
+Morax7 checks
+** Dealing River ** [ Kh ]
+GOGOLITO checks
+Morax7 checks
+Morax7 doesn't show [ Qd, 2d ]
+GOGOLITO shows [ Ah, 6d ]
+GOGOLITO wins €1.16 EUR from the main pot.
+Game #14315064877 starts.
+
+
+
+#Game No : 14315064877
+***** Hand History for Game 14315064877 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:46:53 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.96 EUR )
+Seat 5: GOGOLITO ( €11.80 EUR )
+Seat 9: pierrot131399 ( €3.96 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.38 EUR from the main pot.
+Game #14315063883 starts.
+
+
+
+#Game No : 14315065244
+***** Hand History for Game 14315065244 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:47:05 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.92 EUR )
+Seat 5: GOGOLITO ( €11.86 EUR )
+Seat 9: pierrot131399 ( €3.94 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.06 EUR from the main pot.
+Game #14315064277 starts.
+
+
+
+#Game No : 14315065588
+***** Hand History for Game 14315065588 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:47:29 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.90 EUR )
+Seat 5: GOGOLITO ( €11.88 EUR )
+Seat 9: pierrot131399 ( €3.94 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+GOGOLITO raises [€0.30 EUR]
+pierrot131399 folds
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ 9d, 8d, 6c ]
+GOGOLITO checks
+Morax7 checks
+** Dealing Turn ** [ 6s ]
+GOGOLITO bets [€0.04 EUR]
+Morax7 calls [€0.04 EUR]
+** Dealing River ** [ Jc ]
+GOGOLITO bets [€0.04 EUR]
+Morax7 raises [€0.62 EUR]
+GOGOLITO calls [€0.58 EUR]
+Morax7 shows [ 3d, 5d ]
+GOGOLITO shows [ Qd, Js ]
+GOGOLITO wins €1.87 EUR from the main pot.
+Game #14315065532 starts.
+
+
+
+#Game No : 14315066263
+***** Hand History for Game 14315066263 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:47:39 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.92 EUR )
+Seat 5: GOGOLITO ( €12.77 EUR )
+Seat 9: pierrot131399 ( €3.90 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.38 EUR from the main pot.
+Game #14315066526 starts.
+
+
+
+#Game No : 14315066526
+***** Hand History for Game 14315066526 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:47:52 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.88 EUR )
+Seat 5: GOGOLITO ( €12.83 EUR )
+Seat 9: pierrot131399 ( €3.88 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.06 EUR from the main pot.
+Game #14315066321 starts.
+
+
+
+#Game No : 14315066900
+***** Hand History for Game 14315066900 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:48:03 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.86 EUR )
+Seat 5: GOGOLITO ( €12.85 EUR )
+Seat 9: pierrot131399 ( €3.88 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.30 EUR]
+pierrot131399 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.36 EUR from the main pot.
+Game #14315065816 starts.
+
+
+
+#Game No : 14315067227
+***** Hand History for Game 14315067227 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:48:21 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.86 EUR )
+Seat 5: GOGOLITO ( €12.89 EUR )
+Seat 9: pierrot131399 ( €3.84 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+pierrot131399 folds
+Morax7 raises [€0.56 EUR]
+GOGOLITO calls [€0.28 EUR]
+** Dealing Flop ** [ Tc, Th, Ad ]
+Morax7 bets [€0.57 EUR]
+GOGOLITO folds
+Morax7 does not show cards.
+Morax7 wins €1.71 EUR from the main pot.
+Game #14315067368 starts.
+
+
+
+#Game No : 14315068253
+***** Hand History for Game 14315068253 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:48:55 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.40 EUR )
+Seat 5: GOGOLITO ( €12.29 EUR )
+Seat 9: pierrot131399 ( €3.82 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 calls [€0.04 EUR]
+Morax7 calls [€0.02 EUR]
+GOGOLITO raises [€0.28 EUR]
+pierrot131399 calls [€0.28 EUR]
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ Ac, 8s, As ]
+Morax7 checks
+GOGOLITO checks
+pierrot131399 checks
+** Dealing Turn ** [ 2s ]
+Morax7 bets [€0.67 EUR]
+GOGOLITO folds
+pierrot131399 raises [€1.34 EUR]
+Morax7 calls [€0.67 EUR]
+** Dealing River ** [ 5c ]
+Morax7 checks
+pierrot131399 bets [€1.70 EUR]
+Morax7 calls [€1.70 EUR]
+Morax7 doesn't show [ Ad, Js ]
+pierrot131399 shows [ Ah, 8d ]
+pierrot131399 wins €6.58 EUR from the main pot.
+Game #14315069737 starts.
+
+
+
+#Game No : 14315069737
+***** Hand History for Game 14315069737 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:49:07 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €2.04 EUR )
+Seat 5: GOGOLITO ( €11.97 EUR )
+Seat 9: pierrot131399 ( €7.04 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.30 EUR]
+pierrot131399 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.36 EUR from the main pot.
+Game #14315070073 starts.
+
+
+
+#Game No : 14315070073
+***** Hand History for Game 14315070073 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:49:18 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €2.04 EUR )
+Seat 5: GOGOLITO ( €12.01 EUR )
+Seat 9: pierrot131399 ( €7 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.38 EUR from the main pot.
+Game #14315069455 starts.
+
+
+
+#Game No : 14315048160
+***** Hand History for Game 14315048160 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:39:34 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 1: AnthoVR46 ( €8.39 EUR )
+Seat 2: gringos33 ( €2.17 EUR )
+Seat 3: Morax7 ( €4.96 EUR )
+Seat 5: GOGOLITO ( €8.37 EUR )
+gringos33 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO calls [€0.04 EUR]
+gringos33 calls [€0.02 EUR]
+Morax7 checks
+** Dealing Flop ** [ 3c, Qc, Qs ]
+gringos33 bets [€0.04 EUR]
+Morax7 calls [€0.04 EUR]
+GOGOLITO calls [€0.04 EUR]
+** Dealing Turn ** [ 6s ]
+gringos33 bets [€0.17 EUR]
+Morax7 folds
+GOGOLITO folds
+gringos33 does not show cards.
+gringos33 wins €0.40 EUR from the main pot.
+Game #14315045447 starts.
+
+
+
+#Game No : 14315072951
+***** Hand History for Game 14315072951 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:51:11 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.36 EUR )
+Seat 5: GOGOLITO ( €8.55 EUR )
+Seat 9: pierrot131399 ( €6.64 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+GOGOLITO raises [€0.30 EUR]
+pierrot131399 folds
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ 8h, Qd, 9s ]
+GOGOLITO checks
+Morax7 checks
+** Dealing Turn ** [ Kh ]
+GOGOLITO checks
+Morax7 checks
+** Dealing River ** [ 3d ]
+GOGOLITO checks
+Morax7 checks
+Morax7 doesn't show [ Ts, 8s ]
+GOGOLITO shows [ 9c, 7c ]
+GOGOLITO wins €0.64 EUR from the main pot.
+Game #14315072397 starts.
+
+
+
+#Game No : 14315074129
+***** Hand History for Game 14315074129 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:51:33 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.04 EUR )
+Seat 5: GOGOLITO ( €8.87 EUR )
+Seat 9: pierrot131399 ( €6.60 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.32 EUR]
+pierrot131399 folds
+Morax7 calls [€0.28 EUR]
+** Dealing Flop ** [ 7c, Ac, 5h ]
+Morax7 checks
+GOGOLITO checks
+** Dealing Turn ** [ Ah ]
+Morax7 checks
+GOGOLITO checks
+** Dealing River ** [ 6s ]
+Morax7 checks
+GOGOLITO checks
+GOGOLITO doesn't show [ Qc, Kc ]
+Morax7 shows [ 2c, 2s ]
+Morax7 wins €0.62 EUR from the main pot.
+Game #14315074754 starts.
+
+
+
+#Game No : 14315074754
+***** Hand History for Game 14315074754 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:51:40 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 9 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.34 EUR )
+Seat 5: GOGOLITO ( €8.55 EUR )
+Seat 9: pierrot131399 ( €6.58 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+pierrot131399 folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.06 EUR from the main pot.
+Game #14315074971 starts.
+
+
+
+#Game No : 14315074971
+***** Hand History for Game 14315074971 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:51:58 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.32 EUR )
+Seat 5: GOGOLITO ( €8.57 EUR )
+Seat 9: pierrot131399 ( €6.58 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+pierrot131399 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+GOGOLITO folds
+pierrot131399 checks
+** Dealing Flop ** [ Kd, 8c, 6s ]
+pierrot131399 checks
+Morax7 bets [€0.04 EUR]
+pierrot131399 folds
+Morax7 does not show cards.
+Morax7 wins €0.14 EUR from the main pot.
+Game #14315074700 starts.
+
+
+
+#Game No : 14315075467
+***** Hand History for Game 14315075467 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 00:52:32 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €5.38 EUR )
+Seat 5: GOGOLITO ( €8.55 EUR )
+Seat 9: pierrot131399 ( €6.54 EUR )
+pierrot131399 posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO folds
+pierrot131399 calls [€0.02 EUR]
+Morax7 raises [€0.08 EUR]
+pierrot131399 calls [€0.08 EUR]
+** Dealing Flop ** [ 7s, Kh, 8s ]
+pierrot131399 checks
+Morax7 bets [€0.11 EUR]
+pierrot131399 calls [€0.11 EUR]
+** Dealing Turn ** [ 5c ]
+pierrot131399 checks
+Morax7 bets [€0.21 EUR]
+pierrot131399 calls [€0.21 EUR]
+** Dealing River ** [ 4c ]
+pierrot131399 checks
+Morax7 bets [€0.41 EUR]
+pierrot131399 calls [€0.41 EUR]
+pierrot131399 doesn't show [ Ah, 7d ]
+Morax7 shows [ Js, Kc ]
+Morax7 wins €1.59 EUR from the main pot.
+Game #14315076967 starts.
+
+
+
+#Game No : 14314891341
+***** Hand History for Game 14314891341 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:32:29 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.30 EUR )
+Seat 5: TOTOLIVIER ( €1.89 EUR )
+Seat 6: Your name ( €3.72 EUR )
+TOTOLIVIER posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+TOTOLIVIER calls [€0.02 EUR]
+Your name checks
+** Dealing Flop ** [ 8s, Kd, 7h ]
+TOTOLIVIER checks
+Your name checks
+** Dealing Turn ** [ Qs ]
+TOTOLIVIER checks
+Your name checks
+** Dealing River ** [ Ad ]
+TOTOLIVIER bets [€0.04 EUR]
+Your name folds
+TOTOLIVIER shows [ 9c, 4h ]
+TOTOLIVIER wins €0.12 EUR from the main pot.
+Game #14314893049 starts.
+
+
+
+#Game No : 14314893049
+***** Hand History for Game 14314893049 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:32:39 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.30 EUR )
+Seat 5: TOTOLIVIER ( €1.93 EUR )
+Seat 6: Your name ( €3.68 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+TOTOLIVIER folds
+Your name folds
+Morax7 does not show cards.
+Morax7 wins €0.06 EUR from the main pot.
+Game #14314891378 starts.
+
+
+
+#Game No : 14314893404
+***** Hand History for Game 14314893404 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:33:06 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.32 EUR )
+Seat 5: TOTOLIVIER ( €1.93 EUR )
+Seat 6: Your name ( €3.66 EUR )
+Morax7 posts small blind [€0.02 EUR].
+TOTOLIVIER posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+TOTOLIVIER calls [€0.08 EUR]
+** Dealing Flop ** [ 4s, As, Ah ]
+TOTOLIVIER checks
+Your name bets [€0.18 EUR]
+TOTOLIVIER folds
+Your name does not show cards.
+Your name wins €0.43 EUR from the main pot.
+Game #14314892633 starts.
+
+
+
+#Game No : 14314894380
+***** Hand History for Game 14314894380 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:33:33 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.30 EUR )
+Seat 5: TOTOLIVIER ( €1.81 EUR )
+Seat 6: Your name ( €3.79 EUR )
+TOTOLIVIER posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+TOTOLIVIER raises [€0.14 EUR]
+Your name folds
+TOTOLIVIER does not show cards.
+TOTOLIVIER wins €0.20 EUR from the main pot.
+Game #14314895025 starts.
+
+
+
+#Game No : 14314914567
+***** Hand History for Game 14314914567 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:41:38 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.61 EUR )
+Seat 5: TOTOLIVIER ( €1.23 EUR )
+Seat 6: Your name ( €4.80 EUR )
+Morax7 posts small blind [€0.02 EUR].
+TOTOLIVIER posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 calls [€0.10 EUR]
+TOTOLIVIER calls [€0.08 EUR]
+** Dealing Flop ** [ 6c, 4h, 4d ]
+Morax7 checks
+TOTOLIVIER checks
+Your name bets [€0.25 EUR]
+Morax7 folds
+TOTOLIVIER calls [€0.25 EUR]
+** Dealing Turn ** [ 8s ]
+TOTOLIVIER checks
+Your name checks
+** Dealing River ** [ 7h ]
+TOTOLIVIER is all-In [€0.86 EUR]
+Your name folds
+TOTOLIVIER does not show cards.
+TOTOLIVIER wins €1.67 EUR from the main pot.
+Game #14314915750 starts.
+
+
+
+#Game No : 14314916396
+***** Hand History for Game 14314916396 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:42:17 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 4/9
+Seat 3: Morax7 ( €3.49 EUR )
+Seat 4: MEYSON55554 ( €2.78 EUR )
+Seat 5: TOTOLIVIER ( €1.67 EUR )
+Seat 6: Your name ( €4.43 EUR )
+TOTOLIVIER posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+TOTOLIVIER raises [€0.14 EUR]
+Your name folds
+Morax7 calls [€0.12 EUR]
+** Dealing Flop ** [ 9c, 2h, 8s ]
+TOTOLIVIER bets [€0.17 EUR]
+Morax7 calls [€0.17 EUR]
+** Dealing Turn ** [ 7s ]
+TOTOLIVIER bets [€0.33 EUR]
+Morax7 folds
+TOTOLIVIER does not show cards.
+TOTOLIVIER wins €0.99 EUR from the main pot.
+Game #14314916930 starts.
+
+
+
+#Game No : 14314921842
+***** Hand History for Game 14314921842 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:44:01 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 4/9
+Seat 3: Morax7 ( €3.10 EUR )
+Seat 4: MEYSON55554 ( €2.90 EUR )
+Seat 5: TOTOLIVIER ( €0 EUR )
+Seat 6: Your name ( €6.06 EUR )
+MEYSON55554 posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+MEYSON55554 is all-In [€2.88 EUR]
+Your name folds
+Morax7 folds
+MEYSON55554 does not show cards.
+MEYSON55554 wins €2.98 EUR from the main pot.
+Game #14314922510 starts.
+
+
+
+#Game No : 14314922510
+***** Hand History for Game 14314922510 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:44:12 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.06 EUR )
+Seat 4: MEYSON55554 ( €2.98 EUR )
+Seat 6: Your name ( €6.02 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MEYSON55554 folds
+Your name folds
+Morax7 does not show cards.
+Morax7 wins €0.06 EUR from the main pot.
+Game #14314922382 starts.
+
+
+
+#Game No : 14314926724
+***** Hand History for Game 14314926724 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:45:59 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.13 EUR )
+Seat 4: MEYSON55554 ( €2.96 EUR )
+Seat 6: Your name ( €5.94 EUR )
+MEYSON55554 posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+MEYSON55554 is all-In [€2.94 EUR]
+Your name folds
+MEYSON55554 does not show cards.
+MEYSON55554 wins €3 EUR from the main pot.
+Game #14314924971 starts.
+
+
+
+#Game No : 14314927182
+***** Hand History for Game 14314927182 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:46:53 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 4 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.13 EUR )
+Seat 4: MEYSON55554 ( €3 EUR )
+Seat 6: Your name ( €5.90 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+MEYSON55554 folds
+Your name raises [€0.10 EUR]
+Morax7 calls [€0.08 EUR]
+** Dealing Flop ** [ 7h, Th, 3s ]
+Your name bets [€0.11 EUR]
+Morax7 calls [€0.11 EUR]
+** Dealing Turn ** [ Qh ]
+Your name checks
+Morax7 checks
+** Dealing River ** [ 6s ]
+Your name checks
+Morax7 bets [€0.32 EUR]
+Your name folds
+Morax7 does not show cards.
+Morax7 wins €0.75 EUR from the main pot.
+Game #14314929374 starts.
+
+
+
+#Game No : 14314930711
+***** Hand History for Game 14314930711 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:47:53 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.31 EUR )
+Seat 5: lemarseillais60 ( €4 EUR )
+Seat 6: Your name ( €5.69 EUR )
+Morax7 posts small blind [€0.02 EUR].
+lemarseillais60 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+lemarseillais60 calls [€0.08 EUR]
+** Dealing Flop ** [ Qs, 4c, Jd ]
+lemarseillais60 bets [€0.25 EUR]
+Your name raises [€0.75 EUR]
+lemarseillais60 folds
+Your name does not show cards.
+Your name wins €1.21 EUR from the main pot.
+Game #14314929902 starts.
+
+
+
+#Game No : 14314931680
+***** Hand History for Game 14314931680 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:48:11 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.29 EUR )
+Seat 5: lemarseillais60 ( €3.63 EUR )
+Seat 6: Your name ( €6.03 EUR )
+lemarseillais60 posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 calls [€0.04 EUR]
+lemarseillais60 is all-In [€3.61 EUR]
+Your name folds
+Morax7 folds
+lemarseillais60 does not show cards.
+lemarseillais60 wins €3.71 EUR from the main pot.
+Game #14314932698 starts.
+
+
+
+#Game No : 14314933298
+***** Hand History for Game 14314933298 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:49:08 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.25 EUR )
+Seat 5: lemarseillais60 ( €3.71 EUR )
+Seat 6: Your name ( €5.99 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+lemarseillais60 calls [€0.04 EUR]
+Your name folds
+Morax7 checks
+** Dealing Flop ** [ 4s, 7s, 2d ]
+Morax7 checks
+lemarseillais60 checks
+** Dealing Turn ** [ 9s ]
+Morax7 checks
+lemarseillais60 bets [€0.04 EUR]
+Morax7 calls [€0.04 EUR]
+** Dealing River ** [ Qh ]
+Morax7 checks
+lemarseillais60 bets [€0.04 EUR]
+Morax7 folds
+lemarseillais60 does not show cards.
+lemarseillais60 wins €0.21 EUR from the main pot.
+Game #14314931584 starts.
+
+
+
+#Game No : 14314935247
+***** Hand History for Game 14314935247 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:49:22 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.17 EUR )
+Seat 5: lemarseillais60 ( €3.80 EUR )
+Seat 6: Your name ( €5.97 EUR )
+Morax7 posts small blind [€0.02 EUR].
+lemarseillais60 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+lemarseillais60 folds
+Your name does not show cards.
+Your name wins €0.18 EUR from the main pot.
+Game #14314935380 starts.
+
+
+
+#Game No : 14314947778
+***** Hand History for Game 14314947778 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:55:12 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.06 EUR )
+Seat 5: GOGOLITO ( €3.82 EUR )
+Seat 6: Your name ( €7.04 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+GOGOLITO calls [€0.08 EUR]
+** Dealing Flop ** [ Kh, 5s, 8h ]
+GOGOLITO checks
+Your name checks
+** Dealing Turn ** [ 3h ]
+GOGOLITO bets [€0.04 EUR]
+Your name raises [€0.18 EUR]
+GOGOLITO calls [€0.14 EUR]
+** Dealing River ** [ Qc ]
+GOGOLITO checks
+Your name bets [€0.58 EUR]
+GOGOLITO calls [€0.58 EUR]
+Your name shows [ Ah, 8d ]
+GOGOLITO shows [ Kd, 6h ]
+GOGOLITO wins €1.67 EUR from the main pot.
+Game #14314948489 starts.
+
+
+
+#Game No : 14314950279
+***** Hand History for Game 14314950279 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:55:36 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.04 EUR )
+Seat 5: GOGOLITO ( €4.61 EUR )
+Seat 6: Your name ( €6.16 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.22 EUR]
+Your name folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.28 EUR from the main pot.
+Game #14314949591 starts.
+
+
+
+#Game No : 14314951007
+***** Hand History for Game 14314951007 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:55:52 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 5 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4.04 EUR )
+Seat 5: GOGOLITO ( €4.65 EUR )
+Seat 6: Your name ( €6.12 EUR )
+Your name posts small blind [€0.02 EUR].
+Morax7 posts big blind [€0.04 EUR].
+** Dealing down cards **
+GOGOLITO raises [€0.24 EUR]
+Your name folds
+Morax7 folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.30 EUR from the main pot.
+Game #14314951544 starts.
+
+
+
+#Game No : 14314951544
+***** Hand History for Game 14314951544 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:56:12 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €4 EUR )
+Seat 5: GOGOLITO ( €4.71 EUR )
+Seat 6: Your name ( €6.10 EUR )
+Morax7 posts small blind [€0.02 EUR].
+GOGOLITO posts big blind [€0.04 EUR].
+** Dealing down cards **
+Your name raises [€0.12 EUR]
+Morax7 folds
+GOGOLITO calls [€0.08 EUR]
+** Dealing Flop ** [ Kd, 8d, 5c ]
+GOGOLITO checks
+Your name bets [€0.18 EUR]
+GOGOLITO folds
+Your name does not show cards.
+Your name wins €0.43 EUR from the main pot.
+Game #14314952099 starts.
+
+
+
+#Game No : 14314952099
+***** Hand History for Game 14314952099 *****
+€4 EUR NL Texas Hold'em - Friday, January 02, 23:56:27 CEST 2015
+Table Boulogne-Billancourt (Real Money)
+Seat 3 is the button
+Total number of players : 3/9
+Seat 3: Morax7 ( €3.98 EUR )
+Seat 5: GOGOLITO ( €4.59 EUR )
+Seat 6: Your name ( €6.23 EUR )
+GOGOLITO posts small blind [€0.02 EUR].
+Your name posts big blind [€0.04 EUR].
+** Dealing down cards **
+Morax7 folds
+GOGOLITO raises [€0.30 EUR]
+Your name folds
+GOGOLITO does not show cards.
+GOGOLITO wins €0.36 EUR from the main pot.
+Game #14314951168 starts.
+
+
+
+#Game No : 14315202638
+***** Hand History for Game 14315202638 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:09:46 CEST 2015
+Table Vannes (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.86 EUR )
+Seat 6: HARIBOT13 ( €6.54 EUR )
+Seat 8: Merrydianne ( €15.76 EUR )
+Merrydianne posts small blind [€0.02 EUR].
+Jerzo59490 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+Merrydianne calls [€0.02 EUR]
+Jerzo59490 checks
+** Dealing Flop ** [ 2h, Th, 6h ]
+Merrydianne checks
+Jerzo59490 bets [€0.08 EUR]
+Merrydianne folds
+Jerzo59490 does not show cards.
+Jerzo59490 wins €0.16 EUR from the main pot.
+Game #14315203081 starts.
+
+
+
+#Game No : 14315204516
+***** Hand History for Game 14315204516 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:10:51 CEST 2015
+Table Vannes (Real Money)
+Seat 8 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.90 EUR )
+Seat 6: HARIBOT13 ( €6.54 EUR )
+Seat 8: Merrydianne ( €15.72 EUR )
+Jerzo59490 posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Merrydianne calls [€0.04 EUR]
+Jerzo59490 raises [€0.14 EUR]
+HARIBOT13 folds
+Merrydianne calls [€0.12 EUR]
+** Dealing Flop ** [ Qd, Ah, Kd ]
+Jerzo59490 bets [€0.25 EUR]
+Merrydianne folds
+Jerzo59490 does not show cards.
+Jerzo59490 wins €0.59 EUR from the main pot.
+Game #14315205732 starts.
+
+
+
+#Game No : 14315205732
+***** Hand History for Game 14315205732 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:11:16 CEST 2015
+Table Vannes (Real Money)
+Seat 1 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €2.08 EUR )
+Seat 6: HARIBOT13 ( €6.50 EUR )
+Seat 8: Merrydianne ( €15.56 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+Merrydianne posts big blind [€0.04 EUR].
+** Dealing down cards **
+Jerzo59490 calls [€0.04 EUR]
+HARIBOT13 raises [€0.14 EUR]
+Merrydianne folds
+Jerzo59490 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.24 EUR from the main pot.
+Game #14315205318 starts.
+
+
+
+#Game No : 14315206696
+***** Hand History for Game 14315206696 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:12:09 CEST 2015
+Table Vannes (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €2.04 EUR )
+Seat 6: HARIBOT13 ( €6.58 EUR )
+Seat 8: Merrydianne ( €15.52 EUR )
+Merrydianne posts small blind [€0.02 EUR].
+Jerzo59490 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 raises [€0.12 EUR]
+Merrydianne folds
+Jerzo59490 calls [€0.08 EUR]
+** Dealing Flop ** [ Jd, Kd, 5h ]
+Jerzo59490 checks
+HARIBOT13 bets [€0.25 EUR]
+Jerzo59490 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.50 EUR from the main pot.
+Game #14315206891 starts.
+
+
+
+#Game No : 14315207678
+***** Hand History for Game 14315207678 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:13:05 CEST 2015
+Table Vannes (Real Money)
+Seat 8 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.92 EUR )
+Seat 6: HARIBOT13 ( €6.71 EUR )
+Seat 8: Merrydianne ( €15.50 EUR )
+Jerzo59490 posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+Jerzo59490 raises [€0.06 EUR]
+HARIBOT13 calls [€0.04 EUR]
+** Dealing Flop ** [ 7h, 3s, 5c ]
+Jerzo59490 bets [€0.07 EUR]
+HARIBOT13 calls [€0.07 EUR]
+** Dealing Turn ** [ Js ]
+Jerzo59490 checks
+HARIBOT13 bets [€0.12 EUR]
+Jerzo59490 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.40 EUR from the main pot.
+Game #14315208450 starts.
+
+
+
+#Game No : 14315208692
+***** Hand History for Game 14315208692 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:13:33 CEST 2015
+Table Vannes (Real Money)
+Seat 1 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.77 EUR )
+Seat 6: HARIBOT13 ( €6.84 EUR )
+Seat 8: Merrydianne ( €15.50 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+Merrydianne posts big blind [€0.04 EUR].
+** Dealing down cards **
+Jerzo59490 folds
+HARIBOT13 raises [€0.10 EUR]
+Merrydianne folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.16 EUR from the main pot.
+Game #14315209195 starts.
+
+
+
+#Game No : 14315209195
+***** Hand History for Game 14315209195 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:14:15 CEST 2015
+Table Vannes (Real Money)
+Seat 6 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.77 EUR )
+Seat 6: HARIBOT13 ( €6.88 EUR )
+Seat 8: Merrydianne ( €15.46 EUR )
+Merrydianne posts small blind [€0.02 EUR].
+Jerzo59490 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+Merrydianne raises [€0.06 EUR]
+Jerzo59490 calls [€0.04 EUR]
+** Dealing Flop ** [ 9s, 4h, 2s ]
+Merrydianne checks
+Jerzo59490 bets [€0.19 EUR]
+Merrydianne folds
+Jerzo59490 does not show cards.
+Jerzo59490 wins €0.34 EUR from the main pot.
+Game #14315209047 starts.
+
+
+
+#Game No : 14315209945
+***** Hand History for Game 14315209945 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:14:48 CEST 2015
+Table Vannes (Real Money)
+Seat 8 is the button
+Total number of players : 3/9
+Seat 1: Jerzo59490 ( €1.84 EUR )
+Seat 6: HARIBOT13 ( €6.88 EUR )
+Seat 8: Merrydianne ( €15.38 EUR )
+Jerzo59490 posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+Jerzo59490 calls [€0.02 EUR]
+HARIBOT13 checks
+** Dealing Flop ** [ 3d, Kd, Kh ]
+Jerzo59490 bets [€0.10 EUR]
+HARIBOT13 folds
+Jerzo59490 does not show cards.
+Jerzo59490 wins €0.18 EUR from the main pot.
+Game #14315210061 starts.
+
+
+
+#Game No : 14315210997
+***** Hand History for Game 14315210997 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:15:39 CEST 2015
+Table Vannes (Real Money)
+Seat 1 is the button
+Total number of players : 4/9
+Seat 1: Jerzo59490 ( €1.88 EUR )
+Seat 5: lesangevins49 ( €2 EUR )
+Seat 6: HARIBOT13 ( €6.84 EUR )
+Seat 8: Merrydianne ( €15.38 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+Merrydianne posts big blind [€0.04 EUR].
+** Dealing down cards **
+Jerzo59490 calls [€0.04 EUR]
+HARIBOT13 calls [€0.02 EUR]
+Merrydianne checks
+** Dealing Flop ** [ Ad, Jh, 2h ]
+HARIBOT13 bets [€0.06 EUR]
+Merrydianne folds
+Jerzo59490 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.18 EUR from the main pot.
+Game #14315211977 starts.
+
+
+
+#Game No : 14315224404
+***** Hand History for Game 14315224404 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:25:25 CEST 2015
+Table Vannes (Real Money)
+Seat 1 is the button
+Total number of players : 4/9
+Seat 1: Jerzo59490 ( €2.29 EUR )
+Seat 5: lesangevins49 ( €2.85 EUR )
+Seat 6: HARIBOT13 ( €5.87 EUR )
+Seat 8: Merrydianne ( €14.91 EUR )
+lesangevins49 posts small blind [€0.02 EUR].
+HARIBOT13 posts big blind [€0.04 EUR].
+** Dealing down cards **
+Jerzo59490 folds
+lesangevins49 calls [€0.02 EUR]
+HARIBOT13 raises [€0.16 EUR]
+lesangevins49 folds
+HARIBOT13 does not show cards.
+HARIBOT13 wins €0.24 EUR from the main pot.
+Game #14315224636 starts.
+
+
+
+#Game No : 14315224753
+***** Hand History for Game 14315224753 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:26:14 CEST 2015
+Table Vannes (Real Money)
+Seat 5 is the button
+Total number of players : 4/9
+Seat 1: Jerzo59490 ( €2.29 EUR )
+Seat 5: lesangevins49 ( €2.81 EUR )
+Seat 6: HARIBOT13 ( €5.91 EUR )
+Seat 8: Merrydianne ( €14.91 EUR )
+HARIBOT13 posts small blind [€0.02 EUR].
+Jerzo59490 posts big blind [€0.04 EUR].
+** Dealing down cards **
+lesangevins49 folds
+HARIBOT13 calls [€0.02 EUR]
+Jerzo59490 checks
+** Dealing Flop ** [ 3h, 4s, 7h ]
+HARIBOT13 checks
+Jerzo59490 bets [€0.08 EUR]
+HARIBOT13 folds
+Jerzo59490 does not show cards.
+Jerzo59490 wins €0.16 EUR from the main pot.
+Game #14315225814 starts.
+
+
+
+#Game No : 14315226086
+***** Hand History for Game 14315226086 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:26:30 CEST 2015
+Table Vannes (Real Money)
+Seat 6 is the button
+Total number of players : 4/9
+Seat 1: Jerzo59490 ( €2.33 EUR )
+Seat 5: lesangevins49 ( €2.81 EUR )
+Seat 6: HARIBOT13 ( €5.87 EUR )
+Seat 8: Merrydianne ( €14.91 EUR )
+Jerzo59490 posts small blind [€0.02 EUR].
+lesangevins49 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+Jerzo59490 folds
+lesangevins49 does not show cards.
+lesangevins49 wins €0.06 EUR from the main pot.
+Game #14315226139 starts.
+
+
+
+#Game No : 14315212818
+***** Hand History for Game 14315212818 *****
+€4 EUR NL Texas Hold'em - Saturday, January 03, 02:16:25 CEST 2015
+Table Mont-de-Marsan (Real Money)
+Seat 4 is the button
+Total number of players : 4/9
+Seat 2: Merrydianne ( €20.45 EUR )
+Seat 4: HARIBOT13 ( €7.43 EUR )
+Seat 5: Larry Post ( €10.59 EUR )
+Seat 8: lusithanos70 ( €2.35 EUR )
+Larry Post posts small blind [€0.02 EUR].
+lusithanos70 posts big blind [€0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+Larry Post calls [€0.02 EUR]
+lusithanos70 checks
+** Dealing Flop ** [ 7c, 8c, 9d ]
+Larry Post checks
+lusithanos70 checks
+** Dealing Turn ** [ Qc ]
+Larry Post checks
+lusithanos70 checks
+** Dealing River ** [ Jd ]
+Larry Post checks
+lusithanos70 checks
+lusithanos70 doesn't show [ Ks, 5d ]
+Larry Post shows [ 8d, 8h ]
+Larry Post wins €0.08 EUR from the main pot.
+Game #14315212720 starts.
+
+
+

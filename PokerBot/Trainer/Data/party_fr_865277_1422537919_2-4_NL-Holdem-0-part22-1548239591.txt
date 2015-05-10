@@ -1,0 +1,5170 @@
+#Game No : 14367738196
+***** Hand History for Game 14367738196 *****
+Ä4 EUR NL Texas Hold'em - Wednesday, January 28, 23:36:12 CEST 2015
+Table Villiers-le-Bel (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: st4rk29 ( Ä2.10 EUR )
+Seat 2: PompoMessi ( Ä6.01 EUR )
+Seat 3: requin23 ( Ä2.88 EUR )
+Seat 4: noisetton ( Ä1.79 EUR )
+Seat 5: STALDERS ( Ä4.39 EUR )
+Seat 9: MARCY-J ( Ä0.74 EUR )
+requin23 posts small blind [Ä0.02 EUR].
+noisetton posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+STALDERS folds
+MARCY-J folds
+st4rk29 calls [Ä0.04 EUR]
+PompoMessi raises [Ä0.08 EUR]
+requin23 folds
+noisetton calls [Ä0.04 EUR]
+st4rk29 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Th, 2s, Jd ]
+noisetton checks
+st4rk29 checks
+PompoMessi checks
+** Dealing Turn ** [ 3d ]
+noisetton checks
+st4rk29 checks
+PompoMessi bets [Ä0.04 EUR]
+noisetton calls [Ä0.04 EUR]
+st4rk29 calls [Ä0.04 EUR]
+** Dealing River ** [ 6h ]
+noisetton checks
+st4rk29 checks
+PompoMessi checks
+PompoMessi doesn't show [ 3h, Ad ]
+noisetton shows [ Ac, Kd ]
+st4rk29 shows [ Td, As ]
+st4rk29 wins Ä0.36 EUR from the main pot.
+Game #14367739262 starts.
+
+
+
+#Game No : 14367741409
+***** Hand History for Game 14367741409 *****
+Ä4 EUR NL Texas Hold'em - Wednesday, January 28, 23:37:04 CEST 2015
+Table Villiers-le-Bel (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: st4rk29 ( Ä2.34 EUR )
+Seat 2: PompoMessi ( Ä5.89 EUR )
+Seat 3: requin23 ( Ä2.86 EUR )
+Seat 4: noisetton ( Ä1.67 EUR )
+Seat 5: STALDERS ( Ä4.39 EUR )
+Seat 9: MARCY-J ( Ä0.74 EUR )
+noisetton posts small blind [Ä0.02 EUR].
+STALDERS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+MARCY-J calls [Ä0.04 EUR]
+st4rk29 calls [Ä0.04 EUR]
+PompoMessi raises [Ä0.08 EUR]
+requin23 raises [Ä0.36 EUR]
+noisetton folds
+STALDERS folds
+MARCY-J folds
+st4rk29 folds
+PompoMessi calls [Ä0.28 EUR]
+** Dealing Flop ** [ Th, 5d, 2c ]
+PompoMessi checks
+requin23 bets [Ä0.81 EUR]
+PompoMessi folds
+requin23 does not show cards.
+requin23 wins Ä1.62 EUR from the main pot.
+Game #14367742900 starts.
+
+
+
+#Game No : 14367742956
+***** Hand History for Game 14367742956 *****
+Ä4 EUR NL Texas Hold'em - Wednesday, January 28, 23:38:16 CEST 2015
+Table Villiers-le-Bel (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: st4rk29 ( Ä2.30 EUR )
+Seat 2: PompoMessi ( Ä5.53 EUR )
+Seat 3: requin23 ( Ä3.31 EUR )
+Seat 4: noisetton ( Ä1.65 EUR )
+Seat 5: STALDERS ( Ä4.35 EUR )
+Seat 9: MARCY-J ( Ä0.70 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+MARCY-J posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+st4rk29 calls [Ä0.04 EUR]
+PompoMessi calls [Ä0.04 EUR]
+requin23 raises [Ä0.16 EUR]
+noisetton folds
+STALDERS folds
+MARCY-J folds
+st4rk29 calls [Ä0.12 EUR]
+PompoMessi folds
+** Dealing Flop ** [ 5h, 5s, Ks ]
+st4rk29 bets [Ä0.04 EUR]
+requin23 raises [Ä0.08 EUR]
+st4rk29 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Jh ]
+st4rk29 checks
+requin23 bets [Ä0.36 EUR]
+st4rk29 folds
+requin23 does not show cards.
+requin23 wins Ä0.91 EUR from the main pot.
+Game #14367742124 starts.
+
+
+
+#Game No : 14367745595
+***** Hand History for Game 14367745595 *****
+Ä4 EUR NL Texas Hold'em - Wednesday, January 28, 23:39:08 CEST 2015
+Table Villiers-le-Bel (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: st4rk29 ( Ä2.06 EUR )
+Seat 2: PompoMessi ( Ä5.49 EUR )
+Seat 3: requin23 ( Ä3.62 EUR )
+Seat 4: noisetton ( Ä1.65 EUR )
+Seat 5: STALDERS ( Ä4.33 EUR )
+Seat 9: MARCY-J ( Ä0.66 EUR )
+MARCY-J posts small blind [Ä0.02 EUR].
+st4rk29 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+PompoMessi raises [Ä0.08 EUR]
+requin23 folds
+noisetton folds
+STALDERS folds
+MARCY-J calls [Ä0.06 EUR]
+st4rk29 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ks, Kc, As ]
+MARCY-J checks
+st4rk29 checks
+PompoMessi checks
+** Dealing Turn ** [ Jc ]
+MARCY-J checks
+st4rk29 checks
+PompoMessi checks
+** Dealing River ** [ Kh ]
+MARCY-J checks
+st4rk29 checks
+PompoMessi folds
+MARCY-J shows [ Qd, 4s ]
+st4rk29 shows [ Jd, 7d ]
+st4rk29 wins Ä0.23 EUR from the main pot.
+Game #14367745348 starts.
+
+
+
+#Game No : 14368386662
+***** Hand History for Game 14368386662 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 13:54:09 CEST 2015
+Table Reims (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: Diabolo36 ( Ä2.10 EUR )
+Seat 2: fannynaim ( Ä4.40 EUR )
+Seat 3: sybeju62 ( Ä3.90 EUR )
+Seat 4: x_nonoz ( Ä2 EUR )
+Seat 5: DILDU50 ( Ä9.64 EUR )
+Seat 6: guguss ( Ä4 EUR )
+fannynaim posts small blind [Ä0.02 EUR].
+sybeju62 posts big blind [Ä0.04 EUR].
+guguss posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+x_nonoz calls [Ä0.04 EUR]
+DILDU50 folds
+guguss checks
+Diabolo36 calls [Ä0.04 EUR]
+fannynaim calls [Ä0.02 EUR]
+sybeju62 checks
+** Dealing Flop ** [ 2c, 9c, As ]
+fannynaim checks
+sybeju62 checks
+x_nonoz checks
+guguss checks
+Diabolo36 bets [Ä0.04 EUR]
+fannynaim folds
+sybeju62 folds
+x_nonoz calls [Ä0.04 EUR]
+guguss folds
+** Dealing Turn ** [ Qd ]
+x_nonoz checks
+Diabolo36 bets [Ä0.04 EUR]
+x_nonoz calls [Ä0.04 EUR]
+** Dealing River ** [ Ts ]
+x_nonoz checks
+Diabolo36 bets [Ä0.34 EUR]
+x_nonoz raises [Ä0.68 EUR]
+Diabolo36 folds
+x_nonoz does not show cards.
+x_nonoz wins Ä1.32 EUR from the main pot.
+Game #14368388185 starts.
+
+
+
+#Game No : 14368402344
+***** Hand History for Game 14368402344 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 14:07:49 CEST 2015
+Table Reims (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 1: Cristof93270 ( Ä3.50 EUR )
+Seat 2: fannynaim ( Ä7.84 EUR )
+Seat 3: sybeju62 ( Ä3.88 EUR )
+Seat 4: x_nonoz ( Ä2.56 EUR )
+Seat 5: DILDU50 ( Ä9.07 EUR )
+Seat 6: marco4272 ( Ä3.84 EUR )
+Seat 7: mederic37 ( Ä0 EUR )
+sybeju62 posts small blind [Ä0.02 EUR].
+x_nonoz posts big blind [Ä0.04 EUR].
+Cristof93270 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+DILDU50 folds
+marco4272 folds
+Cristof93270 checks
+fannynaim calls [Ä0.04 EUR]
+sybeju62 calls [Ä0.02 EUR]
+x_nonoz checks
+** Dealing Flop ** [ 6h, 2h, 6c ]
+sybeju62 checks
+x_nonoz checks
+Cristof93270 checks
+fannynaim checks
+** Dealing Turn ** [ Ad ]
+sybeju62 checks
+x_nonoz bets [Ä0.04 EUR]
+Cristof93270 folds
+fannynaim folds
+sybeju62 folds
+x_nonoz does not show cards.
+x_nonoz wins Ä0.19 EUR from the main pot.
+Game #14368403594 starts.
+
+
+
+#Game No : 14368697997
+***** Hand History for Game 14368697997 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 17:30:22 CEST 2015
+Table Reims (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 2: Benilalucemi ( Ä1.91 EUR )
+Seat 3: demolition62 ( Ä2.83 EUR )
+Seat 4: flotsbleus77 ( Ä4.10 EUR )
+Seat 5: DILDU50 ( Ä4.52 EUR )
+Seat 6: manon58 ( Ä4 EUR )
+Seat 9: phil2801 ( Ä4.42 EUR )
+Benilalucemi posts small blind [Ä0.02 EUR].
+demolition62 posts big blind [Ä0.04 EUR].
+manon58 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+flotsbleus77 calls [Ä0.04 EUR]
+DILDU50 folds
+manon58 checks
+phil2801 folds
+Benilalucemi calls [Ä0.02 EUR]
+demolition62 raises [Ä0.28 EUR]
+flotsbleus77 folds
+manon58 folds
+Benilalucemi calls [Ä0.28 EUR]
+** Dealing Flop ** [ 7h, Js, 4d ]
+Benilalucemi bets [Ä0.51 EUR]
+demolition62 raises [Ä2.21 EUR]
+Benilalucemi is all-In [Ä1.08 EUR]
+** Dealing Turn ** [ 8s ]
+** Dealing River ** [ 2s ]
+demolition62 shows [ Kd, Qd ]
+Benilalucemi shows [ 5h, Ad ]
+demolition62 wins Ä0.62 EUR from the side pot 1.
+Benilalucemi wins Ä3.64 EUR from the main pot.
+Game #14368697741 starts.
+
+
+
+#Game No : 14368698890
+***** Hand History for Game 14368698890 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 17:30:48 CEST 2015
+Table Reims (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: Benilalucemi ( Ä3.64 EUR )
+Seat 3: demolition62 ( Ä0.92 EUR )
+Seat 4: flotsbleus77 ( Ä4.06 EUR )
+Seat 5: DILDU50 ( Ä4.52 EUR )
+Seat 6: manon58 ( Ä3.96 EUR )
+Seat 9: phil2801 ( Ä4.42 EUR )
+demolition62 posts small blind [Ä0.02 EUR].
+flotsbleus77 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+DILDU50 folds
+manon58 calls [Ä0.04 EUR]
+phil2801 folds
+Benilalucemi calls [Ä0.04 EUR]
+demolition62 is all-In [Ä0.90 EUR]
+flotsbleus77 folds
+manon58 calls [Ä0.88 EUR]
+Benilalucemi folds
+** Dealing Flop ** [ 4d, Td, 2d ]
+** Dealing Turn ** [ Qs ]
+** Dealing River ** [ 3s ]
+demolition62 shows [ 5s, 9d ]
+manon58 shows [ 7h, 7s ]
+manon58 wins Ä1.80 EUR from the main pot.
+Game #14368699497 starts.
+
+
+
+#Game No : 14368748347
+***** Hand History for Game 14368748347 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 17:59:32 CEST 2015
+Table Reims (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: Lilstar57 ( Ä2.75 EUR )
+Seat 3: ggotzilla ( Ä2 EUR )
+Seat 4: starydji ( Ä3.82 EUR )
+Seat 5: ZEMZEM7 ( Ä3.76 EUR )
+Seat 6: raza20000 ( Ä6.11 EUR )
+Seat 7: steuf99 ( Ä11.31 EUR )
+Seat 8: zoozoo91 ( Ä3.28 EUR )
+Seat 9: papichat95 ( Ä2.64 EUR )
+steuf99 posts small blind [Ä0.02 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+papichat95 folds
+Lilstar57 raises [Ä0.16 EUR]
+ZEMZEM7 calls [Ä0.16 EUR]
+raza20000 calls [Ä0.16 EUR]
+steuf99 calls [Ä0.14 EUR]
+zoozoo91 folds
+** Dealing Flop ** [ 3h, 9s, 4c ]
+steuf99 checks
+Lilstar57 bets [Ä0.48 EUR]
+ZEMZEM7 folds
+raza20000 folds
+steuf99 folds
+Lilstar57 does not show cards.
+Lilstar57 wins Ä1.12 EUR from the main pot.
+Game #14368749870 starts.
+
+
+
+#Game No : 14369037337
+***** Hand History for Game 14369037337 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 20:14:32 CEST 2015
+Table Reims (Real Money)
+Seat 7 is the button
+Total number of players : 7/9
+Seat 1: Olive2x34 ( Ä6.08 EUR )
+Seat 2: ploiku53 ( Ä5.66 EUR )
+Seat 4: delpitcho ( Ä7.67 EUR )
+Seat 5: ggotzilla ( Ä4.58 EUR )
+Seat 6: plaisir40 ( Ä3.93 EUR )
+Seat 7: URAFISH ( Ä4 EUR )
+Seat 9: zlataneur66 ( Ä4.75 EUR )
+zlataneur66 posts small blind [Ä0.02 EUR].
+Olive2x34 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ploiku53 calls [Ä0.04 EUR]
+delpitcho raises [Ä0.16 EUR]
+plaisir40 folds
+URAFISH folds
+zlataneur66 folds
+Olive2x34 folds
+ploiku53 calls [Ä0.12 EUR]
+** Dealing Flop ** [ 5d, 3s, 9s ]
+ploiku53 checks
+delpitcho checks
+** Dealing Turn ** [ 4d ]
+ploiku53 bets [Ä0.36 EUR]
+delpitcho raises [Ä1.08 EUR]
+ploiku53 calls [Ä0.72 EUR]
+** Dealing River ** [ 6h ]
+ploiku53 checks
+delpitcho bets [Ä1.78 EUR]
+ploiku53 folds
+delpitcho does not show cards.
+delpitcho wins Ä4.16 EUR from the main pot.
+Game #14369040106 starts.
+
+
+
+#Game No : 14369107242
+***** Hand History for Game 14369107242 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 20:40:52 CEST 2015
+Table Reims (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: Olive2x34 ( Ä5.24 EUR )
+Seat 2: starydji ( Ä8.23 EUR )
+Seat 3: Jvann980 ( Ä8.41 EUR )
+Seat 5: ggotzilla ( Ä4.39 EUR )
+Seat 6: plaisir40 ( Ä3.26 EUR )
+Seat 7: URAFISH ( Ä5.23 EUR )
+Seat 9: loulou15100 ( Ä0 EUR )
+ggotzilla posts small blind [Ä0.02 EUR].
+plaisir40 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+URAFISH raises [Ä0.12 EUR]
+Olive2x34 calls [Ä0.12 EUR]
+starydji calls [Ä0.12 EUR]
+Jvann980 calls [Ä0.12 EUR]
+ggotzilla folds
+plaisir40 folds
+** Dealing Flop ** [ 3s, Jd, 3c ]
+URAFISH checks
+Olive2x34 checks
+starydji checks
+Jvann980 bets [Ä0.51 EUR]
+URAFISH folds
+Olive2x34 folds
+starydji folds
+Jvann980 does not show cards.
+Jvann980 wins Ä1.02 EUR from the main pot.
+Game #14369108129 starts.
+
+
+
+#Game No : 14368872056
+***** Hand History for Game 14368872056 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 19:02:43 CEST 2015
+Table Reims (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: Olive2x34 ( Ä4.44 EUR )
+Seat 2: Nad7477 ( Ä4 EUR )
+Seat 3: mouch40 ( Ä12.16 EUR )
+Seat 4: mimir62000 ( Ä3.16 EUR )
+Seat 5: zoozoo91 ( Ä2.10 EUR )
+Seat 6: raza20000 ( Ä4.65 EUR )
+Seat 7: loulou15100 ( Ä3.25 EUR )
+Seat 9: memed62 ( Ä1.96 EUR )
+Olive2x34 posts small blind [Ä0.02 EUR].
+Nad7477 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mimir62000 folds
+zoozoo91 calls [Ä0.04 EUR]
+raza20000 calls [Ä0.04 EUR]
+memed62 calls [Ä0.04 EUR]
+Olive2x34 folds
+Nad7477 checks
+** Dealing Flop ** [ 8h, As, 9h ]
+Nad7477 checks
+zoozoo91 checks
+raza20000 checks
+memed62 bets [Ä0.08 EUR]
+Nad7477 calls [Ä0.08 EUR]
+zoozoo91 folds
+raza20000 folds
+** Dealing Turn ** [ Td ]
+Nad7477 checks
+memed62 checks
+** Dealing River ** [ Kd ]
+Nad7477 bets [Ä0.04 EUR]
+memed62 calls [Ä0.04 EUR]
+Nad7477 shows [ Ac, 3h ]
+memed62 shows [ Ad, 4d ]
+Nad7477 wins Ä0.20 EUR from the main pot.
+memed62 wins Ä0.20 EUR from the main pot.
+Game #14368872232 starts.
+
+
+
+#Game No : 14368887170
+***** Hand History for Game 14368887170 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 19:09:53 CEST 2015
+Table Reims (Real Money)
+Seat 7 is the button
+Total number of players : 8/9
+Seat 1: Olive2x34 ( Ä4.23 EUR )
+Seat 2: Nad7477 ( Ä8.90 EUR )
+Seat 3: mouch40 ( Ä12.04 EUR )
+Seat 4: mimir62000 ( Ä3.16 EUR )
+Seat 6: raza20000 ( Ä0 EUR )
+Seat 7: URAFISH ( Ä4 EUR )
+Seat 8: branlette88 ( Ä3.54 EUR )
+Seat 9: memed62 ( Ä2 EUR )
+branlette88 posts small blind [Ä0.02 EUR].
+memed62 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Olive2x34 folds
+Nad7477 calls [Ä0.04 EUR]
+mouch40 folds
+URAFISH folds
+branlette88 calls [Ä0.02 EUR]
+memed62 raises [Ä0.04 EUR]
+Nad7477 calls [Ä0.04 EUR]
+branlette88 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 4s, 2h, 5c ]
+branlette88 checks
+memed62 bets [Ä0.11 EUR]
+Nad7477 calls [Ä0.11 EUR]
+branlette88 folds
+** Dealing Turn ** [ Ts ]
+memed62 checks
+Nad7477 checks
+** Dealing River ** [ Js ]
+memed62 checks
+Nad7477 checks
+Nad7477 doesn't show [ Qh, Ac ]
+memed62 shows [ Kc, Ad ]
+memed62 wins Ä0.43 EUR from the main pot.
+Game #14368889179 starts.
+
+
+
+#Game No : 14369591669
+***** Hand History for Game 14369591669 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 23:51:43 CEST 2015
+Table Reims (Real Money)
+Seat 1 is the button
+Total number of players : 8/9
+Seat 1: dieg14 ( Ä1.14 EUR )
+Seat 2: Godinmasta ( Ä3.99 EUR )
+Seat 3: max1369 ( Ä2.58 EUR )
+Seat 4: Thatcher67 ( Ä3.18 EUR )
+Seat 5: Teddyboy ( Ä0.26 EUR )
+Seat 6: ZARAK7629 ( Ä3.56 EUR )
+Seat 7: PGPITOU ( Ä10.19 EUR )
+Seat 8: Machotez84 ( Ä1.94 EUR )
+Godinmasta posts small blind [Ä0.02 EUR].
+Teddyboy posts big blind [Ä0.04 EUR].
+Machotez84 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ZARAK7629 folds
+PGPITOU calls [Ä0.04 EUR]
+Machotez84 checks
+dieg14 calls [Ä0.04 EUR]
+Godinmasta calls [Ä0.02 EUR]
+Teddyboy is all-In [Ä0.22 EUR]
+PGPITOU calls [Ä0.22 EUR]
+Machotez84 calls [Ä0.22 EUR]
+dieg14 folds
+Godinmasta folds
+** Dealing Flop ** [ 3h, 5h, 8d ]
+PGPITOU checks
+Machotez84 bets [Ä0.81 EUR]
+PGPITOU folds
+** Dealing Turn ** [ 3c ]
+** Dealing River ** [ As ]
+Machotez84 shows [ 7c, 8s ]
+Teddyboy shows [ Ad, 8c ]
+Machotez84 wins Ä0.81 EUR from the side pot 1.
+Teddyboy wins Ä0.81 EUR from the main pot.
+Game #14369592280 starts.
+
+
+
+#Game No : 14369593040
+***** Hand History for Game 14369593040 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 23:52:14 CEST 2015
+Table Reims (Real Money)
+Seat 2 is the button
+Total number of players : 8/9
+Seat 1: dieg14 ( Ä1.10 EUR )
+Seat 2: Godinmasta ( Ä3.95 EUR )
+Seat 3: max1369 ( Ä2.58 EUR )
+Seat 4: Thatcher67 ( Ä3.18 EUR )
+Seat 5: Teddyboy ( Ä0.81 EUR )
+Seat 6: ZARAK7629 ( Ä3.56 EUR )
+Seat 7: PGPITOU ( Ä9.93 EUR )
+Seat 8: Machotez84 ( Ä1.68 EUR )
+Teddyboy posts small blind [Ä0.02 EUR].
+ZARAK7629 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+PGPITOU folds
+Machotez84 calls [Ä0.04 EUR]
+dieg14 folds
+Godinmasta folds
+Teddyboy is all-In [Ä0.79 EUR]
+ZARAK7629 calls [Ä0.77 EUR]
+Machotez84 folds
+** Dealing Flop ** [ 2h, Ks, Tc ]
+** Dealing Turn ** [ 3d ]
+** Dealing River ** [ 3c ]
+Teddyboy shows [ Qs, 5s ]
+ZARAK7629 shows [ 2d, Qd ]
+ZARAK7629 wins Ä1.55 EUR from the main pot.
+Game #14369592432 starts.
+
+
+
+#Game No : 14369584588
+***** Hand History for Game 14369584588 *****
+Ä4 EUR NL Texas Hold'em - Thursday, January 29, 23:48:43 CEST 2015
+Table Reims (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: dieg14 ( Ä0.53 EUR )
+Seat 2: Godinmasta ( Ä4.11 EUR )
+Seat 3: max1369 ( Ä3.15 EUR )
+Seat 4: Thatcher67 ( Ä1.46 EUR )
+Seat 5: Teddyboy ( Ä4.36 EUR )
+Seat 7: PGPITOU ( Ä6.49 EUR )
+Thatcher67 posts small blind [Ä0.02 EUR].
+Teddyboy posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+PGPITOU calls [Ä0.04 EUR]
+dieg14 folds
+Godinmasta calls [Ä0.04 EUR]
+max1369 calls [Ä0.04 EUR]
+Thatcher67 calls [Ä0.02 EUR]
+Teddyboy raises [Ä0.28 EUR]
+PGPITOU calls [Ä0.28 EUR]
+Godinmasta folds
+max1369 folds
+Thatcher67 folds
+** Dealing Flop ** [ Tc, 9s, Ts ]
+Teddyboy bets [Ä0.71 EUR]
+PGPITOU calls [Ä0.71 EUR]
+** Dealing Turn ** [ 7h ]
+Teddyboy bets [Ä2.04 EUR]
+PGPITOU calls [Ä2.04 EUR]
+** Dealing River ** [ 4s ]
+Teddyboy is all-In [Ä1.29 EUR]
+PGPITOU calls [Ä1.29 EUR]
+Teddyboy shows [ As, Kc ]
+PGPITOU shows [ 7d, 9d ]
+PGPITOU wins Ä8.26 EUR from the main pot.
+Game #14369585746 starts.
+
+
+
+#Game No : 14369664207
+***** Hand History for Game 14369664207 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 00:32:00 CEST 2015
+Table Reims (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: bodon ( Ä7.28 EUR )
+Seat 2: omar932 ( Ä3.26 EUR )
+Seat 3: mougly59182 ( Ä1.75 EUR )
+Seat 4: INDIEN89 ( Ä4 EUR )
+Seat 5: AsCrime ( Ä4.86 EUR )
+Seat 6: ZARAK7629 ( Ä2.25 EUR )
+omar932 posts small blind [Ä0.02 EUR].
+mougly59182 posts big blind [Ä0.04 EUR].
+INDIEN89 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+INDIEN89 checks
+AsCrime folds
+ZARAK7629 folds
+bodon calls [Ä0.04 EUR]
+omar932 folds
+mougly59182 checks
+** Dealing Flop ** [ 9h, 5d, Jd ]
+mougly59182 checks
+INDIEN89 bets [Ä0.04 EUR]
+bodon calls [Ä0.04 EUR]
+mougly59182 folds
+** Dealing Turn ** [ 6s ]
+INDIEN89 checks
+bodon checks
+** Dealing River ** [ Ac ]
+INDIEN89 checks
+bodon bets [Ä0.21 EUR]
+INDIEN89 folds
+bodon does not show cards.
+bodon wins Ä0.42 EUR from the main pot.
+Game #14369664127 starts.
+
+
+
+#Game No : 14369673865
+***** Hand History for Game 14369673865 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 00:37:53 CEST 2015
+Table Reims (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: bodon ( Ä8.23 EUR )
+Seat 2: omar932 ( Ä3.20 EUR )
+Seat 3: mougly59182 ( Ä1.41 EUR )
+Seat 4: INDIEN89 ( Ä3.70 EUR )
+Seat 5: AsCrime ( Ä2.07 EUR )
+Seat 6: Joals ( Ä6 EUR )
+omar932 posts small blind [Ä0.02 EUR].
+mougly59182 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+INDIEN89 folds
+AsCrime folds
+Joals calls [Ä0.04 EUR]
+bodon calls [Ä0.04 EUR]
+omar932 calls [Ä0.02 EUR]
+mougly59182 checks
+** Dealing Flop ** [ 9s, Ks, 3c ]
+omar932 checks
+mougly59182 checks
+Joals checks
+bodon bets [Ä0.15 EUR]
+omar932 calls [Ä0.15 EUR]
+mougly59182 folds
+Joals calls [Ä0.15 EUR]
+** Dealing Turn ** [ Ts ]
+omar932 checks
+Joals checks
+bodon checks
+** Dealing River ** [ Jc ]
+omar932 bets [Ä0.83 EUR]
+Joals raises [Ä2.29 EUR]
+bodon folds
+omar932 calls [Ä1.46 EUR]
+Joals shows [ 9c, Qd ]
+omar932 shows [ 4s, 7s ]
+omar932 wins Ä4.85 EUR from the main pot.
+Game #14369675900 starts.
+
+
+
+#Game No : 14370218679
+***** Hand History for Game 14370218679 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 13:25:34 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 1: asse65 ( Ä10.64 EUR )
+Seat 2: Oughous ( Ä1.76 EUR )
+Seat 3: nounours15 ( Ä3.80 EUR )
+Seat 4: tachat14 ( Ä4.33 EUR )
+Seat 6: starydji ( Ä3.48 EUR )
+Seat 8: STALDERS ( Ä4 EUR )
+Seat 9: t_nor ( Ä5.34 EUR )
+t_nor posts small blind [Ä0.02 EUR].
+asse65 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Oughous folds
+nounours15 calls [Ä0.04 EUR]
+tachat14 raises [Ä0.16 EUR]
+starydji folds
+t_nor folds
+asse65 calls [Ä0.12 EUR]
+nounours15 calls [Ä0.12 EUR]
+** Dealing Flop ** [ Td, 3h, 7d ]
+asse65 checks
+nounours15 checks
+tachat14 bets [Ä0.23 EUR]
+asse65 folds
+nounours15 folds
+tachat14 does not show cards.
+tachat14 wins Ä0.70 EUR from the main pot.
+Game #14370219314 starts.
+
+
+
+#Game No : 14370220091
+***** Hand History for Game 14370220091 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 13:26:58 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: asse65 ( Ä10.48 EUR )
+Seat 2: Oughous ( Ä1.76 EUR )
+Seat 3: nounours15 ( Ä3.64 EUR )
+Seat 4: tachat14 ( Ä4.64 EUR )
+Seat 6: starydji ( Ä3.48 EUR )
+Seat 8: STALDERS ( Ä4 EUR )
+Seat 9: t_nor ( Ä5.32 EUR )
+Oughous posts small blind [Ä0.02 EUR].
+nounours15 posts big blind [Ä0.04 EUR].
+STALDERS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+tachat14 calls [Ä0.04 EUR]
+starydji calls [Ä0.04 EUR]
+STALDERS checks
+t_nor folds
+Oughous calls [Ä0.02 EUR]
+nounours15 checks
+** Dealing Flop ** [ Ks, 7s, Js ]
+Oughous bets [Ä0.04 EUR]
+nounours15 calls [Ä0.04 EUR]
+tachat14 folds
+starydji folds
+STALDERS folds
+** Dealing Turn ** [ 4s ]
+Oughous checks
+nounours15 checks
+** Dealing River ** [ 9h ]
+Oughous checks
+nounours15 checks
+Oughous shows [ 8c, Jh ]
+nounours15 shows [ Ac, 5s ]
+nounours15 wins Ä0.27 EUR from the main pot.
+Game #14370218900 starts.
+
+
+
+#Game No : 14370421468
+***** Hand History for Game 14370421468 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 15:48:46 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 1: zoozoo91 ( Ä0 EUR )
+Seat 2: seblagoutte1 ( Ä4.33 EUR )
+Seat 3: Letoile_noire ( Ä3.92 EUR )
+Seat 4: mazeltof22 ( Ä3.78 EUR )
+Seat 5: starydji ( Ä3.03 EUR )
+Seat 6: demimoore77 ( Ä6.26 EUR )
+Seat 8: coucoux76600 ( Ä3.33 EUR )
+Letoile_noire posts small blind [Ä0.02 EUR].
+mazeltof22 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+starydji calls [Ä0.04 EUR]
+demimoore77 calls [Ä0.04 EUR]
+coucoux76600 folds
+seblagoutte1 folds
+Letoile_noire folds
+mazeltof22 checks
+** Dealing Flop ** [ 9h, Qd, Kh ]
+mazeltof22 checks
+starydji checks
+demimoore77 checks
+** Dealing Turn ** [ 6h ]
+mazeltof22 bets [Ä0.07 EUR]
+starydji calls [Ä0.07 EUR]
+demimoore77 calls [Ä0.07 EUR]
+** Dealing River ** [ Qh ]
+mazeltof22 checks
+starydji checks
+demimoore77 bets [Ä0.12 EUR]
+mazeltof22 calls [Ä0.12 EUR]
+starydji folds
+mazeltof22 doesn't show [ 5d, Qs ]
+demimoore77 shows [ Ah, Ts ]
+demimoore77 wins Ä0.56 EUR from the main pot.
+Game #14370422952 starts.
+
+
+
+#Game No : 14370480688
+***** Hand History for Game 14370480688 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:24:40 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä3.22 EUR )
+Seat 3: Letoile_noire ( Ä4.47 EUR )
+Seat 4: mazeltof22 ( Ä2.57 EUR )
+Seat 5: starydji ( Ä3.74 EUR )
+Seat 8: coucoux76600 ( Ä8.54 EUR )
+Seat 9: raptor73100 ( Ä3.44 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+Letoile_noire posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mazeltof22 folds
+starydji folds
+coucoux76600 calls [Ä0.04 EUR]
+raptor73100 raises [Ä0.08 EUR]
+zoozoo91 calls [Ä0.06 EUR]
+Letoile_noire folds
+coucoux76600 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Tc, 3d, 4c ]
+zoozoo91 checks
+coucoux76600 checks
+raptor73100 bets [Ä0.04 EUR]
+zoozoo91 folds
+coucoux76600 folds
+raptor73100 does not show cards.
+raptor73100 wins Ä0.31 EUR from the main pot.
+Game #14370480544 starts.
+
+
+
+#Game No : 14370481792
+***** Hand History for Game 14370481792 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:25:31 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä3.14 EUR )
+Seat 3: Letoile_noire ( Ä4.43 EUR )
+Seat 4: mazeltof22 ( Ä2.57 EUR )
+Seat 5: starydji ( Ä3.74 EUR )
+Seat 8: coucoux76600 ( Ä8.46 EUR )
+Seat 9: raptor73100 ( Ä3.63 EUR )
+Letoile_noire posts small blind [Ä0.02 EUR].
+mazeltof22 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+starydji calls [Ä0.04 EUR]
+coucoux76600 calls [Ä0.04 EUR]
+raptor73100 raises [Ä0.08 EUR]
+zoozoo91 folds
+Letoile_noire folds
+mazeltof22 calls [Ä0.04 EUR]
+starydji calls [Ä0.04 EUR]
+coucoux76600 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 4h, Qc, 3d ]
+mazeltof22 checks
+starydji checks
+coucoux76600 bets [Ä0.32 EUR]
+raptor73100 folds
+mazeltof22 folds
+starydji folds
+coucoux76600 does not show cards.
+coucoux76600 wins Ä0.64 EUR from the main pot.
+Game #14370483012 starts.
+
+
+
+#Game No : 14370488199
+***** Hand History for Game 14370488199 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:28:48 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä3.25 EUR )
+Seat 2: louly13 ( Ä1.35 EUR )
+Seat 3: Letoile_noire ( Ä4.41 EUR )
+Seat 5: starydji ( Ä3.58 EUR )
+Seat 8: coucoux76600 ( Ä8.85 EUR )
+Seat 9: raptor73100 ( Ä3.39 EUR )
+raptor73100 posts small blind [Ä0.02 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+louly13 calls [Ä0.04 EUR]
+Letoile_noire folds
+starydji folds
+coucoux76600 folds
+raptor73100 calls [Ä0.02 EUR]
+zoozoo91 checks
+** Dealing Flop ** [ 6h, 4h, Qc ]
+raptor73100 checks
+zoozoo91 checks
+louly13 bets [Ä0.04 EUR]
+raptor73100 folds
+zoozoo91 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 6s ]
+zoozoo91 checks
+louly13 bets [Ä0.04 EUR]
+zoozoo91 folds
+louly13 does not show cards.
+louly13 wins Ä0.23 EUR from the main pot.
+Game #14370488692 starts.
+
+
+
+#Game No : 14370489264
+***** Hand History for Game 14370489264 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:30:17 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä3.17 EUR )
+Seat 2: louly13 ( Ä1.46 EUR )
+Seat 3: Letoile_noire ( Ä4.41 EUR )
+Seat 5: starydji ( Ä3.58 EUR )
+Seat 8: coucoux76600 ( Ä8.85 EUR )
+Seat 9: raptor73100 ( Ä3.35 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+louly13 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Letoile_noire folds
+starydji calls [Ä0.04 EUR]
+coucoux76600 calls [Ä0.04 EUR]
+raptor73100 calls [Ä0.04 EUR]
+zoozoo91 calls [Ä0.02 EUR]
+louly13 checks
+** Dealing Flop ** [ 8d, Qh, 7s ]
+zoozoo91 bets [Ä0.19 EUR]
+louly13 calls [Ä0.19 EUR]
+starydji calls [Ä0.19 EUR]
+coucoux76600 calls [Ä0.19 EUR]
+raptor73100 calls [Ä0.19 EUR]
+** Dealing Turn ** [ 9s ]
+zoozoo91 checks
+louly13 checks
+starydji checks
+coucoux76600 checks
+raptor73100 checks
+** Dealing River ** [ Ah ]
+zoozoo91 checks
+louly13 bets [Ä0.04 EUR]
+starydji folds
+coucoux76600 folds
+raptor73100 folds
+zoozoo91 calls [Ä0.04 EUR]
+louly13 shows [ Qd, Ts ]
+zoozoo91 shows [ Qs, Th ]
+zoozoo91 wins Ä0.58 EUR from the main pot.
+louly13 wins Ä0.57 EUR from the main pot.
+Game #14370491697 starts.
+
+
+
+#Game No : 14370484844
+***** Hand History for Game 14370484844 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:27:44 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 2: lllllllllllll41 ( Ä1.85 EUR )
+Seat 3: teose ( Ä4.86 EUR )
+Seat 4: chevaux ( Ä3.74 EUR )
+Seat 5: JACKYPOKER1 ( Ä3.35 EUR )
+Seat 7: pok62590 ( Ä1.96 EUR )
+Seat 8: marseillai0 ( Ä0 EUR )
+Seat 9: christo34pas ( Ä3.86 EUR )
+teose posts small blind [Ä0.02 EUR].
+chevaux posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+JACKYPOKER1 calls [Ä0.04 EUR]
+pok62590 calls [Ä0.04 EUR]
+christo34pas folds
+lllllllllllll41 calls [Ä0.04 EUR]
+teose calls [Ä0.02 EUR]
+chevaux checks
+** Dealing Flop ** [ 4c, Jh, Qc ]
+teose bets [Ä0.04 EUR]
+chevaux calls [Ä0.04 EUR]
+JACKYPOKER1 calls [Ä0.04 EUR]
+pok62590 calls [Ä0.04 EUR]
+lllllllllllll41 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 9d ]
+teose bets [Ä0.04 EUR]
+chevaux folds
+JACKYPOKER1 is all-In [Ä3.27 EUR]
+pok62590 folds
+lllllllllllll41 folds
+teose folds
+JACKYPOKER1 does not show cards.
+JACKYPOKER1 wins Ä3.68 EUR from the main pot.
+Game #14370487049 starts.
+
+
+
+#Game No : 14370487670
+***** Hand History for Game 14370487670 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:28:50 CEST 2015
+Table Wattrelos (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 2: lllllllllllll41 ( Ä1.77 EUR )
+Seat 3: teose ( Ä4.74 EUR )
+Seat 4: chevaux ( Ä3.66 EUR )
+Seat 5: JACKYPOKER1 ( Ä3.68 EUR )
+Seat 7: pok62590 ( Ä1.88 EUR )
+Seat 9: christo34pas ( Ä3.86 EUR )
+chevaux posts small blind [Ä0.02 EUR].
+JACKYPOKER1 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+pok62590 folds
+christo34pas calls [Ä0.04 EUR]
+lllllllllllll41 calls [Ä0.04 EUR]
+teose calls [Ä0.04 EUR]
+chevaux folds
+JACKYPOKER1 checks
+** Dealing Flop ** [ 4c, Tc, Td ]
+JACKYPOKER1 checks
+christo34pas checks
+lllllllllllll41 checks
+teose checks
+** Dealing Turn ** [ 7s ]
+JACKYPOKER1 checks
+christo34pas checks
+lllllllllllll41 checks
+teose checks
+** Dealing River ** [ 5h ]
+JACKYPOKER1 checks
+christo34pas checks
+lllllllllllll41 is all-In [Ä1.73 EUR]
+teose calls [Ä1.73 EUR]
+JACKYPOKER1 folds
+christo34pas folds
+lllllllllllll41 shows [ 6c, 3c ]
+teose shows [ 3h, 6h ]
+lllllllllllll41 wins Ä1.70 EUR from the main pot.
+teose wins Ä1.70 EUR from the main pot.
+Game #14370487914 starts.
+
+
+
+#Game No : 14370489267
+***** Hand History for Game 14370489267 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:29:48 CEST 2015
+Table Wattrelos (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 2: lllllllllllll41 ( Ä1.70 EUR )
+Seat 3: teose ( Ä4.67 EUR )
+Seat 4: chevaux ( Ä3.64 EUR )
+Seat 5: JACKYPOKER1 ( Ä3.64 EUR )
+Seat 7: pok62590 ( Ä1.88 EUR )
+Seat 9: christo34pas ( Ä3.82 EUR )
+JACKYPOKER1 posts small blind [Ä0.02 EUR].
+pok62590 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+christo34pas folds
+lllllllllllll41 calls [Ä0.04 EUR]
+teose calls [Ä0.04 EUR]
+chevaux calls [Ä0.04 EUR]
+JACKYPOKER1 raises [Ä0.06 EUR]
+pok62590 calls [Ä0.04 EUR]
+lllllllllllll41 folds
+teose calls [Ä0.04 EUR]
+chevaux calls [Ä0.04 EUR]
+** Dealing Flop ** [ 8s, 4h, 4d ]
+JACKYPOKER1 bets [Ä0.04 EUR]
+pok62590 calls [Ä0.04 EUR]
+teose calls [Ä0.04 EUR]
+chevaux folds
+** Dealing Turn ** [ Ts ]
+JACKYPOKER1 bets [Ä0.45 EUR]
+pok62590 calls [Ä0.45 EUR]
+teose calls [Ä0.45 EUR]
+** Dealing River ** [ 2h ]
+JACKYPOKER1 is all-In [Ä3.07 EUR]
+pok62590 folds
+teose calls [Ä3.07 EUR]
+JACKYPOKER1 shows [ 5h, Qs ]
+teose shows [ 9h, Td ]
+teose wins Ä7.44 EUR from the main pot.
+Game #14370489836 starts.
+
+
+
+#Game No : 14370549680
+***** Hand History for Game 14370549680 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:05:56 CEST 2015
+Table Wattrelos (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: dixbords6 ( Ä4.42 EUR )
+Seat 2: lllllllllllll41 ( Ä0 EUR )
+Seat 3: mk94bs ( Ä5.43 EUR )
+Seat 4: veuch78 ( Ä4.29 EUR )
+Seat 5: mikasmil13 ( Ä0 EUR )
+Seat 6: Olive2x34 ( Ä12.35 EUR )
+Seat 7: pok62590 ( Ä0.86 EUR )
+Seat 9: ggotzilla ( Ä1.47 EUR )
+pok62590 posts small blind [Ä0.02 EUR].
+ggotzilla posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+dixbords6 folds
+mk94bs calls [Ä0.04 EUR]
+veuch78 calls [Ä0.04 EUR]
+Olive2x34 folds
+pok62590 calls [Ä0.02 EUR]
+ggotzilla checks
+** Dealing Flop ** [ 9s, 7c, Kd ]
+pok62590 checks
+ggotzilla checks
+mk94bs checks
+veuch78 bets [Ä0.07 EUR]
+pok62590 calls [Ä0.07 EUR]
+ggotzilla folds
+mk94bs raises [Ä0.14 EUR]
+veuch78 folds
+pok62590 calls [Ä0.07 EUR]
+** Dealing Turn ** [ 8s ]
+pok62590 checks
+mk94bs checks
+** Dealing River ** [ 5d ]
+pok62590 checks
+mk94bs bets [Ä0.48 EUR]
+pok62590 folds
+mk94bs does not show cards.
+mk94bs wins Ä0.96 EUR from the main pot.
+Game #14370552116 starts.
+
+
+
+#Game No : 14370552902
+***** Hand History for Game 14370552902 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:06:35 CEST 2015
+Table Wattrelos (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: dixbords6 ( Ä4.42 EUR )
+Seat 3: mk94bs ( Ä5.73 EUR )
+Seat 4: veuch78 ( Ä4.18 EUR )
+Seat 6: Olive2x34 ( Ä12.35 EUR )
+Seat 7: pok62590 ( Ä0.68 EUR )
+Seat 9: ggotzilla ( Ä1.43 EUR )
+ggotzilla posts small blind [Ä0.02 EUR].
+dixbords6 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mk94bs folds
+veuch78 folds
+Olive2x34 folds
+pok62590 folds
+ggotzilla folds
+dixbords6 does not show cards.
+dixbords6 wins Ä0.06 EUR from the main pot.
+Game #14370551849 starts.
+
+
+
+#Game No : 14370553945
+***** Hand History for Game 14370553945 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:07:25 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: dixbords6 ( Ä4.44 EUR )
+Seat 3: mk94bs ( Ä5.73 EUR )
+Seat 4: veuch78 ( Ä4.18 EUR )
+Seat 6: Olive2x34 ( Ä12.35 EUR )
+Seat 7: pok62590 ( Ä0.68 EUR )
+Seat 9: ggotzilla ( Ä1.41 EUR )
+dixbords6 posts small blind [Ä0.02 EUR].
+mk94bs posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+veuch78 folds
+Olive2x34 folds
+pok62590 calls [Ä0.04 EUR]
+ggotzilla folds
+dixbords6 calls [Ä0.02 EUR]
+mk94bs checks
+** Dealing Flop ** [ Qh, 8c, 2s ]
+dixbords6 bets [Ä0.04 EUR]
+mk94bs folds
+pok62590 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Ac ]
+dixbords6 bets [Ä0.19 EUR]
+pok62590 calls [Ä0.19 EUR]
+** Dealing River ** [ 9s ]
+dixbords6 checks
+pok62590 checks
+dixbords6 shows [ 8s, 5s ]
+pok62590 shows [ Kd, Qd ]
+pok62590 wins Ä0.55 EUR from the main pot.
+Game #14370553109 starts.
+
+
+
+#Game No : 14370557921
+***** Hand History for Game 14370557921 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:10:09 CEST 2015
+Table Wattrelos (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: dixbords6 ( Ä4.17 EUR )
+Seat 3: mk94bs ( Ä5.32 EUR )
+Seat 4: veuch78 ( Ä4.51 EUR )
+Seat 6: Olive2x34 ( Ä12.35 EUR )
+Seat 7: pok62590 ( Ä0.96 EUR )
+Seat 9: ggotzilla ( Ä1.41 EUR )
+veuch78 posts small blind [Ä0.02 EUR].
+Olive2x34 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+pok62590 calls [Ä0.04 EUR]
+ggotzilla calls [Ä0.04 EUR]
+dixbords6 calls [Ä0.04 EUR]
+mk94bs folds
+veuch78 folds
+Olive2x34 checks
+** Dealing Flop ** [ 5c, 8h, 6s ]
+Olive2x34 checks
+pok62590 bets [Ä0.04 EUR]
+ggotzilla folds
+dixbords6 raises [Ä0.29 EUR]
+Olive2x34 folds
+pok62590 calls [Ä0.25 EUR]
+** Dealing Turn ** [ Ks ]
+pok62590 bets [Ä0.04 EUR]
+dixbords6 raises [Ä0.83 EUR]
+pok62590 is all-In [Ä0.59 EUR]
+** Dealing River ** [ 7h ]
+pok62590 doesn't show [ 7s, Ad ]
+dixbords6 shows [ 6c, Kd ]
+dixbords6 wins Ä0.20 EUR from the side pot 1.
+dixbords6 wins Ä1.89 EUR from the main pot.
+Game #14370560795 starts.
+
+
+
+#Game No : 14370614929
+***** Hand History for Game 14370614929 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:39:43 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 2: KJENVANG ( Ä3.06 EUR )
+Seat 3: mk94bs ( Ä6.59 EUR )
+Seat 4: veuch78 ( Ä5.91 EUR )
+Seat 5: yameco ( Ä4.54 EUR )
+Seat 6: Olive2x34 ( Ä12.66 EUR )
+Seat 7: starydji ( Ä4.28 EUR )
+Seat 9: ggotzilla ( Ä0.89 EUR )
+KJENVANG posts small blind [Ä0.02 EUR].
+veuch78 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yameco folds
+Olive2x34 folds
+starydji folds
+ggotzilla folds
+KJENVANG calls [Ä0.02 EUR]
+veuch78 checks
+** Dealing Flop ** [ Js, Kd, 5d ]
+KJENVANG checks
+veuch78 bets [Ä0.04 EUR]
+KJENVANG folds
+veuch78 does not show cards.
+veuch78 wins Ä0.12 EUR from the main pot.
+Game #14370615039 starts.
+
+
+
+#Game No : 14370617698
+***** Hand History for Game 14370617698 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:41:49 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 2: KJENVANG ( Ä3.02 EUR )
+Seat 3: mk94bs ( Ä6.59 EUR )
+Seat 4: veuch78 ( Ä5.95 EUR )
+Seat 5: yameco ( Ä4.54 EUR )
+Seat 6: Olive2x34 ( Ä12.66 EUR )
+Seat 7: starydji ( Ä4.28 EUR )
+Seat 9: ggotzilla ( Ä0.89 EUR )
+veuch78 posts small blind [Ä0.02 EUR].
+yameco posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Olive2x34 raises [Ä0.12 EUR]
+starydji folds
+ggotzilla folds
+KJENVANG folds
+veuch78 calls [Ä0.10 EUR]
+yameco folds
+** Dealing Flop ** [ 3d, 7c, 8h ]
+veuch78 bets [Ä0.13 EUR]
+Olive2x34 calls [Ä0.13 EUR]
+** Dealing Turn ** [ Ad ]
+veuch78 checks
+Olive2x34 bets [Ä0.34 EUR]
+veuch78 folds
+Olive2x34 does not show cards.
+Olive2x34 wins Ä0.85 EUR from the main pot.
+Game #14370621233 starts.
+
+
+
+#Game No : 14370624244
+***** Hand History for Game 14370624244 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:45:30 CEST 2015
+Table Wattrelos (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: zoozoo91 ( Ä1.40 EUR )
+Seat 2: KJENVANG ( Ä2.94 EUR )
+Seat 3: mk94bs ( Ä6.59 EUR )
+Seat 4: veuch78 ( Ä5.70 EUR )
+Seat 5: yameco ( Ä4.42 EUR )
+Seat 6: Olive2x34 ( Ä12.98 EUR )
+Seat 7: starydji ( Ä4.41 EUR )
+Seat 9: ggotzilla ( Ä0.85 EUR )
+starydji posts small blind [Ä0.02 EUR].
+ggotzilla posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+KJENVANG calls [Ä0.04 EUR]
+veuch78 folds
+yameco calls [Ä0.04 EUR]
+Olive2x34 folds
+starydji calls [Ä0.02 EUR]
+ggotzilla checks
+** Dealing Flop ** [ Ac, Qs, 2h ]
+starydji bets [Ä0.12 EUR]
+ggotzilla folds
+KJENVANG calls [Ä0.12 EUR]
+yameco folds
+** Dealing Turn ** [ 8s ]
+starydji bets [Ä0.20 EUR]
+KJENVANG calls [Ä0.20 EUR]
+** Dealing River ** [ 3s ]
+starydji bets [Ä0.20 EUR]
+KJENVANG raises [Ä0.67 EUR]
+starydji folds
+KJENVANG does not show cards.
+KJENVANG wins Ä1.59 EUR from the main pot.
+Game #14370626539 starts.
+
+
+
+#Game No : 14370721856
+***** Hand History for Game 14370721856 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:33:06 CEST 2015
+Table Wattrelos (Real Money)
+Seat 5 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.14 EUR )
+Seat 2: menche67 ( Ä1.92 EUR )
+Seat 3: toucoo13 ( Ä4.23 EUR )
+Seat 4: veuch78 ( Ä5.32 EUR )
+Seat 5: patlemook ( Ä1.67 EUR )
+Seat 6: Olive2x34 ( Ä12.92 EUR )
+Seat 7: Pat0678 ( Ä4.43 EUR )
+Seat 8: mynoe2006 ( Ä4.27 EUR )
+Pat0678 posts small blind [Ä0.02 EUR].
+mynoe2006 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+fishinthesee folds
+menche67 folds
+toucoo13 calls [Ä0.04 EUR]
+patlemook calls [Ä0.04 EUR]
+Pat0678 calls [Ä0.02 EUR]
+mynoe2006 checks
+** Dealing Flop ** [ 4h, 3d, 5h ]
+Pat0678 bets [Ä0.11 EUR]
+mynoe2006 calls [Ä0.11 EUR]
+toucoo13 folds
+patlemook raises [Ä0.22 EUR]
+Pat0678 calls [Ä0.11 EUR]
+mynoe2006 calls [Ä0.11 EUR]
+** Dealing Turn ** [ 9d ]
+Pat0678 checks
+mynoe2006 checks
+patlemook checks
+** Dealing River ** [ 7h ]
+Pat0678 checks
+mynoe2006 checks
+patlemook is all-In [Ä1.41 EUR]
+Pat0678 folds
+mynoe2006 folds
+patlemook does not show cards.
+patlemook wins Ä2.18 EUR from the main pot.
+Game #14370725825 starts.
+
+
+
+#Game No : 14370749996
+***** Hand History for Game 14370749996 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:45:46 CEST 2015
+Table Wattrelos (Real Money)
+Seat 5 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.28 EUR )
+Seat 2: menche67 ( Ä1.64 EUR )
+Seat 3: toucoo13 ( Ä3.95 EUR )
+Seat 4: veuch78 ( Ä4.88 EUR )
+Seat 5: patlemook ( Ä3.67 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä4.60 EUR )
+Seat 9: Maxi zen ( Ä2.58 EUR )
+mynoe2006 posts small blind [Ä0.02 EUR].
+Maxi zen posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+fishinthesee folds
+menche67 folds
+toucoo13 folds
+patlemook calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.02 EUR]
+Maxi zen checks
+** Dealing Flop ** [ 2h, Ac, Qc ]
+mynoe2006 checks
+Maxi zen checks
+patlemook checks
+** Dealing Turn ** [ 6c ]
+mynoe2006 checks
+Maxi zen checks
+patlemook checks
+** Dealing River ** [ 6d ]
+mynoe2006 bets [Ä0.06 EUR]
+Maxi zen calls [Ä0.06 EUR]
+patlemook folds
+mynoe2006 shows [ 4d, Ad ]
+Maxi zen shows [ 5h, 6s ]
+Maxi zen wins Ä0.23 EUR from the main pot.
+Game #14370751979 starts.
+
+
+
+#Game No : 14370755720
+***** Hand History for Game 14370755720 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:48:26 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.24 EUR )
+Seat 2: menche67 ( Ä1.64 EUR )
+Seat 4: veuch78 ( Ä4.82 EUR )
+Seat 5: patlemook ( Ä0 EUR )
+Seat 6: kobelco63 ( Ä3.92 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä7.84 EUR )
+Seat 9: Maxi zen ( Ä2.69 EUR )
+fishinthesee posts small blind [Ä0.02 EUR].
+menche67 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+veuch78 calls [Ä0.04 EUR]
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+Maxi zen folds
+fishinthesee calls [Ä0.02 EUR]
+menche67 checks
+** Dealing Flop ** [ 4s, 7s, Jc ]
+fishinthesee bets [Ä0.09 EUR]
+menche67 folds
+veuch78 folds
+kobelco63 folds
+mynoe2006 calls [Ä0.09 EUR]
+** Dealing Turn ** [ 6s ]
+fishinthesee checks
+mynoe2006 checks
+** Dealing River ** [ 6d ]
+fishinthesee checks
+mynoe2006 bets [Ä0.36 EUR]
+fishinthesee calls [Ä0.36 EUR]
+mynoe2006 shows [ 9d, 8c ]
+fishinthesee shows [ Jd, 8s ]
+fishinthesee wins Ä1.03 EUR from the main pot.
+Game #14370757021 starts.
+
+
+
+#Game No : 14370759038
+***** Hand History for Game 14370759038 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:49:14 CEST 2015
+Table Wattrelos (Real Money)
+Seat 1 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.78 EUR )
+Seat 2: menche67 ( Ä1.60 EUR )
+Seat 3: Chrisjacquot99 ( Ä2.07 EUR )
+Seat 4: veuch78 ( Ä4.78 EUR )
+Seat 6: kobelco63 ( Ä3.88 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä7.35 EUR )
+Seat 9: Maxi zen ( Ä2.69 EUR )
+menche67 posts small blind [Ä0.02 EUR].
+Chrisjacquot99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+veuch78 folds
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+fishinthesee folds
+menche67 folds
+Chrisjacquot99 checks
+** Dealing Flop ** [ Kh, Ad, 4h ]
+Chrisjacquot99 bets [Ä0.04 EUR]
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Jc ]
+Chrisjacquot99 bets [Ä0.04 EUR]
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+** Dealing River ** [ 8h ]
+Chrisjacquot99 bets [Ä0.04 EUR]
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+Chrisjacquot99 shows [ 4s, Th ]
+kobelco63 shows [ 5s, Ah ]
+mynoe2006 shows [ 7d, As ]
+kobelco63 wins Ä0.24 EUR from the main pot.
+mynoe2006 wins Ä0.23 EUR from the main pot.
+Game #14370760092 starts.
+
+
+
+#Game No : 14370760517
+***** Hand History for Game 14370760517 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:50:49 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.78 EUR )
+Seat 2: menche67 ( Ä1.58 EUR )
+Seat 3: Chrisjacquot99 ( Ä1.91 EUR )
+Seat 4: veuch78 ( Ä4.78 EUR )
+Seat 6: kobelco63 ( Ä3.96 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä7.42 EUR )
+Seat 9: Maxi zen ( Ä2.69 EUR )
+Chrisjacquot99 posts small blind [Ä0.02 EUR].
+veuch78 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+fishinthesee folds
+menche67 folds
+Chrisjacquot99 calls [Ä0.02 EUR]
+veuch78 checks
+** Dealing Flop ** [ 7h, Qs, Kd ]
+Chrisjacquot99 checks
+veuch78 checks
+kobelco63 checks
+mynoe2006 checks
+** Dealing Turn ** [ 9h ]
+Chrisjacquot99 bets [Ä0.04 EUR]
+veuch78 folds
+kobelco63 calls [Ä0.04 EUR]
+mynoe2006 folds
+** Dealing River ** [ 9c ]
+Chrisjacquot99 bets [Ä0.04 EUR]
+kobelco63 folds
+Chrisjacquot99 does not show cards.
+Chrisjacquot99 wins Ä0.27 EUR from the main pot.
+Game #14370763550 starts.
+
+
+
+#Game No : 14370768154
+***** Hand History for Game 14370768154 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:53:41 CEST 2015
+Table Wattrelos (Real Money)
+Seat 4 is the button
+Total number of players : 9/9
+Seat 1: fishinthesee ( Ä3.78 EUR )
+Seat 2: menche67 ( Ä1.58 EUR )
+Seat 3: Chrisjacquot99 ( Ä2.02 EUR )
+Seat 4: veuch78 ( Ä3.85 EUR )
+Seat 5: donMYB ( Ä4 EUR )
+Seat 6: kobelco63 ( Ä4.87 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä7.19 EUR )
+Seat 9: Maxi zen ( Ä2.69 EUR )
+kobelco63 posts small blind [Ä0.02 EUR].
+mynoe2006 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+fishinthesee folds
+menche67 folds
+Chrisjacquot99 calls [Ä0.04 EUR]
+veuch78 folds
+kobelco63 calls [Ä0.02 EUR]
+mynoe2006 checks
+** Dealing Flop ** [ Ah, Th, 3d ]
+kobelco63 checks
+mynoe2006 bets [Ä0.12 EUR]
+Chrisjacquot99 folds
+kobelco63 calls [Ä0.12 EUR]
+** Dealing Turn ** [ Qs ]
+kobelco63 checks
+mynoe2006 checks
+** Dealing River ** [ 3c ]
+kobelco63 bets [Ä0.34 EUR]
+mynoe2006 folds
+kobelco63 does not show cards.
+kobelco63 wins Ä0.68 EUR from the main pot.
+Game #14370769578 starts.
+
+
+
+#Game No : 14370678598
+***** Hand History for Game 14370678598 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:11:42 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä3.26 EUR )
+Seat 2: KJENVANG ( Ä4.54 EUR )
+Seat 3: raptor73100 ( Ä1.07 EUR )
+Seat 4: veuch78 ( Ä4.99 EUR )
+Seat 5: patlemook ( Ä2.88 EUR )
+Seat 6: Olive2x34 ( Ä12.92 EUR )
+Seat 8: mynoe2006 ( Ä4.56 EUR )
+Seat 9: ggotzilla ( Ä1.55 EUR )
+veuch78 posts small blind [Ä0.02 EUR].
+patlemook posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mynoe2006 folds
+ggotzilla calls [Ä0.04 EUR]
+fishinthesee folds
+KJENVANG calls [Ä0.04 EUR]
+veuch78 folds
+patlemook checks
+** Dealing Flop ** [ Jc, 4c, Ah ]
+patlemook checks
+ggotzilla checks
+KJENVANG checks
+** Dealing Turn ** [ 2d ]
+patlemook checks
+ggotzilla bets [Ä0.04 EUR]
+KJENVANG raises [Ä0.08 EUR]
+patlemook folds
+ggotzilla calls [Ä0.04 EUR]
+** Dealing River ** [ Tc ]
+ggotzilla checks
+KJENVANG bets [Ä0.14 EUR]
+ggotzilla folds
+KJENVANG does not show cards.
+KJENVANG wins Ä0.42 EUR from the main pot.
+Game #14370679642 starts.
+
+
+
+#Game No : 14370476098
+***** Hand History for Game 14370476098 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:21:57 CEST 2015
+Table Wattrelos (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: pom120 ( Ä9.17 EUR )
+Seat 2: lllllllllllll41 ( Ä3.74 EUR )
+Seat 4: chevaux ( Ä3.98 EUR )
+Seat 5: JACKYPOKER1 ( Ä2.50 EUR )
+Seat 8: marseillai0 ( Ä2.78 EUR )
+Seat 9: christo34pas ( Ä1.44 EUR )
+pom120 posts small blind [Ä0.02 EUR].
+lllllllllllll41 posts big blind [Ä0.04 EUR].
+JACKYPOKER1 posts big blind [Ä0.04 EUR].
+marseillai0 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+chevaux folds
+JACKYPOKER1 checks
+marseillai0 checks
+christo34pas calls [Ä0.04 EUR]
+pom120 calls [Ä0.02 EUR]
+lllllllllllll41 checks
+** Dealing Flop ** [ Kc, 9h, Qs ]
+pom120 checks
+lllllllllllll41 checks
+JACKYPOKER1 bets [Ä0.19 EUR]
+marseillai0 folds
+christo34pas folds
+pom120 folds
+lllllllllllll41 folds
+JACKYPOKER1 does not show cards.
+JACKYPOKER1 wins Ä0.38 EUR from the main pot.
+Game #14370477195 starts.
+
+
+
+#Game No : 14370478421
+***** Hand History for Game 14370478421 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:23:49 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: pom120 ( Ä8.76 EUR )
+Seat 2: lllllllllllll41 ( Ä3.68 EUR )
+Seat 4: chevaux ( Ä3.90 EUR )
+Seat 5: JACKYPOKER1 ( Ä3.14 EUR )
+Seat 8: marseillai0 ( Ä2.70 EUR )
+Seat 9: christo34pas ( Ä1.36 EUR )
+chevaux posts small blind [Ä0.02 EUR].
+JACKYPOKER1 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+marseillai0 folds
+christo34pas calls [Ä0.04 EUR]
+pom120 calls [Ä0.04 EUR]
+lllllllllllll41 calls [Ä0.04 EUR]
+chevaux calls [Ä0.02 EUR]
+JACKYPOKER1 checks
+** Dealing Flop ** [ 6h, 6c, 7h ]
+chevaux checks
+JACKYPOKER1 checks
+christo34pas checks
+pom120 checks
+lllllllllllll41 bets [Ä0.04 EUR]
+chevaux calls [Ä0.04 EUR]
+JACKYPOKER1 calls [Ä0.04 EUR]
+christo34pas calls [Ä0.04 EUR]
+pom120 folds
+** Dealing Turn ** [ 4h ]
+chevaux checks
+JACKYPOKER1 checks
+christo34pas checks
+lllllllllllll41 bets [Ä0.34 EUR]
+chevaux folds
+JACKYPOKER1 calls [Ä0.34 EUR]
+christo34pas calls [Ä0.34 EUR]
+** Dealing River ** [ 8s ]
+JACKYPOKER1 bets [Ä1.29 EUR]
+christo34pas is all-In [Ä0.94 EUR]
+lllllllllllll41 calls [Ä1.29 EUR]
+lllllllllllll41 doesn't show [ 7d, Jh ]
+JACKYPOKER1 shows [ 5s, Qs ]
+christo34pas shows [ Kh, Th ]
+JACKYPOKER1 wins Ä0.66 EUR from the side pot 1.
+christo34pas wins Ä3.92 EUR from the main pot.
+Game #14370480273 starts.
+
+
+
+#Game No : 14370801534
+***** Hand History for Game 14370801534 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 19:10:43 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: Pat0678 ( Ä4.76 EUR )
+Seat 2: Oborg99 ( Ä0.97 EUR )
+Seat 3: Nas1077 ( Ä7.75 EUR )
+Seat 4: donMYB ( Ä3.60 EUR )
+Seat 5: messik99 ( Ä1.92 EUR )
+Seat 6: corleone19 ( Ä7.51 EUR )
+Seat 8: mariette59 ( Ä3.34 EUR )
+Seat 9: KJENVANG ( Ä0 EUR )
+mariette59 posts small blind [Ä0.02 EUR].
+Oborg99 posts big blind [Ä0.04 EUR].
+messik99 posts small blind [Ä0.02 EUR].
+** Dealing down cards **
+Nas1077 calls [Ä0.04 EUR]
+donMYB folds
+messik99 folds
+corleone19 calls [Ä0.04 EUR]
+mariette59 calls [Ä0.02 EUR]
+Oborg99 checks
+** Dealing Flop ** [ 4c, Ks, Kd ]
+mariette59 checks
+Oborg99 checks
+Nas1077 checks
+corleone19 checks
+** Dealing Turn ** [ Jc ]
+mariette59 checks
+Oborg99 checks
+Nas1077 checks
+corleone19 bets [Ä0.08 EUR]
+mariette59 folds
+Oborg99 raises [Ä0.16 EUR]
+Nas1077 folds
+corleone19 calls [Ä0.08 EUR]
+** Dealing River ** [ 5d ]
+Oborg99 bets [Ä0.23 EUR]
+corleone19 folds
+Oborg99 does not show cards.
+Oborg99 wins Ä0.70 EUR from the main pot.
+Game #14370802897 starts.
+
+
+
+#Game No : 14370816060
+***** Hand History for Game 14370816060 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 19:18:28 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 9/9
+Seat 1: Pat0678 ( Ä4.76 EUR )
+Seat 2: Oborg99 ( Ä2.28 EUR )
+Seat 3: Nas1077 ( Ä7.34 EUR )
+Seat 4: donMYB ( Ä3.56 EUR )
+Seat 5: messik99 ( Ä1.90 EUR )
+Seat 6: corleone19 ( Ä7.51 EUR )
+Seat 7: karnag77 ( Ä3.81 EUR )
+Seat 8: mariette59 ( Ä2.51 EUR )
+Seat 9: KJENVANG ( Ä0 EUR )
+donMYB posts small blind [Ä0.02 EUR].
+messik99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+karnag77 folds
+mariette59 calls [Ä0.04 EUR]
+Oborg99 calls [Ä0.04 EUR]
+Nas1077 calls [Ä0.04 EUR]
+donMYB calls [Ä0.02 EUR]
+messik99 checks
+** Dealing Flop ** [ 8c, 4d, 6c ]
+donMYB checks
+messik99 checks
+mariette59 checks
+Oborg99 checks
+Nas1077 checks
+** Dealing Turn ** [ 4s ]
+donMYB checks
+messik99 checks
+mariette59 checks
+Oborg99 checks
+Nas1077 checks
+** Dealing River ** [ Qd ]
+donMYB checks
+messik99 checks
+mariette59 checks
+Oborg99 bets [Ä0.09 EUR]
+Nas1077 folds
+donMYB folds
+messik99 folds
+mariette59 folds
+Oborg99 does not show cards.
+Oborg99 wins Ä0.28 EUR from the main pot.
+Game #14370819397 starts.
+
+
+
+#Game No : 14370915941
+***** Hand History for Game 14370915941 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 20:05:34 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 8 is the button
+Total number of players : 8/9
+Seat 1: ggotzilla ( Ä0.96 EUR )
+Seat 2: raptor73100 ( Ä1.83 EUR )
+Seat 3: LEJACK999 ( Ä4.88 EUR )
+Seat 5: messik99 ( Ä1.66 EUR )
+Seat 6: LASVEGASLIVE ( Ä5.68 EUR )
+Seat 7: karnag77 ( Ä2.36 EUR )
+Seat 8: mariette59 ( Ä2.97 EUR )
+Seat 9: angelique24 ( Ä1.66 EUR )
+angelique24 posts small blind [Ä0.02 EUR].
+ggotzilla posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+LEJACK999 folds
+messik99 folds
+LASVEGASLIVE calls [Ä0.04 EUR]
+mariette59 folds
+angelique24 calls [Ä0.02 EUR]
+ggotzilla checks
+** Dealing Flop ** [ 9c, 4s, Jh ]
+angelique24 checks
+ggotzilla checks
+LASVEGASLIVE bets [Ä0.04 EUR]
+angelique24 calls [Ä0.04 EUR]
+ggotzilla folds
+** Dealing Turn ** [ 5c ]
+angelique24 checks
+LASVEGASLIVE bets [Ä0.04 EUR]
+angelique24 folds
+LASVEGASLIVE does not show cards.
+LASVEGASLIVE wins Ä0.23 EUR from the main pot.
+Game #14370916504 starts.
+
+
+
+#Game No : 14370918307
+***** Hand History for Game 14370918307 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 20:07:02 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: ggotzilla ( Ä0.92 EUR )
+Seat 2: raptor73100 ( Ä1.83 EUR )
+Seat 3: LEJACK999 ( Ä4.88 EUR )
+Seat 5: messik99 ( Ä1.66 EUR )
+Seat 6: LASVEGASLIVE ( Ä5.79 EUR )
+Seat 7: karnag77 ( Ä2.36 EUR )
+Seat 8: mariette59 ( Ä2.97 EUR )
+Seat 9: angelique24 ( Ä1.58 EUR )
+ggotzilla posts small blind [Ä0.02 EUR].
+LEJACK999 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+messik99 calls [Ä0.04 EUR]
+LASVEGASLIVE calls [Ä0.04 EUR]
+mariette59 calls [Ä0.04 EUR]
+angelique24 folds
+ggotzilla folds
+LEJACK999 checks
+** Dealing Flop ** [ 6s, Kh, 4c ]
+LEJACK999 checks
+messik99 bets [Ä0.17 EUR]
+LASVEGASLIVE calls [Ä0.17 EUR]
+mariette59 calls [Ä0.17 EUR]
+LEJACK999 folds
+** Dealing Turn ** [ Kd ]
+messik99 bets [Ä0.65 EUR]
+LASVEGASLIVE calls [Ä0.65 EUR]
+mariette59 folds
+** Dealing River ** [ 8s ]
+messik99 bets [Ä0.04 EUR]
+LASVEGASLIVE calls [Ä0.04 EUR]
+LASVEGASLIVE doesn't show [ 3s, 3h ]
+messik99 shows [ Ac, Ah ]
+messik99 wins Ä1.94 EUR from the main pot.
+Game #14370921314 starts.
+
+
+
+#Game No : 14370921704
+***** Hand History for Game 14370921704 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 20:08:24 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 1 is the button
+Total number of players : 8/9
+Seat 1: ggotzilla ( Ä0.90 EUR )
+Seat 2: raptor73100 ( Ä1.83 EUR )
+Seat 3: LEJACK999 ( Ä4.84 EUR )
+Seat 5: messik99 ( Ä2.70 EUR )
+Seat 6: LASVEGASLIVE ( Ä4.89 EUR )
+Seat 7: karnag77 ( Ä2.36 EUR )
+Seat 8: mariette59 ( Ä2.76 EUR )
+Seat 9: angelique24 ( Ä1.58 EUR )
+LEJACK999 posts small blind [Ä0.02 EUR].
+messik99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+LASVEGASLIVE calls [Ä0.04 EUR]
+mariette59 folds
+angelique24 calls [Ä0.04 EUR]
+ggotzilla folds
+LEJACK999 calls [Ä0.02 EUR]
+messik99 checks
+** Dealing Flop ** [ 5s, Qd, 3s ]
+LEJACK999 checks
+messik99 checks
+LASVEGASLIVE bets [Ä0.04 EUR]
+angelique24 calls [Ä0.04 EUR]
+LEJACK999 calls [Ä0.04 EUR]
+messik99 folds
+** Dealing Turn ** [ 9c ]
+LEJACK999 checks
+LASVEGASLIVE bets [Ä0.04 EUR]
+angelique24 calls [Ä0.04 EUR]
+LEJACK999 calls [Ä0.04 EUR]
+** Dealing River ** [ Ts ]
+LEJACK999 checks
+LASVEGASLIVE checks
+angelique24 checks
+LASVEGASLIVE doesn't show [ Kd, 7d ]
+LEJACK999 shows [ 5d, Jd ]
+angelique24 shows [ 8d, 8s ]
+angelique24 wins Ä0.38 EUR from the main pot.
+Game #14370923300 starts.
+
+
+
+#Game No : 14370947716
+***** Hand History for Game 14370947716 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 20:19:21 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 4 is the button
+Total number of players : 8/9
+Seat 1: ggotzilla ( Ä0.68 EUR )
+Seat 2: raptor73100 ( Ä1.77 EUR )
+Seat 3: LEJACK999 ( Ä0.89 EUR )
+Seat 4: alger_roi ( Ä4.19 EUR )
+Seat 5: theloeil ( Ä13.18 EUR )
+Seat 7: gentil92 ( Ä3.60 EUR )
+Seat 8: nick54 ( Ä4 EUR )
+Seat 9: angelique24 ( Ä2.02 EUR )
+theloeil posts small blind [Ä0.02 EUR].
+gentil92 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+angelique24 calls [Ä0.04 EUR]
+ggotzilla folds
+LEJACK999 folds
+alger_roi raises [Ä0.32 EUR]
+theloeil folds
+gentil92 calls [Ä0.28 EUR]
+angelique24 calls [Ä0.28 EUR]
+** Dealing Flop ** [ 8h, 7c, Qs ]
+gentil92 checks
+angelique24 checks
+alger_roi bets [Ä0.92 EUR]
+gentil92 calls [Ä0.92 EUR]
+angelique24 folds
+** Dealing Turn ** [ 5c ]
+gentil92 checks
+alger_roi bets [Ä2.64 EUR]
+gentil92 folds
+alger_roi does not show cards.
+alger_roi wins Ä5.28 EUR from the main pot.
+Game #14370949257 starts.
+
+
+
+#Game No : 14370781561
+***** Hand History for Game 14370781561 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 19:00:10 CEST 2015
+Table Wattrelos (Real Money)
+Seat 3 is the button
+Total number of players : 9/9
+Seat 1: fishinthesee ( Ä4.85 EUR )
+Seat 2: menche67 ( Ä1.52 EUR )
+Seat 3: Chrisjacquot99 ( Ä1.74 EUR )
+Seat 4: veuch78 ( Ä4.07 EUR )
+Seat 5: donMYB ( Ä4 EUR )
+Seat 6: kobelco63 ( Ä5.56 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä6.87 EUR )
+Seat 9: Maxi zen ( Ä1.07 EUR )
+kobelco63 posts small blind [Ä0.02 EUR].
+mynoe2006 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Maxi zen folds
+fishinthesee folds
+menche67 folds
+Chrisjacquot99 calls [Ä0.04 EUR]
+kobelco63 raises [Ä0.14 EUR]
+mynoe2006 folds
+Chrisjacquot99 folds
+kobelco63 does not show cards.
+kobelco63 wins Ä0.24 EUR from the main pot.
+Game #14370782295 starts.
+
+
+
+#Game No : 14370793352
+***** Hand History for Game 14370793352 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 19:07:04 CEST 2015
+Table Wattrelos (Real Money)
+Seat 2 is the button
+Total number of players : 8/9
+Seat 1: fishinthesee ( Ä4.73 EUR )
+Seat 2: menche67 ( Ä1.91 EUR )
+Seat 3: Chrisjacquot99 ( Ä2.72 EUR )
+Seat 4: veuch78 ( Ä4.03 EUR )
+Seat 5: donMYB ( Ä4 EUR )
+Seat 6: kobelco63 ( Ä4.44 EUR )
+Seat 7: Pat0678 ( Ä4.13 EUR )
+Seat 8: mynoe2006 ( Ä6.61 EUR )
+Chrisjacquot99 posts small blind [Ä0.02 EUR].
+veuch78 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+kobelco63 raises [Ä0.08 EUR]
+mynoe2006 folds
+fishinthesee calls [Ä0.08 EUR]
+menche67 folds
+Chrisjacquot99 calls [Ä0.06 EUR]
+veuch78 folds
+** Dealing Flop ** [ 6c, 8c, 4h ]
+Chrisjacquot99 checks
+kobelco63 checks
+fishinthesee bets [Ä0.20 EUR]
+Chrisjacquot99 folds
+kobelco63 calls [Ä0.20 EUR]
+** Dealing Turn ** [ Kd ]
+kobelco63 checks
+fishinthesee checks
+** Dealing River ** [ Js ]
+kobelco63 checks
+fishinthesee checks
+kobelco63 shows [ 5d, Ac ]
+fishinthesee shows [ 8d, Td ]
+fishinthesee wins Ä0.64 EUR from the main pot.
+Game #14370796662 starts.
+
+
+
+#Game No : 14370502123
+***** Hand History for Game 14370502123 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:36:59 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 8/9
+Seat 1: zoozoo91 ( Ä3.53 EUR )
+Seat 3: Letoile_noire ( Ä4.15 EUR )
+Seat 4: lideur57 ( Ä3.80 EUR )
+Seat 5: starydji ( Ä4 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.92 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.08 EUR )
+xxstaxx posts small blind [Ä0.02 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Letoile_noire folds
+lideur57 folds
+starydji folds
+Olive2x34 folds
+xxstaxx folds
+zoozoo91 does not show cards.
+zoozoo91 wins Ä0.06 EUR from the main pot.
+Game #14370502997 starts.
+
+
+
+#Game No : 14370503055
+***** Hand History for Game 14370503055 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:38:00 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 7 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.55 EUR )
+Seat 2: ggotzilla ( Ä2 EUR )
+Seat 3: Letoile_noire ( Ä4.15 EUR )
+Seat 4: lideur57 ( Ä3.80 EUR )
+Seat 5: starydji ( Ä4 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.90 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.08 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+ggotzilla posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Letoile_noire folds
+lideur57 calls [Ä0.04 EUR]
+starydji folds
+xxstaxx folds
+zoozoo91 raises [Ä0.14 EUR]
+ggotzilla folds
+lideur57 calls [Ä0.12 EUR]
+** Dealing Flop ** [ As, 5h, 3s ]
+zoozoo91 bets [Ä0.34 EUR]
+lideur57 folds
+zoozoo91 does not show cards.
+zoozoo91 wins Ä0.68 EUR from the main pot.
+Game #14370504122 starts.
+
+
+
+#Game No : 14370504526
+***** Hand History for Game 14370504526 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:39:03 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 1 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.73 EUR )
+Seat 2: ggotzilla ( Ä1.96 EUR )
+Seat 3: Letoile_noire ( Ä4.15 EUR )
+Seat 4: lideur57 ( Ä3.64 EUR )
+Seat 5: starydji ( Ä4 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.90 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.08 EUR )
+ggotzilla posts small blind [Ä0.02 EUR].
+Letoile_noire posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+lideur57 raises [Ä0.08 EUR]
+starydji folds
+xxstaxx folds
+zoozoo91 calls [Ä0.08 EUR]
+ggotzilla folds
+Letoile_noire folds
+** Dealing Flop ** [ 8h, 6d, 9h ]
+lideur57 bets [Ä0.21 EUR]
+** Dealing Turn ** [ 4d ]
+** Dealing River ** [ 4s ]
+zoozoo91 doesn't show [ Kd, Qs ]
+lideur57 shows [ Jc, Jd ]
+lideur57 wins Ä0.21 EUR from the side pot 1.
+lideur57 wins Ä0.21 EUR from the main pot.
+Game #14370506119 starts.
+
+
+
+#Game No : 14370513403
+***** Hand History for Game 14370513403 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:43:25 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: zoozoo91 ( Ä3.45 EUR )
+Seat 2: ggotzilla ( Ä1.94 EUR )
+Seat 3: Letoile_noire ( Ä4.07 EUR )
+Seat 5: starydji ( Ä4.17 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.84 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.19 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+ggotzilla posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Letoile_noire calls [Ä0.04 EUR]
+starydji folds
+xxstaxx folds
+raptor73100 folds
+zoozoo91 folds
+ggotzilla checks
+** Dealing Flop ** [ 7s, 4s, 9s ]
+ggotzilla checks
+Letoile_noire checks
+** Dealing Turn ** [ 3h ]
+ggotzilla checks
+Letoile_noire checks
+** Dealing River ** [ 9h ]
+ggotzilla checks
+Letoile_noire bets [Ä0.04 EUR]
+ggotzilla folds
+Letoile_noire does not show cards.
+Letoile_noire wins Ä0.14 EUR from the main pot.
+Game #14370512102 starts.
+
+
+
+#Game No : 14370514265
+***** Hand History for Game 14370514265 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:43:59 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 1 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.43 EUR )
+Seat 2: ggotzilla ( Ä1.90 EUR )
+Seat 3: Letoile_noire ( Ä4.13 EUR )
+Seat 4: seblagoutte1 ( Ä4.31 EUR )
+Seat 5: starydji ( Ä4.17 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.84 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.19 EUR )
+ggotzilla posts small blind [Ä0.02 EUR].
+Letoile_noire posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+starydji folds
+xxstaxx folds
+raptor73100 calls [Ä0.04 EUR]
+zoozoo91 folds
+ggotzilla folds
+Letoile_noire checks
+** Dealing Flop ** [ 2s, 7c, Qh ]
+Letoile_noire checks
+raptor73100 bets [Ä0.04 EUR]
+Letoile_noire folds
+raptor73100 does not show cards.
+raptor73100 wins Ä0.14 EUR from the main pot.
+Game #14370514282 starts.
+
+
+
+#Game No : 14370534744
+***** Hand History for Game 14370534744 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:56:18 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 2 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.13 EUR )
+Seat 2: ggotzilla ( Ä1.28 EUR )
+Seat 3: Letoile_noire ( Ä4.21 EUR )
+Seat 4: seblagoutte1 ( Ä4.37 EUR )
+Seat 5: starydji ( Ä4.13 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.51 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.69 EUR )
+Letoile_noire posts small blind [Ä0.02 EUR].
+seblagoutte1 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+xxstaxx calls [Ä0.04 EUR]
+raptor73100 calls [Ä0.04 EUR]
+zoozoo91 calls [Ä0.04 EUR]
+ggotzilla folds
+Letoile_noire calls [Ä0.02 EUR]
+seblagoutte1 checks
+** Dealing Flop ** [ 7h, Qc, 4d ]
+Letoile_noire checks
+seblagoutte1 checks
+xxstaxx checks
+raptor73100 checks
+zoozoo91 bets [Ä0.09 EUR]
+Letoile_noire calls [Ä0.09 EUR]
+seblagoutte1 folds
+xxstaxx folds
+raptor73100 folds
+** Dealing Turn ** [ 9s ]
+Letoile_noire checks
+zoozoo91 bets [Ä0.18 EUR]
+Letoile_noire folds
+zoozoo91 does not show cards.
+zoozoo91 wins Ä0.54 EUR from the main pot.
+Game #14370535366 starts.
+
+
+
+#Game No : 14370536577
+***** Hand History for Game 14370536577 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:56:39 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.36 EUR )
+Seat 2: ggotzilla ( Ä1.28 EUR )
+Seat 3: Letoile_noire ( Ä4.08 EUR )
+Seat 4: seblagoutte1 ( Ä4.33 EUR )
+Seat 5: starydji ( Ä4.13 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.47 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.65 EUR )
+seblagoutte1 posts small blind [Ä0.02 EUR].
+xxstaxx posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+raptor73100 calls [Ä0.04 EUR]
+zoozoo91 folds
+ggotzilla calls [Ä0.04 EUR]
+Letoile_noire calls [Ä0.04 EUR]
+seblagoutte1 raises [Ä0.30 EUR]
+xxstaxx folds
+raptor73100 folds
+ggotzilla folds
+Letoile_noire folds
+seblagoutte1 does not show cards.
+seblagoutte1 wins Ä0.48 EUR from the main pot.
+Game #14370536874 starts.
+
+
+
+#Game No : 14370537029
+***** Hand History for Game 14370537029 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 16:57:15 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 4 is the button
+Total number of players : 9/9
+Seat 1: zoozoo91 ( Ä3.36 EUR )
+Seat 2: ggotzilla ( Ä1.24 EUR )
+Seat 3: Letoile_noire ( Ä4.04 EUR )
+Seat 4: seblagoutte1 ( Ä4.49 EUR )
+Seat 5: starydji ( Ä4.13 EUR )
+Seat 6: Olive2x34 ( Ä4 EUR )
+Seat 7: xxstaxx ( Ä3.43 EUR )
+Seat 8: coucoux76600 ( Ä8.63 EUR )
+Seat 9: raptor73100 ( Ä3.61 EUR )
+xxstaxx posts small blind [Ä0.02 EUR].
+raptor73100 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+zoozoo91 folds
+ggotzilla calls [Ä0.04 EUR]
+Letoile_noire calls [Ä0.04 EUR]
+seblagoutte1 folds
+xxstaxx calls [Ä0.02 EUR]
+raptor73100 checks
+** Dealing Flop ** [ Ac, 6c, 2d ]
+xxstaxx checks
+raptor73100 bets [Ä0.04 EUR]
+ggotzilla folds
+Letoile_noire folds
+xxstaxx folds
+raptor73100 does not show cards.
+raptor73100 wins Ä0.19 EUR from the main pot.
+Game #14370538223 starts.
+
+
+
+#Game No : 14370581549
+***** Hand History for Game 14370581549 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:21:58 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä2.51 EUR )
+Seat 2: bebere08360 ( Ä1.59 EUR )
+Seat 3: Nas1077 ( Ä1.01 EUR )
+Seat 4: seblagoutte1 ( Ä6.20 EUR )
+Seat 7: xxstaxx ( Ä6.02 EUR )
+Seat 9: raptor73100 ( Ä0.58 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+bebere08360 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Nas1077 calls [Ä0.04 EUR]
+seblagoutte1 raises [Ä0.32 EUR]
+xxstaxx folds
+raptor73100 folds
+zoozoo91 calls [Ä0.30 EUR]
+bebere08360 folds
+Nas1077 folds
+** Dealing Flop ** [ Qd, 5s, 5h ]
+zoozoo91 checks
+seblagoutte1 checks
+** Dealing Turn ** [ 8h ]
+zoozoo91 checks
+seblagoutte1 checks
+** Dealing River ** [ Ah ]
+zoozoo91 checks
+seblagoutte1 checks
+seblagoutte1 doesn't show [ Th, Td ]
+zoozoo91 shows [ Jc, Js ]
+zoozoo91 wins Ä0.68 EUR from the main pot.
+Game #14370583820 starts.
+
+
+
+#Game No : 14370596146
+***** Hand History for Game 14370596146 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:28:53 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: zoozoo91 ( Ä2.95 EUR )
+Seat 2: bebere08360 ( Ä1.17 EUR )
+Seat 3: Nas1077 ( Ä1.05 EUR )
+Seat 4: seblagoutte1 ( Ä5.09 EUR )
+Seat 7: xxstaxx ( Ä5.96 EUR )
+Seat 9: raptor73100 ( Ä0.90 EUR )
+raptor73100 posts small blind [Ä0.02 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+bebere08360 folds
+Nas1077 calls [Ä0.04 EUR]
+seblagoutte1 raises [Ä0.12 EUR]
+xxstaxx folds
+raptor73100 is all-In [Ä0.88 EUR]
+zoozoo91 folds
+Nas1077 folds
+seblagoutte1 calls [Ä0.78 EUR]
+** Dealing Flop ** [ 3c, 5d, 6s ]
+** Dealing Turn ** [ Td ]
+** Dealing River ** [ Kd ]
+raptor73100 doesn't show [ As, Jh ]
+seblagoutte1 shows [ 9h, 9s ]
+seblagoutte1 wins Ä1.76 EUR from the main pot.
+Game #14370596472 starts.
+
+
+
+#Game No : 14370617875
+***** Hand History for Game 14370617875 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 17:41:33 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: zoozoo91 ( Ä8.97 EUR )
+Seat 2: Oborg99 ( Ä3.27 EUR )
+Seat 3: Nas1077 ( Ä2.23 EUR )
+Seat 4: seblagoutte1 ( Ä5.63 EUR )
+Seat 5: lulasse ( Ä2.18 EUR )
+Seat 6: mynoe2006 ( Ä3.32 EUR )
+Seat 8: less ( Ä1.98 EUR )
+mynoe2006 posts small blind [Ä0.02 EUR].
+less posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Oborg99 calls [Ä0.04 EUR]
+Nas1077 calls [Ä0.04 EUR]
+seblagoutte1 folds
+lulasse calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.02 EUR]
+less checks
+** Dealing Flop ** [ 9d, 5d, Js ]
+mynoe2006 checks
+less checks
+Oborg99 bets [Ä0.04 EUR]
+Nas1077 calls [Ä0.04 EUR]
+lulasse calls [Ä0.04 EUR]
+mynoe2006 calls [Ä0.04 EUR]
+less folds
+** Dealing Turn ** [ 8c ]
+mynoe2006 bets [Ä0.34 EUR]
+Oborg99 folds
+Nas1077 folds
+lulasse folds
+mynoe2006 does not show cards.
+mynoe2006 wins Ä0.68 EUR from the main pot.
+Game #14370619593 starts.
+
+
+
+#Game No : 14370708243
+***** Hand History for Game 14370708243 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 18:25:38 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: Pat0678 ( Ä4 EUR )
+Seat 2: Oborg99 ( Ä1.07 EUR )
+Seat 3: Nas1077 ( Ä4.87 EUR )
+Seat 4: seblagoutte1 ( Ä6.59 EUR )
+Seat 5: messik99 ( Ä1.40 EUR )
+Seat 6: Aksal4 ( Ä4 EUR )
+Seat 7: fishinthesee ( Ä2.68 EUR )
+seblagoutte1 posts small blind [Ä0.02 EUR].
+messik99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Aksal4 folds
+fishinthesee folds
+Pat0678 raises [Ä0.16 EUR]
+Nas1077 calls [Ä0.16 EUR]
+seblagoutte1 calls [Ä0.14 EUR]
+messik99 folds
+** Dealing Flop ** [ Ks, Js, 7c ]
+seblagoutte1 checks
+Pat0678 bets [Ä0.20 EUR]
+Nas1077 folds
+seblagoutte1 folds
+Pat0678 does not show cards.
+Pat0678 wins Ä0.69 EUR from the main pot.
+Game #14370709396 starts.
+
+
+
+#Game No : 14371037677
+***** Hand History for Game 14371037677 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 20:59:01 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: louly13 ( Ä3.26 EUR )
+Seat 2: jerome333 ( Ä4.09 EUR )
+Seat 3: MAUDFISH13 ( Ä3.56 EUR )
+Seat 5: soniakemper ( Ä7.88 EUR )
+Seat 6: jclaude ( Ä0.64 EUR )
+Seat 9: Docker366 ( Ä3.88 EUR )
+soniakemper posts small blind [Ä0.02 EUR].
+jclaude posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Docker366 calls [Ä0.04 EUR]
+louly13 calls [Ä0.04 EUR]
+jerome333 folds
+MAUDFISH13 folds
+soniakemper folds
+jclaude checks
+** Dealing Flop ** [ 7d, 7s, Jd ]
+jclaude checks
+Docker366 checks
+louly13 checks
+** Dealing Turn ** [ 9d ]
+jclaude bets [Ä0.07 EUR]
+Docker366 calls [Ä0.07 EUR]
+louly13 calls [Ä0.07 EUR]
+** Dealing River ** [ Ks ]
+jclaude is all-In [Ä0.53 EUR]
+Docker366 calls [Ä0.53 EUR]
+louly13 folds
+jclaude shows [ 7c, 2s ]
+Docker366 shows [ Qd, Kd ]
+Docker366 wins Ä1.32 EUR from the main pot.
+Game #14371038999 starts.
+
+
+
+#Game No : 14371060884
+***** Hand History for Game 14371060884 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 21:10:06 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 9 is the button
+Total number of players : 9/9
+Seat 1: louly13 ( Ä0 EUR )
+Seat 2: plaisir40 ( Ä3.92 EUR )
+Seat 3: MAUDFISH13 ( Ä3.46 EUR )
+Seat 4: yameco ( Ä4.58 EUR )
+Seat 5: soniakemper ( Ä8.11 EUR )
+Seat 6: jclaude ( Ä0 EUR )
+Seat 7: PCG84 ( Ä3.94 EUR )
+Seat 8: jerome333 ( Ä3.85 EUR )
+Seat 9: starydji ( Ä3.72 EUR )
+plaisir40 posts small blind [Ä0.02 EUR].
+yameco posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+soniakemper folds
+PCG84 folds
+jerome333 calls [Ä0.04 EUR]
+starydji calls [Ä0.04 EUR]
+plaisir40 calls [Ä0.02 EUR]
+yameco checks
+** Dealing Flop ** [ 3s, 8c, 4s ]
+plaisir40 checks
+yameco bets [Ä0.04 EUR]
+jerome333 raises [Ä0.27 EUR]
+starydji calls [Ä0.27 EUR]
+plaisir40 folds
+yameco calls [Ä0.23 EUR]
+** Dealing Turn ** [ 7h ]
+yameco checks
+jerome333 bets [Ä0.91 EUR]
+starydji is all-In [Ä3.41 EUR]
+yameco folds
+jerome333 calls [Ä2.50 EUR]
+** Dealing River ** [ 9d ]
+starydji doesn't show [ 3h, 3d ]
+jerome333 shows [ 4c, 4d ]
+jerome333 wins Ä7.28 EUR from the main pot.
+Game #14371062873 starts.
+
+
+
+#Game No : 14371350721
+***** Hand History for Game 14371350721 *****
+Ä4 EUR NL Texas Hold'em - Friday, January 30, 23:10:12 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: Emixam88 ( Ä2.10 EUR )
+Seat 3: MAUDFISH13 ( Ä2.50 EUR )
+Seat 4: Merrydianne ( Ä4.97 EUR )
+Seat 6: DSSYLVIE ( Ä1.74 EUR )
+Seat 7: peacegaby ( Ä4.10 EUR )
+Seat 8: Dimino76 ( Ä3.90 EUR )
+peacegaby posts small blind [Ä0.02 EUR].
+Dimino76 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Emixam88 raises [Ä0.08 EUR]
+MAUDFISH13 folds
+Merrydianne calls [Ä0.08 EUR]
+DSSYLVIE calls [Ä0.08 EUR]
+peacegaby folds
+Dimino76 folds
+** Dealing Flop ** [ Ah, Td, 8d ]
+Emixam88 bets [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+DSSYLVIE folds
+** Dealing Turn ** [ 7s ]
+Emixam88 bets [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+** Dealing River ** [ 4c ]
+Emixam88 bets [Ä0.32 EUR]
+Merrydianne folds
+Emixam88 does not show cards.
+Emixam88 wins Ä0.75 EUR from the main pot.
+Game #14371352832 starts.
+
+
+
+#Game No : 14371535819
+***** Hand History for Game 14371535819 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 00:33:17 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 8 is the button
+Total number of players : 8/9
+Seat 1: t_nor ( Ä4.03 EUR )
+Seat 2: Dan P77 ( Ä1.89 EUR )
+Seat 3: fredo 68 ( Ä3 EUR )
+Seat 4: STALDERS ( Ä4 EUR )
+Seat 5: fishinthesee ( Ä3.94 EUR )
+Seat 6: Merrydianne ( Ä16.78 EUR )
+Seat 8: nymal ( Ä2.23 EUR )
+Seat 9: Dimino76 ( Ä6.62 EUR )
+Dimino76 posts small blind [Ä0.02 EUR].
+t_nor posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Dan P77 calls [Ä0.04 EUR]
+fishinthesee folds
+Merrydianne folds
+nymal calls [Ä0.04 EUR]
+Dimino76 folds
+t_nor checks
+** Dealing Flop ** [ Kd, 7s, 3h ]
+t_nor bets [Ä0.10 EUR]
+Dan P77 calls [Ä0.10 EUR]
+nymal folds
+** Dealing Turn ** [ 8d ]
+t_nor checks
+Dan P77 bets [Ä0.16 EUR]
+t_nor folds
+Dan P77 does not show cards.
+Dan P77 wins Ä0.48 EUR from the main pot.
+Game #14371536854 starts.
+
+
+
+#Game No : 14371582249
+***** Hand History for Game 14371582249 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 00:59:38 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 9/9
+Seat 1: t_nor ( Ä3.63 EUR )
+Seat 2: Dan P77 ( Ä0 EUR )
+Seat 3: INDIEN89 ( Ä2.31 EUR )
+Seat 4: STALDERS ( Ä7 EUR )
+Seat 5: fishinthesee ( Ä5.19 EUR )
+Seat 6: Merrydianne ( Ä16.23 EUR )
+Seat 7: jeje76160 ( Ä4.96 EUR )
+Seat 8: El bouco ( Ä4 EUR )
+Seat 9: Dimino76 ( Ä8.02 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jeje76160 calls [Ä0.04 EUR]
+Dimino76 folds
+t_nor folds
+INDIEN89 calls [Ä0.04 EUR]
+STALDERS calls [Ä0.02 EUR]
+Merrydianne checks
+** Dealing Flop ** [ 9s, Qc, 2h ]
+STALDERS checks
+Merrydianne checks
+jeje76160 bets [Ä0.07 EUR]
+INDIEN89 folds
+STALDERS calls [Ä0.07 EUR]
+Merrydianne calls [Ä0.07 EUR]
+** Dealing Turn ** [ 7h ]
+STALDERS checks
+Merrydianne bets [Ä0.26 EUR]
+jeje76160 calls [Ä0.26 EUR]
+STALDERS folds
+** Dealing River ** [ Th ]
+Merrydianne bets [Ä0.42 EUR]
+jeje76160 raises [Ä0.84 EUR]
+Merrydianne folds
+jeje76160 does not show cards.
+jeje76160 wins Ä2.04 EUR from the main pot.
+Game #14371584626 starts.
+
+
+
+#Game No : 14371585481
+***** Hand History for Game 14371585481 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:00:46 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 4 is the button
+Total number of players : 7/9
+Seat 1: t_nor ( Ä3.63 EUR )
+Seat 3: INDIEN89 ( Ä2.27 EUR )
+Seat 4: STALDERS ( Ä6.89 EUR )
+Seat 6: Merrydianne ( Ä15.44 EUR )
+Seat 7: jeje76160 ( Ä5.79 EUR )
+Seat 8: El bouco ( Ä4 EUR )
+Seat 9: Dimino76 ( Ä8.02 EUR )
+Merrydianne posts small blind [Ä0.02 EUR].
+jeje76160 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Dimino76 folds
+t_nor folds
+INDIEN89 folds
+STALDERS calls [Ä0.04 EUR]
+Merrydianne folds
+jeje76160 checks
+** Dealing Flop ** [ As, 6c, 4s ]
+jeje76160 checks
+STALDERS checks
+** Dealing Turn ** [ Ts ]
+jeje76160 checks
+STALDERS bets [Ä0.10 EUR]
+jeje76160 calls [Ä0.10 EUR]
+** Dealing River ** [ Ah ]
+jeje76160 checks
+STALDERS checks
+jeje76160 shows [ 7h, 8d ]
+STALDERS shows [ Ad, 8c ]
+STALDERS wins Ä0.28 EUR from the main pot.
+Game #14371585831 starts.
+
+
+
+#Game No : 14371598877
+***** Hand History for Game 14371598877 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:09:04 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: t_nor ( Ä5.64 EUR )
+Seat 5: benhadj ( Ä3.76 EUR )
+Seat 6: Merrydianne ( Ä15.40 EUR )
+Seat 7: jeje76160 ( Ä1.46 EUR )
+Seat 8: El bouco ( Ä4.05 EUR )
+Seat 9: Dimino76 ( Ä7.94 EUR )
+jeje76160 posts small blind [Ä0.02 EUR].
+El bouco posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Dimino76 folds
+t_nor folds
+benhadj calls [Ä0.04 EUR]
+Merrydianne folds
+jeje76160 calls [Ä0.02 EUR]
+El bouco checks
+** Dealing Flop ** [ Ts, 5c, 7d ]
+jeje76160 checks
+El bouco checks
+benhadj bets [Ä0.09 EUR]
+jeje76160 folds
+El bouco folds
+benhadj does not show cards.
+benhadj wins Ä0.21 EUR from the main pot.
+Game #14371599261 starts.
+
+
+
+#Game No : 14371600652
+***** Hand History for Game 14371600652 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:09:46 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: t_nor ( Ä5.64 EUR )
+Seat 5: benhadj ( Ä3.84 EUR )
+Seat 6: Merrydianne ( Ä15.40 EUR )
+Seat 7: jeje76160 ( Ä1.42 EUR )
+Seat 8: El bouco ( Ä4.01 EUR )
+Seat 9: Dimino76 ( Ä7.94 EUR )
+El bouco posts small blind [Ä0.02 EUR].
+Dimino76 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+t_nor folds
+benhadj folds
+Merrydianne calls [Ä0.04 EUR]
+jeje76160 folds
+El bouco folds
+Dimino76 checks
+** Dealing Flop ** [ 3c, Jh, Kh ]
+Dimino76 bets [Ä0.07 EUR]
+Merrydianne folds
+Dimino76 does not show cards.
+Dimino76 wins Ä0.17 EUR from the main pot.
+Game #14371600482 starts.
+
+
+
+#Game No : 14371606337
+***** Hand History for Game 14371606337 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:13:48 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 2: KILBIBIL ( Ä1.97 EUR )
+Seat 5: benhadj ( Ä4.41 EUR )
+Seat 6: Merrydianne ( Ä14.76 EUR )
+Seat 7: jeje76160 ( Ä1.34 EUR )
+Seat 8: El bouco ( Ä4.09 EUR )
+Seat 9: Dimino76 ( Ä7.98 EUR )
+jeje76160 posts small blind [Ä0.02 EUR].
+El bouco posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Dimino76 folds
+KILBIBIL raises [Ä0.16 EUR]
+benhadj folds
+Merrydianne calls [Ä0.16 EUR]
+jeje76160 calls [Ä0.14 EUR]
+El bouco folds
+** Dealing Flop ** [ Td, 4d, 7s ]
+jeje76160 checks
+KILBIBIL bets [Ä0.24 EUR]
+Merrydianne calls [Ä0.24 EUR]
+jeje76160 folds
+** Dealing Turn ** [ 8h ]
+KILBIBIL bets [Ä0.47 EUR]
+Merrydianne calls [Ä0.47 EUR]
+** Dealing River ** [ 3d ]
+KILBIBIL is all-In [Ä1.10 EUR]
+Merrydianne calls [Ä1.10 EUR]
+KILBIBIL shows [ Ts, Tc ]
+Merrydianne shows [ 9h, Th ]
+KILBIBIL wins Ä3.87 EUR from the main pot.
+Game #14371606890 starts.
+
+
+
+#Game No : 14371608906
+***** Hand History for Game 14371608906 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:14:31 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 2: KILBIBIL ( Ä3.87 EUR )
+Seat 5: benhadj ( Ä4.41 EUR )
+Seat 6: Merrydianne ( Ä12.79 EUR )
+Seat 7: jeje76160 ( Ä1.18 EUR )
+Seat 8: El bouco ( Ä4.05 EUR )
+Seat 9: Dimino76 ( Ä7.98 EUR )
+El bouco posts small blind [Ä0.02 EUR].
+Dimino76 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+KILBIBIL folds
+benhadj folds
+Merrydianne raises [Ä0.12 EUR]
+jeje76160 folds
+El bouco folds
+Dimino76 folds
+Merrydianne does not show cards.
+Merrydianne wins Ä0.18 EUR from the main pot.
+Game #14371609391 starts.
+
+
+
+#Game No : 14371663652
+***** Hand History for Game 14371663652 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:52:26 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: HMONGSAOLING ( Ä10.07 EUR )
+Seat 2: AAChopChopAA ( Ä4.13 EUR )
+Seat 3: MAUDFISH13 ( Ä4.22 EUR )
+Seat 4: Merrydianne ( Ä5.51 EUR )
+Seat 7: fishinthesee ( Ä4.95 EUR )
+Seat 8: tom_542 ( Ä9.07 EUR )
+Merrydianne posts small blind [Ä0.02 EUR].
+fishinthesee posts big blind [Ä0.04 EUR].
+AAChopChopAA posts big blind + dead [Ä0.06 EUR].
+** Dealing down cards **
+tom_542 calls [Ä0.04 EUR]
+HMONGSAOLING raises [Ä0.08 EUR]
+AAChopChopAA folds
+MAUDFISH13 folds
+Merrydianne folds
+fishinthesee calls [Ä0.04 EUR]
+tom_542 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 3c, 9h, Td ]
+fishinthesee checks
+tom_542 checks
+HMONGSAOLING bets [Ä0.12 EUR]
+fishinthesee folds
+tom_542 calls [Ä0.12 EUR]
+** Dealing Turn ** [ 6s ]
+tom_542 checks
+HMONGSAOLING checks
+** Dealing River ** [ Th ]
+tom_542 checks
+HMONGSAOLING checks
+tom_542 shows [ 8d, Qc ]
+HMONGSAOLING shows [ Qs, As ]
+HMONGSAOLING wins Ä0.53 EUR from the main pot.
+Game #14371665656 starts.
+
+
+
+#Game No : 14371666044
+***** Hand History for Game 14371666044 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:53:31 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: HMONGSAOLING ( Ä10.40 EUR )
+Seat 2: AAChopChopAA ( Ä4.07 EUR )
+Seat 3: MAUDFISH13 ( Ä4.22 EUR )
+Seat 4: Merrydianne ( Ä5.49 EUR )
+Seat 7: fishinthesee ( Ä4.87 EUR )
+Seat 8: tom_542 ( Ä8.87 EUR )
+fishinthesee posts small blind [Ä0.02 EUR].
+tom_542 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING calls [Ä0.04 EUR]
+AAChopChopAA folds
+MAUDFISH13 folds
+Merrydianne folds
+fishinthesee calls [Ä0.02 EUR]
+tom_542 checks
+** Dealing Flop ** [ Qd, Jc, 9h ]
+fishinthesee checks
+tom_542 checks
+HMONGSAOLING checks
+** Dealing Turn ** [ Ac ]
+fishinthesee checks
+tom_542 bets [Ä0.04 EUR]
+HMONGSAOLING folds
+fishinthesee folds
+tom_542 does not show cards.
+tom_542 wins Ä0.16 EUR from the main pot.
+Game #14371667207 starts.
+
+
+
+#Game No : 14371667207
+***** Hand History for Game 14371667207 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:54:30 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: HMONGSAOLING ( Ä10.36 EUR )
+Seat 2: AAChopChopAA ( Ä4.07 EUR )
+Seat 3: MAUDFISH13 ( Ä4.22 EUR )
+Seat 4: Merrydianne ( Ä5.49 EUR )
+Seat 7: fishinthesee ( Ä4.83 EUR )
+Seat 8: tom_542 ( Ä8.95 EUR )
+tom_542 posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+AAChopChopAA folds
+MAUDFISH13 calls [Ä0.04 EUR]
+Merrydianne folds
+fishinthesee folds
+tom_542 raises [Ä0.06 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+MAUDFISH13 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ks, 2c, As ]
+tom_542 bets [Ä0.23 EUR]
+HMONGSAOLING folds
+MAUDFISH13 folds
+tom_542 does not show cards.
+tom_542 wins Ä0.46 EUR from the main pot.
+Game #14371666941 starts.
+
+
+
+#Game No : 14371668270
+***** Hand History for Game 14371668270 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:56:15 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: HMONGSAOLING ( Ä10.28 EUR )
+Seat 2: AAChopChopAA ( Ä4.07 EUR )
+Seat 3: MAUDFISH13 ( Ä4.14 EUR )
+Seat 4: Merrydianne ( Ä5.49 EUR )
+Seat 7: fishinthesee ( Ä4.83 EUR )
+Seat 8: tom_542 ( Ä9.10 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+AAChopChopAA posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+MAUDFISH13 raises [Ä0.08 EUR]
+Merrydianne calls [Ä0.08 EUR]
+fishinthesee folds
+tom_542 raises [Ä0.12 EUR]
+HMONGSAOLING calls [Ä0.10 EUR]
+AAChopChopAA folds
+MAUDFISH13 calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+** Dealing Flop ** [ 9h, 2c, 2s ]
+HMONGSAOLING checks
+MAUDFISH13 checks
+Merrydianne checks
+tom_542 checks
+** Dealing Turn ** [ Qc ]
+HMONGSAOLING bets [Ä0.08 EUR]
+MAUDFISH13 folds
+Merrydianne folds
+tom_542 calls [Ä0.08 EUR]
+** Dealing River ** [ Jd ]
+HMONGSAOLING checks
+tom_542 checks
+tom_542 doesn't show [ Ad, Th ]
+HMONGSAOLING shows [ Tc, Qs ]
+HMONGSAOLING wins Ä0.64 EUR from the main pot.
+Game #14371670568 starts.
+
+
+
+#Game No : 14371670568
+***** Hand History for Game 14371670568 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 01:56:57 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: HMONGSAOLING ( Ä10.72 EUR )
+Seat 2: AAChopChopAA ( Ä4.03 EUR )
+Seat 3: MAUDFISH13 ( Ä4.02 EUR )
+Seat 4: Merrydianne ( Ä5.37 EUR )
+Seat 7: fishinthesee ( Ä4.83 EUR )
+Seat 8: tom_542 ( Ä8.90 EUR )
+AAChopChopAA posts small blind [Ä0.02 EUR].
+MAUDFISH13 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+fishinthesee folds
+tom_542 raises [Ä0.08 EUR]
+HMONGSAOLING raises [Ä0.12 EUR]
+AAChopChopAA folds
+MAUDFISH13 calls [Ä0.08 EUR]
+tom_542 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ac, Ad, 3c ]
+MAUDFISH13 checks
+tom_542 checks
+HMONGSAOLING bets [Ä0.18 EUR]
+MAUDFISH13 is all-In [Ä3.90 EUR]
+tom_542 folds
+HMONGSAOLING calls [Ä3.72 EUR]
+** Dealing Turn ** [ 9s ]
+** Dealing River ** [ 4s ]
+HMONGSAOLING shows [ Ah, Ks ]
+MAUDFISH13 shows [ 3h, 3d ]
+MAUDFISH13 wins Ä7.64 EUR from the main pot.
+Game #14371670557 starts.
+
+
+
+#Game No : 14371706612
+***** Hand History for Game 14371706612 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 02:28:08 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: Sefyou66 ( Ä2.61 EUR )
+Seat 2: AAChopChopAA ( Ä4.10 EUR )
+Seat 3: caribou44550 ( Ä2 EUR )
+Seat 4: Merrydianne ( Ä5.40 EUR )
+Seat 5: Bizarre taytay ( Ä3.66 EUR )
+Seat 8: tom_542 ( Ä5.69 EUR )
+Bizarre taytay posts small blind [Ä0.02 EUR].
+tom_542 posts big blind [Ä0.04 EUR].
+caribou44550 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Sefyou66 folds
+AAChopChopAA folds
+caribou44550 checks
+Merrydianne calls [Ä0.04 EUR]
+Bizarre taytay calls [Ä0.02 EUR]
+tom_542 checks
+** Dealing Flop ** [ Ah, 9d, 3c ]
+Bizarre taytay checks
+tom_542 checks
+caribou44550 checks
+Merrydianne checks
+** Dealing Turn ** [ Qd ]
+Bizarre taytay checks
+tom_542 checks
+caribou44550 checks
+Merrydianne checks
+** Dealing River ** [ Qh ]
+Bizarre taytay bets [Ä0.15 EUR]
+tom_542 calls [Ä0.15 EUR]
+caribou44550 calls [Ä0.15 EUR]
+Merrydianne folds
+tom_542 doesn't show [ 5h, Tc ]
+Bizarre taytay shows [ 7h, Jd ]
+caribou44550 shows [ 7s, Ac ]
+caribou44550 wins Ä0.57 EUR from the main pot.
+Game #14371707509 starts.
+
+
+
+#Game No : 14371707755
+***** Hand History for Game 14371707755 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 02:29:01 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Sefyou66 ( Ä2.61 EUR )
+Seat 2: AAChopChopAA ( Ä4.10 EUR )
+Seat 3: caribou44550 ( Ä2.38 EUR )
+Seat 4: Merrydianne ( Ä5.36 EUR )
+Seat 5: Bizarre taytay ( Ä3.47 EUR )
+Seat 6: ArjunA66677 ( Ä4 EUR )
+Seat 8: tom_542 ( Ä5.50 EUR )
+tom_542 posts small blind [Ä0.02 EUR].
+Sefyou66 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+AAChopChopAA folds
+caribou44550 folds
+Merrydianne folds
+Bizarre taytay raises [Ä0.16 EUR]
+tom_542 raises [Ä0.26 EUR]
+Sefyou66 calls [Ä0.24 EUR]
+Bizarre taytay is all-In [Ä3.31 EUR]
+tom_542 calls [Ä3.19 EUR]
+Sefyou66 is all-In [Ä2.33 EUR]
+** Dealing Flop ** [ Qc, 8s, 9d ]
+** Dealing Turn ** [ Js ]
+** Dealing River ** [ Jc ]
+tom_542 shows [ 6c, Ah ]
+Sefyou66 shows [ As, 6d ]
+Bizarre taytay shows [ Qs, Qd ]
+Bizarre taytay wins Ä1.61 EUR from the side pot 1.
+Bizarre taytay wins Ä7.31 EUR from the main pot.
+Game #14371708087 starts.
+
+
+
+#Game No : 14371708565
+***** Hand History for Game 14371708565 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 02:30:51 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 8 is the button
+Total number of players : 7/9
+Seat 1: Sefyou66 ( Ä0 EUR )
+Seat 2: AAChopChopAA ( Ä4.10 EUR )
+Seat 3: caribou44550 ( Ä2.38 EUR )
+Seat 4: Merrydianne ( Ä5.36 EUR )
+Seat 5: Bizarre taytay ( Ä8.92 EUR )
+Seat 6: ArjunA66677 ( Ä4 EUR )
+Seat 8: tom_542 ( Ä2.03 EUR )
+AAChopChopAA posts small blind [Ä0.02 EUR].
+caribou44550 posts big blind [Ä0.04 EUR].
+ArjunA66677 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne calls [Ä0.04 EUR]
+Bizarre taytay calls [Ä0.04 EUR]
+ArjunA66677 checks
+tom_542 raises [Ä0.08 EUR]
+AAChopChopAA folds
+caribou44550 calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+Bizarre taytay calls [Ä0.04 EUR]
+ArjunA66677 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ad, Qs, 9h ]
+caribou44550 checks
+Merrydianne checks
+Bizarre taytay checks
+ArjunA66677 checks
+tom_542 checks
+** Dealing Turn ** [ Tc ]
+caribou44550 checks
+Merrydianne bets [Ä0.30 EUR]
+Bizarre taytay calls [Ä0.30 EUR]
+ArjunA66677 folds
+tom_542 raises [Ä1.60 EUR]
+caribou44550 folds
+Merrydianne folds
+Bizarre taytay folds
+tom_542 does not show cards.
+tom_542 wins Ä2.54 EUR from the main pot.
+Game #14371709721 starts.
+
+
+
+#Game No : 14371710237
+***** Hand History for Game 14371710237 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 02:31:36 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: AAChopChopAA ( Ä4.08 EUR )
+Seat 3: caribou44550 ( Ä2.30 EUR )
+Seat 4: Merrydianne ( Ä4.98 EUR )
+Seat 5: Bizarre taytay ( Ä8.54 EUR )
+Seat 6: ArjunA66677 ( Ä3.92 EUR )
+Seat 8: tom_542 ( Ä2.89 EUR )
+caribou44550 posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Bizarre taytay calls [Ä0.04 EUR]
+ArjunA66677 calls [Ä0.04 EUR]
+tom_542 raises [Ä0.32 EUR]
+AAChopChopAA folds
+caribou44550 folds
+Merrydianne folds
+Bizarre taytay folds
+ArjunA66677 folds
+tom_542 does not show cards.
+tom_542 wins Ä0.46 EUR from the main pot.
+Game #14371710455 starts.
+
+
+
+#Game No : 14371711455
+***** Hand History for Game 14371711455 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 02:32:32 CEST 2015
+Table Saint-Beno√Æt (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 2: AAChopChopAA ( Ä4.08 EUR )
+Seat 3: caribou44550 ( Ä2.28 EUR )
+Seat 4: Merrydianne ( Ä4.94 EUR )
+Seat 5: Bizarre taytay ( Ä8.50 EUR )
+Seat 6: ArjunA66677 ( Ä3.88 EUR )
+Seat 8: tom_542 ( Ä3.03 EUR )
+Merrydianne posts small blind [Ä0.02 EUR].
+Bizarre taytay posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ArjunA66677 folds
+tom_542 raises [Ä0.08 EUR]
+AAChopChopAA folds
+caribou44550 folds
+Merrydianne folds
+Bizarre taytay calls [Ä0.04 EUR]
+** Dealing Flop ** [ 8c, 9h, 7d ]
+Bizarre taytay checks
+tom_542 bets [Ä0.17 EUR]
+Bizarre taytay calls [Ä0.17 EUR]
+** Dealing Turn ** [ 8s ]
+Bizarre taytay checks
+tom_542 bets [Ä0.49 EUR]
+Bizarre taytay calls [Ä0.49 EUR]
+** Dealing River ** [ Tc ]
+Bizarre taytay checks
+tom_542 bets [Ä1.40 EUR]
+Bizarre taytay folds
+tom_542 does not show cards.
+tom_542 wins Ä2.80 EUR from the main pot.
+Game #14371711553 starts.
+
+
+
+#Game No : 14372715235
+***** Hand History for Game 14372715235 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 18:31:51 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 2: theloeil ( Ä12.20 EUR )
+Seat 3: -OVP1666- ( Ä8.87 EUR )
+Seat 4: maxlamenax ( Ä3.49 EUR )
+Seat 5: URAFISH ( Ä4.48 EUR )
+Seat 6: ponch44 ( Ä3.44 EUR )
+Seat 8: Olive2x34 ( Ä6.66 EUR )
+Seat 9: Merrydianne ( Ä4 EUR )
+maxlamenax posts small blind [Ä0.02 EUR].
+URAFISH posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Olive2x34 folds
+Merrydianne calls [Ä0.04 EUR]
+theloeil folds
+-OVP1666- calls [Ä0.04 EUR]
+maxlamenax calls [Ä0.02 EUR]
+URAFISH checks
+** Dealing Flop ** [ 6d, 2c, Tc ]
+maxlamenax checks
+URAFISH checks
+Merrydianne bets [Ä0.15 EUR]
+-OVP1666- folds
+maxlamenax folds
+URAFISH folds
+Merrydianne does not show cards.
+Merrydianne wins Ä0.30 EUR from the main pot.
+Game #14372716591 starts.
+
+
+
+#Game No : 14372866337
+***** Hand History for Game 14372866337 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:46:19 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: memed62 ( Ä0.89 EUR )
+Seat 2: theloeil ( Ä19.27 EUR )
+Seat 4: Christy81 ( Ä1 EUR )
+Seat 6: miikso62 ( Ä5.69 EUR )
+Seat 7: MAUDFISH13 ( Ä3.96 EUR )
+Seat 9: Merrydianne ( Ä4 EUR )
+memed62 posts small blind [Ä0.02 EUR].
+theloeil posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Christy81 calls [Ä0.04 EUR]
+miikso62 calls [Ä0.04 EUR]
+MAUDFISH13 folds
+Merrydianne folds
+memed62 folds
+theloeil checks
+** Dealing Flop ** [ Jd, 7h, 5c ]
+theloeil checks
+Christy81 checks
+miikso62 checks
+** Dealing Turn ** [ Jh ]
+theloeil checks
+Christy81 checks
+miikso62 bets [Ä0.14 EUR]
+theloeil raises [Ä0.28 EUR]
+Christy81 folds
+miikso62 calls [Ä0.14 EUR]
+** Dealing River ** [ 2c ]
+theloeil bets [Ä1 EUR]
+miikso62 folds
+theloeil does not show cards.
+theloeil wins Ä1.66 EUR from the main pot.
+Game #14372868599 starts.
+
+
+
+#Game No : 14372446998
+***** Hand History for Game 14372446998 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 16:12:01 CEST 2015
+Table Beauvais (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: elerray33 ( Ä0.10 EUR )
+Seat 2: lachance123 ( Ä4 EUR )
+Seat 3: HeceyParty ( Ä1.51 EUR )
+Seat 4: titleist nono ( Ä4.50 EUR )
+Seat 5: damien1975 ( Ä2.67 EUR )
+Seat 7: URAFISH ( Ä5.67 EUR )
+Seat 8: jejelamenace99 ( Ä2.96 EUR )
+Seat 9: philpro22 ( Ä4.16 EUR )
+HeceyParty posts small blind [Ä0.02 EUR].
+titleist nono posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+damien1975 calls [Ä0.04 EUR]
+URAFISH folds
+jejelamenace99 folds
+philpro22 folds
+HeceyParty raises [Ä0.06 EUR]
+titleist nono calls [Ä0.04 EUR]
+damien1975 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ac, 5c, Kh ]
+HeceyParty checks
+titleist nono checks
+damien1975 checks
+** Dealing Turn ** [ Jc ]
+HeceyParty bets [Ä0.04 EUR]
+titleist nono calls [Ä0.04 EUR]
+damien1975 calls [Ä0.04 EUR]
+** Dealing River ** [ 7c ]
+HeceyParty bets [Ä0.14 EUR]
+titleist nono raises [Ä0.28 EUR]
+damien1975 folds
+HeceyParty raises [Ä0.90 EUR]
+titleist nono calls [Ä0.76 EUR]
+titleist nono doesn't show [ Qs, 2c ]
+HeceyParty shows [ Kc, Ah ]
+HeceyParty wins Ä2.28 EUR from the main pot.
+Game #14372449307 starts.
+
+
+
+#Game No : 14372855834
+***** Hand History for Game 14372855834 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:39:47 CEST 2015
+Table Grasse (Real Money)
+Seat 7 is the button
+Total number of players : 7/9
+Seat 1: petithomme ( Ä1.41 EUR )
+Seat 2: LEMNOS ( Ä3.22 EUR )
+Seat 3: Letoile_noire ( Ä4.25 EUR )
+Seat 4: Merrydianne ( Ä4.49 EUR )
+Seat 6: menche67 ( Ä11.64 EUR )
+Seat 7: JONCALICH62 ( Ä5.23 EUR )
+Seat 9: STALDERS ( Ä4.15 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+petithomme posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+LEMNOS calls [Ä0.04 EUR]
+Letoile_noire folds
+Merrydianne folds
+JONCALICH62 raises [Ä0.12 EUR]
+STALDERS calls [Ä0.10 EUR]
+petithomme folds
+LEMNOS calls [Ä0.08 EUR]
+** Dealing Flop ** [ 4d, 2d, Ad ]
+STALDERS checks
+LEMNOS bets [Ä0.19 EUR]
+JONCALICH62 folds
+STALDERS folds
+LEMNOS does not show cards.
+LEMNOS wins Ä0.57 EUR from the main pot.
+Game #14372856807 starts.
+
+
+
+#Game No : 14372857165
+***** Hand History for Game 14372857165 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:40:31 CEST 2015
+Table Grasse (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: petithomme ( Ä1.37 EUR )
+Seat 2: LEMNOS ( Ä3.48 EUR )
+Seat 3: Letoile_noire ( Ä4.25 EUR )
+Seat 4: Merrydianne ( Ä4.49 EUR )
+Seat 6: menche67 ( Ä11.64 EUR )
+Seat 7: JONCALICH62 ( Ä5.11 EUR )
+Seat 9: STALDERS ( Ä4.03 EUR )
+petithomme posts small blind [Ä0.02 EUR].
+LEMNOS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Letoile_noire folds
+Merrydianne folds
+JONCALICH62 calls [Ä0.04 EUR]
+STALDERS folds
+petithomme calls [Ä0.02 EUR]
+LEMNOS checks
+** Dealing Flop ** [ 6h, Qs, Ah ]
+petithomme bets [Ä0.04 EUR]
+LEMNOS folds
+JONCALICH62 folds
+petithomme does not show cards.
+petithomme wins Ä0.16 EUR from the main pot.
+Game #14372855344 starts.
+
+
+
+#Game No : 14372932175
+***** Hand History for Game 14372932175 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 20:17:32 CEST 2015
+Table Grasse (Real Money)
+Seat 8 is the button
+Total number of players : 8/9
+Seat 1: bout-d-chou ( Ä5.94 EUR )
+Seat 2: LEMNOS ( Ä3.95 EUR )
+Seat 3: MOTOJAKO28 ( Ä4 EUR )
+Seat 4: Merrydianne ( Ä6.49 EUR )
+Seat 5: aunkelia888 ( Ä7.04 EUR )
+Seat 6: FoldTrustMe ( Ä4 EUR )
+Seat 7: JONCALICH62 ( Ä0 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+bout-d-chou posts small blind [Ä0.02 EUR].
+LEMNOS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne calls [Ä0.04 EUR]
+aunkelia888 folds
+FoldTrustMe folds
+Born2CRAI folds
+bout-d-chou raises [Ä0.14 EUR]
+LEMNOS folds
+Merrydianne calls [Ä0.12 EUR]
+** Dealing Flop ** [ Td, Jh, 9s ]
+bout-d-chou bets [Ä0.17 EUR]
+Merrydianne calls [Ä0.17 EUR]
+** Dealing Turn ** [ 5d ]
+bout-d-chou bets [Ä0.33 EUR]
+Merrydianne calls [Ä0.33 EUR]
+** Dealing River ** [ Ks ]
+bout-d-chou bets [Ä1.27 EUR]
+Merrydianne calls [Ä1.27 EUR]
+bout-d-chou shows [ Ac, 7c ]
+Merrydianne shows [ Qc, 5c ]
+Merrydianne wins Ä3.64 EUR from the main pot.
+Game #14372932524 starts.
+
+
+
+#Game No : 14372879709
+***** Hand History for Game 14372879709 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:51:35 CEST 2015
+Table Grasse (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä4.07 EUR )
+Seat 3: zoozoo91 ( Ä1.60 EUR )
+Seat 4: Merrydianne ( Ä4.29 EUR )
+Seat 6: mkpok88 ( Ä3.87 EUR )
+Seat 7: JONCALICH62 ( Ä4.45 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+Born2CRAI posts small blind [Ä0.02 EUR].
+LEMNOS posts big blind [Ä0.04 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+zoozoo91 raises [Ä0.12 EUR]
+Merrydianne folds
+mkpok88 calls [Ä0.16 EUR]
+JONCALICH62 folds
+Born2CRAI folds
+LEMNOS folds
+** Dealing Flop ** [ 4d, 9c, 8s ]
+zoozoo91 checks
+mkpok88 checks
+** Dealing Turn ** [ Kd ]
+zoozoo91 bets [Ä0.36 EUR]
+mkpok88 calls [Ä0.36 EUR]
+** Dealing River ** [ Kc ]
+zoozoo91 is all-In [Ä1.08 EUR]
+mkpok88 folds
+zoozoo91 does not show cards.
+zoozoo91 wins Ä2.11 EUR from the main pot.
+Game #14372881395 starts.
+
+
+
+#Game No : 14372881641
+***** Hand History for Game 14372881641 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:51:47 CEST 2015
+Table Grasse (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä4.03 EUR )
+Seat 3: zoozoo91 ( Ä2.11 EUR )
+Seat 4: Merrydianne ( Ä4.29 EUR )
+Seat 6: mkpok88 ( Ä3.35 EUR )
+Seat 7: JONCALICH62 ( Ä4.45 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+LEMNOS posts small blind [Ä0.02 EUR].
+zoozoo91 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+mkpok88 folds
+JONCALICH62 folds
+Born2CRAI folds
+LEMNOS folds
+zoozoo91 does not show cards.
+zoozoo91 wins Ä0.06 EUR from the main pot.
+Game #14372881200 starts.
+
+
+
+#Game No : 14372881992
+***** Hand History for Game 14372881992 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:53:17 CEST 2015
+Table Grasse (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä4.01 EUR )
+Seat 3: zoozoo91 ( Ä2.13 EUR )
+Seat 4: Merrydianne ( Ä4.29 EUR )
+Seat 6: mkpok88 ( Ä3.35 EUR )
+Seat 7: JONCALICH62 ( Ä4.45 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+zoozoo91 posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mkpok88 calls [Ä0.04 EUR]
+JONCALICH62 calls [Ä0.04 EUR]
+Born2CRAI folds
+LEMNOS calls [Ä0.04 EUR]
+zoozoo91 folds
+Merrydianne checks
+** Dealing Flop ** [ Td, 3c, 6h ]
+Merrydianne checks
+mkpok88 checks
+JONCALICH62 bets [Ä0.12 EUR]
+LEMNOS folds
+Merrydianne calls [Ä0.12 EUR]
+mkpok88 folds
+** Dealing Turn ** [ 3h ]
+Merrydianne checks
+JONCALICH62 checks
+** Dealing River ** [ Ac ]
+Merrydianne checks
+JONCALICH62 checks
+Merrydianne shows [ 7h, 4h ]
+JONCALICH62 shows [ 4s, Ts ]
+JONCALICH62 wins Ä0.40 EUR from the main pot.
+Game #14372883775 starts.
+
+
+
+#Game No : 14372885112
+***** Hand History for Game 14372885112 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:54:44 CEST 2015
+Table Grasse (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä3.97 EUR )
+Seat 3: zoozoo91 ( Ä2.11 EUR )
+Seat 4: Merrydianne ( Ä4.13 EUR )
+Seat 6: mkpok88 ( Ä3.31 EUR )
+Seat 7: JONCALICH62 ( Ä4.69 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+Merrydianne posts small blind [Ä0.02 EUR].
+mkpok88 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+JONCALICH62 calls [Ä0.04 EUR]
+Born2CRAI folds
+LEMNOS folds
+zoozoo91 calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.02 EUR]
+mkpok88 checks
+** Dealing Flop ** [ 8h, Js, 3c ]
+Merrydianne checks
+mkpok88 checks
+JONCALICH62 bets [Ä0.24 EUR]
+zoozoo91 folds
+Merrydianne folds
+mkpok88 folds
+JONCALICH62 does not show cards.
+JONCALICH62 wins Ä0.39 EUR from the main pot.
+Game #14372886765 starts.
+
+
+
+#Game No : 14372888203
+***** Hand History for Game 14372888203 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:56:04 CEST 2015
+Table Grasse (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä3.97 EUR )
+Seat 3: zoozoo91 ( Ä2.07 EUR )
+Seat 4: Merrydianne ( Ä4.09 EUR )
+Seat 6: mkpok88 ( Ä3.27 EUR )
+Seat 7: JONCALICH62 ( Ä4.80 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+mkpok88 posts small blind [Ä0.02 EUR].
+JONCALICH62 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Born2CRAI raises [Ä0.12 EUR]
+LEMNOS folds
+zoozoo91 calls [Ä0.12 EUR]
+Merrydianne calls [Ä0.12 EUR]
+mkpok88 calls [Ä0.10 EUR]
+JONCALICH62 calls [Ä0.08 EUR]
+** Dealing Flop ** [ Kh, 8h, Qc ]
+mkpok88 checks
+JONCALICH62 checks
+Born2CRAI checks
+zoozoo91 checks
+Merrydianne bets [Ä0.42 EUR]
+mkpok88 folds
+JONCALICH62 folds
+Born2CRAI folds
+zoozoo91 folds
+Merrydianne does not show cards.
+Merrydianne wins Ä0.98 EUR from the main pot.
+Game #14372890970 starts.
+
+
+
+#Game No : 14372890970
+***** Hand History for Game 14372890970 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 19:56:53 CEST 2015
+Table Grasse (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 2: LEMNOS ( Ä3.97 EUR )
+Seat 3: zoozoo91 ( Ä1.95 EUR )
+Seat 4: Merrydianne ( Ä4.53 EUR )
+Seat 6: mkpok88 ( Ä3.15 EUR )
+Seat 7: JONCALICH62 ( Ä4.68 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+JONCALICH62 posts small blind [Ä0.02 EUR].
+Born2CRAI posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+LEMNOS calls [Ä0.04 EUR]
+zoozoo91 calls [Ä0.04 EUR]
+Merrydianne folds
+mkpok88 folds
+JONCALICH62 calls [Ä0.02 EUR]
+Born2CRAI checks
+** Dealing Flop ** [ 5d, 8h, 7d ]
+JONCALICH62 bets [Ä0.24 EUR]
+Born2CRAI folds
+LEMNOS folds
+zoozoo91 folds
+JONCALICH62 does not show cards.
+JONCALICH62 wins Ä0.39 EUR from the main pot.
+Game #14372890927 starts.
+
+
+
+#Game No : 14372956938
+***** Hand History for Game 14372956938 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 20:28:31 CEST 2015
+Table Grasse (Real Money)
+Seat 4 is the button
+Total number of players : 8/9
+Seat 1: bout-d-chou ( Ä3 EUR )
+Seat 2: LEMNOS ( Ä5.24 EUR )
+Seat 3: MOTOJAKO28 ( Ä4 EUR )
+Seat 4: Merrydianne ( Ä11.32 EUR )
+Seat 5: aunkelia888 ( Ä6.90 EUR )
+Seat 6: FoldTrustMe ( Ä4.14 EUR )
+Seat 8: Born2CRAI ( Ä4 EUR )
+Seat 9: Aksal4 ( Ä4 EUR )
+aunkelia888 posts small blind [Ä0.02 EUR].
+Born2CRAI posts big blind [Ä0.04 EUR].
+MOTOJAKO28 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+bout-d-chou raises [Ä0.08 EUR]
+LEMNOS folds
+MOTOJAKO28 calls [Ä0.04 EUR]
+Merrydianne folds
+aunkelia888 folds
+Born2CRAI calls [Ä0.04 EUR]
+** Dealing Flop ** [ As, 4d, Kd ]
+Born2CRAI checks
+bout-d-chou bets [Ä0.25 EUR]
+MOTOJAKO28 folds
+Born2CRAI folds
+bout-d-chou does not show cards.
+bout-d-chou wins Ä0.50 EUR from the main pot.
+Game #14372957035 starts.
+
+
+
+#Game No : 14372993977
+***** Hand History for Game 14372993977 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 20:43:20 CEST 2015
+Table Grasse (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: jejev83 ( Ä1.40 EUR )
+Seat 3: MOTOJAKO28 ( Ä13.48 EUR )
+Seat 4: Merrydianne ( Ä4.31 EUR )
+Seat 5: aunkelia888 ( Ä6.31 EUR )
+Seat 6: josfoil ( Ä4.28 EUR )
+Seat 8: Born2CRAI ( Ä4.24 EUR )
+Seat 9: Aksal4 ( Ä4.49 EUR )
+MOTOJAKO28 posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+aunkelia888 folds
+josfoil folds
+Born2CRAI folds
+Aksal4 raises [Ä0.12 EUR]
+MOTOJAKO28 calls [Ä0.10 EUR]
+Merrydianne folds
+** Dealing Flop ** [ 9s, 2c, Qc ]
+MOTOJAKO28 checks
+Aksal4 bets [Ä0.13 EUR]
+MOTOJAKO28 calls [Ä0.13 EUR]
+** Dealing Turn ** [ Jc ]
+MOTOJAKO28 checks
+Aksal4 checks
+** Dealing River ** [ Tc ]
+MOTOJAKO28 checks
+Aksal4 checks
+MOTOJAKO28 shows [ 2h, 7h ]
+Aksal4 shows [ 8d, 7d ]
+Aksal4 wins Ä0.51 EUR from the main pot.
+Game #14372994310 starts.
+
+
+
+#Game No : 14373327896
+***** Hand History for Game 14373327896 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 23:01:32 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 3: trisgo ( Ä2.28 EUR )
+Seat 4: HMONGSAOLING ( Ä9.18 EUR )
+Seat 5: elkador ( Ä3.80 EUR )
+Seat 6: starydji ( Ä3.45 EUR )
+Seat 7: dominik2513 ( Ä7.91 EUR )
+Seat 8: flopino ( Ä0.52 EUR )
+Seat 9: Merrydianne ( Ä4.14 EUR )
+flopino posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trisgo calls [Ä0.04 EUR]
+HMONGSAOLING folds
+elkador folds
+starydji folds
+flopino calls [Ä0.02 EUR]
+Merrydianne checks
+** Dealing Flop ** [ Th, 2s, Qc ]
+flopino checks
+Merrydianne checks
+trisgo checks
+** Dealing Turn ** [ As ]
+flopino checks
+Merrydianne checks
+trisgo bets [Ä0.12 EUR]
+flopino folds
+Merrydianne folds
+trisgo does not show cards.
+trisgo wins Ä0.24 EUR from the main pot.
+Game #14373327964 starts.
+
+
+
+#Game No : 14373333342
+***** Hand History for Game 14373333342 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 23:03:31 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 3: trisgo ( Ä2.32 EUR )
+Seat 4: HMONGSAOLING ( Ä9.35 EUR )
+Seat 5: elkador ( Ä3.80 EUR )
+Seat 7: dominik2513 ( Ä7.89 EUR )
+Seat 8: flopino ( Ä0.44 EUR )
+Seat 9: Merrydianne ( Ä4.06 EUR )
+trisgo posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+elkador folds
+dominik2513 folds
+flopino calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+trisgo calls [Ä0.02 EUR]
+HMONGSAOLING checks
+** Dealing Flop ** [ 8c, 4s, Qh ]
+trisgo bets [Ä0.04 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+flopino folds
+Merrydianne folds
+** Dealing Turn ** [ 3d ]
+trisgo bets [Ä0.04 EUR]
+HMONGSAOLING folds
+trisgo does not show cards.
+trisgo wins Ä0.27 EUR from the main pot.
+Game #14373330371 starts.
+
+
+
+#Game No : 14373334917
+***** Hand History for Game 14373334917 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 23:04:17 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 3: trisgo ( Ä2.47 EUR )
+Seat 4: HMONGSAOLING ( Ä9.27 EUR )
+Seat 5: elkador ( Ä3.80 EUR )
+Seat 7: dominik2513 ( Ä7.89 EUR )
+Seat 8: flopino ( Ä0.40 EUR )
+Seat 9: Merrydianne ( Ä4.02 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+elkador posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+dominik2513 folds
+flopino is all-In [Ä0.40 EUR]
+Merrydianne calls [Ä0.40 EUR]
+trisgo folds
+HMONGSAOLING folds
+elkador raises [Ä3 EUR]
+Merrydianne folds
+** Dealing Flop ** [ Th, 2s, 5c ]
+** Dealing Turn ** [ Tc ]
+** Dealing River ** [ Ks ]
+flopino doesn't show [ Qh, Kh ]
+elkador shows [ As, Ah ]
+elkador wins Ä2.64 EUR from the side pot 1.
+elkador wins Ä1.14 EUR from the main pot.
+Game #14373336393 starts.
+
+
+
+#Game No : 14373040361
+***** Hand History for Game 14373040361 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 21:04:10 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: mathieu59490 ( Ä4.54 EUR )
+Seat 2: ploiku53 ( Ä0 EUR )
+Seat 3: josfoil ( Ä3.76 EUR )
+Seat 4: HMONGSAOLING ( Ä3.88 EUR )
+Seat 6: dic974 ( Ä3.29 EUR )
+Seat 7: Aksal4 ( Ä6.81 EUR )
+Seat 9: Merrydianne ( Ä7.53 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+dic974 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Aksal4 folds
+Merrydianne folds
+mathieu59490 raises [Ä0.16 EUR]
+josfoil folds
+HMONGSAOLING folds
+dic974 calls [Ä0.12 EUR]
+** Dealing Flop ** [ Js, Kc, 7s ]
+dic974 checks
+mathieu59490 bets [Ä0.04 EUR]
+dic974 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 9h ]
+dic974 checks
+mathieu59490 bets [Ä0.20 EUR]
+dic974 calls [Ä0.20 EUR]
+** Dealing River ** [ 6d ]
+dic974 checks
+mathieu59490 bets [Ä0.38 EUR]
+dic974 calls [Ä0.38 EUR]
+dic974 doesn't show [ Jd, Ac ]
+mathieu59490 shows [ Ks, Qd ]
+mathieu59490 wins Ä1.48 EUR from the main pot.
+Game #14373040803 starts.
+
+
+
+#Game No : 14373042981
+***** Hand History for Game 14373042981 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 21:05:33 CEST 2015
+Table Besan√ßon (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: mathieu59490 ( Ä5.24 EUR )
+Seat 3: josfoil ( Ä3.76 EUR )
+Seat 4: HMONGSAOLING ( Ä3.86 EUR )
+Seat 6: dic974 ( Ä2.51 EUR )
+Seat 7: Aksal4 ( Ä6.81 EUR )
+Seat 9: Merrydianne ( Ä7.53 EUR )
+dic974 posts small blind [Ä0.02 EUR].
+Aksal4 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+mathieu59490 calls [Ä0.04 EUR]
+josfoil calls [Ä0.04 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+dic974 calls [Ä0.02 EUR]
+Aksal4 checks
+** Dealing Flop ** [ 7h, 4h, 7s ]
+dic974 checks
+Aksal4 checks
+mathieu59490 bets [Ä0.04 EUR]
+josfoil folds
+HMONGSAOLING calls [Ä0.04 EUR]
+dic974 calls [Ä0.04 EUR]
+Aksal4 folds
+** Dealing Turn ** [ 6c ]
+dic974 checks
+mathieu59490 bets [Ä0.04 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+dic974 folds
+** Dealing River ** [ Jd ]
+mathieu59490 bets [Ä0.04 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+HMONGSAOLING doesn't show [ 8d, Ks ]
+mathieu59490 shows [ Kd, 4d ]
+mathieu59490 wins Ä0.45 EUR from the main pot.
+Game #14373046191 starts.
+
+
+
+#Game No : 14373173642
+***** Hand History for Game 14373173642 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 21:57:09 CEST 2015
+Table Grasse (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Mickamailys76 ( Ä3 EUR )
+Seat 2: enzatessa03 ( Ä4.20 EUR )
+Seat 3: pika971 ( Ä7.33 EUR )
+Seat 4: Merrydianne ( Ä8.31 EUR )
+Seat 5: aunkelia888 ( Ä5.27 EUR )
+Seat 7: Texas1109 ( Ä3.09 EUR )
+Seat 9: joss80 ( Ä6.26 EUR )
+Texas1109 posts small blind [Ä0.02 EUR].
+Mickamailys76 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+enzatessa03 folds
+pika971 folds
+Merrydianne calls [Ä0.04 EUR]
+aunkelia888 folds
+Texas1109 calls [Ä0.02 EUR]
+Mickamailys76 checks
+** Dealing Flop ** [ Kd, Js, Ah ]
+Texas1109 checks
+Mickamailys76 checks
+Merrydianne bets [Ä0.12 EUR]
+Texas1109 folds
+Mickamailys76 folds
+Merrydianne does not show cards.
+Merrydianne wins Ä0.24 EUR from the main pot.
+Game #14373175711 starts.
+
+
+
+#Game No : 14373444171
+***** Hand History for Game 14373444171 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 23:53:36 CEST 2015
+Table Grasse (Real Money)
+Seat 5 is the button
+Total number of players : 9/9
+Seat 1: Mickamailys76 ( Ä10.43 EUR )
+Seat 2: enzatessa03 ( Ä4.53 EUR )
+Seat 3: frednana ( Ä3.21 EUR )
+Seat 4: Merrydianne ( Ä12.81 EUR )
+Seat 5: maelle59 ( Ä8.35 EUR )
+Seat 6: HMONGSAOLING ( Ä5.36 EUR )
+Seat 7: raptor73100 ( Ä4.32 EUR )
+Seat 8: elkador ( Ä0 EUR )
+Seat 9: delpitcho ( Ä8.12 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+Mickamailys76 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+enzatessa03 folds
+frednana calls [Ä0.04 EUR]
+Merrydianne raises [Ä0.32 EUR]
+maelle59 folds
+HMONGSAOLING folds
+Mickamailys76 folds
+frednana folds
+Merrydianne does not show cards.
+Merrydianne wins Ä0.42 EUR from the main pot.
+Game #14373444525 starts.
+
+
+
+#Game No : 14373446082
+***** Hand History for Game 14373446082 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 23:55:54 CEST 2015
+Table Grasse (Real Money)
+Seat 6 is the button
+Total number of players : 9/9
+Seat 1: Mickamailys76 ( Ä10.39 EUR )
+Seat 2: enzatessa03 ( Ä4.53 EUR )
+Seat 3: frednana ( Ä3.17 EUR )
+Seat 4: Merrydianne ( Ä12.91 EUR )
+Seat 5: maelle59 ( Ä8.35 EUR )
+Seat 6: HMONGSAOLING ( Ä5.34 EUR )
+Seat 7: raptor73100 ( Ä4.32 EUR )
+Seat 8: elkador ( Ä4 EUR )
+Seat 9: delpitcho ( Ä8.12 EUR )
+Mickamailys76 posts small blind [Ä0.02 EUR].
+enzatessa03 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+frednana calls [Ä0.04 EUR]
+Merrydianne folds
+maelle59 folds
+HMONGSAOLING calls [Ä0.04 EUR]
+Mickamailys76 calls [Ä0.02 EUR]
+enzatessa03 checks
+** Dealing Flop ** [ 6s, 4c, 7s ]
+Mickamailys76 checks
+enzatessa03 checks
+frednana checks
+HMONGSAOLING bets [Ä0.07 EUR]
+Mickamailys76 folds
+enzatessa03 calls [Ä0.07 EUR]
+frednana calls [Ä0.07 EUR]
+** Dealing Turn ** [ 2s ]
+enzatessa03 checks
+frednana checks
+HMONGSAOLING bets [Ä0.17 EUR]
+enzatessa03 folds
+frednana calls [Ä0.17 EUR]
+** Dealing River ** [ Qc ]
+frednana checks
+HMONGSAOLING bets [Ä0.67 EUR]
+frednana folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins Ä1.34 EUR from the main pot.
+Game #14373448910 starts.
+
+
+
+#Game No : 14373091003
+***** Hand History for Game 14373091003 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 21:23:30 CEST 2015
+Table Grasse (Real Money)
+Seat 4 is the button
+Total number of players : 7/9
+Seat 2: polemploi ( Ä2.50 EUR )
+Seat 3: MOTOJAKO28 ( Ä13.81 EUR )
+Seat 4: Merrydianne ( Ä4.51 EUR )
+Seat 5: aunkelia888 ( Ä5.41 EUR )
+Seat 6: josfoil ( Ä4.94 EUR )
+Seat 7: Texas1109 ( Ä2.94 EUR )
+Seat 8: STALDERS ( Ä3.93 EUR )
+aunkelia888 posts small blind [Ä0.02 EUR].
+Texas1109 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+STALDERS calls [Ä0.04 EUR]
+polemploi folds
+MOTOJAKO28 folds
+Merrydianne folds
+aunkelia888 calls [Ä0.02 EUR]
+Texas1109 checks
+** Dealing Flop ** [ Ac, Kh, Js ]
+aunkelia888 checks
+Texas1109 checks
+STALDERS checks
+** Dealing Turn ** [ As ]
+aunkelia888 checks
+Texas1109 checks
+STALDERS checks
+** Dealing River ** [ 8h ]
+aunkelia888 checks
+Texas1109 checks
+STALDERS checks
+Texas1109 doesn't show [ 4s, 2d ]
+aunkelia888 shows [ 8s, 6c ]
+STALDERS shows [ Kc, 4c ]
+STALDERS wins Ä0.12 EUR from the main pot.
+Game #14373088690 starts.
+
+
+
+#Game No : 14373092645
+***** Hand History for Game 14373092645 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 21:24:39 CEST 2015
+Table Grasse (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 2: polemploi ( Ä2.50 EUR )
+Seat 3: MOTOJAKO28 ( Ä13.81 EUR )
+Seat 4: Merrydianne ( Ä4.51 EUR )
+Seat 5: aunkelia888 ( Ä5.37 EUR )
+Seat 7: Texas1109 ( Ä2.90 EUR )
+Seat 8: STALDERS ( Ä4.01 EUR )
+Texas1109 posts small blind [Ä0.02 EUR].
+STALDERS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+polemploi folds
+MOTOJAKO28 calls [Ä0.04 EUR]
+Merrydianne folds
+aunkelia888 calls [Ä0.04 EUR]
+Texas1109 calls [Ä0.02 EUR]
+STALDERS checks
+** Dealing Flop ** [ Jd, 3d, Kh ]
+Texas1109 checks
+STALDERS checks
+MOTOJAKO28 checks
+aunkelia888 bets [Ä0.15 EUR]
+Texas1109 folds
+STALDERS folds
+MOTOJAKO28 calls [Ä0.15 EUR]
+** Dealing Turn ** [ Jh ]
+MOTOJAKO28 checks
+aunkelia888 checks
+** Dealing River ** [ 8d ]
+MOTOJAKO28 checks
+aunkelia888 checks
+MOTOJAKO28 shows [ 9s, Th ]
+aunkelia888 shows [ 5d, 4d ]
+aunkelia888 wins Ä0.43 EUR from the main pot.
+Game #14373094504 starts.
+
+
+
+#Game No : 14373244625
+***** Hand History for Game 14373244625 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 22:26:42 CEST 2015
+Table Quimper (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 2: BONO31700 ( Ä7.11 EUR )
+Seat 3: Iroquoi ( Ä4 EUR )
+Seat 4: LOCEAM83 ( Ä4 EUR )
+Seat 5: FMXK 70 ( Ä3.64 EUR )
+Seat 6: marcus42 ( Ä1.25 EUR )
+Seat 8: seblagoutte1 ( Ä7.29 EUR )
+BONO31700 posts small blind [Ä0.02 EUR].
+Iroquoi posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+LOCEAM83 calls [Ä0.04 EUR]
+FMXK 70 folds
+marcus42 calls [Ä0.04 EUR]
+seblagoutte1 calls [Ä0.04 EUR]
+BONO31700 calls [Ä0.02 EUR]
+Iroquoi checks
+** Dealing Flop ** [ Th, 7h, 3h ]
+BONO31700 bets [Ä0.04 EUR]
+Iroquoi calls [Ä0.04 EUR]
+LOCEAM83 folds
+marcus42 calls [Ä0.04 EUR]
+seblagoutte1 folds
+** Dealing Turn ** [ As ]
+BONO31700 bets [Ä0.04 EUR]
+Iroquoi calls [Ä0.04 EUR]
+marcus42 calls [Ä0.04 EUR]
+** Dealing River ** [ 3s ]
+BONO31700 bets [Ä0.04 EUR]
+Iroquoi folds
+marcus42 calls [Ä0.04 EUR]
+BONO31700 shows [ 2d, Ts ]
+marcus42 shows [ Kd, Tc ]
+BONO31700 wins Ä0.25 EUR from the main pot.
+marcus42 wins Ä0.24 EUR from the main pot.
+Game #14373247586 starts.
+
+
+
+#Game No : 14373248528
+***** Hand History for Game 14373248528 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 22:28:02 CEST 2015
+Table Quimper (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 2: BONO31700 ( Ä7.20 EUR )
+Seat 3: Iroquoi ( Ä3.88 EUR )
+Seat 4: LOCEAM83 ( Ä4 EUR )
+Seat 5: FMXK 70 ( Ä3.64 EUR )
+Seat 6: marcus42 ( Ä1.33 EUR )
+Seat 8: seblagoutte1 ( Ä7.25 EUR )
+Iroquoi posts small blind [Ä0.02 EUR].
+LOCEAM83 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+FMXK 70 folds
+marcus42 calls [Ä0.04 EUR]
+seblagoutte1 folds
+BONO31700 calls [Ä0.04 EUR]
+Iroquoi calls [Ä0.02 EUR]
+LOCEAM83 checks
+** Dealing Flop ** [ 8d, Kc, Td ]
+Iroquoi checks
+LOCEAM83 checks
+marcus42 checks
+BONO31700 bets [Ä0.04 EUR]
+Iroquoi raises [Ä0.12 EUR]
+LOCEAM83 folds
+marcus42 calls [Ä0.12 EUR]
+BONO31700 calls [Ä0.08 EUR]
+** Dealing Turn ** [ Ah ]
+Iroquoi checks
+marcus42 checks
+BONO31700 checks
+** Dealing River ** [ Jc ]
+Iroquoi bets [Ä0.49 EUR]
+marcus42 folds
+BONO31700 folds
+Iroquoi does not show cards.
+Iroquoi wins Ä0.98 EUR from the main pot.
+Game #14373251665 starts.
+
+
+
+#Game No : 14373264174
+***** Hand History for Game 14373264174 *****
+Ä4 EUR NL Texas Hold'em - Saturday, January 31, 22:35:19 CEST 2015
+Table Quimper (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 2: BONO31700 ( Ä0 EUR )
+Seat 3: Iroquoi ( Ä4.17 EUR )
+Seat 4: LOCEAM83 ( Ä10.21 EUR )
+Seat 5: FMXK 70 ( Ä3.01 EUR )
+Seat 6: marcus42 ( Ä1.11 EUR )
+Seat 7: obelix68 ( Ä4.55 EUR )
+Seat 8: seblagoutte1 ( Ä7.25 EUR )
+obelix68 posts small blind [Ä0.02 EUR].
+seblagoutte1 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Iroquoi folds
+LOCEAM83 calls [Ä0.04 EUR]
+FMXK 70 calls [Ä0.04 EUR]
+marcus42 folds
+obelix68 calls [Ä0.02 EUR]
+seblagoutte1 checks
+** Dealing Flop ** [ Qc, 6s, 7c ]
+obelix68 checks
+seblagoutte1 checks
+LOCEAM83 bets [Ä0.28 EUR]
+FMXK 70 calls [Ä0.28 EUR]
+obelix68 calls [Ä0.28 EUR]
+seblagoutte1 folds
+** Dealing Turn ** [ 9h ]
+obelix68 checks
+LOCEAM83 bets [Ä0.28 EUR]
+FMXK 70 folds
+obelix68 calls [Ä0.28 EUR]
+** Dealing River ** [ 6d ]
+obelix68 checks
+LOCEAM83 bets [Ä0.28 EUR]
+obelix68 folds
+LOCEAM83 does not show cards.
+LOCEAM83 wins Ä1.74 EUR from the main pot.
+Game #14373268739 starts.
+
+
+
+#Game No : 14373551115
+***** Hand History for Game 14373551115 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 00:50:22 CEST 2015
+Table Quimper (Real Money)
+Seat 4 is the button
+Total number of players : 7/9
+Seat 1: Khedeje ( Ä3.81 EUR )
+Seat 2: elkador ( Ä3.37 EUR )
+Seat 4: SpaceMamba ( Ä1.79 EUR )
+Seat 5: FMXK 70 ( Ä3.10 EUR )
+Seat 6: STALDERS ( Ä1.95 EUR )
+Seat 7: lachance123 ( Ä5.52 EUR )
+Seat 8: STERZI ( Ä4.08 EUR )
+FMXK 70 posts small blind [Ä0.02 EUR].
+STALDERS posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+lachance123 calls [Ä0.04 EUR]
+STERZI calls [Ä0.04 EUR]
+elkador folds
+SpaceMamba calls [Ä0.04 EUR]
+FMXK 70 calls [Ä0.02 EUR]
+STALDERS checks
+** Dealing Flop ** [ 4c, 2s, 8d ]
+FMXK 70 checks
+STALDERS bets [Ä0.56 EUR]
+lachance123 folds
+STERZI folds
+SpaceMamba folds
+FMXK 70 folds
+STALDERS does not show cards.
+STALDERS wins Ä0.75 EUR from the main pot.
+Game #14373551281 starts.
+
+
+
+#Game No : 14373552518
+***** Hand History for Game 14373552518 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 00:52:07 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Khedeje ( Ä3.81 EUR )
+Seat 2: elkador ( Ä3.37 EUR )
+Seat 4: SpaceMamba ( Ä1.75 EUR )
+Seat 5: FMXK 70 ( Ä3.06 EUR )
+Seat 6: STALDERS ( Ä2.10 EUR )
+Seat 7: lachance123 ( Ä5.48 EUR )
+Seat 8: STERZI ( Ä4.04 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+lachance123 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+STERZI calls [Ä0.04 EUR]
+elkador folds
+SpaceMamba calls [Ä0.04 EUR]
+FMXK 70 folds
+STALDERS calls [Ä0.02 EUR]
+lachance123 checks
+** Dealing Flop ** [ Js, 4d, 2d ]
+STALDERS checks
+lachance123 bets [Ä0.04 EUR]
+STERZI calls [Ä0.04 EUR]
+SpaceMamba calls [Ä0.04 EUR]
+STALDERS calls [Ä0.04 EUR]
+** Dealing Turn ** [ 3c ]
+STALDERS checks
+lachance123 checks
+STERZI checks
+SpaceMamba checks
+** Dealing River ** [ Qh ]
+STALDERS checks
+lachance123 checks
+STERZI bets [Ä0.15 EUR]
+SpaceMamba folds
+STALDERS folds
+lachance123 folds
+STERZI does not show cards.
+STERZI wins Ä0.45 EUR from the main pot.
+Game #14373554846 starts.
+
+
+
+#Game No : 14373563728
+***** Hand History for Game 14373563728 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 00:59:21 CEST 2015
+Table Quimper (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 1: Khedeje ( Ä2.13 EUR )
+Seat 3: Valentin-33160 ( Ä2.01 EUR )
+Seat 4: SpaceMamba ( Ä4 EUR )
+Seat 5: FMXK 70 ( Ä5.21 EUR )
+Seat 6: STALDERS ( Ä1.10 EUR )
+Seat 7: lachance123 ( Ä5.38 EUR )
+Seat 8: STERZI ( Ä5.65 EUR )
+STERZI posts small blind [Ä0.02 EUR].
+Khedeje posts big blind [Ä0.04 EUR].
+Valentin-33160 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Valentin-33160 raises [Ä0.04 EUR]
+SpaceMamba calls [Ä0.08 EUR]
+FMXK 70 folds
+STALDERS folds
+STERZI calls [Ä0.06 EUR]
+Khedeje calls [Ä0.04 EUR]
+** Dealing Flop ** [ 2s, Jd, 3d ]
+STERZI checks
+Khedeje checks
+Valentin-33160 checks
+SpaceMamba bets [Ä0.08 EUR]
+STERZI calls [Ä0.08 EUR]
+Khedeje folds
+Valentin-33160 folds
+** Dealing Turn ** [ Qd ]
+STERZI checks
+SpaceMamba bets [Ä0.33 EUR]
+STERZI calls [Ä0.33 EUR]
+** Dealing River ** [ 6c ]
+STERZI checks
+SpaceMamba bets [Ä1.07 EUR]
+STERZI folds
+SpaceMamba does not show cards.
+SpaceMamba wins Ä2.14 EUR from the main pot.
+Game #14373565975 starts.
+
+
+
+#Game No : 14373566107
+***** Hand History for Game 14373566107 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 01:00:29 CEST 2015
+Table Quimper (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 1: Khedeje ( Ä2.05 EUR )
+Seat 3: Valentin-33160 ( Ä1.93 EUR )
+Seat 4: SpaceMamba ( Ä4.58 EUR )
+Seat 5: FMXK 70 ( Ä5.21 EUR )
+Seat 6: STALDERS ( Ä1.10 EUR )
+Seat 8: STERZI ( Ä5.16 EUR )
+Khedeje posts small blind [Ä0.02 EUR].
+Valentin-33160 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+SpaceMamba calls [Ä0.04 EUR]
+FMXK 70 folds
+STALDERS folds
+STERZI raises [Ä0.16 EUR]
+Khedeje raises [Ä0.54 EUR]
+Valentin-33160 folds
+SpaceMamba calls [Ä0.52 EUR]
+STERZI is all-In [Ä5 EUR]
+Khedeje is all-In [Ä1.49 EUR]
+SpaceMamba is all-In [Ä4.02 EUR]
+** Dealing Flop ** [ 8s, Qs, Jh ]
+** Dealing Turn ** [ Qh ]
+** Dealing River ** [ 6c ]
+Khedeje shows [ 7c, 7s ]
+SpaceMamba shows [ 4d, 7d ]
+STERZI shows [ Ad, Ah ]
+STERZI wins Ä0.58 EUR from the side pot 2.
+STERZI wins Ä4.72 EUR from the side pot 1.
+STERZI wins Ä5.78 EUR from the main pot.
+Game #14373567416 starts.
+
+
+
+#Game No : 14373577093
+***** Hand History for Game 14373577093 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 01:06:45 CEST 2015
+Table Quimper (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 2: MAUDFISH13 ( Ä4 EUR )
+Seat 3: Valentin-33160 ( Ä2.05 EUR )
+Seat 4: SpaceMamba ( Ä6.22 EUR )
+Seat 5: FMXK 70 ( Ä3.95 EUR )
+Seat 6: mikasmil13 ( Ä7.38 EUR )
+Seat 9: Merrydianne ( Ä4 EUR )
+SpaceMamba posts small blind [Ä0.02 EUR].
+FMXK 70 posts big blind [Ä0.04 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+MAUDFISH13 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mikasmil13 calls [Ä0.04 EUR]
+Merrydianne checks
+MAUDFISH13 checks
+Valentin-33160 folds
+SpaceMamba raises [Ä0.22 EUR]
+FMXK 70 folds
+mikasmil13 calls [Ä0.20 EUR]
+Merrydianne folds
+MAUDFISH13 folds
+** Dealing Flop ** [ 2d, 2c, Th ]
+SpaceMamba bets [Ä0.56 EUR]
+mikasmil13 folds
+SpaceMamba does not show cards.
+SpaceMamba wins Ä1.12 EUR from the main pot.
+Game #14373576433 starts.
+
+
+
+#Game No : 14373609677
+***** Hand History for Game 14373609677 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 01:28:52 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: jeje76160 ( Ä12.77 EUR )
+Seat 2: MAUDFISH13 ( Ä8.25 EUR )
+Seat 4: SpaceMamba ( Ä0 EUR )
+Seat 5: FMXK 70 ( Ä4.09 EUR )
+Seat 6: mikasmil13 ( Ä6.58 EUR )
+Seat 7: HMONGSAOLING ( Ä8.52 EUR )
+Seat 9: Merrydianne ( Ä7.28 EUR )
+mikasmil13 posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne calls [Ä0.04 EUR]
+jeje76160 folds
+MAUDFISH13 raises [Ä0.08 EUR]
+FMXK 70 folds
+mikasmil13 calls [Ä0.06 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+** Dealing Flop ** [ 4c, 3h, Jc ]
+mikasmil13 checks
+HMONGSAOLING checks
+Merrydianne checks
+MAUDFISH13 checks
+** Dealing Turn ** [ 8c ]
+mikasmil13 checks
+HMONGSAOLING checks
+Merrydianne checks
+MAUDFISH13 bets [Ä0.08 EUR]
+mikasmil13 folds
+HMONGSAOLING folds
+Merrydianne folds
+MAUDFISH13 shows [ Ts, Qd ]
+MAUDFISH13 wins Ä0.38 EUR from the main pot.
+Game #14373611123 starts.
+
+
+
+#Game No : 14373762448
+***** Hand History for Game 14373762448 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:06:44 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 3: POKER FOREVER ( Ä4.10 EUR )
+Seat 4: mohapro ( Ä4 EUR )
+Seat 5: tueuroner338 ( Ä6.31 EUR )
+Seat 7: HMONGSAOLING ( Ä4.71 EUR )
+Seat 8: Les Schwarzies ( Ä6.94 EUR )
+Seat 9: Merrydianne ( Ä4.43 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+Les Schwarzies posts big blind [Ä0.04 EUR].
+mohapro posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne raises [Ä0.32 EUR]
+POKER FOREVER folds
+mohapro calls [Ä0.28 EUR]
+tueuroner338 folds
+HMONGSAOLING folds
+Les Schwarzies folds
+** Dealing Flop ** [ Qc, Ts, Qs ]
+Merrydianne checks
+mohapro bets [Ä0.66 EUR]
+Merrydianne folds
+mohapro does not show cards.
+mohapro wins Ä1.32 EUR from the main pot.
+Game #14373762876 starts.
+
+
+
+#Game No : 14373762876
+***** Hand History for Game 14373762876 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:08:06 CEST 2015
+Table Quimper (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 3: POKER FOREVER ( Ä4.10 EUR )
+Seat 4: mohapro ( Ä4.34 EUR )
+Seat 5: tueuroner338 ( Ä6.31 EUR )
+Seat 7: HMONGSAOLING ( Ä4.69 EUR )
+Seat 8: Les Schwarzies ( Ä6.90 EUR )
+Seat 9: Merrydianne ( Ä4.11 EUR )
+Les Schwarzies posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+POKER FOREVER raises [Ä0.16 EUR]
+mohapro folds
+tueuroner338 folds
+HMONGSAOLING calls [Ä0.16 EUR]
+Les Schwarzies folds
+Merrydianne folds
+** Dealing Flop ** [ Qd, 7d, Ad ]
+POKER FOREVER bets [Ä0.36 EUR]
+HMONGSAOLING calls [Ä0.36 EUR]
+** Dealing Turn ** [ Ac ]
+POKER FOREVER bets [Ä1.03 EUR]
+HMONGSAOLING calls [Ä1.03 EUR]
+** Dealing River ** [ 5d ]
+POKER FOREVER checks
+HMONGSAOLING bets [Ä2.95 EUR]
+POKER FOREVER folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins Ä5.90 EUR from the main pot.
+Game #14373762809 starts.
+
+
+
+#Game No : 14373763568
+***** Hand History for Game 14373763568 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:10:15 CEST 2015
+Table Quimper (Real Money)
+Seat 8 is the button
+Total number of players : 6/9
+Seat 3: POKER FOREVER ( Ä4 EUR )
+Seat 4: mohapro ( Ä4.34 EUR )
+Seat 5: tueuroner338 ( Ä6.31 EUR )
+Seat 7: HMONGSAOLING ( Ä6.09 EUR )
+Seat 8: Les Schwarzies ( Ä6.88 EUR )
+Seat 9: Merrydianne ( Ä4.07 EUR )
+Merrydianne posts small blind [Ä0.02 EUR].
+POKER FOREVER posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mohapro raises [Ä0.08 EUR]
+tueuroner338 calls [Ä0.08 EUR]
+HMONGSAOLING calls [Ä0.08 EUR]
+Les Schwarzies folds
+Merrydianne calls [Ä0.06 EUR]
+POKER FOREVER calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ts, 6c, 6h ]
+Merrydianne checks
+POKER FOREVER bets [Ä0.38 EUR]
+mohapro calls [Ä0.38 EUR]
+tueuroner338 folds
+HMONGSAOLING raises [Ä0.76 EUR]
+Merrydianne calls [Ä0.76 EUR]
+POKER FOREVER folds
+mohapro calls [Ä0.38 EUR]
+** Dealing Turn ** [ 3d ]
+Merrydianne checks
+mohapro bets [Ä2.86 EUR]
+HMONGSAOLING is all-In [Ä5.25 EUR]
+Merrydianne folds
+mohapro folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins Ä10.59 EUR from the main pot.
+Game #14373765344 starts.
+
+
+
+#Game No : 14373768960
+***** Hand History for Game 14373768960 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:18:26 CEST 2015
+Table Quimper (Real Money)
+Seat 4 is the button
+Total number of players : 7/9
+Seat 3: engelsstaub6 ( Ä7.43 EUR )
+Seat 4: mohapro ( Ä4.88 EUR )
+Seat 5: tueuroner338 ( Ä6.26 EUR )
+Seat 6: philnc ( Ä4 EUR )
+Seat 7: HMONGSAOLING ( Ä10.33 EUR )
+Seat 8: Les Schwarzies ( Ä7.09 EUR )
+Seat 9: Merrydianne ( Ä4.56 EUR )
+tueuroner338 posts small blind [Ä0.02 EUR].
+philnc posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+HMONGSAOLING folds
+Les Schwarzies calls [Ä0.04 EUR]
+Merrydianne folds
+mohapro calls [Ä0.04 EUR]
+tueuroner338 calls [Ä0.02 EUR]
+philnc checks
+** Dealing Flop ** [ Kh, Td, 7c ]
+tueuroner338 checks
+philnc checks
+Les Schwarzies checks
+mohapro checks
+** Dealing Turn ** [ 2s ]
+tueuroner338 checks
+philnc checks
+Les Schwarzies checks
+mohapro bets [Ä0.15 EUR]
+tueuroner338 folds
+philnc folds
+Les Schwarzies calls [Ä0.15 EUR]
+** Dealing River ** [ 2d ]
+Les Schwarzies bets [Ä0.43 EUR]
+mohapro folds
+Les Schwarzies does not show cards.
+Les Schwarzies wins Ä0.86 EUR from the main pot.
+Game #14373769516 starts.
+
+
+
+#Game No : 14373779812
+***** Hand History for Game 14373779812 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:38:12 CEST 2015
+Table Quimper (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: Walem57 ( Ä3.82 EUR )
+Seat 3: engelsstaub6 ( Ä7.58 EUR )
+Seat 5: tueuroner338 ( Ä9.19 EUR )
+Seat 7: HMONGSAOLING ( Ä12.50 EUR )
+Seat 8: Les Schwarzies ( Ä7.52 EUR )
+Seat 9: Merrydianne ( Ä4.48 EUR )
+tueuroner338 posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Les Schwarzies folds
+Merrydianne raises [Ä0.12 EUR]
+Walem57 folds
+engelsstaub6 calls [Ä0.12 EUR]
+tueuroner338 calls [Ä0.10 EUR]
+HMONGSAOLING calls [Ä0.08 EUR]
+** Dealing Flop ** [ 2d, 7d, 8c ]
+tueuroner338 checks
+HMONGSAOLING checks
+Merrydianne bets [Ä0.33 EUR]
+engelsstaub6 calls [Ä0.33 EUR]
+tueuroner338 folds
+HMONGSAOLING folds
+** Dealing Turn ** [ 6c ]
+Merrydianne checks
+engelsstaub6 bets [Ä0.71 EUR]
+Merrydianne calls [Ä0.71 EUR]
+** Dealing River ** [ 5h ]
+Merrydianne bets [Ä1.79 EUR]
+engelsstaub6 folds
+Merrydianne does not show cards.
+Merrydianne wins Ä4.18 EUR from the main pot.
+Game #14373780432 starts.
+
+
+
+#Game No : 14373780489
+***** Hand History for Game 14373780489 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:40:05 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: Walem57 ( Ä3.82 EUR )
+Seat 3: engelsstaub6 ( Ä6.42 EUR )
+Seat 5: tueuroner338 ( Ä9.07 EUR )
+Seat 7: HMONGSAOLING ( Ä12.38 EUR )
+Seat 8: Les Schwarzies ( Ä7.52 EUR )
+Seat 9: Merrydianne ( Ä5.71 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+Les Schwarzies posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+Walem57 calls [Ä0.04 EUR]
+engelsstaub6 folds
+tueuroner338 calls [Ä0.04 EUR]
+HMONGSAOLING calls [Ä0.02 EUR]
+Les Schwarzies checks
+** Dealing Flop ** [ 4d, 9h, 4c ]
+HMONGSAOLING checks
+Les Schwarzies checks
+Walem57 checks
+tueuroner338 checks
+** Dealing Turn ** [ Jc ]
+HMONGSAOLING checks
+Les Schwarzies bets [Ä0.04 EUR]
+Walem57 folds
+tueuroner338 calls [Ä0.04 EUR]
+HMONGSAOLING folds
+** Dealing River ** [ 5s ]
+Les Schwarzies bets [Ä0.23 EUR]
+tueuroner338 raises [Ä0.92 EUR]
+Les Schwarzies calls [Ä0.69 EUR]
+tueuroner338 shows [ 4h, Td ]
+Les Schwarzies shows [ Qc, 4s ]
+Les Schwarzies wins Ä1.95 EUR from the main pot.
+Game #14373781225 starts.
+
+
+
+#Game No : 14373784521
+***** Hand History for Game 14373784521 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:49:22 CEST 2015
+Table Quimper (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: Walem57 ( Ä3.58 EUR )
+Seat 2: POUSSINO44 ( Ä3.66 EUR )
+Seat 3: engelsstaub6 ( Ä6.24 EUR )
+Seat 5: tueuroner338 ( Ä10.22 EUR )
+Seat 7: HMONGSAOLING ( Ä11.57 EUR )
+Seat 9: Merrydianne ( Ä5.01 EUR )
+tueuroner338 posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne calls [Ä0.04 EUR]
+Walem57 calls [Ä0.04 EUR]
+POUSSINO44 calls [Ä0.04 EUR]
+engelsstaub6 folds
+tueuroner338 raises [Ä0.06 EUR]
+HMONGSAOLING calls [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+Walem57 calls [Ä0.04 EUR]
+POUSSINO44 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Kd, Ah, 9s ]
+tueuroner338 bets [Ä0.38 EUR]
+HMONGSAOLING folds
+Merrydianne calls [Ä0.38 EUR]
+Walem57 folds
+POUSSINO44 folds
+** Dealing Turn ** [ Qh ]
+tueuroner338 checks
+Merrydianne checks
+** Dealing River ** [ 4c ]
+tueuroner338 bets [Ä1.09 EUR]
+Merrydianne calls [Ä1.09 EUR]
+Merrydianne doesn't show [ 4s, As ]
+tueuroner338 shows [ Qc, Qd ]
+tueuroner338 wins Ä3.12 EUR from the main pot.
+Game #14373785341 starts.
+
+
+
+#Game No : 14373785472
+***** Hand History for Game 14373785472 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 04:50:42 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: Walem57 ( Ä3.50 EUR )
+Seat 2: POUSSINO44 ( Ä3.58 EUR )
+Seat 3: engelsstaub6 ( Ä6.24 EUR )
+Seat 5: tueuroner338 ( Ä11.79 EUR )
+Seat 7: HMONGSAOLING ( Ä11.49 EUR )
+Seat 9: Merrydianne ( Ä4 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+Merrydianne posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Walem57 calls [Ä0.04 EUR]
+POUSSINO44 calls [Ä0.04 EUR]
+engelsstaub6 folds
+tueuroner338 raises [Ä0.08 EUR]
+HMONGSAOLING calls [Ä0.06 EUR]
+Merrydianne raises [Ä0.32 EUR]
+Walem57 calls [Ä0.32 EUR]
+POUSSINO44 folds
+tueuroner338 folds
+HMONGSAOLING folds
+** Dealing Flop ** [ 4d, Jc, Qd ]
+Merrydianne checks
+Walem57 checks
+** Dealing Turn ** [ 6d ]
+Merrydianne checks
+Walem57 checks
+** Dealing River ** [ 6h ]
+Merrydianne checks
+Walem57 bets [Ä0.64 EUR]
+Merrydianne folds
+Walem57 does not show cards.
+Walem57 wins Ä1.50 EUR from the main pot.
+Game #14373785886 starts.
+
+
+
+#Game No : 14373802736
+***** Hand History for Game 14373802736 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 05:28:50 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Walem57 ( Ä5.64 EUR )
+Seat 2: POUSSINO44 ( Ä3.54 EUR )
+Seat 5: tueuroner338 ( Ä6.28 EUR )
+Seat 6: stephane974 ( Ä8.88 EUR )
+Seat 7: HMONGSAOLING ( Ä12.66 EUR )
+Seat 8: l9u7d4o ( Ä2.77 EUR )
+Seat 9: Merrydianne ( Ä4.44 EUR )
+stephane974 posts small blind [Ä0.02 EUR].
+HMONGSAOLING posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+l9u7d4o folds
+Merrydianne calls [Ä0.04 EUR]
+Walem57 calls [Ä0.04 EUR]
+tueuroner338 folds
+stephane974 folds
+HMONGSAOLING raises [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+Walem57 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Kc, 7c, 7d ]
+HMONGSAOLING checks
+Merrydianne checks
+Walem57 checks
+** Dealing Turn ** [ Qc ]
+HMONGSAOLING bets [Ä0.04 EUR]
+Merrydianne calls [Ä0.04 EUR]
+Walem57 folds
+** Dealing River ** [ 5s ]
+HMONGSAOLING bets [Ä0.16 EUR]
+Merrydianne folds
+HMONGSAOLING does not show cards.
+HMONGSAOLING wins Ä0.48 EUR from the main pot.
+Game #14373803442 starts.
+
+
+
+#Game No : 14373803442
+***** Hand History for Game 14373803442 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 05:30:08 CEST 2015
+Table Quimper (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: Walem57 ( Ä5.56 EUR )
+Seat 5: tueuroner338 ( Ä6.28 EUR )
+Seat 6: stephane974 ( Ä8.86 EUR )
+Seat 7: HMONGSAOLING ( Ä12.86 EUR )
+Seat 8: l9u7d4o ( Ä2.77 EUR )
+Seat 9: Merrydianne ( Ä4.32 EUR )
+HMONGSAOLING posts small blind [Ä0.02 EUR].
+l9u7d4o posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Merrydianne folds
+Walem57 calls [Ä0.04 EUR]
+tueuroner338 calls [Ä0.04 EUR]
+stephane974 folds
+HMONGSAOLING raises [Ä0.06 EUR]
+l9u7d4o calls [Ä0.04 EUR]
+Walem57 calls [Ä0.04 EUR]
+tueuroner338 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 9h, Jc, 2s ]
+HMONGSAOLING bets [Ä0.15 EUR]
+l9u7d4o calls [Ä0.15 EUR]
+Walem57 folds
+tueuroner338 folds
+** Dealing Turn ** [ Ad ]
+HMONGSAOLING bets [Ä0.58 EUR]
+l9u7d4o raises [Ä1.16 EUR]
+HMONGSAOLING raises [Ä2.46 EUR]
+l9u7d4o is all-In [Ä1.38 EUR]
+** Dealing River ** [ 8s ]
+l9u7d4o doesn't show [ 4d, As ]
+HMONGSAOLING shows [ Ac, Js ]
+HMONGSAOLING wins Ä0.50 EUR from the side pot 1.
+HMONGSAOLING wins Ä5.32 EUR from the main pot.
+Game #14373804429 starts.
+
+
+
+#Game No : 14373821458
+***** Hand History for Game 14373821458 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 06:17:51 CEST 2015
+Table Quimper (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: Walem57 ( Ä4.24 EUR )
+Seat 3: delpitcho ( Ä3.92 EUR )
+Seat 4: jakajunior ( Ä1.90 EUR )
+Seat 5: tueuroner338 ( Ä5.13 EUR )
+Seat 6: stephane974 ( Ä15.12 EUR )
+Seat 7: versace177 ( Ä4 EUR )
+Seat 8: estrapade ( Ä3.06 EUR )
+Seat 9: Merrydianne ( Ä5.39 EUR )
+Walem57 posts small blind [Ä0.02 EUR].
+delpitcho posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jakajunior folds
+tueuroner338 calls [Ä0.04 EUR]
+estrapade folds
+Merrydianne raises [Ä0.08 EUR]
+Walem57 calls [Ä0.06 EUR]
+delpitcho folds
+tueuroner338 raises [Ä0.20 EUR]
+Merrydianne calls [Ä0.16 EUR]
+Walem57 calls [Ä0.16 EUR]
+** Dealing Flop ** [ Th, 7s, 5d ]
+Walem57 checks
+tueuroner338 bets [Ä0.71 EUR]
+Merrydianne folds
+Walem57 calls [Ä0.71 EUR]
+** Dealing Turn ** [ 7c ]
+Walem57 checks
+tueuroner338 bets [Ä2.04 EUR]
+Walem57 folds
+tueuroner338 does not show cards.
+tueuroner338 wins Ä4.08 EUR from the main pot.
+Game #14373822150 starts.
+
+
+
+#Game No : 14373822150
+***** Hand History for Game 14373822150 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 06:18:54 CEST 2015
+Table Quimper (Real Money)
+Seat 1 is the button
+Total number of players : 9/9
+Seat 1: Walem57 ( Ä3.29 EUR )
+Seat 2: TAKTAK197299 ( Ä4 EUR )
+Seat 3: delpitcho ( Ä3.88 EUR )
+Seat 4: jakajunior ( Ä1.90 EUR )
+Seat 5: tueuroner338 ( Ä6.22 EUR )
+Seat 6: stephane974 ( Ä15.12 EUR )
+Seat 7: versace177 ( Ä4 EUR )
+Seat 8: estrapade ( Ä3.06 EUR )
+Seat 9: Merrydianne ( Ä5.15 EUR )
+delpitcho posts small blind [Ä0.02 EUR].
+jakajunior posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+tueuroner338 calls [Ä0.04 EUR]
+estrapade calls [Ä0.04 EUR]
+Merrydianne raises [Ä0.16 EUR]
+Walem57 folds
+delpitcho folds
+jakajunior folds
+tueuroner338 calls [Ä0.12 EUR]
+estrapade calls [Ä0.12 EUR]
+** Dealing Flop ** [ 3s, 9c, 3c ]
+tueuroner338 checks
+estrapade bets [Ä0.51 EUR]
+Merrydianne folds
+tueuroner338 folds
+estrapade does not show cards.
+estrapade wins Ä1.02 EUR from the main pot.
+Game #14373822468 starts.
+
+
+
+#Game No : 14373822468
+***** Hand History for Game 14373822468 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 06:20:29 CEST 2015
+Table Quimper (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: Walem57 ( Ä3.29 EUR )
+Seat 2: TAKTAK197299 ( Ä4 EUR )
+Seat 3: delpitcho ( Ä3.86 EUR )
+Seat 4: jakajunior ( Ä1.86 EUR )
+Seat 5: tueuroner338 ( Ä6.06 EUR )
+Seat 7: versace177 ( Ä4 EUR )
+Seat 8: estrapade ( Ä3.41 EUR )
+jakajunior posts small blind [Ä0.02 EUR].
+tueuroner338 posts big blind [Ä0.04 EUR].
+TAKTAK197299 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+estrapade folds
+Walem57 raises [Ä0.16 EUR]
+TAKTAK197299 calls [Ä0.12 EUR]
+delpitcho calls [Ä0.16 EUR]
+jakajunior calls [Ä0.14 EUR]
+tueuroner338 raises [Ä0.52 EUR]
+Walem57 calls [Ä0.40 EUR]
+TAKTAK197299 calls [Ä0.40 EUR]
+delpitcho is all-In [Ä3.70 EUR]
+jakajunior is all-In [Ä1.70 EUR]
+tueuroner338 calls [Ä3.30 EUR]
+Walem57 folds
+TAKTAK197299 folds
+** Dealing Flop ** [ 7d, 9s, As ]
+** Dealing Turn ** [ 2c ]
+** Dealing River ** [ 3s ]
+jakajunior doesn't show [ 6h, Jd ]
+tueuroner338 shows [ 8h, Ah ]
+delpitcho shows [ 9h, 9c ]
+delpitcho wins Ä3.73 EUR from the side pot 1.
+delpitcho wins Ä6.26 EUR from the main pot.
+Game #14373823436 starts.
+
+
+
+#Game No : 14373505792
+***** Hand History for Game 14373505792 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 00:25:34 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 2: elkador ( Ä3.71 EUR )
+Seat 4: galactix ( Ä3.94 EUR )
+Seat 5: FMXK 70 ( Ä6.18 EUR )
+Seat 6: STALDERS ( Ä3.74 EUR )
+Seat 8: joss80 ( Ä3.91 EUR )
+Seat 9: raptor73100 ( Ä1.93 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+joss80 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+raptor73100 calls [Ä0.04 EUR]
+elkador folds
+galactix raises [Ä0.12 EUR]
+FMXK 70 calls [Ä0.12 EUR]
+STALDERS folds
+joss80 folds
+raptor73100 calls [Ä0.08 EUR]
+** Dealing Flop ** [ Ks, 5h, 4c ]
+raptor73100 bets [Ä0.20 EUR]
+galactix folds
+FMXK 70 folds
+raptor73100 does not show cards.
+raptor73100 wins Ä0.60 EUR from the main pot.
+Game #14373506021 starts.
+
+
+
+#Game No : 14373512452
+***** Hand History for Game 14373512452 *****
+Ä4 EUR NL Texas Hold'em - Sunday, February 01, 00:29:40 CEST 2015
+Table Quimper (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 2: elkador ( Ä3.39 EUR )
+Seat 4: galactix ( Ä3.94 EUR )
+Seat 5: FMXK 70 ( Ä5.97 EUR )
+Seat 6: STALDERS ( Ä3.68 EUR )
+Seat 8: joss80 ( Ä3.85 EUR )
+Seat 9: raptor73100 ( Ä2.67 EUR )
+STALDERS posts small blind [Ä0.02 EUR].
+joss80 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+raptor73100 calls [Ä0.04 EUR]
+elkador folds
+galactix folds
+FMXK 70 calls [Ä0.04 EUR]
+STALDERS calls [Ä0.02 EUR]
+joss80 checks
+** Dealing Flop ** [ 5h, 8d, 9s ]
+STALDERS checks
+joss80 bets [Ä0.04 EUR]
+raptor73100 calls [Ä0.04 EUR]
+FMXK 70 calls [Ä0.04 EUR]
+STALDERS folds
+** Dealing Turn ** [ 6s ]
+joss80 bets [Ä0.27 EUR]
+raptor73100 raises [Ä0.54 EUR]
+FMXK 70 raises [Ä0.81 EUR]
+joss80 is all-In [Ä3.50 EUR]
+raptor73100 is all-In [Ä2.05 EUR]
+FMXK 70 calls [Ä2.96 EUR]
+** Dealing River ** [ 6d ]
+raptor73100 doesn't show [ 7d, Jc ]
+FMXK 70 shows [ 7h, Ac ]
+joss80 shows [ 7c, Td ]
+joss80 wins Ä2.20 EUR from the side pot 1.
+joss80 wins Ä7.52 EUR from the main pot.
+Game #14373514044 starts.
+
+
+

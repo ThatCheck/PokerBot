@@ -1,0 +1,4141 @@
+#Game No : 14305531905
+***** Hand History for Game 14305531905 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:47:54 CEST 2014
+Table Cambrai (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: yanndu6200077 ( Ä5.84 EUR )
+Seat 2: memed62 ( Ä10.62 EUR )
+Seat 4: mimir62000 ( Ä9.36 EUR )
+Seat 5: Anthony71100 ( Ä0 EUR )
+Seat 6: bmrbmr ( Ä3.41 EUR )
+Seat 9: fishinthesee ( Ä4.90 EUR )
+fishinthesee posts small blind [Ä0.02 EUR].
+yanndu6200077 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+memed62 calls [Ä0.04 EUR]
+mimir62000 folds
+bmrbmr raises [Ä0.14 EUR]
+fishinthesee folds
+yanndu6200077 folds
+memed62 calls [Ä0.10 EUR]
+** Dealing Flop ** [ Jh, 5s, 4s ]
+memed62 checks
+bmrbmr checks
+** Dealing Turn ** [ Th ]
+memed62 checks
+bmrbmr checks
+** Dealing River ** [ 9c ]
+memed62 checks
+bmrbmr checks
+bmrbmr doesn't show [ Ac, 6c ]
+memed62 shows [ 2c, 2s ]
+memed62 wins Ä0.32 EUR from the main pot.
+Game #14305533019 starts.
+
+
+
+#Game No : 14305533019
+***** Hand History for Game 14305533019 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:48:52 CEST 2014
+Table Cambrai (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.80 EUR )
+Seat 2: memed62 ( Ä10.80 EUR )
+Seat 4: mimir62000 ( Ä9.36 EUR )
+Seat 6: bmrbmr ( Ä3.27 EUR )
+Seat 9: fishinthesee ( Ä4.88 EUR )
+yanndu6200077 posts small blind [Ä0.02 EUR].
+memed62 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mimir62000 folds
+bmrbmr raises [Ä0.08 EUR]
+fishinthesee folds
+yanndu6200077 folds
+memed62 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 9s, 4c, 7s ]
+memed62 checks
+bmrbmr bets [Ä0.10 EUR]
+memed62 calls [Ä0.10 EUR]
+** Dealing Turn ** [ 3s ]
+memed62 bets [Ä0.20 EUR]
+bmrbmr folds
+memed62 does not show cards.
+memed62 wins Ä0.56 EUR from the main pot.
+Game #14305534102 starts.
+
+
+
+#Game No : 14305534102
+***** Hand History for Game 14305534102 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:49:17 CEST 2014
+Table Cambrai (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.78 EUR )
+Seat 2: memed62 ( Ä10.98 EUR )
+Seat 4: mimir62000 ( Ä9.36 EUR )
+Seat 6: bmrbmr ( Ä3.09 EUR )
+Seat 9: fishinthesee ( Ä4.88 EUR )
+memed62 posts small blind [Ä0.02 EUR].
+mimir62000 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+bmrbmr raises [Ä0.12 EUR]
+fishinthesee folds
+yanndu6200077 folds
+memed62 folds
+mimir62000 folds
+bmrbmr does not show cards.
+bmrbmr wins Ä0.18 EUR from the main pot.
+Game #14305535056 starts.
+
+
+
+#Game No : 14305535056
+***** Hand History for Game 14305535056 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:49:58 CEST 2014
+Table Cambrai (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.78 EUR )
+Seat 2: memed62 ( Ä10.96 EUR )
+Seat 4: mimir62000 ( Ä9.32 EUR )
+Seat 6: bmrbmr ( Ä3.15 EUR )
+Seat 9: fishinthesee ( Ä4.88 EUR )
+mimir62000 posts small blind [Ä0.02 EUR].
+bmrbmr posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+fishinthesee raises [Ä0.12 EUR]
+yanndu6200077 folds
+memed62 folds
+mimir62000 calls [Ä0.10 EUR]
+bmrbmr calls [Ä0.08 EUR]
+** Dealing Flop ** [ 6d, 8d, Qs ]
+mimir62000 checks
+bmrbmr checks
+fishinthesee checks
+** Dealing Turn ** [ 7d ]
+mimir62000 checks
+bmrbmr checks
+fishinthesee bets [Ä0.17 EUR]
+mimir62000 folds
+bmrbmr folds
+fishinthesee does not show cards.
+fishinthesee wins Ä0.51 EUR from the main pot.
+Game #14305535821 starts.
+
+
+
+#Game No : 14305535821
+***** Hand History for Game 14305535821 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:50:33 CEST 2014
+Table Cambrai (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.78 EUR )
+Seat 2: memed62 ( Ä10.96 EUR )
+Seat 4: mimir62000 ( Ä9.20 EUR )
+Seat 6: bmrbmr ( Ä3.03 EUR )
+Seat 9: fishinthesee ( Ä5.10 EUR )
+bmrbmr posts small blind [Ä0.02 EUR].
+fishinthesee posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yanndu6200077 folds
+memed62 folds
+mimir62000 folds
+bmrbmr raises [Ä0.10 EUR]
+fishinthesee calls [Ä0.08 EUR]
+** Dealing Flop ** [ 9d, 7s, 8s ]
+bmrbmr bets [Ä0.08 EUR]
+fishinthesee calls [Ä0.08 EUR]
+** Dealing Turn ** [ Ks ]
+bmrbmr bets [Ä0.16 EUR]
+fishinthesee folds
+bmrbmr does not show cards.
+bmrbmr wins Ä0.54 EUR from the main pot.
+Game #14305536484 starts.
+
+
+
+#Game No : 14305536484
+***** Hand History for Game 14305536484 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:50:45 CEST 2014
+Table Cambrai (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.78 EUR )
+Seat 2: memed62 ( Ä10.96 EUR )
+Seat 4: mimir62000 ( Ä9.20 EUR )
+Seat 6: bmrbmr ( Ä3.21 EUR )
+Seat 9: fishinthesee ( Ä4.90 EUR )
+fishinthesee posts small blind [Ä0.02 EUR].
+yanndu6200077 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+memed62 folds
+mimir62000 folds
+bmrbmr raises [Ä0.08 EUR]
+fishinthesee folds
+yanndu6200077 folds
+bmrbmr does not show cards.
+bmrbmr wins Ä0.14 EUR from the main pot.
+Game #14305536668 starts.
+
+
+
+#Game No : 14305536668
+***** Hand History for Game 14305536668 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 01:51:12 CEST 2014
+Table Cambrai (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: yanndu6200077 ( Ä5.74 EUR )
+Seat 2: memed62 ( Ä10.96 EUR )
+Seat 4: mimir62000 ( Ä9.20 EUR )
+Seat 6: bmrbmr ( Ä3.27 EUR )
+Seat 9: fishinthesee ( Ä4.88 EUR )
+yanndu6200077 posts small blind [Ä0.02 EUR].
+memed62 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mimir62000 folds
+bmrbmr raises [Ä0.14 EUR]
+fishinthesee calls [Ä0.14 EUR]
+yanndu6200077 folds
+memed62 folds
+** Dealing Flop ** [ 3h, 5c, 4s ]
+bmrbmr bets [Ä0.18 EUR]
+fishinthesee folds
+bmrbmr does not show cards.
+bmrbmr wins Ä0.50 EUR from the main pot.
+Game #14305537163 starts.
+
+
+
+#Game No : 14305897274
+***** Hand History for Game 14305897274 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 12:05:28 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 8/9
+Seat 1: ILYES974 ( Ä4 EUR )
+Seat 2: tref4lon ( Ä2.37 EUR )
+Seat 3: hunter08 ( Ä7.38 EUR )
+Seat 4: Donyannick ( Ä1.40 EUR )
+Seat 5: Zou2599 ( Ä5.91 EUR )
+Seat 6: nikuturtle ( Ä4.39 EUR )
+Seat 7: K10Chris ( Ä0 EUR )
+Seat 9: dompok99 ( Ä2.15 EUR )
+tref4lon posts small blind [Ä0.02 EUR].
+hunter08 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Zou2599 calls [Ä0.04 EUR]
+nikuturtle folds
+dompok99 folds
+tref4lon folds
+hunter08 checks
+** Dealing Flop ** [ Qs, Jd, 4c ]
+hunter08 checks
+Zou2599 checks
+** Dealing Turn ** [ 2h ]
+hunter08 checks
+Zou2599 bets [Ä0.10 EUR]
+hunter08 raises [Ä0.22 EUR]
+Zou2599 calls [Ä0.12 EUR]
+** Dealing River ** [ 9s ]
+hunter08 bets [Ä0.13 EUR]
+Zou2599 calls [Ä0.13 EUR]
+Zou2599 doesn't show [ Ks, As ]
+hunter08 shows [ 8d, Qh ]
+hunter08 wins Ä0.75 EUR from the main pot.
+Game #14305898469 starts.
+
+
+
+#Game No : 14305901359
+***** Hand History for Game 14305901359 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 12:09:04 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: ILYES974 ( Ä4 EUR )
+Seat 3: hunter08 ( Ä7.61 EUR )
+Seat 4: Donyannick ( Ä1.40 EUR )
+Seat 5: Zou2599 ( Ä5.67 EUR )
+Seat 6: nikuturtle ( Ä4.35 EUR )
+Seat 7: K10Chris ( Ä1.99 EUR )
+Seat 9: dompok99 ( Ä2.15 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+K10Chris posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+dompok99 folds
+hunter08 calls [Ä0.04 EUR]
+Zou2599 calls [Ä0.04 EUR]
+nikuturtle raises [Ä0.06 EUR]
+K10Chris calls [Ä0.04 EUR]
+hunter08 calls [Ä0.04 EUR]
+Zou2599 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Qd, 2h, 4s ]
+nikuturtle checks
+K10Chris checks
+hunter08 checks
+Zou2599 checks
+** Dealing Turn ** [ 5h ]
+nikuturtle checks
+K10Chris bets [Ä0.15 EUR]
+hunter08 folds
+Zou2599 calls [Ä0.15 EUR]
+nikuturtle folds
+** Dealing River ** [ Ac ]
+K10Chris checks
+Zou2599 bets [Ä0.29 EUR]
+K10Chris calls [Ä0.29 EUR]
+Zou2599 shows [ 5s, Td ]
+K10Chris shows [ 8s, Ad ]
+K10Chris wins Ä1.12 EUR from the main pot.
+Game #14305903228 starts.
+
+
+
+#Game No : 14305917467
+***** Hand History for Game 14305917467 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 12:23:32 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: ILYES974 ( Ä4.88 EUR )
+Seat 2: smboss52 ( Ä3.74 EUR )
+Seat 4: Donyannick ( Ä1.40 EUR )
+Seat 5: Zou2599 ( Ä1.30 EUR )
+Seat 6: nikuturtle ( Ä5 EUR )
+Seat 7: K10Chris ( Ä2.60 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+K10Chris posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ILYES974 folds
+smboss52 folds
+Zou2599 calls [Ä0.04 EUR]
+nikuturtle raises [Ä0.06 EUR]
+K10Chris folds
+Zou2599 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 8s, 9c, 5c ]
+nikuturtle bets [Ä0.09 EUR]
+Zou2599 calls [Ä0.09 EUR]
+** Dealing Turn ** [ 6c ]
+nikuturtle checks
+Zou2599 checks
+** Dealing River ** [ 7s ]
+nikuturtle bets [Ä0.27 EUR]
+Zou2599 calls [Ä0.27 EUR]
+nikuturtle shows [ Tc, Qs ]
+Zou2599 shows [ 5h, Ts ]
+Zou2599 wins Ä0.43 EUR from the main pot.
+nikuturtle wins Ä0.43 EUR from the main pot.
+Game #14305917979 starts.
+
+
+
+#Game No : 14306132804
+***** Hand History for Game 14306132804 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 15:01:56 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 1: nikuturtle ( Ä4.28 EUR )
+Seat 2: boris7770 ( Ä5.46 EUR )
+Seat 3: Thatcher67 ( Ä1.17 EUR )
+Seat 6: larson88 ( Ä5.41 EUR )
+Seat 9: prehistorique10 ( Ä5.13 EUR )
+prehistorique10 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+boris7770 folds
+Thatcher67 calls [Ä0.04 EUR]
+larson88 calls [Ä0.04 EUR]
+prehistorique10 calls [Ä0.02 EUR]
+nikuturtle checks
+** Dealing Flop ** [ Kh, Qs, Kd ]
+prehistorique10 checks
+nikuturtle checks
+Thatcher67 checks
+larson88 checks
+** Dealing Turn ** [ 9d ]
+prehistorique10 bets [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+Thatcher67 folds
+larson88 calls [Ä0.04 EUR]
+** Dealing River ** [ 6c ]
+prehistorique10 bets [Ä0.13 EUR]
+nikuturtle folds
+larson88 calls [Ä0.13 EUR]
+larson88 doesn't show [ Qc, 7h ]
+prehistorique10 shows [ Js, Qh ]
+prehistorique10 wins Ä0.51 EUR from the main pot.
+Game #14306134150 starts.
+
+
+
+#Game No : 14306134294
+***** Hand History for Game 14306134294 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 15:03:21 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: nikuturtle ( Ä4.20 EUR )
+Seat 2: boris7770 ( Ä5.46 EUR )
+Seat 3: Thatcher67 ( Ä1.13 EUR )
+Seat 6: larson88 ( Ä5.20 EUR )
+Seat 9: prehistorique10 ( Ä5.43 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+boris7770 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Thatcher67 raises [Ä0.08 EUR]
+larson88 calls [Ä0.08 EUR]
+prehistorique10 folds
+nikuturtle calls [Ä0.06 EUR]
+boris7770 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 5d, Jh, Ad ]
+nikuturtle checks
+boris7770 checks
+Thatcher67 checks
+larson88 checks
+** Dealing Turn ** [ 9d ]
+nikuturtle checks
+boris7770 checks
+Thatcher67 checks
+larson88 checks
+** Dealing River ** [ 4h ]
+nikuturtle checks
+boris7770 checks
+Thatcher67 checks
+larson88 checks
+Thatcher67 doesn't show [ Qs, Ks ]
+nikuturtle shows [ 7h, 7s ]
+boris7770 shows [ 9s, Th ]
+larson88 shows [ 4s, 5h ]
+larson88 wins Ä0.30 EUR from the main pot.
+Game #14306135598 starts.
+
+
+
+#Game No : 14306148273
+***** Hand History for Game 14306148273 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 15:11:58 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: nikuturtle ( Ä4.36 EUR )
+Seat 2: boris7770 ( Ä6.10 EUR )
+Seat 3: Thatcher67 ( Ä0.05 EUR )
+Seat 5: guilhem4444 ( Ä6.05 EUR )
+Seat 6: larson88 ( Ä4.49 EUR )
+Seat 9: prehistorique10 ( Ä6.28 EUR )
+boris7770 posts small blind [Ä0.02 EUR].
+guilhem4444 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+larson88 calls [Ä0.04 EUR]
+prehistorique10 folds
+nikuturtle raises [Ä0.12 EUR]
+boris7770 folds
+guilhem4444 raises [Ä0.36 EUR]
+larson88 calls [Ä0.36 EUR]
+nikuturtle folds
+** Dealing Flop ** [ Kh, 3d, 5h ]
+guilhem4444 checks
+larson88 checks
+** Dealing Turn ** [ 7c ]
+guilhem4444 bets [Ä0.44 EUR]
+larson88 calls [Ä0.44 EUR]
+** Dealing River ** [ 6h ]
+guilhem4444 bets [Ä0.85 EUR]
+larson88 calls [Ä0.85 EUR]
+larson88 doesn't show [ 8c, 8h ]
+guilhem4444 shows [ Ad, Kd ]
+guilhem4444 wins Ä3.29 EUR from the main pot.
+Game #14306149168 starts.
+
+
+
+#Game No : 14306073824
+***** Hand History for Game 14306073824 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 14:24:36 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: engelsstaub6 ( Ä4.16 EUR )
+Seat 2: boris7770 ( Ä4.35 EUR )
+Seat 3: Thatcher67 ( Ä1.40 EUR )
+Seat 5: gigiladebutante ( Ä3.75 EUR )
+Seat 7: nanou2304 ( Ä4.07 EUR )
+Seat 8: divachanel ( Ä4 EUR )
+nanou2304 posts small blind [Ä0.02 EUR].
+divachanel posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+engelsstaub6 raises [Ä0.12 EUR]
+boris7770 calls [Ä0.12 EUR]
+gigiladebutante folds
+nanou2304 folds
+divachanel calls [Ä0.08 EUR]
+** Dealing Flop ** [ 5s, 3h, 4c ]
+divachanel checks
+engelsstaub6 checks
+boris7770 checks
+** Dealing Turn ** [ 6d ]
+divachanel checks
+engelsstaub6 checks
+boris7770 bets [Ä0.04 EUR]
+divachanel folds
+engelsstaub6 folds
+boris7770 does not show cards.
+boris7770 wins Ä0.40 EUR from the main pot.
+Game #14306075594 starts.
+
+
+
+#Game No : 14306109758
+***** Hand History for Game 14306109758 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 14:46:53 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 1: nikuturtle ( Ä4 EUR )
+Seat 2: boris7770 ( Ä5.94 EUR )
+Seat 3: Thatcher67 ( Ä0 EUR )
+Seat 4: ducus ( Ä4 EUR )
+Seat 5: gigiladebutante ( Ä3.72 EUR )
+Seat 6: larson88 ( Ä8.67 EUR )
+Seat 7: nanou2304 ( Ä4.06 EUR )
+gigiladebutante posts small blind [Ä0.02 EUR].
+larson88 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nanou2304 folds
+nikuturtle folds
+boris7770 calls [Ä0.04 EUR]
+gigiladebutante calls [Ä0.02 EUR]
+larson88 checks
+** Dealing Flop ** [ Js, Qs, 9d ]
+gigiladebutante bets [Ä0.08 EUR]
+larson88 folds
+boris7770 folds
+gigiladebutante does not show cards.
+gigiladebutante wins Ä0.20 EUR from the main pot.
+Game #14306109330 starts.
+
+
+
+#Game No : 14306110397
+***** Hand History for Game 14306110397 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 14:47:55 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: nikuturtle ( Ä4 EUR )
+Seat 2: boris7770 ( Ä5.90 EUR )
+Seat 3: Thatcher67 ( Ä1.40 EUR )
+Seat 4: ducus ( Ä4 EUR )
+Seat 5: gigiladebutante ( Ä3.80 EUR )
+Seat 6: larson88 ( Ä8.63 EUR )
+larson88 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+Thatcher67 posts small blind [Ä0.02 EUR].
+** Dealing down cards **
+boris7770 calls [Ä0.04 EUR]
+Thatcher67 calls [Ä0.02 EUR]
+gigiladebutante folds
+larson88 calls [Ä0.02 EUR]
+nikuturtle raises [Ä0.08 EUR]
+boris7770 calls [Ä0.08 EUR]
+Thatcher67 folds
+larson88 calls [Ä0.08 EUR]
+** Dealing Flop ** [ 7c, 8d, 9h ]
+larson88 checks
+nikuturtle checks
+boris7770 checks
+** Dealing Turn ** [ Qc ]
+larson88 bets [Ä0.36 EUR]
+nikuturtle folds
+boris7770 folds
+larson88 does not show cards.
+larson88 wins Ä0.74 EUR from the main pot.
+Game #14306110898 starts.
+
+
+
+#Game No : 14306112826
+***** Hand History for Game 14306112826 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 14:48:48 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: nikuturtle ( Ä4 EUR )
+Seat 2: boris7770 ( Ä5.78 EUR )
+Seat 3: Thatcher67 ( Ä1.36 EUR )
+Seat 4: ducus ( Ä4 EUR )
+Seat 5: gigiladebutante ( Ä3.80 EUR )
+Seat 6: larson88 ( Ä8.89 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+boris7770 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Thatcher67 folds
+gigiladebutante folds
+larson88 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.02 EUR]
+boris7770 checks
+** Dealing Flop ** [ Th, 3h, 5c ]
+nikuturtle bets [Ä0.06 EUR]
+boris7770 folds
+larson88 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä0.18 EUR from the main pot.
+Game #14306112718 starts.
+
+
+
+#Game No : 14306121323
+***** Hand History for Game 14306121323 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 14:53:31 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: nikuturtle ( Ä4 EUR )
+Seat 2: boris7770 ( Ä5.62 EUR )
+Seat 3: Thatcher67 ( Ä1.36 EUR )
+Seat 6: larson88 ( Ä7.78 EUR )
+Seat 9: prehistorique10 ( Ä5.25 EUR )
+boris7770 posts small blind [Ä0.02 EUR].
+Thatcher67 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+larson88 calls [Ä0.04 EUR]
+prehistorique10 folds
+nikuturtle raises [Ä0.16 EUR]
+boris7770 folds
+Thatcher67 folds
+larson88 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä0.26 EUR from the main pot.
+Game #14306121353 starts.
+
+
+
+#Game No : 14306293667
+***** Hand History for Game 14306293667 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:34:20 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: yanjian ( Ä4 EUR )
+Seat 3: poker75014 ( Ä3.93 EUR )
+Seat 4: adkill ( Ä2.85 EUR )
+Seat 5: thib630 ( Ä2.94 EUR )
+Seat 9: ArjunA66677 ( Ä14.23 EUR )
+ArjunA66677 posts small blind [Ä0.02 EUR].
+yanjian posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+poker75014 raises [Ä0.08 EUR]
+adkill calls [Ä0.08 EUR]
+thib630 folds
+ArjunA66677 folds
+yanjian calls [Ä0.04 EUR]
+** Dealing Flop ** [ 4c, Qd, 2s ]
+yanjian checks
+poker75014 bets [Ä0.25 EUR]
+adkill calls [Ä0.25 EUR]
+yanjian folds
+** Dealing Turn ** [ Jd ]
+poker75014 checks
+adkill checks
+** Dealing River ** [ As ]
+poker75014 checks
+adkill checks
+poker75014 shows [ 5h, 5s ]
+adkill shows [ Js, Ks ]
+adkill wins Ä0.71 EUR from the main pot.
+Game #14306294373 starts.
+
+
+
+#Game No : 14306295119
+***** Hand History for Game 14306295119 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:36:43 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: yanjian ( Ä3.92 EUR )
+Seat 3: poker75014 ( Ä3.60 EUR )
+Seat 4: adkill ( Ä3.23 EUR )
+Seat 5: thib630 ( Ä2.94 EUR )
+Seat 9: ArjunA66677 ( Ä14.21 EUR )
+yanjian posts small blind [Ä0.02 EUR].
+poker75014 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+adkill calls [Ä0.04 EUR]
+thib630 calls [Ä0.04 EUR]
+ArjunA66677 folds
+yanjian calls [Ä0.02 EUR]
+poker75014 checks
+** Dealing Flop ** [ 8s, Th, 4h ]
+yanjian checks
+poker75014 checks
+adkill checks
+thib630 checks
+** Dealing Turn ** [ Jd ]
+yanjian checks
+poker75014 folds
+adkill checks
+thib630 bets [Ä0.04 EUR]
+yanjian calls [Ä0.04 EUR]
+adkill calls [Ä0.04 EUR]
+** Dealing River ** [ 9c ]
+yanjian checks
+adkill checks
+thib630 bets [Ä0.04 EUR]
+yanjian raises [Ä0.08 EUR]
+adkill folds
+thib630 calls [Ä0.04 EUR]
+thib630 doesn't show [ 8h, 7d ]
+yanjian shows [ 6h, Qh ]
+yanjian wins Ä0.42 EUR from the main pot.
+Game #14306299356 starts.
+
+
+
+#Game No : 14306309971
+***** Hand History for Game 14306309971 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:43:03 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: julien4388 ( Ä2.15 EUR )
+Seat 3: stycki972 ( Ä1.62 EUR )
+Seat 4: adkill ( Ä4.29 EUR )
+Seat 5: thib630 ( Ä2.32 EUR )
+Seat 9: ArjunA66677 ( Ä14.49 EUR )
+adkill posts small blind [Ä0.02 EUR].
+thib630 posts big blind [Ä0.04 EUR].
+julien4388 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ArjunA66677 folds
+julien4388 checks
+stycki972 calls [Ä0.04 EUR]
+adkill calls [Ä0.02 EUR]
+thib630 checks
+** Dealing Flop ** [ Jh, Ts, 2c ]
+adkill bets [Ä0.15 EUR]
+thib630 folds
+julien4388 folds
+stycki972 folds
+adkill does not show cards.
+adkill wins Ä0.30 EUR from the main pot.
+Game #14306311130 starts.
+
+
+
+#Game No : 14306314350
+***** Hand History for Game 14306314350 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:46:03 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 1: julien4388 ( Ä1.88 EUR )
+Seat 3: stycki972 ( Ä1.58 EUR )
+Seat 4: adkill ( Ä4.73 EUR )
+Seat 5: thib630 ( Ä2.04 EUR )
+Seat 6: amaury80 ( Ä4 EUR )
+Seat 7: josfoil ( Ä4 EUR )
+Seat 9: ArjunA66677 ( Ä14.55 EUR )
+julien4388 posts small blind [Ä0.02 EUR].
+adkill posts big blind [Ä0.04 EUR].
+amaury80 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+thib630 calls [Ä0.04 EUR]
+amaury80 checks
+ArjunA66677 folds
+julien4388 raises [Ä0.06 EUR]
+adkill calls [Ä0.04 EUR]
+thib630 calls [Ä0.04 EUR]
+amaury80 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Qc, Ad, Qh ]
+julien4388 checks
+adkill checks
+thib630 checks
+amaury80 checks
+** Dealing Turn ** [ 5c ]
+julien4388 bets [Ä0.15 EUR]
+adkill calls [Ä0.15 EUR]
+thib630 folds
+amaury80 folds
+** Dealing River ** [ Kd ]
+julien4388 checks
+adkill checks
+adkill doesn't show [ 5h, 9d ]
+julien4388 shows [ Jd, Ks ]
+julien4388 wins Ä0.58 EUR from the main pot.
+Game #14306316499 starts.
+
+
+
+#Game No : 14306316616
+***** Hand History for Game 14306316616 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:46:58 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 7/9
+Seat 1: julien4388 ( Ä2.23 EUR )
+Seat 3: stycki972 ( Ä1.58 EUR )
+Seat 4: adkill ( Ä4.50 EUR )
+Seat 5: thib630 ( Ä1.96 EUR )
+Seat 6: amaury80 ( Ä3.92 EUR )
+Seat 7: josfoil ( Ä4 EUR )
+Seat 9: ArjunA66677 ( Ä14.55 EUR )
+adkill posts small blind [Ä0.02 EUR].
+thib630 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+amaury80 folds
+ArjunA66677 folds
+julien4388 raises [Ä0.08 EUR]
+adkill raises [Ä0.10 EUR]
+thib630 calls [Ä0.08 EUR]
+julien4388 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Tc, Qc, 2s ]
+adkill bets [Ä0.04 EUR]
+thib630 raises [Ä0.08 EUR]
+julien4388 calls [Ä0.08 EUR]
+adkill calls [Ä0.04 EUR]
+** Dealing Turn ** [ 6d ]
+adkill checks
+thib630 bets [Ä0.04 EUR]
+julien4388 calls [Ä0.04 EUR]
+adkill calls [Ä0.04 EUR]
+** Dealing River ** [ 3d ]
+adkill checks
+thib630 bets [Ä0.04 EUR]
+julien4388 calls [Ä0.04 EUR]
+adkill calls [Ä0.04 EUR]
+adkill doesn't show [ Ad, 2d ]
+thib630 shows [ Ts, Js ]
+julien4388 shows [ 7s, 2h ]
+thib630 wins Ä0.79 EUR from the main pot.
+Game #14306318582 starts.
+
+
+
+#Game No : 14306213250
+***** Hand History for Game 14306213250 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 15:49:46 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: Acrofil ( Ä3.24 EUR )
+Seat 2: cara29 ( Ä3.79 EUR )
+Seat 3: renato01 ( Ä6.39 EUR )
+Seat 4: hassan12 ( Ä0 EUR )
+Seat 7: MARCUS175 ( Ä2.47 EUR )
+Seat 8: loupi49 ( Ä3.08 EUR )
+renato01 posts small blind [Ä0.02 EUR].
+MARCUS175 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+loupi49 calls [Ä0.04 EUR]
+Acrofil calls [Ä0.04 EUR]
+cara29 folds
+renato01 calls [Ä0.02 EUR]
+MARCUS175 checks
+** Dealing Flop ** [ 4c, Kd, Kh ]
+renato01 checks
+MARCUS175 checks
+loupi49 bets [Ä0.04 EUR]
+Acrofil folds
+renato01 calls [Ä0.04 EUR]
+MARCUS175 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 9d ]
+renato01 bets [Ä0.12 EUR]
+MARCUS175 folds
+loupi49 calls [Ä0.12 EUR]
+** Dealing River ** [ Qc ]
+renato01 bets [Ä0.49 EUR]
+loupi49 is all-In [Ä2.88 EUR]
+renato01 calls [Ä2.39 EUR]
+loupi49 doesn't show [ 9h, Jh ]
+renato01 shows [ 8h, Ks ]
+renato01 wins Ä5.87 EUR from the main pot.
+Game #14306213743 starts.
+
+
+
+#Game No : 14306215969
+***** Hand History for Game 14306215969 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 15:51:27 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: Acrofil ( Ä3.16 EUR )
+Seat 2: cara29 ( Ä3.79 EUR )
+Seat 3: renato01 ( Ä9.24 EUR )
+Seat 5: Letoile_noire ( Ä4 EUR )
+Seat 7: MARCUS175 ( Ä2.37 EUR )
+Seat 8: loupi49 ( Ä2.45 EUR )
+Acrofil posts small blind [Ä0.02 EUR].
+cara29 posts big blind [Ä0.04 EUR].
+Letoile_noire posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+renato01 calls [Ä0.04 EUR]
+Letoile_noire checks
+MARCUS175 calls [Ä0.04 EUR]
+Acrofil folds
+cara29 checks
+** Dealing Flop ** [ 7d, 7s, Kh ]
+cara29 checks
+renato01 checks
+Letoile_noire checks
+MARCUS175 checks
+** Dealing Turn ** [ Jc ]
+cara29 bets [Ä0.04 EUR]
+renato01 raises [Ä0.12 EUR]
+Letoile_noire folds
+MARCUS175 calls [Ä0.12 EUR]
+cara29 folds
+** Dealing River ** [ Tc ]
+renato01 bets [Ä0.08 EUR]
+MARCUS175 calls [Ä0.08 EUR]
+renato01 shows [ 9s, Jh ]
+MARCUS175 shows [ Js, 2s ]
+renato01 wins Ä0.29 EUR from the main pot.
+MARCUS175 wins Ä0.29 EUR from the main pot.
+Game #14306216850 starts.
+
+
+
+#Game No : 14306264096
+***** Hand History for Game 14306264096 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 16:18:22 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 7/9
+Seat 2: cara29 ( Ä0 EUR )
+Seat 3: renato01 ( Ä11.42 EUR )
+Seat 4: Pa2pot ( Ä2.31 EUR )
+Seat 6: prehistorique10 ( Ä3.50 EUR )
+Seat 7: polemploi ( Ä1.40 EUR )
+Seat 8: loupi49 ( Ä2.06 EUR )
+Seat 9: ArjunA66677 ( Ä8.67 EUR )
+renato01 posts small blind [Ä0.02 EUR].
+Pa2pot posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+prehistorique10 folds
+loupi49 folds
+ArjunA66677 raises [Ä0.12 EUR]
+renato01 folds
+Pa2pot calls [Ä0.08 EUR]
+** Dealing Flop ** [ Js, Qh, 7s ]
+Pa2pot checks
+ArjunA66677 bets [Ä0.12 EUR]
+Pa2pot calls [Ä0.12 EUR]
+** Dealing Turn ** [ Jh ]
+Pa2pot checks
+ArjunA66677 bets [Ä0.23 EUR]
+Pa2pot folds
+ArjunA66677 does not show cards.
+ArjunA66677 wins Ä0.70 EUR from the main pot.
+Game #14306264916 starts.
+
+
+
+#Game No : 14305983931
+***** Hand History for Game 14305983931 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 13:20:56 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: ILYES974 ( Ä8.48 EUR )
+Seat 2: smboss52 ( Ä5.93 EUR )
+Seat 3: bylare ( Ä2.66 EUR )
+Seat 4: Jncga1415 ( Ä4.50 EUR )
+Seat 5: ludodu1600 ( Ä3.13 EUR )
+Seat 9: Pat0678 ( Ä4 EUR )
+smboss52 posts small blind [Ä0.02 EUR].
+bylare posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jncga1415 folds
+ludodu1600 calls [Ä0.04 EUR]
+ILYES974 folds
+smboss52 calls [Ä0.02 EUR]
+bylare checks
+** Dealing Flop ** [ As, 3d, Js ]
+smboss52 checks
+bylare checks
+ludodu1600 checks
+** Dealing Turn ** [ 9h ]
+smboss52 checks
+bylare checks
+ludodu1600 checks
+** Dealing River ** [ Td ]
+smboss52 bets [Ä0.12 EUR]
+bylare folds
+ludodu1600 folds
+smboss52 does not show cards.
+smboss52 wins Ä0.24 EUR from the main pot.
+Game #14305985224 starts.
+
+
+
+#Game No : 14305989665
+***** Hand History for Game 14305989665 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 13:25:56 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: ILYES974 ( Ä8.28 EUR )
+Seat 3: bylare ( Ä2.10 EUR )
+Seat 4: Jncga1415 ( Ä4.53 EUR )
+Seat 5: ludodu1600 ( Ä3.52 EUR )
+Seat 6: p4sho ( Ä4.16 EUR )
+Seat 9: Pat0678 ( Ä4 EUR )
+p4sho posts small blind [Ä0.02 EUR].
+ILYES974 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+bylare raises [Ä0.08 EUR]
+Jncga1415 folds
+ludodu1600 calls [Ä0.08 EUR]
+p4sho calls [Ä0.06 EUR]
+ILYES974 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Td, Qh, 4h ]
+p4sho bets [Ä0.16 EUR]
+ILYES974 folds
+bylare calls [Ä0.16 EUR]
+ludodu1600 calls [Ä0.16 EUR]
+** Dealing Turn ** [ 7s ]
+p4sho bets [Ä0.20 EUR]
+bylare raises [Ä0.40 EUR]
+ludodu1600 folds
+p4sho calls [Ä0.20 EUR]
+** Dealing River ** [ 7d ]
+p4sho checks
+bylare is all-In [Ä1.46 EUR]
+p4sho folds
+bylare does not show cards.
+bylare wins Ä2.96 EUR from the main pot.
+Game #14305991377 starts.
+
+
+
+#Game No : 14306007893
+***** Hand History for Game 14306007893 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 13:38:40 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 7/9
+Seat 1: ILYES974 ( Ä10.54 EUR )
+Seat 2: aurorejulien58 ( Ä4 EUR )
+Seat 3: Mikiller70 ( Ä4 EUR )
+Seat 5: ludodu1600 ( Ä2.96 EUR )
+Seat 7: Greg_1078 ( Ä4.66 EUR )
+Seat 8: prehistorique10 ( Ä5.29 EUR )
+Seat 9: Pat0678 ( Ä4 EUR )
+Greg_1078 posts small blind [Ä0.02 EUR].
+prehistorique10 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ILYES974 folds
+aurorejulien58 folds
+Mikiller70 calls [Ä0.04 EUR]
+Greg_1078 calls [Ä0.02 EUR]
+prehistorique10 checks
+** Dealing Flop ** [ Kd, 8h, Ts ]
+Greg_1078 checks
+prehistorique10 folds
+Mikiller70 bets [Ä0.12 EUR]
+Greg_1078 calls [Ä0.12 EUR]
+** Dealing Turn ** [ 7d ]
+Greg_1078 checks
+Mikiller70 checks
+** Dealing River ** [ 7s ]
+Greg_1078 checks
+Mikiller70 checks
+Greg_1078 shows [ Jc, 8s ]
+Mikiller70 shows [ 2s, Kh ]
+Mikiller70 wins Ä0.34 EUR from the main pot.
+Game #14306008774 starts.
+
+
+
+#Game No : 14306008813
+***** Hand History for Game 14306008813 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 13:39:51 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 7/9
+Seat 1: ILYES974 ( Ä10.54 EUR )
+Seat 2: aurorejulien58 ( Ä4 EUR )
+Seat 3: Mikiller70 ( Ä4.18 EUR )
+Seat 5: ludodu1600 ( Ä2.96 EUR )
+Seat 7: Greg_1078 ( Ä4.50 EUR )
+Seat 8: prehistorique10 ( Ä5.25 EUR )
+Seat 9: Pat0678 ( Ä4 EUR )
+prehistorique10 posts small blind [Ä0.02 EUR].
+ILYES974 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+aurorejulien58 folds
+Mikiller70 folds
+Greg_1078 calls [Ä0.04 EUR]
+prehistorique10 calls [Ä0.02 EUR]
+ILYES974 checks
+** Dealing Flop ** [ 7c, Qc, Jh ]
+prehistorique10 checks
+ILYES974 checks
+Greg_1078 checks
+** Dealing Turn ** [ 6d ]
+prehistorique10 bets [Ä0.04 EUR]
+ILYES974 folds
+Greg_1078 calls [Ä0.04 EUR]
+** Dealing River ** [ Tc ]
+prehistorique10 bets [Ä0.04 EUR]
+Greg_1078 calls [Ä0.04 EUR]
+Greg_1078 doesn't show [ Js, Kh ]
+prehistorique10 shows [ Qd, 2d ]
+prehistorique10 wins Ä0.27 EUR from the main pot.
+Game #14306010195 starts.
+
+
+
+#Game No : 14306691827
+***** Hand History for Game 14306691827 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 19:43:48 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 8/9
+Seat 1: Rabiche ( Ä0 EUR )
+Seat 2: sl1886 ( Ä10.20 EUR )
+Seat 3: major94R ( Ä0 EUR )
+Seat 4: mitchy1301 ( Ä7.81 EUR )
+Seat 5: x_JOEYSTARR ( Ä3.70 EUR )
+Seat 7: royalpuckr1 ( Ä0 EUR )
+Seat 8: DomingoGuerr ( Ä4.50 EUR )
+Seat 9: polbo02 ( Ä3.35 EUR )
+DomingoGuerr posts small blind [Ä0.02 EUR].
+polbo02 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+sl1886 folds
+mitchy1301 folds
+x_JOEYSTARR folds
+DomingoGuerr raises [Ä0.14 EUR]
+polbo02 folds
+DomingoGuerr does not show cards.
+DomingoGuerr wins Ä0.20 EUR from the main pot.
+Game #14306691945 starts.
+
+
+
+#Game No : 14306776331
+***** Hand History for Game 14306776331 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 20:22:07 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 8/9
+Seat 2: larson88 ( Ä3.28 EUR )
+Seat 3: ZEW12 ( Ä4.57 EUR )
+Seat 4: Emixam88 ( Ä4 EUR )
+Seat 5: flm13500 ( Ä3.76 EUR )
+Seat 6: Ougadougou99 ( Ä11.93 EUR )
+Seat 7: menche67 ( Ä1.76 EUR )
+Seat 8: bacchus555 ( Ä3.96 EUR )
+Seat 9: polbo02 ( Ä7.39 EUR )
+bacchus555 posts small blind [Ä0.02 EUR].
+polbo02 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+larson88 calls [Ä0.04 EUR]
+ZEW12 folds
+menche67 folds
+bacchus555 calls [Ä0.02 EUR]
+polbo02 checks
+** Dealing Flop ** [ 3s, 8s, Qc ]
+bacchus555 checks
+polbo02 checks
+larson88 checks
+** Dealing Turn ** [ 9d ]
+bacchus555 checks
+polbo02 checks
+larson88 checks
+** Dealing River ** [ 3c ]
+bacchus555 bets [Ä0.12 EUR]
+polbo02 folds
+larson88 folds
+bacchus555 does not show cards.
+bacchus555 wins Ä0.24 EUR from the main pot.
+Game #14306779740 starts.
+
+
+
+#Game No : 14306780696
+***** Hand History for Game 14306780696 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 20:23:26 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 8 is the button
+Total number of players : 7/9
+Seat 2: larson88 ( Ä3.24 EUR )
+Seat 3: ZEW12 ( Ä4.57 EUR )
+Seat 5: flm13500 ( Ä3.76 EUR )
+Seat 6: Ougadougou99 ( Ä11.93 EUR )
+Seat 7: menche67 ( Ä1.76 EUR )
+Seat 8: bacchus555 ( Ä4.04 EUR )
+Seat 9: polbo02 ( Ä7.35 EUR )
+polbo02 posts small blind [Ä0.02 EUR].
+larson88 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ZEW12 calls [Ä0.04 EUR]
+menche67 folds
+bacchus555 folds
+polbo02 calls [Ä0.02 EUR]
+larson88 checks
+** Dealing Flop ** [ 9h, 7s, 9d ]
+polbo02 checks
+larson88 checks
+ZEW12 bets [Ä0.04 EUR]
+polbo02 calls [Ä0.04 EUR]
+larson88 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 6d ]
+polbo02 checks
+larson88 checks
+ZEW12 bets [Ä0.04 EUR]
+polbo02 calls [Ä0.04 EUR]
+larson88 calls [Ä0.04 EUR]
+** Dealing River ** [ 8d ]
+polbo02 checks
+larson88 bets [Ä0.04 EUR]
+ZEW12 calls [Ä0.04 EUR]
+polbo02 folds
+larson88 shows [ 8h, Ah ]
+ZEW12 shows [ Qh, Qc ]
+ZEW12 wins Ä0.42 EUR from the main pot.
+Game #14306783927 starts.
+
+
+
+#Game No : 14307282334
+***** Hand History for Game 14307282334 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 23:29:52 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 7/9
+Seat 1: Dan P77 ( Ä0 EUR )
+Seat 2: memed62 ( Ä5.31 EUR )
+Seat 4: mimir62000 ( Ä4.13 EUR )
+Seat 5: yoo30 ( Ä11.02 EUR )
+Seat 6: nanou2304 ( Ä7.61 EUR )
+Seat 7: menche67 ( Ä2.78 EUR )
+Seat 8: yanndu6200077 ( Ä4.48 EUR )
+nanou2304 posts small blind [Ä0.02 EUR].
+menche67 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+memed62 folds
+mimir62000 calls [Ä0.04 EUR]
+yoo30 folds
+nanou2304 folds
+menche67 checks
+** Dealing Flop ** [ Qh, 7c, Th ]
+menche67 checks
+mimir62000 checks
+** Dealing Turn ** [ Jc ]
+menche67 checks
+mimir62000 checks
+** Dealing River ** [ 6c ]
+menche67 checks
+mimir62000 bets [Ä0.04 EUR]
+menche67 calls [Ä0.04 EUR]
+menche67 doesn't show [ 8h, Tc ]
+mimir62000 shows [ 6d, 7d ]
+mimir62000 wins Ä0.17 EUR from the main pot.
+Game #14307284213 starts.
+
+
+
+#Game No : 14307284213
+***** Hand History for Game 14307284213 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 23:30:03 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 1: Dan P77 ( Ä0 EUR )
+Seat 2: memed62 ( Ä5.31 EUR )
+Seat 4: mimir62000 ( Ä4.22 EUR )
+Seat 5: yoo30 ( Ä11.02 EUR )
+Seat 6: nanou2304 ( Ä7.59 EUR )
+Seat 7: menche67 ( Ä2.70 EUR )
+Seat 8: yanndu6200077 ( Ä4.48 EUR )
+menche67 posts small blind [Ä0.02 EUR].
+memed62 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+mimir62000 folds
+yoo30 folds
+nanou2304 folds
+menche67 folds
+memed62 does not show cards.
+memed62 wins Ä0.06 EUR from the main pot.
+Game #14307283082 starts.
+
+
+
+#Game No : 14307289044
+***** Hand History for Game 14307289044 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 23:32:17 CEST 2014
+Table Sotteville-l√®s-Rouen (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä2.73 EUR )
+Seat 2: schwarzy90 ( Ä1.41 EUR )
+Seat 3: Morax7 ( Ä7.31 EUR )
+Seat 4: lola51 ( Ä2.46 EUR )
+Seat 5: Nicklass44 ( Ä4.42 EUR )
+Morax7 posts small blind [Ä0.02 EUR].
+lola51 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Nicklass44 folds
+Acrofil calls [Ä0.04 EUR]
+schwarzy90 folds
+Morax7 raises [Ä0.10 EUR]
+lola51 calls [Ä0.08 EUR]
+Acrofil calls [Ä0.08 EUR]
+** Dealing Flop ** [ 4h, 5c, 7d ]
+Morax7 bets [Ä0.17 EUR]
+lola51 calls [Ä0.17 EUR]
+Acrofil folds
+** Dealing Turn ** [ 6h ]
+Morax7 checks
+lola51 checks
+** Dealing River ** [ Ad ]
+Morax7 bets [Ä0.49 EUR]
+lola51 calls [Ä0.49 EUR]
+Morax7 shows [ Ac, 4c ]
+lola51 shows [ 6c, 8h ]
+lola51 wins Ä1.57 EUR from the main pot.
+Game #14307289836 starts.
+
+
+
+#Game No : 14307290190
+***** Hand History for Game 14307290190 *****
+Ä4 EUR NL Texas Hold'em - Monday, December 29, 23:32:52 CEST 2014
+Table Sotteville-l√®s-Rouen (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä2.61 EUR )
+Seat 2: schwarzy90 ( Ä1.41 EUR )
+Seat 3: Morax7 ( Ä6.53 EUR )
+Seat 4: lola51 ( Ä3.25 EUR )
+Seat 5: Nicklass44 ( Ä4.42 EUR )
+lola51 posts small blind [Ä0.02 EUR].
+Nicklass44 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Acrofil folds
+schwarzy90 folds
+Morax7 folds
+lola51 calls [Ä0.02 EUR]
+Nicklass44 checks
+** Dealing Flop ** [ Qs, Jd, 7d ]
+lola51 checks
+Nicklass44 bets [Ä0.04 EUR]
+lola51 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Th ]
+lola51 checks
+Nicklass44 bets [Ä0.12 EUR]
+lola51 calls [Ä0.12 EUR]
+** Dealing River ** [ 5d ]
+lola51 checks
+Nicklass44 bets [Ä0.32 EUR]
+lola51 folds
+Nicklass44 does not show cards.
+Nicklass44 wins Ä0.70 EUR from the main pot.
+Game #14307290638 starts.
+
+
+
+#Game No : 14307659232
+***** Hand History for Game 14307659232 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 03:59:41 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: Cedbod74 ( Ä3.41 EUR )
+Seat 3: assroi88 ( Ä10.62 EUR )
+Seat 4: david070599 ( Ä15.21 EUR )
+Seat 5: Curvawins25 ( Ä2.67 EUR )
+Seat 8: HARIBOT13 ( Ä2.55 EUR )
+david070599 posts small blind [Ä0.02 EUR].
+Curvawins25 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+Cedbod74 calls [Ä0.04 EUR]
+assroi88 raises [Ä0.08 EUR]
+david070599 folds
+Curvawins25 calls [Ä0.04 EUR]
+Cedbod74 folds
+** Dealing Flop ** [ As, Th, Qc ]
+Curvawins25 checks
+assroi88 bets [Ä0.21 EUR]
+Curvawins25 calls [Ä0.21 EUR]
+** Dealing Turn ** [ 7h ]
+Curvawins25 checks
+assroi88 checks
+** Dealing River ** [ 4c ]
+Curvawins25 bets [Ä0.45 EUR]
+assroi88 folds
+Curvawins25 shows [ Kc, 9s ]
+Curvawins25 wins Ä1.05 EUR from the main pot.
+Game #14307659494 starts.
+
+
+
+#Game No : 14307660724
+***** Hand History for Game 14307660724 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 04:03:53 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 3: assroi88 ( Ä9.39 EUR )
+Seat 4: david070599 ( Ä15.60 EUR )
+Seat 5: Curvawins25 ( Ä2.90 EUR )
+Seat 6: ALDEMAYOR397 ( Ä3.94 EUR )
+Seat 8: HARIBOT13 ( Ä3.23 EUR )
+david070599 posts small blind [Ä0.02 EUR].
+Curvawins25 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ALDEMAYOR397 calls [Ä0.04 EUR]
+HARIBOT13 folds
+assroi88 calls [Ä0.04 EUR]
+david070599 calls [Ä0.02 EUR]
+Curvawins25 checks
+** Dealing Flop ** [ As, 8s, 3s ]
+david070599 bets [Ä0.15 EUR]
+Curvawins25 folds
+ALDEMAYOR397 calls [Ä0.15 EUR]
+assroi88 folds
+** Dealing Turn ** [ 5c ]
+david070599 checks
+ALDEMAYOR397 bets [Ä0.20 EUR]
+david070599 calls [Ä0.20 EUR]
+** Dealing River ** [ 9c ]
+david070599 checks
+ALDEMAYOR397 bets [Ä1.60 EUR]
+david070599 folds
+ALDEMAYOR397 does not show cards.
+ALDEMAYOR397 wins Ä2.41 EUR from the main pot.
+Game #14307661861 starts.
+
+
+
+#Game No : 14307661861
+***** Hand History for Game 14307661861 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 04:04:45 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 3: assroi88 ( Ä9.35 EUR )
+Seat 4: david070599 ( Ä15.21 EUR )
+Seat 5: Curvawins25 ( Ä2.86 EUR )
+Seat 6: ALDEMAYOR397 ( Ä4.36 EUR )
+Seat 8: HARIBOT13 ( Ä3.23 EUR )
+Curvawins25 posts small blind [Ä0.02 EUR].
+ALDEMAYOR397 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+HARIBOT13 folds
+assroi88 raises [Ä0.32 EUR]
+david070599 calls [Ä0.32 EUR]
+Curvawins25 calls [Ä0.30 EUR]
+ALDEMAYOR397 folds
+** Dealing Flop ** [ 7s, As, 6d ]
+Curvawins25 checks
+assroi88 checks
+david070599 bets [Ä0.94 EUR]
+Curvawins25 calls [Ä0.94 EUR]
+assroi88 folds
+** Dealing Turn ** [ Qs ]
+Curvawins25 checks
+david070599 bets [Ä1.34 EUR]
+Curvawins25 folds
+david070599 does not show cards.
+david070599 wins Ä4.03 EUR from the main pot.
+Game #14307662272 starts.
+
+
+
+#Game No : 14307662272
+***** Hand History for Game 14307662272 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 04:05:52 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 3: assroi88 ( Ä9.03 EUR )
+Seat 4: david070599 ( Ä16.64 EUR )
+Seat 5: Curvawins25 ( Ä1.60 EUR )
+Seat 6: ALDEMAYOR397 ( Ä4.32 EUR )
+Seat 8: HARIBOT13 ( Ä3.23 EUR )
+ALDEMAYOR397 posts small blind [Ä0.02 EUR].
+HARIBOT13 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+assroi88 raises [Ä0.08 EUR]
+david070599 folds
+Curvawins25 folds
+ALDEMAYOR397 folds
+HARIBOT13 calls [Ä0.04 EUR]
+** Dealing Flop ** [ 9s, 3s, 7h ]
+HARIBOT13 checks
+assroi88 bets [Ä0.17 EUR]
+HARIBOT13 calls [Ä0.17 EUR]
+** Dealing Turn ** [ Th ]
+HARIBOT13 checks
+assroi88 bets [Ä0.49 EUR]
+HARIBOT13 raises [Ä1.12 EUR]
+assroi88 calls [Ä0.63 EUR]
+** Dealing River ** [ 2s ]
+HARIBOT13 is all-In [Ä1.86 EUR]
+assroi88 calls [Ä1.86 EUR]
+HARIBOT13 shows [ 9c, Tc ]
+assroi88 shows [ 7s, Js ]
+assroi88 wins Ä6.05 EUR from the main pot.
+Game #14307662800 starts.
+
+
+
+#Game No : 14307705350
+***** Hand History for Game 14307705350 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 05:33:55 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 3: djangomajor ( Ä3.64 EUR )
+Seat 4: alkan7177 ( Ä2.05 EUR )
+Seat 5: shadow74700 ( Ä4.48 EUR )
+Seat 7: themeliass66 ( Ä7.22 EUR )
+Seat 8: ReavPok ( Ä4 EUR )
+Seat 9: Jimmylbt ( Ä2.73 EUR )
+shadow74700 posts small blind [Ä0.02 EUR].
+themeliass66 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jimmylbt folds
+djangomajor calls [Ä0.04 EUR]
+alkan7177 calls [Ä0.04 EUR]
+shadow74700 folds
+themeliass66 checks
+** Dealing Flop ** [ 5s, 2c, As ]
+themeliass66 checks
+djangomajor checks
+alkan7177 checks
+** Dealing Turn ** [ 4h ]
+themeliass66 checks
+djangomajor checks
+alkan7177 checks
+** Dealing River ** [ Js ]
+themeliass66 checks
+djangomajor checks
+alkan7177 bets [Ä0.04 EUR]
+themeliass66 calls [Ä0.04 EUR]
+djangomajor folds
+themeliass66 doesn't show [ 6h, Qh ]
+alkan7177 shows [ 8d, Jc ]
+alkan7177 wins Ä0.21 EUR from the main pot.
+Game #14307705695 starts.
+
+
+
+#Game No : 14307725532
+***** Hand History for Game 14307725532 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:25:49 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.42 EUR )
+Seat 3: Jere57330 ( Ä2.02 EUR )
+Seat 4: dravgor ( Ä1.03 EUR )
+Seat 5: shadow74700 ( Ä3.50 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.06 EUR )
+dravgor posts small blind [Ä0.02 EUR].
+shadow74700 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jimmylbt calls [Ä0.04 EUR]
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 folds
+dravgor raises [Ä0.10 EUR]
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE calls [Ä0.08 EUR]
+** Dealing Flop ** [ Qd, Td, 6d ]
+dravgor checks
+NEILOPHE bets [Ä0.30 EUR]
+dravgor folds
+NEILOPHE does not show cards.
+NEILOPHE wins Ä0.60 EUR from the main pot.
+Game #14307725711 starts.
+
+
+
+#Game No : 14307725711
+***** Hand History for Game 14307725711 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:26:34 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.60 EUR )
+Seat 3: Jere57330 ( Ä2.02 EUR )
+Seat 4: dravgor ( Ä0.91 EUR )
+Seat 5: shadow74700 ( Ä3.46 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.02 EUR )
+shadow74700 posts small blind [Ä0.02 EUR].
+Jimmylbt posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 folds
+dravgor folds
+shadow74700 calls [Ä0.02 EUR]
+Jimmylbt checks
+** Dealing Flop ** [ Ah, 8h, 6h ]
+shadow74700 checks
+Jimmylbt bets [Ä0.04 EUR]
+NEILOPHE calls [Ä0.04 EUR]
+shadow74700 folds
+** Dealing Turn ** [ Qs ]
+Jimmylbt bets [Ä0.09 EUR]
+NEILOPHE calls [Ä0.09 EUR]
+** Dealing River ** [ Qc ]
+Jimmylbt bets [Ä0.18 EUR]
+NEILOPHE folds
+Jimmylbt does not show cards.
+Jimmylbt wins Ä0.54 EUR from the main pot.
+Game #14307725939 starts.
+
+
+
+#Game No : 14307725939
+***** Hand History for Game 14307725939 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:26:49 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.43 EUR )
+Seat 3: Jere57330 ( Ä2.02 EUR )
+Seat 4: dravgor ( Ä0.91 EUR )
+Seat 5: shadow74700 ( Ä3.42 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.21 EUR )
+Jimmylbt posts small blind [Ä0.02 EUR].
+NEILOPHE posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jere57330 folds
+dravgor folds
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE does not show cards.
+NEILOPHE wins Ä0.06 EUR from the main pot.
+Game #14307726024 starts.
+
+
+
+#Game No : 14307726024
+***** Hand History for Game 14307726024 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:27:30 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.45 EUR )
+Seat 3: Jere57330 ( Ä2.02 EUR )
+Seat 4: dravgor ( Ä0.91 EUR )
+Seat 5: shadow74700 ( Ä3.42 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.19 EUR )
+NEILOPHE posts small blind [Ä0.02 EUR].
+Jere57330 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+dravgor folds
+shadow74700 calls [Ä0.04 EUR]
+Jimmylbt calls [Ä0.04 EUR]
+NEILOPHE calls [Ä0.02 EUR]
+Jere57330 checks
+** Dealing Flop ** [ Qd, 4c, 2c ]
+NEILOPHE checks
+Jere57330 checks
+shadow74700 checks
+Jimmylbt checks
+** Dealing Turn ** [ 8d ]
+NEILOPHE bets [Ä0.04 EUR]
+Jere57330 calls [Ä0.04 EUR]
+shadow74700 calls [Ä0.04 EUR]
+Jimmylbt calls [Ä0.04 EUR]
+** Dealing River ** [ 5h ]
+NEILOPHE bets [Ä0.30 EUR]
+Jere57330 folds
+shadow74700 calls [Ä0.30 EUR]
+Jimmylbt folds
+shadow74700 doesn't show [ Jc, Js ]
+NEILOPHE shows [ Qh, 6d ]
+NEILOPHE wins Ä0.86 EUR from the main pot.
+Game #14307726234 starts.
+
+
+
+#Game No : 14307726234
+***** Hand History for Game 14307726234 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:27:48 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.93 EUR )
+Seat 3: Jere57330 ( Ä1.94 EUR )
+Seat 4: dravgor ( Ä0.91 EUR )
+Seat 5: shadow74700 ( Ä3.04 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.11 EUR )
+Jere57330 posts small blind [Ä0.02 EUR].
+dravgor posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+shadow74700 calls [Ä0.04 EUR]
+Jimmylbt folds
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 raises [Ä0.30 EUR]
+dravgor folds
+shadow74700 folds
+NEILOPHE folds
+Jere57330 does not show cards.
+Jere57330 wins Ä0.44 EUR from the main pot.
+Game #14307726337 starts.
+
+
+
+#Game No : 14307726337
+***** Hand History for Game 14307726337 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:28:17 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.89 EUR )
+Seat 3: Jere57330 ( Ä2.06 EUR )
+Seat 4: dravgor ( Ä0.87 EUR )
+Seat 5: shadow74700 ( Ä3 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.11 EUR )
+dravgor posts small blind [Ä0.02 EUR].
+shadow74700 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jimmylbt calls [Ä0.04 EUR]
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 folds
+dravgor folds
+shadow74700 checks
+** Dealing Flop ** [ 9d, Qh, Js ]
+shadow74700 checks
+Jimmylbt checks
+NEILOPHE checks
+** Dealing Turn ** [ 4s ]
+shadow74700 bets [Ä0.04 EUR]
+Jimmylbt folds
+NEILOPHE folds
+shadow74700 does not show cards.
+shadow74700 wins Ä0.18 EUR from the main pot.
+Game #14307726487 starts.
+
+
+
+#Game No : 14307726487
+***** Hand History for Game 14307726487 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:28:39 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: NEILOPHE ( Ä10.85 EUR )
+Seat 3: Jere57330 ( Ä2.06 EUR )
+Seat 4: dravgor ( Ä0.85 EUR )
+Seat 5: shadow74700 ( Ä3.10 EUR )
+Seat 7: themeliass66 ( Ä1.64 EUR )
+Seat 9: Jimmylbt ( Ä3.07 EUR )
+shadow74700 posts small blind [Ä0.02 EUR].
+Jimmylbt posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 raises [Ä0.32 EUR]
+dravgor calls [Ä0.32 EUR]
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE folds
+** Dealing Flop ** [ 9s, 2h, 3d ]
+Jere57330 is all-In [Ä1.74 EUR]
+dravgor is all-In [Ä0.53 EUR]
+** Dealing Turn ** [ Tc ]
+** Dealing River ** [ 5d ]
+Jere57330 shows [ 8c, 8d ]
+dravgor shows [ 4c, 6c ]
+Jere57330 wins Ä1.21 EUR from the side pot 1.
+dravgor wins Ä1.68 EUR from the main pot.
+Game #14307727607 starts.
+
+
+
+#Game No : 14307727607
+***** Hand History for Game 14307727607 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:28:57 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: NEILOPHE ( Ä10.81 EUR )
+Seat 3: Jere57330 ( Ä1.21 EUR )
+Seat 4: dravgor ( Ä1.68 EUR )
+Seat 5: shadow74700 ( Ä3.08 EUR )
+Seat 9: Jimmylbt ( Ä3.03 EUR )
+Jimmylbt posts small blind [Ä0.02 EUR].
+NEILOPHE posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jere57330 is all-In [Ä1.21 EUR]
+dravgor folds
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE folds
+Jere57330 does not show cards.
+Jere57330 wins Ä1.27 EUR from the main pot.
+Game #14307727711 starts.
+
+
+
+#Game No : 14307727711
+***** Hand History for Game 14307727711 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:29:21 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: NEILOPHE ( Ä10.77 EUR )
+Seat 3: Jere57330 ( Ä1.27 EUR )
+Seat 4: dravgor ( Ä1.68 EUR )
+Seat 5: shadow74700 ( Ä3.08 EUR )
+Seat 9: Jimmylbt ( Ä3.01 EUR )
+NEILOPHE posts small blind [Ä0.02 EUR].
+Jere57330 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+dravgor folds
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE calls [Ä0.02 EUR]
+Jere57330 checks
+** Dealing Flop ** [ 4d, Tc, Jd ]
+NEILOPHE bets [Ä0.04 EUR]
+Jere57330 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Kc ]
+NEILOPHE bets [Ä0.04 EUR]
+Jere57330 calls [Ä0.04 EUR]
+** Dealing River ** [ Ks ]
+NEILOPHE bets [Ä0.23 EUR]
+Jere57330 calls [Ä0.23 EUR]
+NEILOPHE shows [ 5s, 9h ]
+Jere57330 shows [ Th, 2d ]
+Jere57330 wins Ä0.66 EUR from the main pot.
+Game #14307727830 starts.
+
+
+
+#Game No : 14307727830
+***** Hand History for Game 14307727830 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:29:38 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: NEILOPHE ( Ä10.42 EUR )
+Seat 3: Jere57330 ( Ä1.58 EUR )
+Seat 4: dravgor ( Ä1.68 EUR )
+Seat 5: shadow74700 ( Ä3.08 EUR )
+Seat 9: Jimmylbt ( Ä3.01 EUR )
+Jere57330 posts small blind [Ä0.02 EUR].
+dravgor posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+shadow74700 folds
+Jimmylbt folds
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 is all-In [Ä1.56 EUR]
+dravgor folds
+NEILOPHE folds
+Jere57330 does not show cards.
+Jere57330 wins Ä1.66 EUR from the main pot.
+Game #14307727909 starts.
+
+
+
+#Game No : 14307727909
+***** Hand History for Game 14307727909 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:30:00 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: NEILOPHE ( Ä10.38 EUR )
+Seat 3: Jere57330 ( Ä1.66 EUR )
+Seat 4: dravgor ( Ä1.64 EUR )
+Seat 5: shadow74700 ( Ä3.08 EUR )
+Seat 9: Jimmylbt ( Ä3.01 EUR )
+dravgor posts small blind [Ä0.02 EUR].
+shadow74700 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Jimmylbt folds
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 calls [Ä0.04 EUR]
+dravgor is all-In [Ä1.62 EUR]
+shadow74700 folds
+NEILOPHE folds
+Jere57330 calls [Ä1.60 EUR]
+** Dealing Flop ** [ Qc, Js, Ad ]
+** Dealing Turn ** [ 2s ]
+** Dealing River ** [ 8d ]
+dravgor shows [ Ac, Jc ]
+Jere57330 shows [ 3d, 3s ]
+dravgor wins Ä3.14 EUR from the main pot.
+Game #14307728035 starts.
+
+
+
+#Game No : 14307728035
+***** Hand History for Game 14307728035 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 06:30:24 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: NEILOPHE ( Ä10.34 EUR )
+Seat 3: Jere57330 ( Ä0.02 EUR )
+Seat 4: dravgor ( Ä3.14 EUR )
+Seat 5: shadow74700 ( Ä3.04 EUR )
+Seat 9: Jimmylbt ( Ä3.01 EUR )
+shadow74700 posts small blind [Ä0.02 EUR].
+Jimmylbt posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+NEILOPHE calls [Ä0.04 EUR]
+Jere57330 is all-In [Ä0.02 EUR]
+dravgor folds
+shadow74700 folds
+Jimmylbt checks
+** Dealing Flop ** [ As, 6d, 6c ]
+Jimmylbt checks
+NEILOPHE checks
+** Dealing Turn ** [ 7h ]
+Jimmylbt checks
+NEILOPHE bets [Ä0.04 EUR]
+Jimmylbt folds
+** Dealing River ** [ Th ]
+Jere57330 doesn't show [ 5c, Kh ]
+NEILOPHE shows [ 7s, 9d ]
+NEILOPHE wins Ä0.08 EUR from the side pot 1.
+NEILOPHE wins Ä0.08 EUR from the main pot.
+Game #14307728169 starts.
+
+
+
+#Game No : 14307552947
+***** Hand History for Game 14307552947 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 01:59:01 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 3: jeanluc053 ( Ä2.37 EUR )
+Seat 4: mimir62000 ( Ä0 EUR )
+Seat 5: trade81 ( Ä1.98 EUR )
+Seat 6: platon94 ( Ä4.16 EUR )
+Seat 7: nikuturtle ( Ä7.47 EUR )
+Seat 9: benladech ( Ä10.91 EUR )
+jeanluc053 posts small blind [Ä0.02 EUR].
+trade81 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+platon94 folds
+nikuturtle folds
+benladech raises [Ä0.12 EUR]
+jeanluc053 folds
+trade81 calls [Ä0.08 EUR]
+** Dealing Flop ** [ 2h, 4c, Kc ]
+trade81 checks
+benladech bets [Ä0.25 EUR]
+trade81 folds
+benladech does not show cards.
+benladech wins Ä0.50 EUR from the main pot.
+Game #14307553435 starts.
+
+
+
+#Game No : 14307553580
+***** Hand History for Game 14307553580 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 01:59:34 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 3: jeanluc053 ( Ä2.35 EUR )
+Seat 5: trade81 ( Ä1.86 EUR )
+Seat 6: platon94 ( Ä4.16 EUR )
+Seat 7: nikuturtle ( Ä7.47 EUR )
+Seat 9: benladech ( Ä11.04 EUR )
+trade81 posts small blind [Ä0.02 EUR].
+platon94 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nikuturtle folds
+benladech folds
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.02 EUR]
+platon94 checks
+** Dealing Flop ** [ 3d, Kd, 7c ]
+trade81 checks
+platon94 checks
+jeanluc053 bets [Ä0.04 EUR]
+trade81 folds
+platon94 folds
+jeanluc053 does not show cards.
+jeanluc053 wins Ä0.16 EUR from the main pot.
+Game #14307554537 starts.
+
+
+
+#Game No : 14307554537
+***** Hand History for Game 14307554537 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:00:12 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 3: jeanluc053 ( Ä2.43 EUR )
+Seat 5: trade81 ( Ä1.82 EUR )
+Seat 6: platon94 ( Ä4.12 EUR )
+Seat 7: nikuturtle ( Ä7.47 EUR )
+Seat 9: benladech ( Ä11.04 EUR )
+platon94 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+benladech folds
+jeanluc053 calls [Ä0.04 EUR]
+trade81 folds
+platon94 folds
+nikuturtle checks
+** Dealing Flop ** [ 4d, 5h, Kd ]
+nikuturtle checks
+jeanluc053 checks
+** Dealing Turn ** [ As ]
+nikuturtle checks
+jeanluc053 checks
+** Dealing River ** [ 7d ]
+nikuturtle checks
+jeanluc053 bets [Ä0.04 EUR]
+nikuturtle folds
+jeanluc053 does not show cards.
+jeanluc053 wins Ä0.14 EUR from the main pot.
+Game #14307554536 starts.
+
+
+
+#Game No : 14307562167
+***** Hand History for Game 14307562167 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:06:25 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 3: jeanluc053 ( Ä2.43 EUR )
+Seat 5: trade81 ( Ä1.56 EUR )
+Seat 6: platon94 ( Ä3.90 EUR )
+Seat 7: nikuturtle ( Ä8.23 EUR )
+Seat 9: benladech ( Ä10.48 EUR )
+benladech posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 folds
+platon94 folds
+nikuturtle raises [Ä0.16 EUR]
+benladech folds
+jeanluc053 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä0.22 EUR from the main pot.
+Game #14307562580 starts.
+
+
+
+#Game No : 14307567421
+***** Hand History for Game 14307567421 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:10:53 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.40 EUR )
+Seat 3: jeanluc053 ( Ä2.06 EUR )
+Seat 5: trade81 ( Ä1.64 EUR )
+Seat 6: platon94 ( Ä4.43 EUR )
+Seat 7: nikuturtle ( Ä7.94 EUR )
+trade81 posts small blind [Ä0.02 EUR].
+platon94 posts big blind [Ä0.04 EUR].
+yadubon posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nikuturtle folds
+yadubon raises [Ä0.04 EUR]
+jeanluc053 folds
+trade81 folds
+platon94 folds
+yadubon does not show cards.
+yadubon wins Ä0.14 EUR from the main pot.
+Game #14307566833 starts.
+
+
+
+#Game No : 14307567754
+***** Hand History for Game 14307567754 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:11:36 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.46 EUR )
+Seat 3: jeanluc053 ( Ä2.06 EUR )
+Seat 5: trade81 ( Ä1.62 EUR )
+Seat 6: platon94 ( Ä4.39 EUR )
+Seat 7: nikuturtle ( Ä7.94 EUR )
+platon94 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yadubon folds
+jeanluc053 folds
+trade81 calls [Ä0.04 EUR]
+platon94 folds
+nikuturtle raises [Ä0.12 EUR]
+trade81 calls [Ä0.12 EUR]
+** Dealing Flop ** [ 3s, Jh, 6d ]
+nikuturtle bets [Ä0.16 EUR]
+trade81 raises [Ä0.32 EUR]
+nikuturtle folds
+trade81 does not show cards.
+trade81 wins Ä0.78 EUR from the main pot.
+Game #14307568060 starts.
+
+
+
+#Game No : 14307568961
+***** Hand History for Game 14307568961 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:12:08 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.46 EUR )
+Seat 3: jeanluc053 ( Ä2.06 EUR )
+Seat 5: trade81 ( Ä1.92 EUR )
+Seat 6: platon94 ( Ä4.37 EUR )
+Seat 7: nikuturtle ( Ä7.62 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+yadubon posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jeanluc053 folds
+trade81 folds
+platon94 folds
+nikuturtle calls [Ä0.02 EUR]
+yadubon raises [Ä0.12 EUR]
+nikuturtle folds
+yadubon does not show cards.
+yadubon wins Ä0.20 EUR from the main pot.
+Game #14307569429 starts.
+
+
+
+#Game No : 14307569496
+***** Hand History for Game 14307569496 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:12:43 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.50 EUR )
+Seat 3: jeanluc053 ( Ä2.06 EUR )
+Seat 5: trade81 ( Ä1.92 EUR )
+Seat 6: platon94 ( Ä4.37 EUR )
+Seat 7: nikuturtle ( Ä7.58 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 calls [Ä0.04 EUR]
+platon94 calls [Ä0.04 EUR]
+nikuturtle folds
+yadubon raises [Ä0.06 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.04 EUR]
+platon94 calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ah, 4h, 8d ]
+yadubon bets [Ä0.30 EUR]
+jeanluc053 folds
+trade81 folds
+platon94 folds
+yadubon does not show cards.
+yadubon wins Ä0.60 EUR from the main pot.
+Game #14307569979 starts.
+
+
+
+#Game No : 14307570070
+***** Hand History for Game 14307570070 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:13:40 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.72 EUR )
+Seat 3: jeanluc053 ( Ä1.98 EUR )
+Seat 5: trade81 ( Ä1.84 EUR )
+Seat 6: platon94 ( Ä4.29 EUR )
+Seat 7: nikuturtle ( Ä7.58 EUR )
+jeanluc053 posts small blind [Ä0.02 EUR].
+trade81 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+platon94 folds
+nikuturtle calls [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.02 EUR]
+trade81 checks
+** Dealing Flop ** [ Ac, Kd, Jd ]
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+yadubon checks
+** Dealing Turn ** [ Kc ]
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+yadubon bets [Ä0.07 EUR]
+jeanluc053 folds
+trade81 folds
+nikuturtle calls [Ä0.07 EUR]
+** Dealing River ** [ Jh ]
+nikuturtle checks
+yadubon checks
+nikuturtle shows [ Qs, 5s ]
+yadubon shows [ Td, 9c ]
+yadubon wins Ä0.14 EUR from the main pot.
+nikuturtle wins Ä0.14 EUR from the main pot.
+Game #14307570996 starts.
+
+
+
+#Game No : 14307570996
+***** Hand History for Game 14307570996 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:14:02 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.75 EUR )
+Seat 3: jeanluc053 ( Ä1.94 EUR )
+Seat 5: trade81 ( Ä1.80 EUR )
+Seat 6: platon94 ( Ä4.29 EUR )
+Seat 7: nikuturtle ( Ä7.61 EUR )
+trade81 posts small blind [Ä0.02 EUR].
+platon94 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nikuturtle raises [Ä0.16 EUR]
+yadubon folds
+jeanluc053 folds
+trade81 folds
+platon94 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä0.22 EUR from the main pot.
+Game #14307570445 starts.
+
+
+
+#Game No : 14307571346
+***** Hand History for Game 14307571346 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:16:03 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.75 EUR )
+Seat 3: jeanluc053 ( Ä1.94 EUR )
+Seat 5: trade81 ( Ä1.78 EUR )
+Seat 6: platon94 ( Ä4.25 EUR )
+Seat 7: nikuturtle ( Ä7.67 EUR )
+platon94 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.04 EUR]
+platon94 calls [Ä0.02 EUR]
+nikuturtle raises [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.04 EUR]
+platon94 folds
+** Dealing Flop ** [ 5s, 7h, 2c ]
+nikuturtle checks
+yadubon checks
+jeanluc053 checks
+trade81 checks
+** Dealing Turn ** [ 8c ]
+nikuturtle checks
+yadubon checks
+jeanluc053 bets [Ä0.04 EUR]
+trade81 folds
+nikuturtle calls [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+** Dealing River ** [ Tc ]
+nikuturtle checks
+yadubon checks
+jeanluc053 checks
+yadubon doesn't show [ 6d, Jc ]
+nikuturtle shows [ 6h, Ah ]
+jeanluc053 shows [ 4d, 4h ]
+jeanluc053 wins Ä0.45 EUR from the main pot.
+Game #14307573561 starts.
+
+
+
+#Game No : 14307573771
+***** Hand History for Game 14307573771 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:16:48 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.63 EUR )
+Seat 3: jeanluc053 ( Ä2.27 EUR )
+Seat 5: trade81 ( Ä1.70 EUR )
+Seat 6: platon94 ( Ä4.21 EUR )
+Seat 7: nikuturtle ( Ä7.55 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+yadubon posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jeanluc053 folds
+trade81 calls [Ä0.04 EUR]
+platon94 folds
+nikuturtle calls [Ä0.02 EUR]
+yadubon checks
+** Dealing Flop ** [ Tc, 7d, 6s ]
+nikuturtle checks
+yadubon checks
+trade81 bets [Ä0.04 EUR]
+nikuturtle folds
+yadubon calls [Ä0.04 EUR]
+** Dealing Turn ** [ Js ]
+yadubon checks
+trade81 bets [Ä0.08 EUR]
+yadubon calls [Ä0.08 EUR]
+** Dealing River ** [ Qc ]
+yadubon checks
+trade81 checks
+yadubon shows [ 2s, Kd ]
+trade81 shows [ Ac, 7h ]
+trade81 wins Ä0.34 EUR from the main pot.
+Game #14307573887 starts.
+
+
+
+#Game No : 14307574466
+***** Hand History for Game 14307574466 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:17:47 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.47 EUR )
+Seat 3: jeanluc053 ( Ä2.27 EUR )
+Seat 5: trade81 ( Ä1.88 EUR )
+Seat 6: platon94 ( Ä4.21 EUR )
+Seat 7: nikuturtle ( Ä7.51 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 calls [Ä0.04 EUR]
+platon94 folds
+nikuturtle calls [Ä0.04 EUR]
+yadubon calls [Ä0.02 EUR]
+jeanluc053 checks
+** Dealing Flop ** [ 7h, 9c, Qc ]
+yadubon checks
+jeanluc053 checks
+trade81 bets [Ä0.04 EUR]
+nikuturtle folds
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 3c ]
+yadubon checks
+jeanluc053 checks
+trade81 checks
+** Dealing River ** [ 2d ]
+yadubon checks
+jeanluc053 checks
+trade81 checks
+jeanluc053 doesn't show [ Ad, 8c ]
+yadubon shows [ 2h, 5h ]
+trade81 shows [ Ah, 7s ]
+trade81 wins Ä0.27 EUR from the main pot.
+Game #14307574938 starts.
+
+
+
+#Game No : 14307575911
+***** Hand History for Game 14307575911 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:18:52 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.39 EUR )
+Seat 3: jeanluc053 ( Ä2.19 EUR )
+Seat 5: trade81 ( Ä2.07 EUR )
+Seat 6: platon94 ( Ä4.21 EUR )
+Seat 7: nikuturtle ( Ä7.47 EUR )
+jeanluc053 posts small blind [Ä0.02 EUR].
+trade81 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+platon94 folds
+nikuturtle calls [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.02 EUR]
+trade81 checks
+** Dealing Flop ** [ Ad, Kd, Tc ]
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+yadubon checks
+** Dealing Turn ** [ 2h ]
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+yadubon checks
+** Dealing River ** [ 2c ]
+jeanluc053 bets [Ä0.04 EUR]
+trade81 folds
+nikuturtle folds
+yadubon folds
+jeanluc053 does not show cards.
+jeanluc053 wins Ä0.19 EUR from the main pot.
+Game #14307576855 starts.
+
+
+
+#Game No : 14307576925
+***** Hand History for Game 14307576925 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:20:01 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.35 EUR )
+Seat 3: jeanluc053 ( Ä2.30 EUR )
+Seat 5: trade81 ( Ä2.03 EUR )
+Seat 6: platon94 ( Ä4.21 EUR )
+Seat 7: nikuturtle ( Ä7.43 EUR )
+trade81 posts small blind [Ä0.02 EUR].
+platon94 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nikuturtle calls [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.02 EUR]
+platon94 checks
+** Dealing Flop ** [ 4d, 3h, Th ]
+trade81 checks
+platon94 checks
+nikuturtle bets [Ä0.09 EUR]
+yadubon calls [Ä0.09 EUR]
+jeanluc053 calls [Ä0.09 EUR]
+trade81 folds
+platon94 folds
+** Dealing Turn ** [ 5h ]
+nikuturtle checks
+yadubon checks
+jeanluc053 checks
+** Dealing River ** [ Ts ]
+nikuturtle checks
+yadubon checks
+jeanluc053 checks
+yadubon doesn't show [ Qd, 3s ]
+jeanluc053 doesn't show [ Ac, 4s ]
+nikuturtle shows [ 5s, 7h ]
+nikuturtle wins Ä0.44 EUR from the main pot.
+Game #14307577588 starts.
+
+
+
+#Game No : 14307577952
+***** Hand History for Game 14307577952 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:21:27 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.22 EUR )
+Seat 3: jeanluc053 ( Ä2.17 EUR )
+Seat 5: trade81 ( Ä1.99 EUR )
+Seat 6: platon94 ( Ä4.17 EUR )
+Seat 7: nikuturtle ( Ä7.74 EUR )
+platon94 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 folds
+platon94 calls [Ä0.02 EUR]
+nikuturtle checks
+** Dealing Flop ** [ 6h, Jh, 3s ]
+platon94 checks
+nikuturtle checks
+yadubon checks
+jeanluc053 checks
+** Dealing Turn ** [ Ah ]
+platon94 checks
+nikuturtle checks
+yadubon bets [Ä0.04 EUR]
+jeanluc053 folds
+platon94 calls [Ä0.04 EUR]
+nikuturtle folds
+** Dealing River ** [ Tc ]
+platon94 checks
+yadubon bets [Ä0.23 EUR]
+platon94 folds
+yadubon does not show cards.
+yadubon wins Ä0.46 EUR from the main pot.
+Game #14307579273 starts.
+
+
+
+#Game No : 14307579273
+***** Hand History for Game 14307579273 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:22:08 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.37 EUR )
+Seat 3: jeanluc053 ( Ä2.13 EUR )
+Seat 5: trade81 ( Ä1.99 EUR )
+Seat 6: platon94 ( Ä4.09 EUR )
+Seat 7: nikuturtle ( Ä7.70 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+yadubon posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jeanluc053 calls [Ä0.04 EUR]
+trade81 folds
+platon94 folds
+nikuturtle calls [Ä0.02 EUR]
+yadubon raises [Ä0.20 EUR]
+jeanluc053 folds
+nikuturtle folds
+yadubon does not show cards.
+yadubon wins Ä0.32 EUR from the main pot.
+Game #14307579897 starts.
+
+
+
+#Game No : 14307579897
+***** Hand History for Game 14307579897 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:22:53 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.45 EUR )
+Seat 3: jeanluc053 ( Ä2.09 EUR )
+Seat 5: trade81 ( Ä1.99 EUR )
+Seat 6: platon94 ( Ä4.09 EUR )
+Seat 7: nikuturtle ( Ä7.66 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 folds
+platon94 folds
+nikuturtle calls [Ä0.04 EUR]
+yadubon raises [Ä0.06 EUR]
+jeanluc053 folds
+nikuturtle calls [Ä0.04 EUR]
+** Dealing Flop ** [ Kc, 6c, 9h ]
+yadubon checks
+nikuturtle checks
+** Dealing Turn ** [ Ad ]
+yadubon bets [Ä0.04 EUR]
+nikuturtle folds
+yadubon does not show cards.
+yadubon wins Ä0.23 EUR from the main pot.
+Game #14307579025 starts.
+
+
+
+#Game No : 14307581072
+***** Hand History for Game 14307581072 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:24:12 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.56 EUR )
+Seat 3: jeanluc053 ( Ä2.05 EUR )
+Seat 5: trade81 ( Ä1.99 EUR )
+Seat 6: platon94 ( Ä4.09 EUR )
+Seat 7: nikuturtle ( Ä7.58 EUR )
+jeanluc053 posts small blind [Ä0.02 EUR].
+trade81 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+platon94 folds
+nikuturtle folds
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.02 EUR]
+trade81 checks
+** Dealing Flop ** [ As, 2s, 5c ]
+jeanluc053 checks
+trade81 checks
+yadubon checks
+** Dealing Turn ** [ Ah ]
+jeanluc053 checks
+trade81 bets [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+** Dealing River ** [ 7c ]
+jeanluc053 checks
+trade81 checks
+yadubon checks
+trade81 doesn't show [ 6c, 9h ]
+jeanluc053 shows [ 3h, 3c ]
+yadubon shows [ Tc, 5s ]
+yadubon wins Ä0.23 EUR from the main pot.
+Game #14307582002 starts.
+
+
+
+#Game No : 14307590915
+***** Hand History for Game 14307590915 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:32:43 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.60 EUR )
+Seat 3: jeanluc053 ( Ä2.08 EUR )
+Seat 5: trade81 ( Ä2.23 EUR )
+Seat 7: nikuturtle ( Ä7.20 EUR )
+Seat 9: yokopolo ( Ä3.94 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+yokopolo folds
+yadubon calls [Ä0.02 EUR]
+jeanluc053 checks
+** Dealing Flop ** [ 4d, 7h, 2h ]
+yadubon bets [Ä0.04 EUR]
+jeanluc053 folds
+trade81 raises [Ä0.08 EUR]
+nikuturtle folds
+yadubon calls [Ä0.04 EUR]
+** Dealing Turn ** [ 5d ]
+yadubon checks
+trade81 bets [Ä0.08 EUR]
+yadubon calls [Ä0.08 EUR]
+** Dealing River ** [ 9h ]
+yadubon checks
+trade81 checks
+yadubon shows [ 3s, 4c ]
+trade81 shows [ Ah, 7s ]
+trade81 wins Ä0.45 EUR from the main pot.
+Game #14307591713 starts.
+
+
+
+#Game No : 14307591713
+***** Hand History for Game 14307591713 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:33:40 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.40 EUR )
+Seat 3: jeanluc053 ( Ä2.04 EUR )
+Seat 5: trade81 ( Ä2.48 EUR )
+Seat 7: nikuturtle ( Ä7.16 EUR )
+Seat 9: yokopolo ( Ä3.94 EUR )
+jeanluc053 posts small blind [Ä0.02 EUR].
+trade81 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+nikuturtle calls [Ä0.04 EUR]
+yokopolo folds
+yadubon calls [Ä0.04 EUR]
+jeanluc053 calls [Ä0.02 EUR]
+trade81 checks
+** Dealing Flop ** [ Qs, 9h, 2s ]
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+yadubon bets [Ä0.04 EUR]
+jeanluc053 folds
+trade81 folds
+nikuturtle folds
+yadubon does not show cards.
+yadubon wins Ä0.19 EUR from the main pot.
+Game #14307592531 starts.
+
+
+
+#Game No : 14307592531
+***** Hand History for Game 14307592531 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:35:00 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.51 EUR )
+Seat 3: jeanluc053 ( Ä2 EUR )
+Seat 5: trade81 ( Ä2.44 EUR )
+Seat 7: nikuturtle ( Ä7.12 EUR )
+Seat 9: yokopolo ( Ä3.94 EUR )
+trade81 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yokopolo folds
+yadubon calls [Ä0.04 EUR]
+jeanluc053 folds
+trade81 calls [Ä0.02 EUR]
+nikuturtle checks
+** Dealing Flop ** [ Jh, Kd, 3s ]
+trade81 checks
+nikuturtle checks
+yadubon bets [Ä0.04 EUR]
+trade81 calls [Ä0.04 EUR]
+nikuturtle folds
+** Dealing Turn ** [ 9c ]
+trade81 checks
+yadubon checks
+** Dealing River ** [ 2d ]
+trade81 checks
+yadubon checks
+yadubon doesn't show [ 4s, 3h ]
+trade81 shows [ 3c, Ah ]
+trade81 wins Ä0.19 EUR from the main pot.
+Game #14307593708 starts.
+
+
+
+#Game No : 14307593708
+***** Hand History for Game 14307593708 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:35:59 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.43 EUR )
+Seat 3: jeanluc053 ( Ä2 EUR )
+Seat 5: trade81 ( Ä2.55 EUR )
+Seat 7: nikuturtle ( Ä7.08 EUR )
+Seat 9: yokopolo ( Ä3.94 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+yokopolo posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yadubon calls [Ä0.04 EUR]
+jeanluc053 folds
+trade81 folds
+nikuturtle calls [Ä0.02 EUR]
+yokopolo checks
+** Dealing Flop ** [ 8s, 7s, Kd ]
+nikuturtle bets [Ä0.09 EUR]
+yokopolo folds
+yadubon calls [Ä0.09 EUR]
+** Dealing Turn ** [ 4d ]
+nikuturtle checks
+yadubon checks
+** Dealing River ** [ 9c ]
+nikuturtle checks
+yadubon bets [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+nikuturtle doesn't show [ Qs, 7d ]
+yadubon shows [ Ac, 9d ]
+yadubon wins Ä0.36 EUR from the main pot.
+Game #14307595077 starts.
+
+
+
+#Game No : 14307595077
+***** Hand History for Game 14307595077 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:37:02 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.62 EUR )
+Seat 3: jeanluc053 ( Ä2 EUR )
+Seat 5: trade81 ( Ä2.55 EUR )
+Seat 7: nikuturtle ( Ä6.91 EUR )
+Seat 9: yokopolo ( Ä3.90 EUR )
+yokopolo posts small blind [Ä0.02 EUR].
+yadubon posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+jeanluc053 calls [Ä0.04 EUR]
+trade81 folds
+nikuturtle calls [Ä0.04 EUR]
+yokopolo calls [Ä0.02 EUR]
+yadubon checks
+** Dealing Flop ** [ Ts, 7s, 9d ]
+yokopolo checks
+yadubon bets [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+yokopolo folds
+** Dealing Turn ** [ 3s ]
+yadubon bets [Ä0.04 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+** Dealing River ** [ 2c ]
+yadubon checks
+jeanluc053 checks
+nikuturtle checks
+jeanluc053 doesn't show [ Kh, 6d ]
+nikuturtle doesn't show [ 9c, Kc ]
+yadubon shows [ Ad, 9h ]
+yadubon wins Ä0.38 EUR from the main pot.
+Game #14307596000 starts.
+
+
+
+#Game No : 14307596000
+***** Hand History for Game 14307596000 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 02:38:19 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 2: yadubon ( Ä1.88 EUR )
+Seat 3: jeanluc053 ( Ä1.88 EUR )
+Seat 5: trade81 ( Ä2.55 EUR )
+Seat 7: nikuturtle ( Ä6.79 EUR )
+Seat 9: yokopolo ( Ä3.86 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+jeanluc053 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+trade81 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+yokopolo folds
+yadubon raises [Ä0.06 EUR]
+jeanluc053 calls [Ä0.04 EUR]
+trade81 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.04 EUR]
+** Dealing Flop ** [ Jc, 5c, Jh ]
+yadubon checks
+jeanluc053 checks
+trade81 checks
+nikuturtle checks
+** Dealing Turn ** [ 6h ]
+yadubon checks
+jeanluc053 bets [Ä0.04 EUR]
+trade81 folds
+nikuturtle folds
+yadubon calls [Ä0.04 EUR]
+** Dealing River ** [ Qh ]
+yadubon bets [Ä0.38 EUR]
+jeanluc053 is all-In [Ä1.76 EUR]
+yadubon folds
+jeanluc053 does not show cards.
+jeanluc053 wins Ä2.47 EUR from the main pot.
+Game #14307597617 starts.
+
+
+
+#Game No : 14307622861
+***** Hand History for Game 14307622861 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 03:08:09 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 7/9
+Seat 1: Peperv ( Ä1.36 EUR )
+Seat 2: yadubon ( Ä6.05 EUR )
+Seat 3: saeedyari ( Ä0 EUR )
+Seat 4: david070599 ( Ä15.83 EUR )
+Seat 6: TONTON42300 ( Ä2.97 EUR )
+Seat 8: HARIBOT13 ( Ä1.96 EUR )
+Seat 9: yokopolo ( Ä4.31 EUR )
+yadubon posts small blind [Ä0.02 EUR].
+david070599 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+HARIBOT13 calls [Ä0.04 EUR]
+yokopolo folds
+Peperv raises [Ä0.32 EUR]
+yadubon is all-In [Ä6.03 EUR]
+david070599 folds
+HARIBOT13 folds
+Peperv is all-In [Ä1.04 EUR]
+** Dealing Flop ** [ 9s, 4c, Jh ]
+** Dealing Turn ** [ 2d ]
+** Dealing River ** [ 8h ]
+Peperv shows [ Ks, Kh ]
+yadubon shows [ Kc, Tc ]
+yadubon wins Ä4.69 EUR from the side pot 1.
+Peperv wins Ä2.62 EUR from the main pot.
+Game #14307623239 starts.
+
+
+
+#Game No : 14307623239
+***** Hand History for Game 14307623239 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 03:09:58 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 6/9
+Seat 1: Peperv ( Ä2.62 EUR )
+Seat 2: yadubon ( Ä4.69 EUR )
+Seat 4: david070599 ( Ä15.79 EUR )
+Seat 6: TONTON42300 ( Ä2.97 EUR )
+Seat 8: HARIBOT13 ( Ä1.92 EUR )
+Seat 9: yokopolo ( Ä4.31 EUR )
+david070599 posts small blind [Ä0.02 EUR].
+HARIBOT13 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yokopolo folds
+Peperv calls [Ä0.04 EUR]
+yadubon calls [Ä0.04 EUR]
+david070599 calls [Ä0.02 EUR]
+HARIBOT13 checks
+** Dealing Flop ** [ 4h, 9h, 7s ]
+david070599 checks
+HARIBOT13 checks
+Peperv bets [Ä0.15 EUR]
+yadubon calls [Ä0.15 EUR]
+david070599 calls [Ä0.15 EUR]
+HARIBOT13 folds
+** Dealing Turn ** [ 3s ]
+david070599 checks
+Peperv checks
+yadubon bets [Ä0.04 EUR]
+david070599 calls [Ä0.04 EUR]
+Peperv calls [Ä0.04 EUR]
+** Dealing River ** [ 8c ]
+david070599 checks
+Peperv bets [Ä0.69 EUR]
+yadubon folds
+david070599 folds
+Peperv does not show cards.
+Peperv wins Ä1.38 EUR from the main pot.
+Game #14307625004 starts.
+
+
+
+#Game No : 14307625004
+***** Hand History for Game 14307625004 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 03:11:09 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Peperv ( Ä3.08 EUR )
+Seat 2: yadubon ( Ä4.46 EUR )
+Seat 4: david070599 ( Ä15.56 EUR )
+Seat 8: HARIBOT13 ( Ä1.88 EUR )
+Seat 9: yokopolo ( Ä4.31 EUR )
+HARIBOT13 posts small blind [Ä0.02 EUR].
+yokopolo posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Peperv calls [Ä0.04 EUR]
+yadubon raises [Ä0.08 EUR]
+david070599 raises [Ä0.12 EUR]
+HARIBOT13 calls [Ä0.10 EUR]
+yokopolo folds
+Peperv folds
+yadubon calls [Ä0.04 EUR]
+** Dealing Flop ** [ 8h, 6s, 9s ]
+HARIBOT13 checks
+yadubon bets [Ä0.21 EUR]
+david070599 raises [Ä0.42 EUR]
+HARIBOT13 is all-In [Ä1.76 EUR]
+yadubon calls [Ä1.55 EUR]
+david070599 folds
+** Dealing Turn ** [ 3h ]
+** Dealing River ** [ Ad ]
+HARIBOT13 shows [ Tc, Th ]
+yadubon shows [ Td, Jd ]
+HARIBOT13 wins Ä4.09 EUR from the main pot.
+Game #14307625823 starts.
+
+
+
+#Game No : 14307625823
+***** Hand History for Game 14307625823 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 03:12:01 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 8 is the button
+Total number of players : 5/9
+Seat 1: Peperv ( Ä3.04 EUR )
+Seat 2: yadubon ( Ä2.58 EUR )
+Seat 4: david070599 ( Ä15.02 EUR )
+Seat 8: HARIBOT13 ( Ä4.09 EUR )
+Seat 9: yokopolo ( Ä4.27 EUR )
+yokopolo posts small blind [Ä0.02 EUR].
+Peperv posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+yadubon calls [Ä0.04 EUR]
+david070599 folds
+HARIBOT13 calls [Ä0.04 EUR]
+yokopolo folds
+Peperv checks
+** Dealing Flop ** [ Jd, 9h, Td ]
+Peperv checks
+yadubon checks
+HARIBOT13 checks
+** Dealing Turn ** [ 2c ]
+Peperv bets [Ä0.07 EUR]
+yadubon calls [Ä0.07 EUR]
+HARIBOT13 folds
+** Dealing River ** [ 3c ]
+Peperv bets [Ä0.13 EUR]
+yadubon calls [Ä0.13 EUR]
+Peperv shows [ 8c, 4c ]
+yadubon shows [ Kh, 2s ]
+yadubon wins Ä0.51 EUR from the main pot.
+Game #14307626430 starts.
+
+
+
+#Game No : 14307786541
+***** Hand History for Game 14307786541 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 08:58:50 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: sovet ( Ä4.62 EUR )
+Seat 2: menfinfr ( Ä3.54 EUR )
+Seat 3: tacens ( Ä3.96 EUR )
+Seat 4: bonate ( Ä4 EUR )
+Seat 6: Eliott57 ( Ä5.05 EUR )
+tacens posts small blind [Ä0.02 EUR].
+bonate posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Eliott57 folds
+sovet calls [Ä0.04 EUR]
+menfinfr raises [Ä0.08 EUR]
+tacens folds
+bonate calls [Ä0.04 EUR]
+sovet calls [Ä0.04 EUR]
+** Dealing Flop ** [ 3d, 7d, 8s ]
+bonate checks
+sovet checks
+menfinfr bets [Ä0.12 EUR]
+bonate folds
+sovet folds
+menfinfr does not show cards.
+menfinfr wins Ä0.37 EUR from the main pot.
+Game #14307786849 starts.
+
+
+
+#Game No : 14307786849
+***** Hand History for Game 14307786849 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 08:59:52 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: sovet ( Ä4.54 EUR )
+Seat 2: menfinfr ( Ä3.71 EUR )
+Seat 3: tacens ( Ä3.94 EUR )
+Seat 4: bonate ( Ä3.92 EUR )
+Seat 6: Eliott57 ( Ä5.05 EUR )
+bonate posts small blind [Ä0.02 EUR].
+Eliott57 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+sovet folds
+menfinfr raises [Ä0.16 EUR]
+tacens folds
+bonate folds
+Eliott57 calls [Ä0.12 EUR]
+** Dealing Flop ** [ 8h, Jd, 9d ]
+Eliott57 checks
+menfinfr bets [Ä0.16 EUR]
+Eliott57 calls [Ä0.16 EUR]
+** Dealing Turn ** [ 3s ]
+Eliott57 checks
+menfinfr bets [Ä0.31 EUR]
+Eliott57 folds
+menfinfr does not show cards.
+menfinfr wins Ä0.93 EUR from the main pot.
+Game #14307787228 starts.
+
+
+
+#Game No : 14307787228
+***** Hand History for Game 14307787228 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 09:00:22 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: sovet ( Ä4.54 EUR )
+Seat 2: menfinfr ( Ä4.01 EUR )
+Seat 3: tacens ( Ä3.94 EUR )
+Seat 4: bonate ( Ä3.90 EUR )
+Seat 6: Eliott57 ( Ä4.73 EUR )
+Eliott57 posts small blind [Ä0.02 EUR].
+sovet posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+menfinfr folds
+tacens raises [Ä0.08 EUR]
+bonate calls [Ä0.08 EUR]
+Eliott57 calls [Ä0.06 EUR]
+sovet calls [Ä0.04 EUR]
+** Dealing Flop ** [ Qc, Tc, 7d ]
+Eliott57 bets [Ä0.04 EUR]
+sovet raises [Ä0.42 EUR]
+tacens folds
+bonate folds
+Eliott57 folds
+sovet does not show cards.
+sovet wins Ä0.76 EUR from the main pot.
+Game #14307787421 starts.
+
+
+
+#Game No : 14307790193
+***** Hand History for Game 14307790193 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 09:06:32 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 7/9
+Seat 2: menfinfr ( Ä4 EUR )
+Seat 3: tacens ( Ä3.80 EUR )
+Seat 4: bonate ( Ä3.17 EUR )
+Seat 5: feckolo ( Ä3.21 EUR )
+Seat 6: Eliott57 ( Ä4.41 EUR )
+Seat 7: vanilia1971 ( Ä4 EUR )
+Seat 9: youfyouf25 ( Ä4 EUR )
+menfinfr posts small blind [Ä0.02 EUR].
+tacens posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+bonate folds
+feckolo calls [Ä0.04 EUR]
+Eliott57 folds
+menfinfr calls [Ä0.02 EUR]
+tacens checks
+** Dealing Flop ** [ Th, Js, 6c ]
+menfinfr bets [Ä0.12 EUR]
+tacens raises [Ä0.24 EUR]
+feckolo folds
+menfinfr calls [Ä0.12 EUR]
+** Dealing Turn ** [ 2d ]
+menfinfr checks
+tacens bets [Ä0.28 EUR]
+menfinfr calls [Ä0.28 EUR]
+** Dealing River ** [ 7s ]
+menfinfr checks
+tacens checks
+menfinfr shows [ 9c, Qd ]
+tacens shows [ Jd, Kh ]
+tacens wins Ä1.09 EUR from the main pot.
+Game #14307790574 starts.
+
+
+
+#Game No : 14307798191
+***** Hand History for Game 14307798191 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 09:22:10 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: copain2 ( Ä3.84 EUR )
+Seat 2: menfinfr ( Ä3.91 EUR )
+Seat 5: feckolo ( Ä2.20 EUR )
+Seat 8: prehistorique10 ( Ä3.92 EUR )
+Seat 9: youfyouf25 ( Ä5.40 EUR )
+prehistorique10 posts small blind [Ä0.02 EUR].
+youfyouf25 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+copain2 calls [Ä0.04 EUR]
+menfinfr folds
+feckolo calls [Ä0.04 EUR]
+prehistorique10 folds
+youfyouf25 checks
+** Dealing Flop ** [ 3h, 2h, 7d ]
+youfyouf25 bets [Ä0.04 EUR]
+copain2 calls [Ä0.04 EUR]
+feckolo calls [Ä0.04 EUR]
+** Dealing Turn ** [ 2c ]
+youfyouf25 checks
+copain2 checks
+feckolo checks
+** Dealing River ** [ Jc ]
+youfyouf25 is all-In [Ä5.32 EUR]
+copain2 folds
+feckolo folds
+youfyouf25 does not show cards.
+youfyouf25 wins Ä5.57 EUR from the main pot.
+Game #14307798917 starts.
+
+
+
+#Game No : 14307825006
+***** Hand History for Game 14307825006 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 10:07:29 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 4: ANTOINETCLOEE ( Ä2.83 EUR )
+Seat 5: abbathor ( Ä3.92 EUR )
+Seat 6: ZEW12 ( Ä4 EUR )
+Seat 8: don jos ( Ä4.04 EUR )
+Seat 9: le marseillais1 ( Ä8.31 EUR )
+ANTOINETCLOEE posts small blind [Ä0.02 EUR].
+abbathor posts big blind [Ä0.04 EUR].
+ZEW12 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ZEW12 raises [Ä0.12 EUR]
+don jos folds
+le marseillais1 calls [Ä0.16 EUR]
+ANTOINETCLOEE calls [Ä0.14 EUR]
+abbathor folds
+** Dealing Flop ** [ 9d, Kc, 3h ]
+ANTOINETCLOEE checks
+ZEW12 checks
+le marseillais1 is all-In [Ä8.15 EUR]
+ANTOINETCLOEE folds
+ZEW12 folds
+le marseillais1 does not show cards.
+le marseillais1 wins Ä8.64 EUR from the main pot.
+Game #14307825418 starts.
+
+
+
+#Game No : 14307815394
+***** Hand History for Game 14307815394 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 09:52:49 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 6/9
+Seat 1: coolz57 ( Ä5.75 EUR )
+Seat 4: ANTOINETCLOEE ( Ä3.52 EUR )
+Seat 5: aznav94 ( Ä0 EUR )
+Seat 7: Pa2pot ( Ä5.74 EUR )
+Seat 8: hassan12 ( Ä0.42 EUR )
+Seat 9: le marseillais1 ( Ä7.46 EUR )
+hassan12 posts small blind [Ä0.02 EUR].
+le marseillais1 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+coolz57 folds
+ANTOINETCLOEE calls [Ä0.04 EUR]
+Pa2pot calls [Ä0.04 EUR]
+hassan12 is all-In [Ä0.40 EUR]
+le marseillais1 calls [Ä0.38 EUR]
+ANTOINETCLOEE folds
+Pa2pot calls [Ä0.38 EUR]
+** Dealing Flop ** [ 8c, 6h, Ts ]
+le marseillais1 checks
+Pa2pot checks
+** Dealing Turn ** [ Ac ]
+le marseillais1 checks
+Pa2pot checks
+** Dealing River ** [ Ah ]
+le marseillais1 checks
+Pa2pot checks
+Pa2pot doesn't show [ 4h, 5h ]
+hassan12 doesn't show [ 3s, Js ]
+le marseillais1 shows [ 9d, Qd ]
+le marseillais1 wins Ä1.22 EUR from the main pot.
+Game #14307815752 starts.
+
+
+
+#Game No : 14307829551
+***** Hand History for Game 14307829551 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 10:13:38 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 6/9
+Seat 3: Pa2pot ( Ä5.30 EUR )
+Seat 4: ANTOINETCLOEE ( Ä2.47 EUR )
+Seat 6: ZEW12 ( Ä4.37 EUR )
+Seat 7: ALAINCIGALOU ( Ä6.18 EUR )
+Seat 8: don jos ( Ä4.08 EUR )
+Seat 9: le marseillais1 ( Ä8.34 EUR )
+Pa2pot posts small blind [Ä0.02 EUR].
+ANTOINETCLOEE posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ZEW12 folds
+don jos folds
+le marseillais1 folds
+Pa2pot calls [Ä0.02 EUR]
+ANTOINETCLOEE checks
+** Dealing Flop ** [ 4d, Ah, Kd ]
+Pa2pot checks
+ANTOINETCLOEE checks
+** Dealing Turn ** [ Ac ]
+Pa2pot checks
+ANTOINETCLOEE checks
+** Dealing River ** [ Kc ]
+Pa2pot checks
+ANTOINETCLOEE checks
+ANTOINETCLOEE doesn't show [ 6s, 5s ]
+Pa2pot shows [ 2s, 9c ]
+Pa2pot wins Ä0.08 EUR from the main pot.
+Game #14307829842 starts.
+
+
+
+#Game No : 14307821472
+***** Hand History for Game 14307821472 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 10:02:11 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 3: ALAINCIGALOU ( Ä6.18 EUR )
+Seat 4: ANTOINETCLOEE ( Ä2.76 EUR )
+Seat 5: abbathor ( Ä3.96 EUR )
+Seat 7: Pa2pot ( Ä5.19 EUR )
+Seat 8: don jos ( Ä4.23 EUR )
+Seat 9: le marseillais1 ( Ä8.26 EUR )
+abbathor posts small blind [Ä0.02 EUR].
+Pa2pot posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+don jos folds
+ALAINCIGALOU folds
+ANTOINETCLOEE raises [Ä0.14 EUR]
+abbathor folds
+Pa2pot folds
+ANTOINETCLOEE does not show cards.
+ANTOINETCLOEE wins Ä0.20 EUR from the main pot.
+Game #14307821588 starts.
+
+
+
+#Game No : 14307821588
+***** Hand History for Game 14307821588 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 10:02:42 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 6/9
+Seat 3: ALAINCIGALOU ( Ä6.18 EUR )
+Seat 4: ANTOINETCLOEE ( Ä2.82 EUR )
+Seat 5: abbathor ( Ä3.94 EUR )
+Seat 7: Pa2pot ( Ä5.15 EUR )
+Seat 8: don jos ( Ä4.23 EUR )
+Seat 9: le marseillais1 ( Ä8.26 EUR )
+Pa2pot posts small blind [Ä0.02 EUR].
+don jos posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+ALAINCIGALOU folds
+ANTOINETCLOEE calls [Ä0.04 EUR]
+abbathor folds
+Pa2pot calls [Ä0.02 EUR]
+don jos checks
+** Dealing Flop ** [ 4s, 3c, 5h ]
+Pa2pot checks
+don jos checks
+ANTOINETCLOEE checks
+** Dealing Turn ** [ 4h ]
+Pa2pot checks
+don jos checks
+ANTOINETCLOEE checks
+** Dealing River ** [ 3h ]
+Pa2pot checks
+don jos checks
+ANTOINETCLOEE checks
+don jos doesn't show [ 8h, 2s ]
+Pa2pot shows [ 9s, 7d ]
+ANTOINETCLOEE shows [ 9h, Jc ]
+ANTOINETCLOEE wins Ä0.12 EUR from the main pot.
+Game #14307746600 starts.
+
+
+
+#Game No : 14307887732
+***** Hand History for Game 14307887732 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:21:55 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: INDIEN89 ( Ä3.35 EUR )
+Seat 5: alligator44 ( Ä4.14 EUR )
+Seat 6: ZEW12 ( Ä6.50 EUR )
+Seat 7: nikuturtle ( Ä5.13 EUR )
+Seat 8: Roga44 ( Ä3.20 EUR )
+ZEW12 posts small blind [Ä0.02 EUR].
+nikuturtle posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Roga44 calls [Ä0.04 EUR]
+INDIEN89 raises [Ä0.08 EUR]
+alligator44 calls [Ä0.08 EUR]
+ZEW12 folds
+nikuturtle raises [Ä0.12 EUR]
+Roga44 folds
+INDIEN89 calls [Ä0.08 EUR]
+alligator44 calls [Ä0.08 EUR]
+** Dealing Flop ** [ Th, Td, 4s ]
+nikuturtle bets [Ä0.25 EUR]
+INDIEN89 calls [Ä0.25 EUR]
+alligator44 folds
+** Dealing Turn ** [ 4h ]
+nikuturtle is all-In [Ä4.72 EUR]
+INDIEN89 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä5.70 EUR from the main pot.
+Game #14307888403 starts.
+
+
+
+#Game No : 14307888403
+***** Hand History for Game 14307888403 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:22:26 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 1: INDIEN89 ( Ä2.94 EUR )
+Seat 5: alligator44 ( Ä3.98 EUR )
+Seat 6: ZEW12 ( Ä6.48 EUR )
+Seat 7: nikuturtle ( Ä5.70 EUR )
+Seat 8: Roga44 ( Ä3.16 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+Roga44 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+INDIEN89 calls [Ä0.04 EUR]
+alligator44 folds
+ZEW12 calls [Ä0.04 EUR]
+nikuturtle calls [Ä0.02 EUR]
+Roga44 checks
+** Dealing Flop ** [ Jh, Td, Tc ]
+nikuturtle bets [Ä0.07 EUR]
+Roga44 folds
+INDIEN89 calls [Ä0.07 EUR]
+ZEW12 folds
+** Dealing Turn ** [ 6s ]
+nikuturtle bets [Ä0.14 EUR]
+INDIEN89 folds
+nikuturtle does not show cards.
+nikuturtle wins Ä0.42 EUR from the main pot.
+Game #14307888860 starts.
+
+
+
+#Game No : 14307888860
+***** Hand History for Game 14307888860 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:23:13 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 7 is the button
+Total number of players : 5/9
+Seat 1: INDIEN89 ( Ä2.83 EUR )
+Seat 5: alligator44 ( Ä3.98 EUR )
+Seat 6: ZEW12 ( Ä6.44 EUR )
+Seat 7: nikuturtle ( Ä5.87 EUR )
+Seat 8: Roga44 ( Ä3.12 EUR )
+Roga44 posts small blind [Ä0.02 EUR].
+INDIEN89 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+alligator44 folds
+ZEW12 folds
+nikuturtle calls [Ä0.04 EUR]
+Roga44 calls [Ä0.02 EUR]
+INDIEN89 checks
+** Dealing Flop ** [ 2s, 3h, Qs ]
+Roga44 checks
+INDIEN89 bets [Ä0.04 EUR]
+nikuturtle folds
+Roga44 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 4d ]
+Roga44 checks
+INDIEN89 bets [Ä0.19 EUR]
+Roga44 folds
+INDIEN89 does not show cards.
+INDIEN89 wins Ä0.38 EUR from the main pot.
+Game #14307889503 starts.
+
+
+
+#Game No : 14307920079
+***** Hand History for Game 14307920079 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:52:32 CEST 2014
+Table Fontenay-sous-Bois (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä5.56 EUR )
+Seat 2: El Madrileno ( Ä3.75 EUR )
+Seat 4: mitton73 ( Ä4 EUR )
+Seat 5: estrapade ( Ä4.06 EUR )
+Seat 6: toxic418 ( Ä1.40 EUR )
+El Madrileno posts small blind [Ä0.02 EUR].
+mitton73 posts big blind [Ä0.04 EUR].
+toxic418 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+estrapade folds
+toxic418 checks
+Acrofil folds
+El Madrileno calls [Ä0.02 EUR]
+mitton73 checks
+** Dealing Flop ** [ 5s, Qs, 3h ]
+El Madrileno checks
+mitton73 checks
+toxic418 checks
+** Dealing Turn ** [ 4d ]
+El Madrileno checks
+mitton73 checks
+toxic418 bets [Ä0.04 EUR]
+El Madrileno calls [Ä0.04 EUR]
+mitton73 folds
+** Dealing River ** [ 6c ]
+El Madrileno bets [Ä0.04 EUR]
+toxic418 calls [Ä0.04 EUR]
+toxic418 doesn't show [ 3d, 6s ]
+El Madrileno shows [ 2h, 4s ]
+El Madrileno wins Ä0.27 EUR from the main pot.
+Game #14307921464 starts.
+
+
+
+#Game No : 14307921464
+***** Hand History for Game 14307921464 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:53:21 CEST 2014
+Table Fontenay-sous-Bois (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä5.56 EUR )
+Seat 2: El Madrileno ( Ä3.90 EUR )
+Seat 4: mitton73 ( Ä3.96 EUR )
+Seat 5: estrapade ( Ä4.06 EUR )
+Seat 6: toxic418 ( Ä1.28 EUR )
+mitton73 posts small blind [Ä0.02 EUR].
+estrapade posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+toxic418 raises [Ä0.12 EUR]
+Acrofil calls [Ä0.12 EUR]
+El Madrileno calls [Ä0.12 EUR]
+mitton73 calls [Ä0.10 EUR]
+estrapade folds
+** Dealing Flop ** [ As, 7s, 4h ]
+mitton73 checks
+toxic418 bets [Ä0.04 EUR]
+Acrofil folds
+El Madrileno raises [Ä0.08 EUR]
+mitton73 calls [Ä0.08 EUR]
+toxic418 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 2c ]
+mitton73 checks
+toxic418 checks
+El Madrileno bets [Ä0.04 EUR]
+mitton73 calls [Ä0.04 EUR]
+toxic418 calls [Ä0.04 EUR]
+** Dealing River ** [ Qd ]
+mitton73 checks
+toxic418 checks
+El Madrileno bets [Ä0.04 EUR]
+mitton73 calls [Ä0.04 EUR]
+toxic418 calls [Ä0.04 EUR]
+mitton73 doesn't show [ Qs, Ts ]
+toxic418 doesn't show [ Jd, Jh ]
+El Madrileno shows [ Ad, Qc ]
+El Madrileno wins Ä0.94 EUR from the main pot.
+Game #14307920389 starts.
+
+
+
+#Game No : 14307922176
+***** Hand History for Game 14307922176 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:54:08 CEST 2014
+Table Fontenay-sous-Bois (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä5.44 EUR )
+Seat 2: El Madrileno ( Ä4.56 EUR )
+Seat 4: mitton73 ( Ä3.68 EUR )
+Seat 5: estrapade ( Ä4.02 EUR )
+Seat 6: toxic418 ( Ä1 EUR )
+estrapade posts small blind [Ä0.02 EUR].
+toxic418 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Acrofil folds
+El Madrileno calls [Ä0.04 EUR]
+mitton73 folds
+estrapade calls [Ä0.02 EUR]
+toxic418 checks
+** Dealing Flop ** [ 7d, 9d, 6s ]
+estrapade bets [Ä0.12 EUR]
+toxic418 calls [Ä0.12 EUR]
+El Madrileno folds
+** Dealing Turn ** [ 7s ]
+estrapade bets [Ä0.34 EUR]
+toxic418 calls [Ä0.34 EUR]
+** Dealing River ** [ 5d ]
+estrapade bets [Ä0.98 EUR]
+toxic418 folds
+estrapade shows [ 8c, Jc ]
+estrapade wins Ä1.96 EUR from the main pot.
+Game #14307922874 starts.
+
+
+
+#Game No : 14307922874
+***** Hand History for Game 14307922874 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:54:31 CEST 2014
+Table Fontenay-sous-Bois (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä5.44 EUR )
+Seat 2: El Madrileno ( Ä4.52 EUR )
+Seat 4: mitton73 ( Ä3.68 EUR )
+Seat 5: estrapade ( Ä4.50 EUR )
+Seat 6: toxic418 ( Ä0.50 EUR )
+toxic418 posts small blind [Ä0.02 EUR].
+Acrofil posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+El Madrileno calls [Ä0.04 EUR]
+mitton73 folds
+estrapade folds
+toxic418 calls [Ä0.02 EUR]
+Acrofil checks
+** Dealing Flop ** [ 8d, Tc, Js ]
+toxic418 is all-In [Ä0.46 EUR]
+Acrofil folds
+El Madrileno folds
+toxic418 does not show cards.
+toxic418 wins Ä0.58 EUR from the main pot.
+Game #14307923215 starts.
+
+
+
+#Game No : 14307926990
+***** Hand History for Game 14307926990 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 11:59:02 CEST 2014
+Table Fontenay-sous-Bois (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: Acrofil ( Ä5.22 EUR )
+Seat 2: El Madrileno ( Ä4.85 EUR )
+Seat 3: Mikiller70 ( Ä4 EUR )
+Seat 4: mitton73 ( Ä3.53 EUR )
+Seat 6: toxic418 ( Ä0.43 EUR )
+toxic418 posts small blind [Ä0.02 EUR].
+Acrofil posts big blind [Ä0.04 EUR].
+Mikiller70 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+El Madrileno calls [Ä0.04 EUR]
+Mikiller70 checks
+mitton73 calls [Ä0.04 EUR]
+toxic418 calls [Ä0.02 EUR]
+Acrofil checks
+** Dealing Flop ** [ 3s, 6h, 3c ]
+toxic418 checks
+Acrofil checks
+El Madrileno checks
+Mikiller70 bets [Ä0.04 EUR]
+mitton73 calls [Ä0.04 EUR]
+toxic418 folds
+Acrofil folds
+El Madrileno folds
+** Dealing Turn ** [ 5h ]
+Mikiller70 bets [Ä0.04 EUR]
+mitton73 folds
+Mikiller70 does not show cards.
+Mikiller70 wins Ä0.31 EUR from the main pot.
+Game #14307927121 starts.
+
+
+
+#Game No : 14307942807
+***** Hand History for Game 14307942807 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 12:13:18 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 6/9
+Seat 1: INDIEN89 ( Ä8.32 EUR )
+Seat 2: thib630 ( Ä0 EUR )
+Seat 6: ZEW12 ( Ä4.86 EUR )
+Seat 7: nikuturtle ( Ä5.47 EUR )
+Seat 8: australiann ( Ä3.96 EUR )
+Seat 9: voileux85 ( Ä0.95 EUR )
+nikuturtle posts small blind [Ä0.02 EUR].
+australiann posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+voileux85 calls [Ä0.04 EUR]
+INDIEN89 calls [Ä0.04 EUR]
+ZEW12 folds
+nikuturtle calls [Ä0.02 EUR]
+australiann checks
+** Dealing Flop ** [ 4h, 7c, 5d ]
+nikuturtle checks
+australiann checks
+voileux85 bets [Ä0.15 EUR]
+INDIEN89 calls [Ä0.15 EUR]
+nikuturtle folds
+australiann folds
+** Dealing Turn ** [ 8h ]
+voileux85 checks
+INDIEN89 checks
+** Dealing River ** [ 9s ]
+voileux85 checks
+INDIEN89 checks
+INDIEN89 doesn't show [ Qd, 4d ]
+voileux85 shows [ Kc, 4s ]
+voileux85 wins Ä0.43 EUR from the main pot.
+Game #14307943134 starts.
+
+
+
+#Game No : 14308022236
+***** Hand History for Game 14308022236 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 13:19:12 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 7/9
+Seat 1: Tirarata ( Ä4.98 EUR )
+Seat 2: Letoile_noire ( Ä4.24 EUR )
+Seat 5: LilySwinton ( Ä4 EUR )
+Seat 6: ZEW12 ( Ä6.08 EUR )
+Seat 7: jerome333 ( Ä3.76 EUR )
+Seat 8: Spica Taurus ( Ä4 EUR )
+Seat 9: polemploi ( Ä4.79 EUR )
+ZEW12 posts small blind [Ä0.02 EUR].
+jerome333 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+polemploi calls [Ä0.04 EUR]
+Tirarata calls [Ä0.04 EUR]
+Letoile_noire folds
+ZEW12 raises [Ä0.14 EUR]
+jerome333 folds
+polemploi folds
+Tirarata calls [Ä0.12 EUR]
+** Dealing Flop ** [ Ks, Jc, 8h ]
+ZEW12 bets [Ä0.19 EUR]
+Tirarata folds
+ZEW12 does not show cards.
+ZEW12 wins Ä0.57 EUR from the main pot.
+Game #14308022441 starts.
+
+
+
+#Game No : 14308046671
+***** Hand History for Game 14308046671 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 13:37:49 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: Tirarata ( Ä6.85 EUR )
+Seat 2: Letoile_noire ( Ä4.04 EUR )
+Seat 4: maxouing ( Ä2.36 EUR )
+Seat 8: Spica Taurus ( Ä3.98 EUR )
+Seat 9: polemploi ( Ä8.06 EUR )
+Letoile_noire posts small blind [Ä0.02 EUR].
+maxouing posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Spica Taurus calls [Ä0.04 EUR]
+polemploi folds
+Tirarata calls [Ä0.04 EUR]
+Letoile_noire calls [Ä0.02 EUR]
+maxouing checks
+** Dealing Flop ** [ 2h, Td, 8c ]
+Letoile_noire checks
+maxouing checks
+Spica Taurus checks
+Tirarata checks
+** Dealing Turn ** [ 6s ]
+Letoile_noire checks
+maxouing checks
+Spica Taurus bets [Ä0.04 EUR]
+Tirarata calls [Ä0.04 EUR]
+Letoile_noire calls [Ä0.04 EUR]
+maxouing folds
+** Dealing River ** [ 3s ]
+Letoile_noire checks
+Spica Taurus bets [Ä0.04 EUR]
+Tirarata folds
+Letoile_noire folds
+Spica Taurus does not show cards.
+Spica Taurus wins Ä0.31 EUR from the main pot.
+Game #14308048537 starts.
+
+
+
+#Game No : 14308048656
+***** Hand History for Game 14308048656 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 13:38:29 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: Tirarata ( Ä6.77 EUR )
+Seat 2: Letoile_noire ( Ä3.96 EUR )
+Seat 4: maxouing ( Ä2.32 EUR )
+Seat 8: Spica Taurus ( Ä4.17 EUR )
+Seat 9: polemploi ( Ä8.06 EUR )
+maxouing posts small blind [Ä0.02 EUR].
+Spica Taurus posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+polemploi folds
+Tirarata folds
+Letoile_noire folds
+maxouing calls [Ä0.02 EUR]
+Spica Taurus checks
+** Dealing Flop ** [ 5c, 3s, 8h ]
+maxouing bets [Ä0.04 EUR]
+Spica Taurus calls [Ä0.04 EUR]
+** Dealing Turn ** [ Jh ]
+maxouing bets [Ä0.04 EUR]
+Spica Taurus calls [Ä0.04 EUR]
+** Dealing River ** [ 2c ]
+maxouing bets [Ä0.04 EUR]
+Spica Taurus raises [Ä0.17 EUR]
+maxouing folds
+Spica Taurus does not show cards.
+Spica Taurus wins Ä0.43 EUR from the main pot.
+Game #14308048865 starts.
+
+
+
+#Game No : 14308053295
+***** Hand History for Game 14308053295 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 13:42:12 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 2 is the button
+Total number of players : 5/9
+Seat 1: Tirarata ( Ä6.73 EUR )
+Seat 2: Letoile_noire ( Ä3.90 EUR )
+Seat 4: maxouing ( Ä2.10 EUR )
+Seat 6: PCG84 ( Ä4 EUR )
+Seat 8: Spica Taurus ( Ä4.35 EUR )
+maxouing posts small blind [Ä0.02 EUR].
+PCG84 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Spica Taurus calls [Ä0.04 EUR]
+Tirarata folds
+Letoile_noire folds
+maxouing raises [Ä0.06 EUR]
+PCG84 calls [Ä0.04 EUR]
+Spica Taurus calls [Ä0.04 EUR]
+** Dealing Flop ** [ Ah, Jh, 3s ]
+maxouing checks
+PCG84 checks
+Spica Taurus bets [Ä0.11 EUR]
+maxouing calls [Ä0.11 EUR]
+PCG84 calls [Ä0.11 EUR]
+** Dealing Turn ** [ 5s ]
+maxouing checks
+PCG84 checks
+Spica Taurus bets [Ä0.27 EUR]
+maxouing calls [Ä0.27 EUR]
+PCG84 folds
+** Dealing River ** [ Jd ]
+maxouing checks
+Spica Taurus bets [Ä0.78 EUR]
+maxouing folds
+Spica Taurus does not show cards.
+Spica Taurus wins Ä1.82 EUR from the main pot.
+Game #14308054134 starts.
+
+
+
+#Game No : 14308055051
+***** Hand History for Game 14308055051 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 13:43:09 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 6/9
+Seat 1: Tirarata ( Ä6.73 EUR )
+Seat 2: Letoile_noire ( Ä3.90 EUR )
+Seat 4: maxouing ( Ä1.64 EUR )
+Seat 5: spartiate.2A ( Ä3.33 EUR )
+Seat 6: PCG84 ( Ä3.81 EUR )
+Seat 8: Spica Taurus ( Ä4.93 EUR )
+PCG84 posts small blind [Ä0.02 EUR].
+Spica Taurus posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Tirarata calls [Ä0.04 EUR]
+Letoile_noire folds
+maxouing folds
+PCG84 folds
+Spica Taurus checks
+** Dealing Flop ** [ Kc, Ac, Ks ]
+Spica Taurus checks
+Tirarata bets [Ä0.04 EUR]
+Spica Taurus calls [Ä0.04 EUR]
+** Dealing Turn ** [ 3d ]
+Spica Taurus checks
+Tirarata bets [Ä0.04 EUR]
+Spica Taurus calls [Ä0.04 EUR]
+** Dealing River ** [ Ts ]
+Spica Taurus checks
+Tirarata bets [Ä0.04 EUR]
+Spica Taurus folds
+Tirarata does not show cards.
+Tirarata wins Ä0.29 EUR from the main pot.
+Game #14308055430 starts.
+
+
+
+#Game No : 14308140637
+***** Hand History for Game 14308140637 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:43:02 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: blasteur99 ( Ä1.40 EUR )
+Seat 4: booster2000 ( Ä1.40 EUR )
+Seat 5: gigiladebutante ( Ä3.86 EUR )
+Seat 6: BAGHDAD ( Ä3.92 EUR )
+Seat 9: creucreu ( Ä2.67 EUR )
+gigiladebutante posts small blind [Ä0.02 EUR].
+BAGHDAD posts big blind [Ä0.04 EUR].
+blasteur99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+creucreu calls [Ä0.04 EUR]
+blasteur99 checks
+booster2000 calls [Ä0.04 EUR]
+gigiladebutante calls [Ä0.02 EUR]
+BAGHDAD checks
+** Dealing Flop ** [ 8s, 9d, As ]
+gigiladebutante bets [Ä0.04 EUR]
+BAGHDAD calls [Ä0.04 EUR]
+creucreu folds
+blasteur99 calls [Ä0.04 EUR]
+booster2000 calls [Ä0.04 EUR]
+** Dealing Turn ** [ 7d ]
+gigiladebutante checks
+BAGHDAD checks
+blasteur99 checks
+booster2000 checks
+** Dealing River ** [ Ah ]
+gigiladebutante checks
+BAGHDAD bets [Ä0.34 EUR]
+blasteur99 folds
+booster2000 folds
+gigiladebutante folds
+BAGHDAD does not show cards.
+BAGHDAD wins Ä0.68 EUR from the main pot.
+Game #14308142747 starts.
+
+
+
+#Game No : 14308143490
+***** Hand History for Game 14308143490 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:43:27 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: blasteur99 ( Ä1.32 EUR )
+Seat 4: booster2000 ( Ä1.32 EUR )
+Seat 5: gigiladebutante ( Ä3.78 EUR )
+Seat 6: BAGHDAD ( Ä4.18 EUR )
+Seat 9: creucreu ( Ä2.63 EUR )
+BAGHDAD posts small blind [Ä0.02 EUR].
+creucreu posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+blasteur99 folds
+booster2000 folds
+gigiladebutante folds
+BAGHDAD raises [Ä0.06 EUR]
+creucreu calls [Ä0.04 EUR]
+** Dealing Flop ** [ 9h, 2h, Qs ]
+BAGHDAD checks
+creucreu checks
+** Dealing Turn ** [ Ac ]
+BAGHDAD checks
+creucreu checks
+** Dealing River ** [ Kh ]
+BAGHDAD bets [Ä0.15 EUR]
+creucreu folds
+BAGHDAD does not show cards.
+BAGHDAD wins Ä0.30 EUR from the main pot.
+Game #14308144012 starts.
+
+
+
+#Game No : 14308144012
+***** Hand History for Game 14308144012 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:44:04 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 6 is the button
+Total number of players : 5/9
+Seat 1: blasteur99 ( Ä1.32 EUR )
+Seat 4: booster2000 ( Ä1.32 EUR )
+Seat 5: gigiladebutante ( Ä3.78 EUR )
+Seat 6: BAGHDAD ( Ä4.25 EUR )
+Seat 9: creucreu ( Ä2.55 EUR )
+creucreu posts small blind [Ä0.02 EUR].
+blasteur99 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+booster2000 calls [Ä0.04 EUR]
+gigiladebutante folds
+BAGHDAD calls [Ä0.04 EUR]
+creucreu calls [Ä0.02 EUR]
+blasteur99 raises [Ä0.12 EUR]
+booster2000 folds
+BAGHDAD folds
+creucreu folds
+blasteur99 does not show cards.
+blasteur99 wins Ä0.28 EUR from the main pot.
+Game #14308143802 starts.
+
+
+
+#Game No : 14308144832
+***** Hand History for Game 14308144832 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:44:55 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 9 is the button
+Total number of players : 5/9
+Seat 1: blasteur99 ( Ä1.44 EUR )
+Seat 4: booster2000 ( Ä1.28 EUR )
+Seat 5: gigiladebutante ( Ä3.78 EUR )
+Seat 6: BAGHDAD ( Ä4.21 EUR )
+Seat 9: creucreu ( Ä2.51 EUR )
+blasteur99 posts small blind [Ä0.02 EUR].
+booster2000 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+gigiladebutante folds
+BAGHDAD folds
+creucreu calls [Ä0.04 EUR]
+blasteur99 calls [Ä0.02 EUR]
+booster2000 checks
+** Dealing Flop ** [ 3s, 2s, 3d ]
+blasteur99 checks
+booster2000 bets [Ä0.04 EUR]
+creucreu calls [Ä0.04 EUR]
+blasteur99 calls [Ä0.04 EUR]
+** Dealing Turn ** [ Ah ]
+blasteur99 checks
+booster2000 bets [Ä0.04 EUR]
+creucreu calls [Ä0.04 EUR]
+blasteur99 raises [Ä0.39 EUR]
+booster2000 folds
+creucreu calls [Ä0.35 EUR]
+** Dealing River ** [ Qc ]
+blasteur99 is all-In [Ä0.97 EUR]
+creucreu calls [Ä0.97 EUR]
+blasteur99 shows [ 4c, 5c ]
+creucreu shows [ Ts, Qs ]
+blasteur99 wins Ä2.80 EUR from the main pot.
+Game #14308145092 starts.
+
+
+
+#Game No : 14308146477
+***** Hand History for Game 14308146477 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:46:44 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 1 is the button
+Total number of players : 5/9
+Seat 1: blasteur99 ( Ä2.80 EUR )
+Seat 4: booster2000 ( Ä1.16 EUR )
+Seat 5: gigiladebutante ( Ä3.78 EUR )
+Seat 6: BAGHDAD ( Ä4.21 EUR )
+Seat 9: creucreu ( Ä1.07 EUR )
+booster2000 posts small blind [Ä0.02 EUR].
+gigiladebutante posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+BAGHDAD calls [Ä0.04 EUR]
+creucreu calls [Ä0.04 EUR]
+blasteur99 folds
+booster2000 calls [Ä0.02 EUR]
+gigiladebutante checks
+** Dealing Flop ** [ Js, Qs, 5c ]
+booster2000 checks
+gigiladebutante checks
+BAGHDAD checks
+creucreu bets [Ä0.04 EUR]
+booster2000 calls [Ä0.04 EUR]
+gigiladebutante folds
+BAGHDAD folds
+** Dealing Turn ** [ Td ]
+booster2000 checks
+creucreu is all-In [Ä0.99 EUR]
+booster2000 folds
+creucreu does not show cards.
+creucreu wins Ä1.22 EUR from the main pot.
+Game #14308036789 starts.
+
+
+
+#Game No : 14308163163
+***** Hand History for Game 14308163163 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 14:56:19 CEST 2014
+Table Neuilly-sur-Marne (Real Money)
+Seat 3 is the button
+Total number of players : 9/9
+Seat 1: blasteur99 ( Ä2.24 EUR )
+Seat 2: Fab69400 ( Ä0.66 EUR )
+Seat 3: Christelle13013 ( Ä2.82 EUR )
+Seat 4: booster2000 ( Ä1.54 EUR )
+Seat 5: gigiladebutante ( Ä3.70 EUR )
+Seat 6: BAGHDAD ( Ä3.97 EUR )
+Seat 7: Phil8811 ( Ä5.70 EUR )
+Seat 8: PCG84 ( Ä4 EUR )
+Seat 9: polemploi ( Ä1.40 EUR )
+booster2000 posts small blind [Ä0.02 EUR].
+gigiladebutante posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+Phil8811 calls [Ä0.04 EUR]
+blasteur99 is all-In [Ä2.24 EUR]
+Christelle13013 folds
+booster2000 is all-In [Ä1.52 EUR]
+gigiladebutante folds
+Phil8811 calls [Ä2.20 EUR]
+** Dealing Flop ** [ 2d, 8d, 7c ]
+** Dealing Turn ** [ 9d ]
+** Dealing River ** [ Td ]
+blasteur99 doesn't show [ Qc, Ks ]
+booster2000 doesn't show [ As, 8c ]
+Phil8811 shows [ Kc, Jh ]
+Phil8811 wins Ä1.31 EUR from the side pot 1.
+Phil8811 wins Ä4.35 EUR from the main pot.
+Game #14308163839 starts.
+
+
+
+#Game No : 14309019638
+***** Hand History for Game 14309019638 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 21:41:53 CEST 2014
+Table La Courneuve (Real Money)
+Seat 3 is the button
+Total number of players : 5/9
+Seat 1: sheguey25 ( Ä4.32 EUR )
+Seat 2: fragnou ( Ä3.41 EUR )
+Seat 3: fausto_coppi ( Ä3.69 EUR )
+Seat 4: Jeret88 ( Ä1.36 EUR )
+Seat 5: gigiladebutante ( Ä3.51 EUR )
+Jeret88 posts small blind [Ä0.02 EUR].
+gigiladebutante posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+sheguey25 calls [Ä0.04 EUR]
+fragnou raises [Ä0.32 EUR]
+fausto_coppi folds
+Jeret88 calls [Ä0.30 EUR]
+gigiladebutante folds
+sheguey25 calls [Ä0.28 EUR]
+** Dealing Flop ** [ 3c, 8c, Jc ]
+Jeret88 checks
+sheguey25 checks
+fragnou is all-In [Ä3.09 EUR]
+Jeret88 folds
+sheguey25 folds
+fragnou does not show cards.
+fragnou wins Ä4.03 EUR from the main pot.
+Game #14309021320 starts.
+
+
+
+#Game No : 14309021753
+***** Hand History for Game 14309021753 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 21:42:44 CEST 2014
+Table La Courneuve (Real Money)
+Seat 4 is the button
+Total number of players : 5/9
+Seat 1: sheguey25 ( Ä4 EUR )
+Seat 2: fragnou ( Ä4.03 EUR )
+Seat 3: fausto_coppi ( Ä3.69 EUR )
+Seat 4: Jeret88 ( Ä1.04 EUR )
+Seat 5: gigiladebutante ( Ä3.47 EUR )
+gigiladebutante posts small blind [Ä0.02 EUR].
+sheguey25 posts big blind [Ä0.04 EUR].
+** Dealing down cards **
+fragnou calls [Ä0.04 EUR]
+fausto_coppi raises [Ä0.48 EUR]
+Jeret88 calls [Ä0.48 EUR]
+gigiladebutante folds
+sheguey25 raises [Ä0.88 EUR]
+fragnou calls [Ä0.88 EUR]
+fausto_coppi calls [Ä0.44 EUR]
+Jeret88 calls [Ä0.44 EUR]
+** Dealing Flop ** [ 8c, Jh, 6s ]
+sheguey25 is all-In [Ä3.08 EUR]
+fragnou calls [Ä3.08 EUR]
+fausto_coppi folds
+Jeret88 is all-In [Ä0.12 EUR]
+** Dealing Turn ** [ 8h ]
+** Dealing River ** [ Qd ]
+sheguey25 shows [ Kc, Ad ]
+fragnou shows [ As, 2c ]
+Jeret88 shows [ 5h, Qh ]
+sheguey25 wins Ä5.53 EUR from the side pot 1.
+Jeret88 wins Ä3.79 EUR from the main pot.
+Game #14309023963 starts.
+
+
+
+#Game No : 14309023963
+***** Hand History for Game 14309023963 *****
+Ä4 EUR NL Texas Hold'em - Tuesday, December 30, 21:43:17 CEST 2014
+Table La Courneuve (Real Money)
+Seat 5 is the button
+Total number of players : 5/9
+Seat 1: sheguey25 ( Ä5.53 EUR )
+Seat 2: fragnou ( Ä0.03 EUR )
+Seat 3: fausto_coppi ( Ä2.77 EUR )
+Seat 4: Jeret88 ( Ä3.79 EUR )
+Seat 5: gigiladebutante ( Ä3.45 EUR )
+sheguey25 posts small blind [Ä0.02 EUR].
+fragnou posts big blind [Ä0.03 EUR].
+** Dealing down cards **
+fausto_coppi raises [Ä0.24 EUR]
+Jeret88 folds
+gigiladebutante folds
+sheguey25 calls [Ä0.22 EUR]
+** Dealing Flop ** [ 4s, Qs, 4c ]
+sheguey25 checks
+fausto_coppi bets [Ä0.48 EUR]
+sheguey25 folds
+** Dealing Turn ** [ 7d ]
+** Dealing River ** [ 9c ]
+fragnou doesn't show [ Kh, Jc ]
+fausto_coppi shows [ Jh, Qd ]
+fausto_coppi wins Ä0.87 EUR from the side pot 1.
+fausto_coppi wins Ä0.09 EUR from the main pot.
+Game #14309023502 starts.
+
+
+
