@@ -4306,6 +4306,7 @@
     <Content Include="Trainer\Data\party_fr_865313_1422773249_2-4_NL-Holdem-0-part22-239612955.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Trainer\PlayerData\extractValuePlayer.txt" />
     <Content Include="Trainer\PlayerData\ListPlayer.txt">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
