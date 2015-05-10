@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace PokerBot.CaseBased.Base
 {
+    [Serializable]
     public class DecisionCase : CaseBase
     {
         private ActionEnum _action;
