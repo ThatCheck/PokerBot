@@ -116,6 +116,14 @@ namespace PokerBot.Utils
                 || type == HandActionType.SMALL_BLIND;
         }
 
+        public static bool isFoldAction(HandAction action)
+        {
+            HandActionType type = action.HandActionType;
+            return type == HandActionType.FOLD
+                || type == HandActionType.SITTING_OUT
+                || type == HandActionType.DISCONNECTED;
+        }
+
         public static int preFlopRank(HoleCards hand)
         {
             Card cardOne = hand[0];
@@ -155,7 +163,7 @@ namespace PokerBot.Utils
             }
         }
 
-        public static double handStrenght(Tuple<PlayingCard, PlayingCard> cards, List<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange)
+        public static double handStrenght(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange)
         {
             int ahead = 0, tied = 0, behind = 0;
             List<int> boardsList = getHandIntValue(boards);
@@ -186,7 +194,7 @@ namespace PokerBot.Utils
             return (double)(ahead + (double)tied / 2) / (double)(ahead + tied + behind);
         }
 
-        public static Tuple<double, double> handPotential(Tuple<PlayingCard, PlayingCard> cards, List<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, HandHistories.Objects.Cards.Street stage)
+        public static Tuple<double, double> handPotential(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, HandHistories.Objects.Cards.Street stage)
         {
             int[][] hp = new int[][] { new int[] { 0, 0, 0 }, new int[] { 0, 0, 0 }, new int[] { 0, 0, 0 } };
             int[] hpTotal = new int[] { 0, 0, 0 };

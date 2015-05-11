@@ -1,7 +1,9 @@
 ﻿using HandHistories.Objects.Actions;
 using HandHistories.Objects.Hand;
 using NLog;
+using PokerBot.BayesianNetwork.V1.HandType;
 using PokerBot.CaseBased.Base;
+using PokerBot.CaseBased.PostFlop;
 using PokerBot.CaseBased.PreFlop;
 using PokerBot.Entity.Card;
 using PokerBot.Entity.Table;
@@ -12,7 +14,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using PokerBot.Utils.Extensions;
 namespace PokerBot.CaseBased.Trainer
 {
     public class TrainerCase
@@ -63,6 +65,125 @@ namespace PokerBot.CaseBased.Trainer
             return listPFCase;
         }
 
+        public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList, BayesianNetwork.V1.Network net)
+        {
+            List<PostFlopDecisionCase> listPFCase = new List<PostFlopDecisionCase>();
+
+            foreach (Player player in playerList)
+            {
+                string name = player.Name;
+                List<HandAction> iteratorHand = handHistory.HandActions.Copy();
+                handHistory.HandActions = new List<HandAction>();
+                foreach (var hand in iteratorHand.Where(p => p.Street > HandHistories.Objects.Cards.Street.Preflop && p.Street < HandHistories.Objects.Cards.Street.Showdown))
+                {
+                    handHistory.HandActions.Add(hand);
+                    if (HandUtility.isActionWithAmount(hand) && !HandUtility.isPostAction(hand) && hand.PlayerName == name)
+                    {
+                        var last = handHistory.HandActions.Last();
+                        var street = last.Street;
+                        var nameLastActionPlayer = last.PlayerName;
+                        table.HandHistory = handHistory;
+                        PostFlopDecisionCase pfCase = new PostFlopDecisionCase();
+                        try
+                        {
+                            pfCase.BetCommitted = PotUtility.betCommited(handHistory, street);
+                            pfCase.BetToCall = PotUtility.betToCall(handHistory, street, nameLastActionPlayer);
+                            pfCase.BetTotal = PotUtility.betTotal(handHistory, street);
+                            pfCase.NumberOfPlayer = handHistory.NumPlayersActive;
+                            pfCase.PlayerInCurrentHand = PositionUtility.getNumberPlayerAtStage(handHistory, street);
+                            pfCase.PlayerYetToAct = PositionUtility.getNumberPlayerToAct(handHistory, street, name);
+                            pfCase.PotOdds = PotUtility.potOdds(handHistory, street, name);
+                            pfCase.RelativePosition = PositionUtility.getRelativePosition(handHistory, street, name);
+                            pfCase.CommittedStack = (double)handHistory.HandActions.Where(p => p.PlayerName == nameLastActionPlayer).Sum(p => Math.Abs(p.Amount)) / PotUtility.getPot(handHistory);
+                            pfCase.BetPattern = HandUtility.generateHandBetPattern(handHistory.HandActions.Where(p => p.PlayerName == nameLastActionPlayer));
+                            pfCase.Action = HandUtility.getAction(handHistory.HandActions, hand);
+
+                            List<String> listPlayerInHand = new List<string>();
+                            foreach (var handAction in handHistory.HandActions)
+                            {
+                                if (!handHistory.HandActions.Where(p => HandUtility.isFoldAction(handAction)).Select( p => p.PlayerName).Contains(handAction.PlayerName) && !listPlayerInHand.Contains(handAction.PlayerName))
+                                {
+                                    listPlayerInHand.Add(handAction.PlayerName);
+                                }
+                            }
+                            Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
+                            List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
+
+                            IEnumerable<PlayingCard> boardcard = null;
+                            if (street == HandHistories.Objects.Cards.Street.Flop)
+                            {
+                                boardcard = table.Board.getBoardFromFlop().getEvaluator();
+                            }
+                            else if (street == HandHistories.Objects.Cards.Street.Turn)
+                            {
+                                boardcard = table.Board.getBoardFromTurn().getEvaluator();
+                            }
+                            else if (street == HandHistories.Objects.Cards.Street.River)
+                            {
+                                boardcard = table.Board.getBoardFromRiver().getEvaluator();
+                            }
+
+                            foreach (String stringPlayer in listPlayerInHand)
+                            {
+                                Player selectedPlayer = null;
+                                foreach (Player playerTempo in table.ListPlayer)
+                                {
+                                    if (playerTempo.Name == stringPlayer)
+                                    {
+                                        selectedPlayer = playerTempo;
+                                        break;
+                                    }
+                                }
+                                IOrderedEnumerable<KeyValuePair<string, double>> dataResult;
+                                if (street == HandHistories.Objects.Cards.Street.Flop)
+                                    dataResult = net.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Flop);
+                                else if (street == HandHistories.Objects.Cards.Street.Turn)
+                                    dataResult = net.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Turn);
+                                else
+                                    dataResult = net.getValueForHandType(table, selectedPlayer);
+
+                                List<HandTypeEnumType> dataResultConvert = new List<HandTypeEnumType>();
+                                foreach (var value in dataResult.Take(3))
+                                {
+                                    dataResultConvert.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value.Key));
+                                }
+                                
+                                var listRange = Range.getRangeEstimator(dataResultConvert, boardcard, card.ToCollection());
+                                listOppRange.Add(listRange.ToList());
+                            }
+
+                            pfCase.HandStrengh = HandUtility.handStrenght(card,boardcard,listOppRange);
+                            if(street != HandHistories.Objects.Cards.Street.River)
+                            {
+                                Tuple<double, double> handPotential = HandUtility.handPotential(card, boardcard, listOppRange, street);
+                                pfCase.PositivePotential = handPotential.Item1;
+                                pfCase.NegativePotential = handPotential.Item2;
+                            }
+
+                            double totalPot = (double)iteratorHand.Sum(p => Math.Abs(p.Amount));
+                            IEnumerable<string> nameWinners = iteratorHand.Where(p => p.HandActionType == HandActionType.WINS || p.HandActionType == HandActionType.WINS_SIDE_POT).Select(p => p.PlayerName); 
+                            if (nameWinners.Contains(name))
+                            {
+                                pfCase.Quality = HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2) * totalPot;
+                            }
+                            else
+                            {
+                                pfCase.Quality = (1 - HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2)) * - totalPot;
+                            }
+
+                            listPFCase.Add(pfCase);
+                        }
+                        catch (Exception ex)
+                        {
+                            _logger.Error("Unable to parse : " + ex.StackTrace);
+                        }
+                    }
+                }
+                handHistory.HandActions = iteratorHand;
+            }
+            return listPFCase;
+        }
+
         public static List<PreflopDecisionCase> generatePreFlopDecisionCaseForHand(HandHistory handHistory, List<Player> playerList)
         {
             List<PreflopDecisionCase> listPFCase = new List<PreflopDecisionCase>();
@@ -94,25 +215,25 @@ namespace PokerBot.CaseBased.Trainer
                             pfCase.BetPattern = HandUtility.generateHandBetPattern(handHistory.HandActions.Where(p => p.PlayerName == nameLastActionPlayer));
                             pfCase.Action = HandUtility.getAction(handHistory.HandActions, hand);
 
-                            Tuple<PlayingCard,PlayingCard> card = Tuple.Create<PlayingCard,PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]),CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
-                            List<List<Tuple<PlayingCard,PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard,PlayingCard>>>();
-                            foreach(var playerRange in handHistory.Players)
+                            Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
+                            List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
+                            foreach (var playerRange in handHistory.Players)
                             {
-                                if(playerRange.hasHoleCards)
+                                if (playerRange.hasHoleCards)
                                 {
-                                    Tuple<PlayingCard,PlayingCard> cardOpp = Tuple.Create<PlayingCard,PlayingCard>(CardConverter.fromIntToPlayingCard(playerRange.HoleCards[0]),CardConverter.fromIntToPlayingCard(playerRange.HoleCards[1]));
-                                    listOppRange.Add(new List<Tuple<PlayingCard,PlayingCard>>(){cardOpp});
+                                    Tuple<PlayingCard, PlayingCard> cardOpp = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(playerRange.HoleCards[0]), CardConverter.fromIntToPlayingCard(playerRange.HoleCards[1]));
+                                    listOppRange.Add(new List<Tuple<PlayingCard, PlayingCard>>() { cardOpp });
                                 }
                             }
                             double totalPot = (double)iteratorHand.Sum(p => Math.Abs(p.Amount));
-                            IEnumerable<string> nameWinners = iteratorHand.Where(p => p.HandActionType == HandActionType.WINS).Select(p => p.PlayerName); 
+                            IEnumerable<string> nameWinners = iteratorHand.Where(p => p.HandActionType == HandActionType.WINS).Select(p => p.PlayerName);
                             if (nameWinners.Contains(name))
                             {
                                 pfCase.Quality = HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2) * totalPot;
                             }
                             else
                             {
-                                pfCase.Quality = (1 - HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2)) * - totalPot;
+                                pfCase.Quality = (1 - HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2)) * -totalPot;
                             }
                             listPFCase.Add(pfCase);
                         }

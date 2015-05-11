@@ -368,61 +368,74 @@ namespace PokerBot.BayesianNetwork.V1
                 }
                 if (maxStreet >= HandHistories.Objects.Cards.Street.Flop)
                 {
-                    this._flopAction = new Action.ActionFlop(handAction, name);
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    {
+                        this._flopAction = new Action.ActionFlop(handAction, name);
+                        this._network.SetEvidence(typeof(Action.ActionFlop).Name, this._flopAction.ToString());
+                        this._flopPotOdds = new PotOdds.PotOddsFlop(handAction, name);
+                        this._network.SetEvidence(typeof(PotOdds.PotOddsFlop).Name, this._flopPotOdds.ToString());
+                        this._flopPosition = new Position.PositionFlop(handAction, name);
+                        this._network.SetEvidence(typeof(Position.PositionFlop).Name, this._flopPosition.ToString());
+                    }
+
                     this._flopBoard = new Board.BoardFlop(table.Board);
                     //this._flopDrawingHand = new DrawingHand.DrawingHand(table.Board, player.Hand);
                     //this._flopHandType = new HandType.HandType(table.Board, player.Hand);
                     this._flopNumberPlayer = new NumberPlayerSitIn.FlopNumberPlayerSitIn(handAction);
-                    this._flopPosition = new Position.PositionFlop(handAction, name);
-                    this._flopPotOdds = new PotOdds.PotOddsFlop(handAction, name);
                     this._flushFlopHand = new DrawingHand.Flush(table.Board);
                     this._straightFlopHand = new DrawingHand.Straight(table.Board);
 
-                    this._network.SetEvidence(typeof(Action.ActionFlop).Name, this._flopAction.ToString());
                     this._network.SetEvidence(typeof(Board.BoardFlop).Name, this._flopBoard.ToString());
                     this._network.SetEvidence(typeof(NumberPlayerSitIn.FlopNumberPlayerSitIn).Name, this._flopNumberPlayer.ToString());
-                    this._network.SetEvidence(typeof(Position.PositionFlop).Name, this._flopPosition.ToString());
-                    this._network.SetEvidence(typeof(PotOdds.PotOddsFlop).Name, this._flopPotOdds.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.Flush).Name, this._flushFlopHand.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.Straight).Name, this._straightFlopHand.ToString());
                 }
                 if (maxStreet >= HandHistories.Objects.Cards.Street.Turn)
                 {
-                    this._turnAction = new Action.ActionTurn(handAction, name);
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    {
+                        this._turnAction = new Action.ActionTurn(handAction, name);
+                        this._turnPosition = new Position.PositionTurn(handAction, name);
+                        this._turnPotOdds = new PotOdds.PotOddsTurn(handAction, name);
+
+                        this._network.SetEvidence(typeof(Position.PositionTurn).Name, this._turnPosition.ToString());
+                        this._network.SetEvidence(typeof(PotOdds.PotOddsTurn).Name, this._turnPotOdds.ToString());
+                        this._network.SetEvidence(typeof(Action.ActionTurn).Name, this._turnAction.ToString());
+
+                    }
                     this._turnBoard = new Board.BoardChangeTurn(table.Board);
                     //this._turnDrawingHand = new DrawingHand.DrawingHandTurn(table.Board, player.Hand);
                     //this._turnHandType = new HandType.HandTypeTurn(table.Board, player.Hand);
                     this._turnNumberPlayer = new NumberPlayerSitIn.TurnNumberPlayerSitIn(handAction);
-                    this._turnPosition = new Position.PositionTurn(handAction, name);
-                    this._turnPotOdds = new PotOdds.PotOddsTurn(handAction, name);
                     this._flushTurnHand = new DrawingHand.FlushChangeTurn(table.Board);
                     this._straightTurnHand = new DrawingHand.StraightChangeTurn(table.Board);
 
-                    this._network.SetEvidence(typeof(Action.ActionTurn).Name, this._turnAction.ToString());
                     this._network.SetEvidence(typeof(Board.BoardChangeTurn).Name, this._turnBoard.ToString());
                     this._network.SetEvidence(typeof(NumberPlayerSitIn.TurnNumberPlayerSitIn).Name, this._turnNumberPlayer.ToString());
-                    this._network.SetEvidence(typeof(Position.PositionTurn).Name, this._turnPosition.ToString());
-                    this._network.SetEvidence(typeof(PotOdds.PotOddsTurn).Name, this._turnPotOdds.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.FlushChangeTurn).Name, this._flushTurnHand.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.StraightChangeTurn).Name, this._straightTurnHand.ToString());
                 }
                 if (maxStreet >= HandHistories.Objects.Cards.Street.River)
                 {
-                    this._riverAction = new Action.ActionRiver(handAction, name);
+
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    {
+                        this._riverAction = new Action.ActionRiver(handAction, name);
+                        this._riverPosition = new Position.PositionRiver(handAction, name);
+                        this._riverPotOdds = new PotOdds.PotOddsRiver(handAction, name);
+
+                        this._network.SetEvidence(typeof(Action.ActionRiver).Name, this._riverAction.ToString());
+                        this._network.SetEvidence(typeof(Position.PositionRiver).Name, this._riverPosition.ToString());
+                        this._network.SetEvidence(typeof(PotOdds.PotOddsRiver).Name, this._riverPotOdds.ToString());
+                    }
                     this._riverBoard = new Board.BoardChangeRiver(table.Board);
                     //this._riverHandType = new HandType.HandTypeRiver(table.Board, player.Hand);
                     this._riverNumberPlayer = new NumberPlayerSitIn.RiverNumberPlayerSitIn(handAction);
-                    this._riverPosition = new Position.PositionRiver(handAction, name);
-                    this._riverPotOdds = new PotOdds.PotOddsRiver(handAction, name);
                     this._flushRiverHand = new DrawingHand.FlushChangeRiver(table.Board);
                     this._straightRiverHand = new DrawingHand.StraightChangeRiver(table.Board);
 
-
-                    this._network.SetEvidence(typeof(Action.ActionRiver).Name, this._riverAction.ToString());
                     this._network.SetEvidence(typeof(Board.BoardChangeRiver).Name, this._riverBoard.ToString());
                     this._network.SetEvidence(typeof(NumberPlayerSitIn.RiverNumberPlayerSitIn).Name, this._riverNumberPlayer.ToString());
-                    this._network.SetEvidence(typeof(Position.PositionRiver).Name, this._riverPosition.ToString());
-                    this._network.SetEvidence(typeof(PotOdds.PotOddsRiver).Name, this._riverPotOdds.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.FlushChangeRiver).Name, this._flushRiverHand.ToString());
                     this._network.SetEvidence(typeof(DrawingHand.StraightChangeRiver).Name, this._straightRiverHand.ToString());
                 }
