@@ -108,7 +108,6 @@ namespace PokerBot.CaseBased.Trainer
                             }
                             Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
                             List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
-
                             IEnumerable<PlayingCard> boardcard = null;
                             if (street == HandHistories.Objects.Cards.Street.Flop)
                             {
@@ -122,7 +121,7 @@ namespace PokerBot.CaseBased.Trainer
                             {
                                 boardcard = table.Board.getBoardFromRiver().getEvaluator();
                             }
-
+                            List<HandTypeEnumType> listHandType = new List<HandTypeEnumType>();
                             foreach (String stringPlayer in listPlayerInHand)
                             {
                                 Player selectedPlayer = null;
@@ -145,6 +144,7 @@ namespace PokerBot.CaseBased.Trainer
                                 List<HandTypeEnumType> dataResultConvert = new List<HandTypeEnumType>();
                                 foreach (var value in dataResult.Take(3))
                                 {
+                                    listHandType.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value.Key));
                                     dataResultConvert.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value.Key));
                                 }
                                 
@@ -152,6 +152,8 @@ namespace PokerBot.CaseBased.Trainer
                                 listOppRange.Add(listRange.ToList());
                             }
 
+                            var ordered = listHandType.OrderByDescending( p => p);
+                            pfCase.HandType = Tuple.Create<HandTypeEnumType, HandTypeEnumType, HandTypeEnumType>(ordered.ElementAt(0), ordered.ElementAt(1), ordered.ElementAt(2));
                             pfCase.HandStrengh = HandUtility.handStrenght(card,boardcard,listOppRange);
                             if(street != HandHistories.Objects.Cards.Street.River)
                             {

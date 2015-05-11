@@ -148,6 +148,7 @@
     <Compile Include="CaseBased\Base\QBRBase.cs" />
     <Compile Include="CaseBased\Evaluator\ICaseEvaluator.cs" />
     <Compile Include="CaseBased\Evaluator\ProfitEvaluator.cs" />
+    <Compile Include="CaseBased\PostFlop\PostFlopDecisionCase.cs" />
     <Compile Include="CaseBased\PreFlop\PreflopCase.cs" />
     <Compile Include="CaseBased\PreFlop\PreflopDecisionCase.cs" />
     <Compile Include="CaseBased\Trainer\TrainerCase.cs" />
