@@ -8,23 +8,23 @@ namespace PokerBot.BayesianNetwork.V1.HandType
 {
     public enum HandTypeEnumType
     {
-        AcePairStrong,
-        AcePairWeak,
-        Busted,
-        Flush,
-        FourOfAKind,
-        FullHouse,
-        JackPair,
-        KingPairStrong,
-        KingPairWeak,
-        LowPair,
-        MidPair,
-        QueenPair,
-        Straight,
-        StraightFlush,
-        TenPair,
-        ThreeOfAKind,
-        TwoPair
+        AcePairStrong = 9,
+        AcePairWeak = 8,
+        Busted = 0,
+        Flush = 13,
+        FourOfAKind = 15,
+        FullHouse = 14,
+        JackPair = 4,
+        KingPairStrong = 7,
+        KingPairWeak = 6,
+        LowPair = 1,
+        MidPair = 2,
+        QueenPair = 5,
+        Straight = 12,
+        StraightFlush = 16,
+        TenPair = 3,
+        ThreeOfAKind = 11,
+        TwoPair = 10
     }
 
     public static class ToHandType

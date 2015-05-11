@@ -12,7 +12,7 @@ namespace PokerBot.CaseBased.PostFlop
     public class PostFlopDecisionCase : DecisionCase
     {
         private double _handStrengh;
-        private Tuple<HandType, HandType, HandType> _handType;
+        private Tuple<HandTypeEnumType, HandTypeEnumType, HandTypeEnumType> _handType;
         private double _positivePotential;
         private double _negativePotential;
         private double _betTotal;
@@ -27,9 +27,9 @@ namespace PokerBot.CaseBased.PostFlop
         {
             get { return _negativePotential; }
             set { _negativePotential = value; }
-        } 
+        }
 
-        public Tuple<HandType, HandType, HandType> HandType
+        public Tuple<HandTypeEnumType, HandTypeEnumType, HandTypeEnumType> HandType
         {
             get { return _handType; }
             set { _handType = value; }
