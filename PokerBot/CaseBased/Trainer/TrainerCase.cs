@@ -15,6 +15,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PokerBot.Utils.Extensions;
+using PokerBot.BayesianNetwork;
+using PokerBot.BayesianNetwork.V1;
 namespace PokerBot.CaseBased.Trainer
 {
     public class TrainerCase
@@ -65,10 +67,10 @@ namespace PokerBot.CaseBased.Trainer
             return listPFCase;
         }
 
-        public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList, BayesianNetwork.V1.Network net)
+        public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList)
         {
             List<PostFlopDecisionCase> listPFCase = new List<PostFlopDecisionCase>();
-
+            Network net = new Network(SmileSingleton.Instance.cloneNetwork());
             foreach (Player player in playerList)
             {
                 string name = player.Name;

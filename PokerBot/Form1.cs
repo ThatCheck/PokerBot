@@ -1,4 +1,5 @@
-﻿using PokerBot.CaseBased.Base;
+﻿using PokerBot.BayesianNetwork;
+using PokerBot.CaseBased.Base;
 using PokerBot.CustomForm;
 using PokerBot.CustomForm.Training;
 using PokerBot.Entity.Table;
@@ -34,6 +35,7 @@ namespace PokerBot
             InitializeComponent();
             PokerBot.Entity.Player.StatSingleton.Instance.initFromFile(@"./Trainer/PlayerData/extractValuePlayer.txt");
             TwoPlusTwoHandEvaluator.Instance.init();
+            Debug.WriteLine(SmileSingleton.Instance.ToString());
         }
 
         void TableList_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)

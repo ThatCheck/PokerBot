@@ -279,6 +279,11 @@ namespace PokerBot.BayesianNetwork.V1
         #endregion
         #region Network
         Smile.Network _network;
+
+        public Smile.Network SmileNetwork
+        {
+            get { return _network; }
+        }
         #endregion
 
         public Network()
@@ -299,6 +304,20 @@ namespace PokerBot.BayesianNetwork.V1
                 throw;
             }
         }
+
+        public Network(Smile.Network networkFile)
+            : base()
+        {
+            try
+            {
+                this._network = networkFile;
+            }
+            catch (Exception ex)
+            {
+                throw;
+            }
+        }
+
 
         private void clearAllEvidence()
         {
