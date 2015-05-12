@@ -4,6 +4,7 @@ using HandHistories.Parser.Parsers.Base;
 using HandHistories.Parser.Parsers.Factory;
 using NLog;
 using PokerBot.CaseBased.Base;
+using PokerBot.CaseBased.PostFlop;
 using PokerBot.CaseBased.PreFlop;
 using PokerBot.CaseBased.Trainer;
 using PokerBot.CustomForm.Event;
@@ -338,6 +339,62 @@ namespace PokerBot.Trainer
                     }
                 }
                 foreach(PreflopCase pfCase in data)
+                {
+                    bag.Add(pfCase);
+                }
+                Interlocked.Increment(ref numberCurrentSend);
+                this.OnRaiseProgressEvent(new ProgressEventArgs(numberCurrentSend, _numberEstimatedTrainingHand));
+            });
+            QBRBase qbr = new QBRBase();
+            qbr.fromIEnumerable(bag);
+            qbr.serialize(output);
+        }
+
+        public void generateCBRPostFlopDecision(String[] inputHand, String output, string networkPath,SiteName site)
+        {
+            _logger.Info("Start Training !");
+            _logger.Info("Generate header ! ");
+            Object locker = new Object();
+            Object lockerIntIncrement = new Object();
+            ConcurrentBag<PostFlopDecisionCase> bag = new ConcurrentBag<PostFlopDecisionCase>();
+            int numberCurrentSend = 0;
+            this._numberEstimatedTrainingHand = inputHand.Count();
+            Parallel.ForEach(inputHand, pathInput =>
+            {
+                _logger.Info("Training ON => " + pathInput);
+                IEnumerable<HandHistory> listHand = endcodeHandFromFile(pathInput, site);
+                _logger.Info("Extract " + listHand.Count() + "hand(s)");
+                List<PostFlopDecisionCase> data = new List<PostFlopDecisionCase>();
+                foreach (HandHistory hand in listHand)
+                {
+                    try
+                    {
+                        Table table = new Table(hand);
+                        foreach (var player in hand.Players)
+                        {
+                            if (player.hasHoleCards
+                                && hand.HandActions.Any(p => p.PlayerName == player.PlayerName && p.Street == HandHistories.Objects.Cards.Street.Preflop)
+                                && hand.HandActions.Any(p => p.PlayerName == player.PlayerName && p.Street == HandHistories.Objects.Cards.Street.Flop)
+                                && hand.HandActions.Any(p => p.PlayerName == player.PlayerName && p.Street == HandHistories.Objects.Cards.Street.Turn)
+                                && hand.HandActions.Any(p => p.PlayerName == player.PlayerName && p.Street == HandHistories.Objects.Cards.Street.River)
+                                )
+                            {
+                                Player selectedPlayer = table.ListPlayer.Where(p => p.Name == player.PlayerName).First();
+                                if (selectedPlayer == null)
+                                {
+                                    throw new InvalidDataException("Unable to load player");
+                                }
+                                data.AddRange(TrainerCase.generatePostFlopDecisionCaseForHand(hand, table, new List<Player>() { selectedPlayer }));
+
+                            }
+                        }
+                    }
+                    catch (Exception ex)
+                    {
+                        _logger.Warn("Unable to train network for data : " + hand.FullHandHistoryText + "\n ERROR : " + ex.Message + "\n Trace : " + ex.StackTrace);
+                    }
+                }
+                foreach (PostFlopDecisionCase pfCase in data)
                 {
                     bag.Add(pfCase);
                 }

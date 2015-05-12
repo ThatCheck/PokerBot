@@ -180,5 +180,15 @@ namespace PokerBot
             dataForm.Dispose();
             MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);
         }
+
+        private async void generatePstFlopDecisionCaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.generateCBRPostFlopDecision(Directory.GetFiles(@"./Trainer/Data"), "./postFlopCaseDecision.dat", "./network.xdsl", HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);
+        }
     }
 }

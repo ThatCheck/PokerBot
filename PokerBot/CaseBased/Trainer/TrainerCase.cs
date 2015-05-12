@@ -71,14 +71,19 @@ namespace PokerBot.CaseBased.Trainer
         {
             List<PostFlopDecisionCase> listPFCase = new List<PostFlopDecisionCase>();
             Network net = new Network(SmileSingleton.Instance.cloneNetwork());
+            List<string> listPlayerInHand = handHistory.HandActions.Select(p => p.PlayerName).Distinct().ToList();
             foreach (Player player in playerList)
             {
                 string name = player.Name;
                 List<HandAction> iteratorHand = handHistory.HandActions.Copy();
                 handHistory.HandActions = new List<HandAction>();
-                foreach (var hand in iteratorHand.Where(p => p.Street > HandHistories.Objects.Cards.Street.Preflop && p.Street < HandHistories.Objects.Cards.Street.Showdown))
+                foreach (var hand in iteratorHand.Where(p => p.Street >= HandHistories.Objects.Cards.Street.Preflop && p.Street < HandHistories.Objects.Cards.Street.Showdown))
                 {
                     handHistory.HandActions.Add(hand);
+                    if (HandUtility.isFoldAction(hand))
+                        listPlayerInHand.Remove(hand.PlayerName);
+                    if (hand.Street == HandHistories.Objects.Cards.Street.Preflop)
+                        continue;
                     if (HandUtility.isActionWithAmount(hand) && !HandUtility.isPostAction(hand) && hand.PlayerName == name)
                     {
                         var last = handHistory.HandActions.Last();
@@ -100,14 +105,6 @@ namespace PokerBot.CaseBased.Trainer
                             pfCase.BetPattern = HandUtility.generateHandBetPattern(handHistory.HandActions.Where(p => p.PlayerName == nameLastActionPlayer));
                             pfCase.Action = HandUtility.getAction(handHistory.HandActions, hand);
 
-                            List<String> listPlayerInHand = new List<string>();
-                            foreach (var handAction in handHistory.HandActions)
-                            {
-                                if (!handHistory.HandActions.Where(p => HandUtility.isFoldAction(handAction)).Select( p => p.PlayerName).Contains(handAction.PlayerName) && !listPlayerInHand.Contains(handAction.PlayerName))
-                                {
-                                    listPlayerInHand.Add(handAction.PlayerName);
-                                }
-                            }
                             Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
                             List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
                             IEnumerable<PlayingCard> boardcard = null;
