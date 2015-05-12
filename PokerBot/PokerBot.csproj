@@ -82,6 +82,7 @@
   <ItemGroup>
     <Compile Include="BayesianNetwork\BaseSmileDefinition.cs" />
     <Compile Include="BayesianNetwork\ISmileInterface.cs" />
+    <Compile Include="BayesianNetwork\SmileSingleton.cs" />
     <Compile Include="BayesianNetwork\V1\Action\Action.cs" />
     <Compile Include="BayesianNetwork\V1\Action\ActionEnumType.cs" />
     <Compile Include="BayesianNetwork\V1\Action\ActionEnumTypeExtensions.cs" />

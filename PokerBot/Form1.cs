@@ -1,4 +1,5 @@
-﻿using PokerBot.CaseBased.Base;
+﻿using PokerBot.BayesianNetwork;
+using PokerBot.CaseBased.Base;
 using PokerBot.CustomForm;
 using PokerBot.CustomForm.Training;
 using PokerBot.Entity.Table;
@@ -34,6 +35,7 @@ namespace PokerBot
             InitializeComponent();
             PokerBot.Entity.Player.StatSingleton.Instance.initFromFile(@"./Trainer/PlayerData/extractValuePlayer.txt");
             TwoPlusTwoHandEvaluator.Instance.init();
+            Debug.WriteLine(SmileSingleton.Instance.ToString());
         }
 
         void TableList_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
@@ -174,6 +176,16 @@ namespace PokerBot
             ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
             dataForm.Show();
             await Task.Factory.StartNew(() => this._trainer.generateCBRPreFlopDecision(Directory.GetFiles(@"./Trainer/Data"), "./preflopCaseDecision.dat", HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
+            dataForm.Hide();
+            dataForm.Dispose();
+            MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);
+        }
+
+        private async void generatePstFlopDecisionCaseToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            ExtractDataForm dataForm = new ExtractDataForm(this._trainer);
+            dataForm.Show();
+            await Task.Factory.StartNew(() => this._trainer.generateCBRPostFlopDecision(Directory.GetFiles(@"./Trainer/Data"), "./postFlopCaseDecision.dat", "./network.xdsl", HandHistories.Objects.GameDescription.SiteName.PartyPokerFr));
             dataForm.Hide();
             dataForm.Dispose();
             MessageBox.Show("Fin de l'extraction des données.", "FIN ! ", MessageBoxButtons.OK);

@@ -41,6 +41,8 @@
             this.extractToPreFlopcaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.loadCBRPreFlopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.generateDecisionCBRPreFlopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.postFlopToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.generatePstFlopDecisionCaseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -49,7 +51,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.trainerToolStripMenuItem,
             this.testToolStripMenuItem,
-            this.preToolStripMenuItem});
+            this.preToolStripMenuItem,
+            this.postFlopToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(784, 24);
@@ -149,6 +152,21 @@
             this.generateDecisionCBRPreFlopToolStripMenuItem.Text = "Generate decision CBRPreFlop";
             this.generateDecisionCBRPreFlopToolStripMenuItem.Click += new System.EventHandler(this.generateDecisionCBRPreFlopToolStripMenuItem_Click);
             // 
+            // postFlopToolStripMenuItem
+            // 
+            this.postFlopToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.generatePstFlopDecisionCaseToolStripMenuItem});
+            this.postFlopToolStripMenuItem.Name = "postFlopToolStripMenuItem";
+            this.postFlopToolStripMenuItem.Size = new System.Drawing.Size(65, 20);
+            this.postFlopToolStripMenuItem.Text = "PostFlop";
+            // 
+            // generatePstFlopDecisionCaseToolStripMenuItem
+            // 
+            this.generatePstFlopDecisionCaseToolStripMenuItem.Name = "generatePstFlopDecisionCaseToolStripMenuItem";
+            this.generatePstFlopDecisionCaseToolStripMenuItem.Size = new System.Drawing.Size(237, 22);
+            this.generatePstFlopDecisionCaseToolStripMenuItem.Text = "Generate pst flop decision case";
+            this.generatePstFlopDecisionCaseToolStripMenuItem.Click += new System.EventHandler(this.generatePstFlopDecisionCaseToolStripMenuItem_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -182,6 +200,8 @@
         private System.Windows.Forms.ToolStripMenuItem extractToPreFlopcaseToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem loadCBRPreFlopToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem generateDecisionCBRPreFlopToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem postFlopToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem generatePstFlopDecisionCaseToolStripMenuItem;
 
     }
 }

@@ -19,6 +19,8 @@ namespace PokerBot.BayesianNetwork.V1.NumberPlayerSitIn
         public BaseNumberPlayerSitIn(int number)
         {
             this._numberPlayerSitIn = number;
+            if (number <= 1)
+                this._numberPlayerSitIn = 2;
             switch (this.NumberPlayerSitIn)
             {
                 case 2:

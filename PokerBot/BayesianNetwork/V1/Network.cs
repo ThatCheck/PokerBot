@@ -368,7 +368,7 @@ namespace PokerBot.BayesianNetwork.V1
                 }
                 if (maxStreet >= HandHistories.Objects.Cards.Street.Flop)
                 {
-                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == HandHistories.Objects.Cards.Street.Flop))
                     {
                         this._flopAction = new Action.ActionFlop(handAction, name);
                         this._network.SetEvidence(typeof(Action.ActionFlop).Name, this._flopAction.ToString());
@@ -392,7 +392,7 @@ namespace PokerBot.BayesianNetwork.V1
                 }
                 if (maxStreet >= HandHistories.Objects.Cards.Street.Turn)
                 {
-                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == HandHistories.Objects.Cards.Street.Turn))
                     {
                         this._turnAction = new Action.ActionTurn(handAction, name);
                         this._turnPosition = new Position.PositionTurn(handAction, name);
@@ -418,7 +418,7 @@ namespace PokerBot.BayesianNetwork.V1
                 if (maxStreet >= HandHistories.Objects.Cards.Street.River)
                 {
 
-                    if (handAction.Any(p => p.PlayerName == name && p.Street == maxStreet))
+                    if (handAction.Any(p => p.PlayerName == name && p.Street == HandHistories.Objects.Cards.Street.River))
                     {
                         this._riverAction = new Action.ActionRiver(handAction, name);
                         this._riverPosition = new Position.PositionRiver(handAction, name);

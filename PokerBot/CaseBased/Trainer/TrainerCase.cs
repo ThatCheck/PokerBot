@@ -15,6 +15,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using PokerBot.Utils.Extensions;
+using PokerBot.BayesianNetwork;
 namespace PokerBot.CaseBased.Trainer
 {
     public class TrainerCase
@@ -65,18 +66,22 @@ namespace PokerBot.CaseBased.Trainer
             return listPFCase;
         }
 
-        public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList, BayesianNetwork.V1.Network net)
+        public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList)
         {
             List<PostFlopDecisionCase> listPFCase = new List<PostFlopDecisionCase>();
-
+            List<string> listPlayerInHand = handHistory.HandActions.Select(p => p.PlayerName).Distinct().ToList();
             foreach (Player player in playerList)
             {
                 string name = player.Name;
                 List<HandAction> iteratorHand = handHistory.HandActions.Copy();
                 handHistory.HandActions = new List<HandAction>();
-                foreach (var hand in iteratorHand.Where(p => p.Street > HandHistories.Objects.Cards.Street.Preflop && p.Street < HandHistories.Objects.Cards.Street.Showdown))
+                foreach (var hand in iteratorHand.Where(p => p.Street >= HandHistories.Objects.Cards.Street.Preflop && p.Street < HandHistories.Objects.Cards.Street.Showdown))
                 {
                     handHistory.HandActions.Add(hand);
+                    if (HandUtility.isFoldAction(hand))
+                        listPlayerInHand.Remove(hand.PlayerName);
+                    if (hand.Street == HandHistories.Objects.Cards.Street.Preflop)
+                        continue;
                     if (HandUtility.isActionWithAmount(hand) && !HandUtility.isPostAction(hand) && hand.PlayerName == name)
                     {
                         var last = handHistory.HandActions.Last();
@@ -98,14 +103,6 @@ namespace PokerBot.CaseBased.Trainer
                             pfCase.BetPattern = HandUtility.generateHandBetPattern(handHistory.HandActions.Where(p => p.PlayerName == nameLastActionPlayer));
                             pfCase.Action = HandUtility.getAction(handHistory.HandActions, hand);
 
-                            List<String> listPlayerInHand = new List<string>();
-                            foreach (var handAction in handHistory.HandActions)
-                            {
-                                if (!handHistory.HandActions.Where(p => HandUtility.isFoldAction(handAction)).Select( p => p.PlayerName).Contains(handAction.PlayerName) && !listPlayerInHand.Contains(handAction.PlayerName))
-                                {
-                                    listPlayerInHand.Add(handAction.PlayerName);
-                                }
-                            }
                             Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
                             List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
                             IEnumerable<PlayingCard> boardcard = null;
@@ -135,11 +132,11 @@ namespace PokerBot.CaseBased.Trainer
                                 }
                                 IOrderedEnumerable<KeyValuePair<string, double>> dataResult;
                                 if (street == HandHistories.Objects.Cards.Street.Flop)
-                                    dataResult = net.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Flop);
+                                    dataResult = SmileSingleton.Instance.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Flop);
                                 else if (street == HandHistories.Objects.Cards.Street.Turn)
-                                    dataResult = net.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Turn);
+                                    dataResult = SmileSingleton.Instance.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Turn);
                                 else
-                                    dataResult = net.getValueForHandType(table, selectedPlayer);
+                                    dataResult = SmileSingleton.Instance.getValueForHandType(table, selectedPlayer);
 
                                 List<HandTypeEnumType> dataResultConvert = new List<HandTypeEnumType>();
                                 foreach (var value in dataResult.Take(3))
