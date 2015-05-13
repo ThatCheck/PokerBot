@@ -12,9 +12,15 @@ namespace PokerBot.AnonymousPipe
     public class AnonymousPipeServer
     {
         public bool Busy { get; set; }
-        public AnonymousPipeServerStream PipeServer { get; set; }
+        public NamedPipeServerStream PipeServer { get; set; }
+        public String Name { get; set; }
         public AnonymousPipeServer()
         {
+            Guid g = Guid.NewGuid();
+            string GuidString = Convert.ToBase64String(g.ToByteArray());
+            GuidString = GuidString.Replace("=", "");
+            GuidString = GuidString.Replace("+", "");
+            this.Name = GuidString;
             this.startServer();
         }
 
@@ -23,14 +29,13 @@ namespace PokerBot.AnonymousPipe
             Process pipeClient = new Process();
 
             pipeClient.StartInfo.FileName = "./BaysianNetworkRepartitor.exe";
-            AnonymousPipeServerStream PipeServer = new AnonymousPipeServerStream(PipeDirection.InOut, HandleInheritability.Inheritable);
+            NamedPipeServerStream PipeServer = new NamedPipeServerStream(this.Name,PipeDirection.InOut);
             Console.WriteLine("[SERVER] Current TransmissionMode: {0}.", PipeServer.TransmissionMode);
 
             // Pass the client process a handle to the server.
-            pipeClient.StartInfo.Arguments = PipeServer.GetClientHandleAsString() +" ./network.xdsl";
+            pipeClient.StartInfo.Arguments = this.Name +" ./network.xdsl";
             pipeClient.StartInfo.UseShellExecute = false;
             pipeClient.Start();
-            PipeServer.DisposeLocalCopyOfClientHandle();
         }
 
         public List<String> request(List<Tuple<String, String>> list)
