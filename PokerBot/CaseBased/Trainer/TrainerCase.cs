@@ -70,7 +70,6 @@ namespace PokerBot.CaseBased.Trainer
         public static List<PostFlopDecisionCase> generatePostFlopDecisionCaseForHand(HandHistory handHistory, Table table, List<Player> playerList)
         {
             List<PostFlopDecisionCase> listPFCase = new List<PostFlopDecisionCase>();
-            Network net = new Network(SmileSingleton.Instance.cloneNetwork());
             List<string> listPlayerInHand = handHistory.HandActions.Select(p => p.PlayerName).Distinct().ToList();
             foreach (Player player in playerList)
             {
@@ -132,7 +131,8 @@ namespace PokerBot.CaseBased.Trainer
                                         break;
                                     }
                                 }
-                                IOrderedEnumerable<KeyValuePair<string, double>> dataResult;
+                                Network net = new Network();
+                                IEnumerable<String> dataResult;
                                 if (street == HandHistories.Objects.Cards.Street.Flop)
                                     dataResult = net.getValueForHandType(table, selectedPlayer, HandHistories.Objects.Cards.Street.Flop);
                                 else if (street == HandHistories.Objects.Cards.Street.Turn)
@@ -143,8 +143,8 @@ namespace PokerBot.CaseBased.Trainer
                                 List<HandTypeEnumType> dataResultConvert = new List<HandTypeEnumType>();
                                 foreach (var value in dataResult.Take(3))
                                 {
-                                    listHandType.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value.Key));
-                                    dataResultConvert.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value.Key));
+                                    listHandType.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value));
+                                    dataResultConvert.Add(PokerBot.BayesianNetwork.V1.HandType.ToHandType.toHandType(value));
                                 }
                                 
                                 var listRange = Range.getRangeEstimator(dataResultConvert, boardcard, card.ToCollection());

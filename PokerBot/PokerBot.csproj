@@ -80,6 +80,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AnonymousPipe\AnonymousPipeServer.cs" />
     <Compile Include="BayesianNetwork\BaseSmileDefinition.cs" />
     <Compile Include="BayesianNetwork\ISmileInterface.cs" />
     <Compile Include="BayesianNetwork\SmileSingleton.cs" />
@@ -4429,6 +4430,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\BaysianNetworkRepartitor\BaysianNetworkRepartitor.csproj">
+      <Project>{9ed14d5f-bec9-4b6d-b628-eca0736dbc61}</Project>
+      <Name>BaysianNetworkRepartitor</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Hand Evaluator\HandEvaluator\HandEvaluator.csproj">
       <Project>{57836673-fe81-4367-a4eb-aaa46fb954d2}</Project>
       <Name>HandEvaluator</Name>

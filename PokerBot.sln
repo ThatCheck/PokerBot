@@ -1,11 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PokerBot", "PokerBot\PokerBot.csproj", "{48734DD1-0DF4-441B-8E0B-D529C3C585F4}"
 	ProjectSection(ProjectDependencies) = postProject
 		{D5C61A3A-2725-47D9-A828-F5CE4EC19A4A} = {D5C61A3A-2725-47D9-A828-F5CE4EC19A4A}
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61} = {9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}
 		{0F131DB6-4891-4A24-A529-87F4816B9923} = {0F131DB6-4891-4A24-A529-87F4816B9923}
 	EndProjectSection
 EndProject
@@ -16,6 +15,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandHistories.Parser", "PokerHandHistoryParser-master\HandHistories.Parser\HandHistories.Parser.csproj", "{0F131DB6-4891-4A24-A529-87F4816B9923}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandEvaluator", "Hand Evaluator\HandEvaluator\HandEvaluator.csproj", "{57836673-FE81-4367-A4EB-AAA46FB954D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaysianNetworkRepartitor", "BaysianNetworkRepartitor\BaysianNetworkRepartitor.csproj", "{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,8 +102,25 @@ Global
 		{57836673-FE81-4367-A4EB-AAA46FB954D2}.Release|Win32.ActiveCfg = Release|Any CPU
 		{57836673-FE81-4367-A4EB-AAA46FB954D2}.Release|x64.ActiveCfg = Release|Any CPU
 		{57836673-FE81-4367-A4EB-AAA46FB954D2}.Release|x86.ActiveCfg = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|Win32.ActiveCfg = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|x64.ActiveCfg = Release|Any CPU
+		{9ED14D5F-BEC9-4B6D-B628-ECA0736DBC61}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
 	EndGlobalSection
 EndGlobal

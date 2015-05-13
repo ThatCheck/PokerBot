@@ -109,7 +109,7 @@ namespace PokerBot.Trainer
                     }
                 }
             }
-            BayesianNetwork.V1.Network net = new BayesianNetwork.V1.Network(networkPath);
+            BayesianNetwork.V1.Network net = new BayesianNetwork.V1.Network();
             _logger.Info("Extract " + listHand.Count() + "hand(s)");
             int numberCurrentSend = 0;
             this._numberEstimatedTrainingHand = 0;
@@ -153,54 +153,54 @@ namespace PokerBot.Trainer
                             BayesianNetwork.V1.HandType.HandTypeTurn handTypeTurn = new BayesianNetwork.V1.HandType.HandTypeTurn(table.Board, selectedPlayer.Hand);
                             BayesianNetwork.V1.HandGroup.HandGroup handGroup = new BayesianNetwork.V1.HandGroup.HandGroup(selectedPlayer.Hand);
 
-                            if (dataResultRiver.ElementAt(0).Key.Equals(handTypeRiver.ToString()))
+                            if (dataResultRiver.ElementAt(0).Equals(handTypeRiver.ToString()))
                             {
                                 found[0]++;
                             }
-                            else if (dataResultRiver.ElementAt(1).Key.Equals(handTypeRiver.ToString()))
+                            else if (dataResultRiver.ElementAt(1).Equals(handTypeRiver.ToString()))
                             {
                                 found[1]++;
                             }
-                            else if (dataResultRiver.ElementAt(2).Key.Equals(handTypeRiver.ToString()))
+                            else if (dataResultRiver.ElementAt(2).Equals(handTypeRiver.ToString()))
                             {
                                 found[2]++;
                             }
 
-                            if (dataResultTurn.ElementAt(0).Key.Equals(handTypeTurn.ToString()))
+                            if (dataResultTurn.ElementAt(0).Equals(handTypeTurn.ToString()))
                             {
                                 foundHandTypeTurn[0]++;
                             }
-                            else if (dataResultTurn.ElementAt(1).Key.Equals(handTypeTurn.ToString()))
+                            else if (dataResultTurn.ElementAt(1).Equals(handTypeTurn.ToString()))
                             {
                                 foundHandTypeTurn[1]++;
                             }
-                            else if (dataResultTurn.ElementAt(2).Key.Equals(handTypeTurn.ToString()))
+                            else if (dataResultTurn.ElementAt(2).Equals(handTypeTurn.ToString()))
                             {
                                 foundHandTypeTurn[2]++;
                             }
 
-                            if (dataResultFlop.ElementAt(0).Key.Equals(handTypeFlop.ToString()))
+                            if (dataResultFlop.ElementAt(0).Equals(handTypeFlop.ToString()))
                             {
                                 foundHandTypeFlop[0]++;
                             }
-                            else if (dataResultFlop.ElementAt(1).Key.Equals(handTypeFlop.ToString()))
+                            else if (dataResultFlop.ElementAt(1).Equals(handTypeFlop.ToString()))
                             {
                                 foundHandTypeFlop[1]++;
                             }
-                            else if (dataResultFlop.ElementAt(2).Key.Equals(handTypeFlop.ToString()))
+                            else if (dataResultFlop.ElementAt(2).Equals(handTypeFlop.ToString()))
                             {
                                 foundHandTypeFlop[2]++;
                             }
 
-                            if (dataResultHandGroup.ElementAt(0).Key.Equals(handGroup.ToString()))
+                            if (dataResultHandGroup.ElementAt(0).Equals(handGroup.ToString()))
                             {
                                 foundHandGroup[0]++;
                             }
-                            else if (dataResultHandGroup.ElementAt(1).Key.Equals(handGroup.ToString()))
+                            else if (dataResultHandGroup.ElementAt(1).Equals(handGroup.ToString()))
                             {
                                 foundHandGroup[1]++;
                             }
-                            else if (dataResultHandGroup.ElementAt(2).Key.Equals(handGroup.ToString()))
+                            else if (dataResultHandGroup.ElementAt(2).Equals(handGroup.ToString()))
                             {
                                 foundHandGroup[2]++;
                             }
@@ -227,7 +227,6 @@ namespace PokerBot.Trainer
             _logger.Info("Resultat For Turn: " + returnValueTurn[0] + " ; " + returnValueTurn[1] + " ; " + returnValueTurn[2]);
             _logger.Info("Resultat For Flop: " + returnValueFlop[0] + " ; " + returnValueFlop[1] + " ; " + returnValueFlop[2]);
             _logger.Info("Resultat For PreFlop: " + returnValuePreFlop[0] + " ; " + returnValuePreFlop[1] + " ; " + returnValuePreFlop[2]);
-            net.Dispose();
             return returnValue;
         }
 

@@ -15,11 +15,11 @@ namespace PokerBot.BayesianNetwork
         private static SmileSingleton instance;
         private static object syncRoot = new Object(); 
         private static readonly object syncLock = new object();
-        private static Mutex mut = new Mutex();
-        private static Network _net;
+        private Queue<List<Tuple<String, String>>> queueMessage;
+        private List<AnonymousPipe.AnonymousPipeServer> listServer;
         private SmileSingleton()
         {
-            _net = new Network("./network.xdsl");
+
         }
 
         public static SmileSingleton Instance
@@ -38,24 +38,40 @@ namespace PokerBot.BayesianNetwork
             }
         }
 
-        public Smile.Network cloneNetwork()
+        public void init(int max)
         {
-            return (Smile.Network)_net.SmileNetwork.Clone();
+            for (int i = 0; i < max; i++)
+            {
+                listServer.Add(new AnonymousPipe.AnonymousPipeServer());
+            }
         }
 
-        public void init()
+        public List<String> request(List<Tuple<String, String>> data)
         {
-            Debug.WriteLine("READY");
+            AnonymousPipe.AnonymousPipeServer pipeServer = null;
+            do
+            {
+                pipeServer = selectServer();
+            } while (pipeServer == null);
+
+            return pipeServer.request(data);
         }
 
-        public IOrderedEnumerable<KeyValuePair<String, double>> getValueForHandType(Table table, Player player, HandHistories.Objects.Cards.Street forceStreet = HandHistories.Objects.Cards.Street.Null)
+        private AnonymousPipe.AnonymousPipeServer selectServer()
         {
-            IOrderedEnumerable<KeyValuePair<String, double>> value = null;
+            AnonymousPipe.AnonymousPipeServer pipeServer = null;
             lock (syncLock)
             {
-                value = _net.getValueForHandType(table, player, forceStreet);
+                foreach (var server in listServer)
+                {
+                    if (server.Busy == false)
+                    {
+                        pipeServer = server;
+                        pipeServer.Busy = true;
+                    }
+                }
             }
-            return value;
+            return pipeServer;
         }
     }
 }
