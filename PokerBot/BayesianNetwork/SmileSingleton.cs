@@ -14,12 +14,12 @@ namespace PokerBot.BayesianNetwork
     {
         private static SmileSingleton instance;
         private static object syncRoot = new Object(); 
-        private static readonly object syncLock = new object();
+        private static object syncLock = new Object();
         private Queue<List<Tuple<String, String>>> queueMessage;
         private List<AnonymousPipe.AnonymousPipeServer> listServer;
         private SmileSingleton()
         {
-
+            this.listServer = new List<AnonymousPipe.AnonymousPipeServer>();
         }
 
         public static SmileSingleton Instance
@@ -53,8 +53,9 @@ namespace PokerBot.BayesianNetwork
             {
                 pipeServer = selectServer();
             } while (pipeServer == null);
-
-            return pipeServer.request(data);
+            //Console.WriteLine("SEND REQUEST TO  data from Network : " + pipeServer.Name);
+            var datReceive =  pipeServer.request(data);
+            return datReceive;
         }
 
         private AnonymousPipe.AnonymousPipeServer selectServer()
@@ -68,6 +69,7 @@ namespace PokerBot.BayesianNetwork
                     {
                         pipeServer = server;
                         pipeServer.Busy = true;
+                        break;
                     }
                 }
             }

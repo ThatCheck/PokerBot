@@ -163,130 +163,139 @@ namespace PokerBot.Utils
             }
         }
 
-        public static double handStrenght(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange)
+        public static double handStrenght(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, double maxDuration = 1)
         {
             int ahead = 0, tied = 0, behind = 0;
-            List<int> boardsList = getHandIntValue(boards);
-            TwoPlusTwoHandEvaluatorResult ourRank = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(cards.ToCollection()).Concat(boardsList).ToArray());
-            foreach (List<Tuple<PlayingCard, PlayingCard>> oppRange in oppsRange)
+            string ourHand = cards.Item1.getStringCard() + " " + cards.Item2.getStringCard();
+            string boardHand = "";
+            foreach (PlayingCard hand in boards)
             {
-                foreach (Tuple<PlayingCard, PlayingCard> oppCard in oppRange)
-                {
-                    if (boards.Contains(oppCard.Item1) || boards.Contains(oppCard.Item2))
-                    {
-                        continue;
-                    }
-                    TwoPlusTwoHandEvaluatorResult oppRank = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(oppCard.ToCollection()).Concat(boardsList).ToArray());
-                    if (ourRank > oppRank)
-                    {
-                        ahead++;
-                    }
-                    else if (ourRank == oppRank)
-                    {
-                        tied++;
-                    }
-                    else
-                    {
-                        behind++;
-                    }
-                }
+                boardHand += hand.getStringCard() + " ";
             }
-            return (double)(ahead + (double)tied / 2) / (double)(ahead + tied + behind);
+            ulong pocket = HoldemHand.Hand.ParseHand(ourHand);
+            ulong board = HoldemHand.Hand.ParseHand(boardHand);
+
+            long win = 0, lose = 0, tie = 0;
+
+            // Keep track of time
+            double start = HoldemHand.Hand.CurrentTime;
+            double duration = maxDuration;
+
+            //Generate the range by range combinations
+            //var rangeCombinations = Combinator.AllCombinationsOf(oppsRange.ToArray());
+            // Loop for specified time duration
+            while ((HoldemHand.Hand.CurrentTime - start) < duration)
+            {
+                // Player and board info
+                ulong rangeMask = HoldemHand.Hand.ParseHand("");
+                List<Entity.Hand.Hand> hands = new List<Entity.Hand.Hand>();
+                foreach (var rangeOpponent in oppsRange)
+                {
+                    Entity.Hand.Hand handOpp = null;
+                    do
+                    {
+                        handOpp = new Entity.Hand.Hand(rangeOpponent.PickRandom());
+                    } while (hands.Contains(handOpp));
+                    hands.Add(handOpp);
+                }
+                uint playerHandVal = HoldemHand.Hand.Evaluate(pocket | board);
+                List<uint> ComponentHandValue = new List<uint>();
+                foreach (var hand in hands)
+                {
+                    ComponentHandValue.Add(HoldemHand.Hand.Evaluate(hand.getMask() | board));
+                }
+                if(ComponentHandValue.Max() < playerHandVal)
+                    win += 1;
+                else if(ComponentHandValue.Max() == playerHandVal)
+                    tie += 1;
+                else
+                    lose += 1;
+            }
+
+            return (double)(win + (double)tie / 2) / (double)(win + tied + lose);
         }
 
-        public static Tuple<double, double> handPotential(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, HandHistories.Objects.Cards.Street stage)
+        public static Tuple<double, double> handPotential(Tuple<PlayingCard, PlayingCard> cards, IEnumerable<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, double maxDuration = 1)
         {
             int[][] hp = new int[][] { new int[] { 0, 0, 0 }, new int[] { 0, 0, 0 }, new int[] { 0, 0, 0 } };
             int[] hpTotal = new int[] { 0, 0, 0 };
+            const int ahead = 2;
+            const int tied = 1;
+            const int behind = 0;
 
-            List<int> boardsList = getHandIntValue(boards);
-            TwoPlusTwoHandEvaluatorResult ourRank = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(cards.ToCollection()).Concat(boardsList).ToArray());
-
-            foreach (List<Tuple<PlayingCard, PlayingCard>> oppRange in oppsRange)
+            string ourHand = cards.Item1.getStringCard() + " " + cards.Item2.getStringCard();
+            string boardHand = "";
+            foreach (PlayingCard hand in boards)
             {
-                foreach (Tuple<PlayingCard, PlayingCard> oppCard in oppRange)
-                {
-                    if (boards.Contains(oppCard.Item1) || boards.Contains(oppCard.Item2))
-                    {
-                        continue;
-                    }
-                    TwoPlusTwoHandEvaluatorResult oppRank = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(oppCard.ToCollection()).Concat(boardsList).ToArray());
-                    int index = 0;
-                    if (ourRank > oppRank)
-                    {
-                        index = 0;
-                    }
-                    else if (ourRank == oppRank)
-                    {
-                        index = 1;
-                    }
-                    else
-                    {
-                        index = 2;
-                    }
-                    hpTotal[index] += 1;
-                    if (stage == Street.Flop)
-                    {
-                        //we need to evaluate for Turn and River
-                        IEnumerable<PlayingCard> turnCards = Range.getAllCombinaisonWithoutCardsSelected(cards.ToCollection().Concat(boards).Concat(oppCard.ToCollection()));
-                        foreach (PlayingCard turnCard in turnCards)
-                        {
-                            IEnumerable<PlayingCard> riverCards = Range.getAllCombinaisonWithoutCardsSelected(cards.ToCollection().Concat(boards).Concat(oppCard.ToCollection()).Concat(new List<PlayingCard>() { turnCard }));
-                            foreach (PlayingCard riverCard in riverCards)
-                            {
-                                List<PlayingCard> newBoard = boards.Concat(new List<PlayingCard> { turnCard, riverCard }).ToList();
-                                List<int> boardsArray = getHandIntValue(newBoard);
-                                TwoPlusTwoHandEvaluatorResult ourBest = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(cards.ToCollection()).Concat(boardsArray).ToArray());
-                                TwoPlusTwoHandEvaluatorResult oppBest = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(oppCard.ToCollection()).Concat(boardsArray).ToArray());
-
-                                if (ourBest > oppBest)
-                                {
-                                    hp[index][0] += 1;
-                                }
-                                else if (ourBest == oppBest)
-                                {
-                                    hp[index][1] += 1;
-                                }
-                                else
-                                {
-                                    hp[index][2] += 1;
-                                }
-                            }
-                        }
-                    }
-                    else if (stage == Street.Turn)
-                    {
-                        IEnumerable<PlayingCard> riverCards = Range.getAllCombinaisonWithoutCardsSelected(cards.ToCollection().Concat(boards).Concat(oppCard.ToCollection()));
-                        foreach (PlayingCard riverCard in riverCards)
-                        {
-                            List<PlayingCard> newBoard = boards.Concat(new List<PlayingCard> { riverCard }).ToList();
-                            List<int> boardsArray = getHandIntValue(newBoard);
-                            TwoPlusTwoHandEvaluatorResult ourBest = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(cards.ToCollection()).Concat(boardsArray).ToArray());
-                            TwoPlusTwoHandEvaluatorResult oppBest = TwoPlusTwoHandEvaluator.Instance.Lookup(getHandIntValue(oppCard.ToCollection()).Concat(boardsArray).ToArray());
-                            if (ourBest > oppBest)
-                            {
-                                hp[index][0] += 1;
-                            }
-                            else if (ourBest == oppBest)
-                            {
-                                hp[index][1] += 1;
-                            }
-                            else
-                            {
-                                hp[index][2] += 1;
-                            }
-                        }
-                    }
-                }
+                boardHand += hand.getStringCard() + " ";
             }
-            double ppot = (double)(hp[2][0] + (double)hp[2][1] / 2 + (double)hp[1][0] / 2) / (double)(hpTotal[2] + (double)hpTotal[1] / 2);
-            double npot = (double)(hp[0][2] + (double)hp[1][2] / 2 + (double)hp[0][1] / 2) / (double)(hpTotal[0] + (double)hpTotal[1] / 2);
+            ulong pocket = HoldemHand.Hand.ParseHand(ourHand);
+            ulong board = HoldemHand.Hand.ParseHand(boardHand);
+
+
+            // Keep track of time
+            double start = HoldemHand.Hand.CurrentTime;
+            double duration = maxDuration;
+            int ncards = HoldemHand.Hand.BitCount(pocket | board);
+            //Generate the range by range combinations
+            //var rangeCombinations = Combinator.AllCombinationsOf(oppsRange.ToArray());
+            // Loop for specified time duration
+            while ((HoldemHand.Hand.CurrentTime - start) < duration)
+            {
+                // Player and board info
+                ulong rangeMask = HoldemHand.Hand.ParseHand("");
+                List<Entity.Hand.Hand> hands = new List<Entity.Hand.Hand>();
+                foreach (var rangeOpponent in oppsRange)
+                {
+                    Entity.Hand.Hand handOpp = null;
+                    do
+                    {
+                        handOpp = new Entity.Hand.Hand(rangeOpponent.PickRandom());
+                    } while (hands.Contains(handOpp));
+                    hands.Add(handOpp);
+                    rangeMask |= handOpp.getMask();
+                }
+                uint playerHandVal = HoldemHand.Hand.Evaluate(pocket | board);
+                List<uint> ComponentHandValue = new List<uint>();
+                foreach (var hand in hands)
+                {
+                    ComponentHandValue.Add(HoldemHand.Hand.Evaluate(hand.getMask() | board));
+                }
+                int index;
+                if (ComponentHandValue.Max() < playerHandVal)
+                    index = ahead;
+                else if (ComponentHandValue.Max() == playerHandVal)
+                    index = tied;
+                else
+                    index = behind;
+
+                ulong boardmask = HoldemHand.Hand.RandomHand(board, pocket | rangeMask, 5);
+                playerHandVal = HoldemHand.Hand.Evaluate(pocket | boardmask);
+
+                ComponentHandValue = new List<uint>();
+                foreach (var hand in hands)
+                {
+                    ComponentHandValue.Add(HoldemHand.Hand.Evaluate(hand.getMask() | boardmask));
+                }
+
+                if (ComponentHandValue.Max() < playerHandVal)
+                    hp[index][ahead] += 1;
+                else if (ComponentHandValue.Max() == playerHandVal)
+                    hp[index][tied] += 1;
+                else
+                    hp[index][behind] += 1;
+
+                hpTotal[index] += 1;
+            }
+
+            double ppot = (double)(hp[behind][ahead] + (double)hp[behind][tied] / 2 + (double)hp[tied][ahead] / 2) / (double)(hpTotal[behind] + (double)hpTotal[tied] / 2);
+            double npot = (double)(hp[ahead][behind] + (double)hp[tied][behind] / 2 + (double)hp[ahead][tied] / 2) / (double)(hpTotal[ahead] + (double)hpTotal[behind] / 2);
 
             return Tuple.Create<double, double>(ppot, npot);
         }
 
         //TO-DO : Implement multithread ! 
-        public static double getWinOdds(Tuple<PlayingCard, PlayingCard> cards, List<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, int maxDuration)
+        public static double getWinOdds(Tuple<PlayingCard, PlayingCard> cards, List<PlayingCard> boards, List<List<Tuple<PlayingCard, PlayingCard>>> oppsRange, double maxDuration)
         {
             string ourHand = cards.Item1.getStringCard() + " " + cards.Item2.getStringCard();
             string boardHand = "";
@@ -297,70 +306,52 @@ namespace PokerBot.Utils
             ulong pocket = HoldemHand.Hand.ParseHand(ourHand);
             ulong board = HoldemHand.Hand.ParseHand(boardHand);
 
-            double win = 0.0, count = 0.0;
+            long win = 0, lose = 0, tie = 0;
 
             // Keep track of time
             double start = HoldemHand.Hand.CurrentTime;
             double duration = maxDuration;
 
             //Generate the range by range combinations
-            var rangeCombinations = Combinator.AllCombinationsOf(oppsRange.ToArray());
-            ulong rangeMask = HoldemHand.Hand.ParseHand("");
-            foreach (var rangeOpponent in oppsRange)
-            {
-                foreach (var cardsOpponent in rangeOpponent)
-                {
-                    string oppHand = cardsOpponent.Item1.getStringCard() + " " + cardsOpponent.Item2.getStringCard();
-                    ulong oppmask = HoldemHand.Hand.ParseHand(oppHand);
-                    rangeMask |= oppmask;
-                }
-            }
+            //var rangeCombinations = Combinator.AllCombinationsOf(oppsRange.ToArray());
             // Loop for specified time duration
             while ((HoldemHand.Hand.CurrentTime - start) < duration)
             {
                 // Player and board info
+                ulong rangeMask = HoldemHand.Hand.ParseHand("");
+                List<Entity.Hand.Hand> hands = new List<Entity.Hand.Hand>();
+                foreach (var rangeOpponent in oppsRange)
+                {
+                    Entity.Hand.Hand handOpp = null;
+                    do
+                    {
+                        handOpp = new Entity.Hand.Hand(rangeOpponent.PickRandom());
+                    } while (hands.Contains(handOpp));
+                    hands.Add(handOpp);
+                    rangeMask |= handOpp.getMask();
+                }
                 ulong boardmask = HoldemHand.Hand.RandomHand(board, pocket | rangeMask, 5);
                 uint playerHandVal = HoldemHand.Hand.Evaluate(pocket | boardmask);
-
                 // Ensure that dead, board, and pocket cards are not
                 // available to opponent hands.
                 ulong deadmask = boardmask | pocket;
 
-                // Comparison Results
-                bool greaterthan = true;
-                bool greaterthanequal = true;
-
-                // Get random opponent hand values
-                List<List<uint>> valueWin = new List<List<uint>>();
-                foreach (var ranges in rangeCombinations)
+                //Here we need to pick up some card of player
+                List<uint> ComponentHandValue = new List<uint>();
+                foreach (var hand in hands)
                 {
-                    foreach(var rangeOpponent in ranges)
-                    {
-                        string oppHand = rangeOpponent.Item1.getStringCard() + " " + rangeOpponent.Item2.getStringCard();
-                        ulong oppmask = HoldemHand.Hand.ParseHand(oppHand);
-                        uint oppHandVal = HoldemHand.Hand.Evaluate(oppmask | boardmask);
-                        // Determine compare status
-                        if (playerHandVal < oppHandVal)
-                        {
-                            greaterthan = greaterthanequal = false;
-                            break;
-                        }
-                        else if (playerHandVal <= oppHandVal)
-                        {
-                            greaterthan = false;
-                        }
-                    }
-                    if (greaterthan)
-                        win += 1.0;
-                    else if (greaterthanequal)
-                        win += 0.5;
-
-                    count += 1.0;
+                    ComponentHandValue.Add(HoldemHand.Hand.Evaluate(hand.getMask() | boardmask));
                 }
+                if(ComponentHandValue.Max() < playerHandVal)
+                    win += 1;
+                else if(ComponentHandValue.Max() == playerHandVal)
+                    tie += 1;
+                else
+                    lose += 1;
             }
 
             // Return stats
-            return (count == 0.0 ? 0.0 : (double)win / (double)count);
+            return ((double)(win + tie / 2.0)) / ((double)(win + tie + lose));
         }
 
         public static List<int> getHandIntValue(IEnumerable<PlayingCard> cards)

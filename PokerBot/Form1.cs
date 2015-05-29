@@ -36,7 +36,7 @@ namespace PokerBot
             PokerBot.Entity.Player.StatSingleton.Instance.initFromFile(@"./Trainer/PlayerData/extractValuePlayer.txt");
             TwoPlusTwoHandEvaluator.Instance.init();
             Debug.WriteLine(SmileSingleton.Instance.ToString());
-            SmileSingleton.Instance.init(2);
+            //SmileSingleton.Instance.init(8);
         }
 
         void TableList_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)

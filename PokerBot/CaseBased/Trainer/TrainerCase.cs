@@ -105,7 +105,7 @@ namespace PokerBot.CaseBased.Trainer
                             pfCase.Action = HandUtility.getAction(handHistory.HandActions, hand);
 
                             Tuple<PlayingCard, PlayingCard> card = Tuple.Create<PlayingCard, PlayingCard>(CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[0]), CardConverter.fromIntToPlayingCard(handHistory.Players[name].HoleCards[1]));
-                            List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
+                            //List<List<Tuple<PlayingCard, PlayingCard>>> listOppRange = new List<List<Tuple<PlayingCard, PlayingCard>>>();
                             IEnumerable<PlayingCard> boardcard = null;
                             if (street == HandHistories.Objects.Cards.Street.Flop)
                             {
@@ -119,7 +119,7 @@ namespace PokerBot.CaseBased.Trainer
                             {
                                 boardcard = table.Board.getBoardFromRiver().getEvaluator();
                             }
-                            List<HandTypeEnumType> listHandType = new List<HandTypeEnumType>();
+                            /*List<HandTypeEnumType> listHandType = new List<HandTypeEnumType>();
                             foreach (String stringPlayer in listPlayerInHand)
                             {
                                 Player selectedPlayer = null;
@@ -148,30 +148,57 @@ namespace PokerBot.CaseBased.Trainer
                                 }
                                 
                                 var listRange = Range.getRangeEstimator(dataResultConvert, boardcard, card.ToCollection());
-                                listOppRange.Add(listRange.ToList());
+                                if(listRange.Count() > 0)
+                                    listOppRange.Add(listRange.ToList());
                             }
-
+                            if (listOppRange.Count() == 0)
+                                continue;
                             var ordered = listHandType.OrderByDescending( p => p);
-                            pfCase.HandType = Tuple.Create<HandTypeEnumType, HandTypeEnumType, HandTypeEnumType>(ordered.ElementAt(0), ordered.ElementAt(1), ordered.ElementAt(2));
-                            pfCase.HandStrengh = HandUtility.handStrenght(card,boardcard,listOppRange);
+                            pfCase.HandType = Tuple.Create<HandTypeEnumType, HandTypeEnumType, HandTypeEnumType>(ordered.ElementAt(0), ordered.ElementAt(1), ordered.ElementAt(2));*/
+
+                            string ourHand = card.Item1.getStringCard() + " " + card.Item2.getStringCard();
+                            string boardHand = "";
+                            foreach (PlayingCard board in boardcard)
+                            {
+                                boardHand += board.getStringCard() + " ";
+                            }
+                            ulong ourHoldemHand = HoldemHand.Hand.ParseHand(ourHand);
+                            ulong boardHoldemHand = HoldemHand.Hand.ParseHand(boardHand);
+                            int numberOpp = listPlayerInHand.Count();
+
+                            List<Task> task = new List<Task>();
+                            Task<double> handStrengthTask = Task<double>.Factory.StartNew(() => HoldemHand.Hand.HandStrength(ourHoldemHand,boardHoldemHand,numberOpp,0.1));
+                            task.Add(handStrengthTask);
+                            Task handPotentialTask = null;
+                            double ppot = 0;
+                            double npot = 0;
                             if(street != HandHistories.Objects.Cards.Street.River)
                             {
-                                Tuple<double, double> handPotential = HandUtility.handPotential(card, boardcard, listOppRange, street);
-                                pfCase.PositivePotential = handPotential.Item1;
-                                pfCase.NegativePotential = handPotential.Item2;
+                                handPotentialTask = Task.Factory.StartNew(() => HoldemHand.Hand.HandPotential(ourHoldemHand,boardHoldemHand,out ppot, out npot,numberOpp,0.3));
+                                task.Add(handPotentialTask);
                             }
 
                             double totalPot = (double)iteratorHand.Sum(p => Math.Abs(p.Amount));
-                            IEnumerable<string> nameWinners = iteratorHand.Where(p => p.HandActionType == HandActionType.WINS || p.HandActionType == HandActionType.WINS_SIDE_POT).Select(p => p.PlayerName); 
+                            IEnumerable<string> nameWinners = iteratorHand.Where(p => p.HandActionType == HandActionType.WINS || p.HandActionType == HandActionType.WINS_SIDE_POT).Select(p => p.PlayerName);
+
+                            Task<double> qualityTask = Task<double>.Factory.StartNew(() => HoldemHand.Hand.WinOdds(ourHoldemHand,boardHoldemHand,0UL,numberOpp,0.3));
+                            task.Add(qualityTask);
+                            Task.WaitAll(task.ToArray());
+
+                            pfCase.HandStrengh = handStrengthTask.Result;
+                            if(handPotentialTask != null)
+                            {
+                                pfCase.PositivePotential = ppot;
+                                pfCase.NegativePotential = npot;
+                            }
                             if (nameWinners.Contains(name))
                             {
-                                pfCase.Quality = HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2) * totalPot;
+                                pfCase.Quality = qualityTask.Result * totalPot;
                             }
                             else
                             {
-                                pfCase.Quality = (1 - HandUtility.getWinOdds(card, new List<PlayingCard>(), listOppRange, 2)) * - totalPot;
+                                pfCase.Quality = (1 - qualityTask.Result) * -totalPot;
                             }
-
                             listPFCase.Add(pfCase);
                         }
                         catch (Exception ex)
